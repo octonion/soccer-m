@@ -1,0 +1,197 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2001,3,Adelphi,10,9,0,19
+2001,721,Air Force,5,9,1,15
+2001,5,Akron,7,7,3,17
+2001,6,Alabama A&M,9,9,1,19
+2001,14,Albany (NY),8,7,3,18
+2001,23,American,7,9,2,18
+2001,27,Appalachian St.,13,7,0,20
+2001,725,Army West Point,6,11,1,18
+2001,14927,Belmont,1,17,0,18
+2001,67,Boston College,12,7,1,20
+2001,68,Boston U.,8,7,2,17
+2001,71,Bowling Green,9,8,1,18
+2001,72,Bradley,15,7,2,24
+2001,80,Brown,13,6,1,20
+2001,83,Bucknell,9,10,2,21
+2001,86,Buffalo,6,10,2,18
+2001,87,Butler,6,13,0,19
+2001,90,Cal Poly,5,12,1,18
+2001,97,Cal St. Fullerton,15,6,1,22
+2001,107,California,6,13,1,20
+2001,115,Campbell,6,12,1,19
+2001,116,Canisius,3,13,1,17
+2001,125,Centenary (LA),4,12,0,16
+2001,127,Central Conn. St.,1,16,1,18
+2001,48,Charleston So.,10,8,2,20
+2001,458,Charlotte,8,9,2,19
+2001,140,Cincinnati,7,9,3,19
+2001,141,Citadel,5,14,0,19
+2001,147,Clemson,14,4,2,20
+2001,148,Cleveland St.,3,13,1,17
+2001,149,Coastal Caro.,11,5,1,17
+2001,1014,Col. of Charleston,10,9,3,22
+2001,153,Colgate,7,10,1,18
+2001,158,Columbia,10,5,2,17
+2001,167,Cornell,8,9,0,17
+2001,169,Creighton,22,4,0,26
+2001,101,CSUN,6,13,0,19
+2001,172,Dartmouth,12,6,0,18
+2001,173,Davidson,11,8,1,20
+2001,175,Dayton,14,4,2,20
+2001,180,Delaware,3,15,0,18
+2001,183,Denver,9,6,2,17
+2001,176,DePaul,1,16,0,17
+2001,184,Detroit,3,13,1,17
+2001,189,Drake,7,12,0,19
+2001,191,Drexel,10,5,1,16
+2001,1057,Drury,9,9,0,18
+2001,193,Duke,15,6,0,21
+2001,194,Duquesne,7,10,2,19
+2001,196,East Carolina,8,11,0,19
+2001,201,Eastern Ill.,12,6,1,19
+2001,1068,Elon,10,10,0,20
+2001,219,Evansville,4,10,3,17
+2001,220,Fairfield,14,3,2,19
+2001,222,Fairleigh Dickinson,13,8,1,22
+2001,231,FIU,11,7,1,19
+2001,229,Fla. Atlantic,10,7,1,18
+2001,236,Fordham,6,12,0,18
+2001,96,Fresno St.,9,7,2,18
+2001,244,Furman,17,4,2,23
+2001,253,Ga. Southern,6,11,3,20
+2001,248,George Mason,8,10,1,19
+2001,249,George Washington,9,5,4,18
+2001,251,Georgetown,9,8,1,18
+2001,254,Georgia St.,12,9,0,21
+2001,260,Gonzaga,11,6,0,17
+2001,794,Green Bay,11,9,1,21
+2001,272,Hartford,6,10,4,20
+2001,273,Hartwick,11,8,1,20
+2001,275,Harvard,7,9,1,17
+2001,19651,High Point,9,10,1,20
+2001,283,Hofstra,11,6,3,20
+2001,285,Holy Cross,8,10,0,18
+2001,290,Howard,3,13,1,17
+2001,302,Ill.-Chicago,18,4,2,24
+2001,306,Indiana,16,7,0,23
+2001,310,Iona,6,13,1,20
+2001,2699,IUPUI,11,9,2,22
+2001,316,Jacksonville,5,6,4,15
+2001,317,James Madison,17,4,1,22
+2001,334,Kentucky,11,9,2,22
+2001,340,La Salle,2,13,0,15
+2001,342,Lafayette,8,10,1,19
+2001,352,Lehigh,12,6,3,21
+2001,355,Liberty,6,8,2,16
+2001,361,LIU Brooklyn,3,14,1,18
+2001,367,Louisville,12,9,1,22
+2001,371,Loyola Chicago,11,8,1,20
+2001,369,Loyola Maryland,12,4,1,17
+2001,370,Loyola Marymount,10,7,1,18
+2001,380,Maine,3,11,2,16
+2001,381,Manhattan,3,13,1,17
+2001,386,Marist,11,10,0,21
+2001,387,Marquette,10,7,2,19
+2001,388,Marshall,14,5,1,20
+2001,392,Maryland,10,9,0,19
+2001,400,Massachusetts,12,6,2,20
+2001,404,Memphis,14,6,0,20
+2001,406,Mercer,9,8,2,19
+2001,418,Michigan,6,10,0,16
+2001,416,Michigan St.,11,6,2,19
+2001,797,Milwaukee,11,9,1,21
+2001,669,Missouri St.,9,7,3,19
+2001,439,Monmouth,5,10,3,18
+2001,450,Mt. St. Mary's,9,6,2,17
+2001,726,Navy,9,6,1,16
+2001,469,New Hampshire,6,10,0,16
+2001,473,New Mexico,6,12,0,18
+2001,482,Niagara,2,15,1,18
+2001,457,North Carolina,21,3,0,24
+2001,490,North Carolina St.,3,12,3,18
+2001,500,Northeastern,10,8,0,18
+2001,503,Northern Ill.,7,9,0,16
+2001,509,Northwestern,0,17,1,18
+2001,513,Notre Dame,7,8,2,17
+2001,514,Oakland,12,6,1,19
+2001,518,Ohio St.,12,5,4,21
+2001,523,Old Dominion,10,6,2,18
+2001,527,Oral Roberts,7,9,1,17
+2001,528,Oregon St.,7,11,1,19
+2001,540,Penn,6,10,1,17
+2001,539,Penn St.,13,6,2,21
+2001,543,Philadelphia U.,7,13,0,20
+2001,545,Pittsburgh,13,5,0,18
+2001,551,Portland,10,7,2,19
+2001,554,Princeton,9,7,1,17
+2001,556,Providence,4,13,1,18
+2001,562,Quinnipiac,7,8,2,17
+2001,563,Radford,12,10,0,22
+2001,572,Rhode Island,17,6,1,24
+2001,575,Richmond,11,7,1,19
+2001,576,Rider,10,10,0,20
+2001,579,Robert Morris,7,10,2,19
+2001,587,Rutgers,10,9,1,20
+2001,102,Sacramento St.,7,10,1,18
+2001,590,Sacred Heart,1,12,4,17
+2001,600,Saint Francis (PA),5,9,3,17
+2001,606,Saint Joseph's,5,11,0,16
+2001,609,Saint Louis,13,3,3,19
+2001,617,Saint Peter's,2,16,0,18
+2001,627,San Diego,16,2,2,20
+2001,626,San Diego St.,6,12,1,19
+2001,629,San Francisco,8,10,2,20
+2001,630,San Jose St.,20,1,1,22
+2001,631,Santa Clara,10,7,0,17
+2001,635,Seton Hall,13,7,0,20
+2001,639,Siena,6,11,1,18
+2001,663,SMU,20,5,0,25
+2001,648,South Carolina,12,4,3,19
+2001,651,South Fla.,10,9,0,19
+2001,596,St. Bonaventure,6,12,0,18
+2001,599,St. Francis Brooklyn,10,6,1,17
+2001,603,St. John's (NY),14,5,2,21
+2001,610,St. Mary's (CA),6,13,0,19
+2001,674,Stanford,18,3,1,22
+2001,678,Stetson,8,11,0,19
+2001,683,Stony Brook,12,4,2,18
+2001,526,SUNY Oneonta,11,6,1,18
+2001,688,Syracuse,8,9,2,19
+2001,698,TCU,7,11,0,18
+2001,690,Temple,5,11,0,16
+2001,711,Towson,9,8,1,18
+2001,719,Tulsa,10,7,2,19
+2001,9,UAB,14,5,2,21
+2001,109,UC Irvine,12,8,1,21
+2001,104,UC Santa Barbara,8,10,1,19
+2001,128,UCF,2,14,3,19
+2001,110,UCLA,12,7,0,19
+2001,164,UConn,20,3,2,25
+2001,391,UMBC,15,5,0,20
+2001,2707,UMKC,8,10,0,18
+2001,456,UNC Asheville,8,11,0,19
+2001,459,UNCG,12,7,1,20
+2001,460,UNCW,4,15,1,20
+2001,465,UNLV,10,7,1,18
+2001,735,Valparaiso,5,10,0,15
+2001,736,Vanderbilt,9,11,0,20
+2001,740,VCU,9,8,4,21
+2001,738,Vermont,13,8,1,22
+2001,739,Villanova,6,9,2,17
+2001,746,Virginia,17,6,1,24
+2001,742,Virginia Tech,8,9,2,19
+2001,741,VMI,5,12,0,17
+2001,749,Wake Forest,10,7,2,19
+2001,756,Washington,14,6,0,20
+2001,768,West Virginia,4,13,1,18
+2001,771,Western Ill.,10,7,1,18
+2001,772,Western Ky.,10,11,0,21
+2001,774,Western Mich.,6,13,1,20
+2001,786,William & Mary,12,9,2,23
+2001,792,Winthrop,8,9,1,18
+2001,796,Wisconsin,10,9,1,20
+2001,2915,Wofford,3,13,2,18
+2001,810,Wright St.,8,9,2,19
+2001,812,Xavier,4,15,0,19
+2001,813,Yale,9,7,1,17
