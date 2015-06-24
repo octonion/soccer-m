@@ -30,8 +30,8 @@ where
 and r.team_div_id is not null
 and r.opponent_div_id is not null
 
-and r.team_div_id=1
-and r.opponent_div_id=1
+--and r.team_div_id=1
+--and r.opponent_div_id=1
 
 -- fit all excluding November and December
 
@@ -103,10 +103,10 @@ g <- cbind(fp,rp)
 
 dim(g)
 
-#model <- gs ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
-model <- gs ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
+model <- gs ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
+#model <- gs ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- glmer(model,data=g,REML=T,verbose=T,family=poisson(link=log))
+fit <- glmer(model, data=g, REML=T, verbose=T, family=poisson(link=log))
 
 fit
 summary(fit)
