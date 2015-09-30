@@ -37,7 +37,7 @@ school_year,
 sport,
 division
 from ncaa.schools_divisions
-where year=2014
+where year=2015
 and (school_id, 2016) not in
 (
 select
