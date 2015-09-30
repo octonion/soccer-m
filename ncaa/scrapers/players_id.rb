@@ -16,7 +16,7 @@ agent.get(url)
 teams = CSV.read("csv/ncaa_schools.csv")
 
 first_year = ARGV[0].to_i
-last_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
 
 (first_year..last_year).each do |year|
   stats = CSV.open("csv/ncaa_players_#{year}.csv","w")

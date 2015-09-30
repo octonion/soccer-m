@@ -38,11 +38,17 @@ join ncaa._factors o
   on (o.parameter,o.level::integer)=('o_div',sd.div_id)
 join ncaa._factors d
   on (d.parameter,d.level::integer)=('d_div',sd.div_id)
-where sf.year in (2015)
+where sf.year in (2016)
 order by str desc);
 
 select
-rk,team,div_id as div,str,ofs,dfs,sos
+rk,
+team,
+div_id as div,
+str,
+ofs,
+dfs,
+sos
 from r
 order by rk asc;
 
@@ -66,5 +72,20 @@ team,div_id as div,str,ofs,dfs,sos
 from r
 where div_id=3
 order by rk asc;
+
+copy
+(
+select
+rk,
+team,
+'D'||div_id as div,
+str,
+ofs,
+dfs,
+sos
+from r
+order by rk asc
+)
+to '/tmp/current_ranking.csv' csv header;
 
 commit;
