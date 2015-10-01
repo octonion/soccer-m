@@ -1,10 +1,10 @@
 #!/bin/bash
 
-psql soccer-m -c "drop table if exists ncaa.results;"
+#psql soccer-m -c "drop table if exists ncaa.results;"
 
-psql soccer-m -f sos/standardized_results.sql
+#psql soccer-m -f sos/standardized_results.sql
 
-psql soccer-m -c "vacuum full verbose analyze ncaa.results;"
+#psql soccer-m -c "vacuum full verbose analyze ncaa.results;"
 
 psql soccer-m -c "drop table if exists ncaa._basic_factors;"
 psql soccer-m -c "drop table if exists ncaa._parameter_levels;"
@@ -32,7 +32,8 @@ psql soccer-m -f sos/test_predictions.sql > sos/test_predictions.txt
 psql soccer-m -f sos/predict_daily.sql > sos/predict_daily.txt
 cp /tmp/predict_daily.csv sos/predict_daily.csv
 
-psql soccer-m -f sos/predict_spread.sql > sos/predict_spread.txt
-
 psql soccer-m -f sos/predict_weekly.sql > sos/predict_weekly.txt
 cp /tmp/predict_weekly.csv sos/predict_weekly.csv
+
+psql soccer-m -f sos/predict.sql > sos/predict.txt
+cp /tmp/predict.csv sos/predict.csv

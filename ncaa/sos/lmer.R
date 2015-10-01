@@ -21,7 +21,25 @@ r.team_div_id as o_div,
 r.opponent_id as opponent,
 r.opponent_div_id as d_div,
 r.game_length as game_length,
-team_score::float as gs
+
+(case
+  when r.game_length='0 OT' then r.team_score
+  else least(r.team_score,r.opponent_score)
+end) as gs,
+
+(case
+  when r.game_length='0 OT' then 1.0
+  when r.game_length='1 OT' and not(r.team_score=r.opponent_score)
+    then 1.0
+  when r.game_length='1 OT' and (r.team_score=r.opponent_score)
+    then 10.0/9.0
+  when r.game_length='2 OT' and not(r.team_score=r.opponent_score)
+    then 10.0/9.0
+  when r.game_length='2 OT' and (r.team_score=r.opponent_score)
+    then 11.0/9.0
+  when r.game_length in ('3 OT','4 OT','5 OT') then 1.0
+end) as w
+
 from ncaa.results r
 
 where
@@ -52,16 +70,17 @@ year <- as.factor(year)
 #contrasts(year)<-'contr.sum'
 
 field <- as.factor(field)
-field <- relevel(field, ref = "none")
+field <- relevel(field, ref = "neutral")
 
 d_div <- as.factor(d_div)
 
 o_div <- as.factor(o_div)
 
-game_length <- as.factor(game_length)
+#game_length <- as.factor(game_length)
 
-fp <- data.frame(year,field,d_div,o_div,game_length)
-#fp <- data.frame(year,field,game_length)
+#fp <- data.frame(year,field,d_div,o_div,game_length)
+
+fp <- data.frame(year,field,d_div,o_div)
 fpn <- names(fp)
 
 # Random parameters
@@ -101,12 +120,13 @@ dbWriteTable(con,c("ncaa","_parameter_levels"),parameter_levels,row.names=TRUE)
 
 g <- cbind(fp,rp)
 
+g$w <- games$w
+
 dim(g)
 
-model <- gs ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
-#model <- gs ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
+model <- gs ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- glmer(model, data=g, REML=T, verbose=T, family=poisson(link=log))
+fit <- glmer(model, data=g, verbose=TRUE, family=poisson(link=log), weights=w)
 
 fit
 summary(fit)

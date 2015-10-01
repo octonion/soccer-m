@@ -130,7 +130,7 @@ left outer join ncaa._basic_factors nbf
 where
     npl.type='fixed'
 and npl.parameter in ('field')
-and npl.level not in ('none')
+--and npl.level not in ('neutral')
 );
 
 -- other fixed
@@ -157,6 +157,7 @@ where
 and npl.parameter not in ('field','year')
 );
 
+/*
 create temporary table scale (
        parameter		text,
        mean			float,
@@ -169,6 +170,7 @@ insert into scale
 parameter,
 avg(raw_factor)
 from ncaa._factors
+where parameter not in ('o_div','d_div','game_length')
 group by parameter
 );
 
@@ -176,15 +178,16 @@ update ncaa._factors
 set raw_factor=raw_factor-s.mean
 from scale s
 where s.parameter=ncaa._factors.parameter;
+*/
 
 update ncaa._factors
 set exp_factor=exp(raw_factor);
 
--- 'neutral' park confounded with 'none' field; set factor = 1.0 for field 'none'
+-- 'neutral' park confounded with 'neutral' field; set factor = 1.0 for field 'neutral'
 
-insert into ncaa._factors
-(parameter,level,type,method,year,first_year,last_year,raw_factor,exp_factor)
-values
-('field','none','fixed','log_regression',null,null,null,0.0,1.0);
+--insert into ncaa._factors
+--(parameter,level,type,method,year,first_year,last_year,raw_factor,exp_factor)
+--values
+--('field','neutral','fixed','log_regression',null,null,null,0.0,1.0);
 
 commit;

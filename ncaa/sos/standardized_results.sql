@@ -69,10 +69,11 @@ g.opponent_id,
        when location='Neutral' then 0 end) as location_id,
  (case when location='Home' then 'offense_home'
        when location='Away' then 'defense_home'
-       when location='Neutral' then 'none' end) as field,
+       when location='Neutral' then 'neutral' end) as field,
 g.team_score,
 g.opponent_score,
 (case when g.game_length='' then '0 OT'
+      when g.game_length is null then '0 OT'
       else g.game_length end) as game_length
 from ncaa.games g
 -- join c as c1 on (c1.school_id,c1.year)=(g.school_id,g.year)
@@ -83,13 +84,19 @@ and g.team_score is not NULL
 and g.opponent_score is not NULL
 and g.team_score >= 0
 and g.opponent_score >= 0
---and not((g.team_score,g.opponent_score)=(0,0))
---and (not((g.team_score,g.opponent_score)=(0,0)) or
---     (g.team_score,g.opponent_score)=(0,0) and (g.game_length like '%OT%'))
+
+--and not((g.team_score,g.opponent_score)=(0,0) and g.game_length is null)
+
+and (not((g.team_score,g.opponent_score)=(0,0)) or
+     (g.team_score,g.opponent_score)=(0,0) and (g.game_length like '%OT%'))
+     
 and g.school_id is not NULL
 and g.opponent_id is not NULL
 and not(g.game_date is null)
 and g.year between 2012 and 2016
+
+and g.school_id < g.opponent_id
+
 -- and c1.n >=20
 -- and c2.n >=20
 );
@@ -118,10 +125,11 @@ g.school_id,
        when location='Neutral' then 0 end) as location_id,
  (case when location='Home' then 'defense_home'
        when location='Away' then 'offense_home'
-       when location='Neutral' then 'none' end) as field,
+       when location='Neutral' then 'neutral' end) as field,
 g.opponent_score,
 g.team_score,
 (case when g.game_length='' then '0 OT'
+      when g.game_length is null then '0 OT'
       else g.game_length end) as game_length
 from ncaa.games g
 where
@@ -130,13 +138,18 @@ and g.team_score is not NULL
 and g.opponent_score is not NULL
 and g.team_score >= 0
 and g.opponent_score >= 0
+
 --and not((g.team_score,g.opponent_score)=(0,0))
---and (not((g.team_score,g.opponent_score)=(0,0)) or
---     (g.team_score,g.opponent_score)=(0,0) and (g.game_length like '%OT%'))
+
+and (not((g.team_score,g.opponent_score)=(0,0)) or
+     (g.team_score,g.opponent_score)=(0,0) and (g.game_length like '%OT%'))
+
 and g.school_id is not NULL
 and g.opponent_id is not NULL
 and not(g.game_date is null)
 and g.year between 2012 and 2016
+
+and g.school_id < g.opponent_id
 );
 
 update ncaa.results
@@ -148,5 +161,9 @@ update ncaa.results
 set opponent_div_id=sd.div_id
 from ncaa.schools_divisions sd
 where (sd.school_id,sd.year)=(results.opponent_id,results.year);
+
+--update ncaa.game_length
+--set game_length='0 OT'
+--where game_length='-';
 
 commit;

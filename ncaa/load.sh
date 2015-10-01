@@ -12,6 +12,7 @@ fi
 psql soccer-m -f schema/create_schema.sql
 
 tail -q -n+2 csv/ncaa_games_*.csv > /tmp/ncaa_games.csv
+rpl ",-," ",," /tmp/ncaa_games.csv
 psql soccer-m -f loaders/load_games.sql
 rm /tmp/ncaa_games.csv
 
