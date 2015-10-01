@@ -126,7 +126,10 @@ dim(g)
 
 model <- gs ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- glmer(model, data=g, verbose=TRUE, family=poisson(link=log), weights=w)
+fit <- glmer(model, data=g, verbose=TRUE, family=poisson(link=log), weights=w,
+             nAGQ=0,
+	     control=glmerControl(optimizer = "nloptwrap"))
+#            control=glmerControl(optimizer="bobyqa"))
 
 fit
 summary(fit)
