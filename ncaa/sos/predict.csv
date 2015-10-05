@@ -28,7 +28,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-21,home,Akron,D1,1.3,Michigan St.,D1,1.1
 2015-11-01,home,Akron,D1,2.6,UCLA,D1,1.7
 2015-11-07,home,Akron,D1,2.5,Bowling Green,D1,1.4
-2015-10-04,home,Ala.-Huntsville,D2,1.9,Union (TN),D2,1.0
 2015-10-16,home,Ala.-Huntsville,D2,1.3,West Florida,D2,1.3
 2015-10-18,home,Ala.-Huntsville,D2,1.5,Spring Hill,D2,0.7
 2015-10-21,home,Ala.-Huntsville,D2,1.5,Montevallo,D2,1.0
@@ -102,6 +101,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-20,home,Army West Point,D1,0.9,Rutgers,D1,1.4
 2015-10-28,home,Army West Point,D1,1.0,Colgate,D1,0.9
 2015-10-31,home,Army West Point,D1,0.9,Boston U.,D1,0.9
+2015-11-03,neutral,Army West Point,D1,0.8,Navy,D1,0.9
 2015-10-06,home,Assumption,D2,1.1,Molloy,D2,1.3
 2015-10-10,home,Assumption,D2,0.7,Saint Rose,D2,1.2
 2015-10-13,home,Assumption,D2,0.9,Merrimack,D2,2.0
@@ -154,7 +154,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-12,home,Becker,D3,0.8,Regis (MA),D3,3.7
 2015-10-26,home,Becker,D3,1.8,Wheelock,D3,2.7
 2015-10-28,home,Becker,D3,1.1,Elms,D3,2.9
-2015-10-04,home,Bellarmine,D2,0.8,UIndy,D2,0.6
 2015-10-16,home,Bellarmine,D2,1.5,Quincy,D2,1.1
 2015-10-18,home,Bellarmine,D2,1.3,Truman,D2,0.7
 2015-10-28,home,Bellarmine,D2,1.4,Southern Ind.,D2,0.8
@@ -177,7 +176,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-16,home,Bentley,D2,1.8,St. Anselm,D2,1.1
 2015-10-21,home,Bentley,D2,1.2,Franklin Pierce,D2,1.5
 2015-10-30,home,Bentley,D2,1.5,American Int'l,D2,0.9
-2015-10-04,home,Berry,D3,0.8,Centre,D3,1.1
 2015-10-05,home,Berry,D3,1.5,Covenant,D3,0.8
 2015-10-09,home,Berry,D3,1.0,Millsaps,D3,1.3
 2015-10-11,home,Berry,D3,0.8,Birmingham-So.,D3,0.8
@@ -217,7 +215,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-20,home,Boston U.,D1,1.2,Albany (NY),D1,1.0
 2015-10-24,home,Boston U.,D1,1.4,Lehigh,D1,1.0
 2015-10-28,home,Boston U.,D1,0.9,Holy Cross,D1,1.0
-2015-10-04,home,Bowdoin,D3,2.7,Elms,D3,0.5
 2015-10-06,home,Bowdoin,D3,2.7,Southern Me.,D3,0.5
 2015-10-12,home,Bowdoin,D3,0.9,Babson,D3,0.7
 2015-10-17,home,Bowdoin,D3,1.4,Hamilton,D3,0.5
@@ -242,7 +239,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-20,home,Bridgewater St.,D3,2.1,UMass Dartmouth,D3,0.9
 2015-10-28,home,Bridgewater St.,D3,1.0,Babson,D3,0.8
 2015-10-31,home,Bridgewater St.,D3,2.8,Worcester St.,D3,0.8
-2015-10-04,neutral,Bridgewater (VA),D3,0.9,Lynchburg,D3,2.1
 2015-10-06,home,Bridgewater (VA),D3,2.6,Averett,D3,1.3
 2015-10-14,home,Bridgewater (VA),D3,1.7,East. Mennonite,D3,0.9
 2015-10-17,home,Bridgewater (VA),D3,1.5,Hampden-Sydney,D3,1.2
@@ -301,7 +297,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-14,home,Caldwell,D2,1.4,Bloomfield,D2,2.0
 2015-10-24,home,Caldwell,D2,1.4,Holy Family,D2,1.1
 2015-10-26,home,Caldwell,D2,0.7,Millersville,D2,2.3
-2015-10-04,home,California,D1,1.0,Stanford,D1,1.0
 2015-10-09,home,California,D1,1.4,Oregon St.,D1,1.1
 2015-10-11,home,California,D1,1.0,Washington,D1,1.0
 2015-10-23,home,California,D1,1.2,San Diego St.,D1,1.1
@@ -311,7 +306,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-22,home,California Baptist,D2,1.5,Dixie St.,D2,1.4
 2015-10-29,home,California Baptist,D2,3.6,Chaminade,D2,0.9
 2015-10-31,home,California Baptist,D2,1.4,Hawaii Pacific,D2,1.6
-2015-10-04,home,California (PA),D2,1.9,Davis & Elkins,D2,0.8
 2015-10-07,home,California (PA),D2,1.8,Wheeling Jesuit,D2,1.3
 2015-10-17,home,California (PA),D2,2.9,Gannon,D2,1.0
 2015-10-24,home,California (PA),D2,1.9,Shippensburg,D2,1.1
@@ -339,10 +333,8 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Cal St. Fullerton,D1,1.4,UC Irvine,D1,1.0
 2015-10-21,home,Cal St. Fullerton,D1,1.2,CSUN,D1,1.2
 2015-10-24,home,Cal St. Fullerton,D1,1.6,UC Riverside,D1,1.0
-2015-10-04,home,Cal St. L.A.,D2,1.5,UC San Diego,D2,0.5
 2015-10-07,home,Cal St. L.A.,D2,2.2,Hawaii Hilo,D2,0.6
 2015-10-11,home,Cal St. L.A.,D2,1.7,Chico St.,D2,0.5
-2015-10-04,home,Cal St. Monterey Bay,D2,1.5,Sonoma St.,D2,1.2
 2015-10-16,home,Cal St. Monterey Bay,D2,1.8,Cal St. Dom. Hills,D2,1.9
 2015-10-18,home,Cal St. Monterey Bay,D2,1.0,Cal St. L.A.,D2,1.4
 2015-10-23,home,Cal St. Monterey Bay,D2,1.4,Cal Poly Pomona,D2,1.3
@@ -466,7 +458,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-30,home,Chicago,D3,0.8,Case,D3,1.5
 2015-11-01,home,Chicago,D3,1.2,Carnegie Mellon,D3,1.9
 2015-11-07,home,Chicago,D3,1.1,Washington-St. Louis,D3,1.3
-2015-10-04,home,Chico St.,D2,0.9,Cal St. Stanislaus,D2,2.4
 2015-10-23,home,Chico St.,D2,0.9,UC San Diego,D2,0.8
 2015-10-29,home,Chico St.,D2,1.1,Cal St. Monterey Bay,D2,1.3
 2015-10-31,home,Chico St.,D2,0.7,San Fran. St.,D2,1.1
@@ -506,13 +497,11 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-07,home,Cleveland St.,D1,0.9,Northern Ky.,D1,1.2
 2015-10-17,home,Cleveland St.,D1,1.5,Belmont,D1,1.0
 2015-10-24,home,Cleveland St.,D1,1.3,Milwaukee,D1,1.2
-2015-10-04,home,Coastal Caro.,D1,3.1,Campbell,D1,0.7
 2015-10-16,home,Coastal Caro.,D1,2.0,Liberty,D1,0.4
 2015-10-19,home,Coastal Caro.,D1,1.5,Hofstra,D1,0.7
 2015-10-31,home,Coastal Caro.,D1,1.8,Radford,D1,0.6
 2015-10-10,home,Coast Guard,D3,2.1,Emerson,D3,1.0
 2015-10-17,home,Coast Guard,D3,0.9,WPI,D3,1.4
-2015-10-04,home,Cobleskill St.,D3,1.0,Penn St.-Abington,D3,4.8
 2015-10-06,home,Cobleskill St.,D3,2.6,Southern Vt.,D3,3.5
 2015-10-14,home,Cobleskill St.,D3,5.8,Green Mountain,D3,3.1
 2015-10-30,home,Cobleskill St.,D3,1.0,Lancaster Bible,D3,5.5
@@ -527,7 +516,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-07,home,Colby,D3,2.4,Husson,D3,1.9
 2015-10-17,home,Colby,D3,0.8,Amherst,D3,2.2
 2015-10-28,home,Colby,D3,1.3,Bates,D3,1.7
-2015-10-04,home,Colby-Sawyer,D3,1.4,Thomas (ME),D3,2.7
 2015-10-17,home,Colby-Sawyer,D3,9.6,Green Mountain,D3,1.2
 2015-10-24,home,Colby-Sawyer,D3,2.1,New England Col.,D3,2.3
 2015-10-28,home,Colby-Sawyer,D3,1.9,Plymouth St.,D3,2.2
@@ -542,10 +530,8 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-07,home,Col. of Charleston,D1,1.6,Delaware,D1,0.9
 2015-10-10,home,Col. of Charleston,D1,2.0,James Madison,D1,0.8
 2015-10-17,home,Col. of Charleston,D1,1.2,Hofstra,D1,1.4
-2015-10-04,home,Colorado Col.,D3,2.5,Centenary (LA),D3,0.7
 2015-10-16,home,Colorado Col.,D3,2.8,Southwestern (TX),D3,0.9
 2015-10-18,home,Colorado Col.,D3,1.3,Texas Lutheran,D3,0.9
-2015-10-04,home,Colorado Mesa,D2,1.6,Fort Lewis,D2,1.2
 2015-10-18,home,Colorado Mesa,D2,2.2,Colorado St.-Pueblo,D2,1.3
 2015-10-30,home,Colorado Mesa,D2,4.1,South Dakota Mines,D2,0.9
 2015-11-01,home,Colorado Mesa,D2,1.6,Regis (CO),D2,0.8
@@ -567,7 +553,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-15,home,Concord,D2,1.1,Wheeling Jesuit,D2,1.4
 2015-10-20,home,Concord,D2,1.4,Findlay,D2,1.3
 2015-10-25,home,Concord,D2,0.7,Charleston (WV),D2,2.3
-2015-10-04,home,Concordia Chicago,D3,2.8,Edgewood,D3,1.6
 2015-10-07,home,Concordia Chicago,D3,1.5,Wis. Lutheran,D3,1.6
 2015-10-10,home,Concordia Chicago,D3,2.9,Lakeland,D3,1.3
 2015-10-25,home,Concordia Chicago,D3,1.2,Concordia Wisconsin,D3,2.3
@@ -590,7 +575,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-13,home,Cornell,D1,0.8,Colgate,D1,1.2
 2015-10-24,home,Cornell,D1,0.8,Brown,D1,1.4
 2015-11-14,home,Cornell,D1,0.5,Columbia,D1,1.1
-2015-10-04,home,Cornell College,D3,1.1,Lake Forest,D3,4.3
 2015-10-21,home,Cornell College,D3,1.3,Coe,D3,1.6
 2015-10-24,home,Cornell College,D3,1.3,Beloit,D3,1.9
 2015-10-09,home,Covenant,D3,1.3,N.C. Wesleyan,D3,2.5
@@ -606,7 +590,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-13,home,Crown (MN),D3,1.8,North Central (MN),D3,1.1
 2015-10-27,home,Crown (MN),D3,1.5,Martin Luther,D3,2.7
 2015-10-30,home,Crown (MN),D3,1.1,Minn.-Morris,D3,2.0
-2015-10-04,home,CSU Bakersfield,D1,1.4,Pacific,D1,1.0
 2015-10-09,home,CSU Bakersfield,D1,1.4,Grand Canyon,D1,1.4
 2015-10-11,home,CSU Bakersfield,D1,1.2,UNLV,D1,1.7
 2015-10-18,home,CSU Bakersfield,D1,0.8,Utah Valley,D1,1.4
@@ -624,7 +607,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Daemen,D2,1.5,Dist. Columbia,D2,2.1
 2015-10-30,home,Daemen,D2,1.6,Dowling,D2,1.4
 2015-11-01,home,Daemen,D2,0.7,Bridgeport,D2,1.9
-2015-10-04,home,Dallas,D3,1.3,Austin,D3,0.8
 2015-10-16,home,Dallas,D3,0.9,Texas Lutheran,D3,1.0
 2015-10-18,home,Dallas,D3,1.9,Southwestern (TX),D3,1.0
 2015-10-30,home,Dallas,D3,1.1,Colorado Col.,D3,1.5
@@ -747,7 +729,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Eastern,D3,1.9,DeSales,D3,0.8
 2015-10-27,home,Eastern,D3,2.0,Goucher,D3,0.5
 2015-10-31,home,Eastern,D3,2.6,FDU-Florham,D3,0.8
-2015-10-04,home,Eastern Conn. St.,D3,3.3,Keene St.,D3,0.9
 2015-10-24,home,Eastern Conn. St.,D3,2.5,Rhode Island Col.,D3,1.1
 2015-10-27,home,Eastern Conn. St.,D3,2.3,Coast Guard,D3,0.8
 2015-10-21,home,Eastern Ill.,D1,0.9,Northern Ky.,D1,2.0
@@ -797,6 +778,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-20,home,Elms,D3,3.2,Southern Vt.,D3,1.5
 2015-10-24,home,Elms,D3,1.1,Daniel Webster,D3,1.9
 2015-10-31,home,Elms,D3,1.5,Regis (MA),D3,2.0
+2015-10-07,home,Elon,D1,1.9,Northeastern,D1,0.6
 2015-10-10,home,Elon,D1,1.9,Lipscomb,D1,0.8
 2015-10-17,home,Elon,D1,2.7,James Madison,D1,0.7
 2015-10-28,home,Elon,D1,1.9,Radford,D1,1.0
@@ -860,7 +842,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-23,home,Ferrum,D3,1.8,Piedmont,D3,1.3
 2015-10-17,home,FGCU,D1,1.6,Lipscomb,D1,0.8
 2015-10-20,home,FGCU,D1,1.5,FIU,D1,1.6
-2015-10-04,home,Findlay,D2,1.4,Malone,D2,1.1
 2015-10-23,home,Findlay,D2,1.1,Northwood (MI),D2,3.0
 2015-10-25,home,Findlay,D2,1.0,Saginaw Valley,D2,3.3
 2015-10-30,home,Findlay,D2,1.1,Tiffin,D2,1.4
@@ -893,7 +874,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Fordham,D1,1.1,Saint Louis,D1,1.5
 2015-10-25,home,Fordham,D1,1.2,George Mason,D1,1.1
 2015-10-31,home,Fordham,D1,1.1,Dayton,D1,2.0
-2015-10-04,home,Fort Hays St.,D2,1.7,Northeastern St.,D2,1.3
 2015-11-06,home,Fort Hays St.,D2,1.2,Upper Iowa,D2,1.2
 2015-11-08,home,Fort Hays St.,D2,2.6,Lindenwood (MO),D2,1.9
 2015-10-16,home,Fort Lewis,D2,1.2,Colorado Mines,D2,1.6
@@ -947,6 +927,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-21,home,Gannon,D2,1.3,Mercyhurst,D2,1.5
 2015-10-24,home,Gannon,D2,2.3,Pitt.-Johnstown,D2,1.7
 2015-10-07,home,Gardner-Webb,D1,1.7,Winthrop,D1,2.4
+2015-10-14,home,Gardner-Webb,D1,1.6,UNC Asheville,D1,1.8
 2015-10-31,home,Gardner-Webb,D1,0.7,High Point,D1,1.7
 2015-11-05,home,Gardner-Webb,D1,1.2,Longwood,D1,2.6
 2015-10-13,home,Ga. Southern,D1,2.4,Jacksonville,D1,1.5
@@ -961,7 +942,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-21,home,Geneva,D3,2.3,Bethany (WV),D3,1.0
 2015-10-28,home,Geneva,D3,4.2,Thiel,D3,1.4
 2015-10-31,home,Geneva,D3,3.6,Saint Vincent,D3,1.0
-2015-10-04,home,George Fox,D3,0.6,Whitworth,D3,2.1
 2015-10-23,home,George Fox,D3,1.0,Willamette,D3,0.8
 2015-10-31,home,George Fox,D3,1.0,Puget Sound,D3,1.2
 2015-11-01,home,George Fox,D3,0.7,Pacific Lutheran,D3,1.5
@@ -1004,7 +984,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-14,home,Goucher,D3,0.8,Washington Col.,D3,1.7
 2015-10-21,home,Goucher,D3,0.9,Elizabethtown,D3,2.1
 2015-10-24,home,Goucher,D3,1.8,Juniata,D3,1.1
-2015-10-04,home,Grand Canyon,D1,1.6,Houston Baptist,D1,1.0
 2015-10-23,home,Grand Canyon,D1,1.0,Utah Valley,D1,1.4
 2015-10-25,home,Grand Canyon,D1,1.0,Seattle,D1,1.8
 2015-11-07,home,Grand Canyon,D1,1.5,UNLV,D1,1.7
@@ -1022,10 +1001,10 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,Greenville,D3,1.6,Fontbonne,D3,1.6
 2015-10-17,home,Greenville,D3,1.8,Eureka,D3,1.1
 2015-10-24,home,Greenville,D3,2.8,MacMurray,D3,0.8
-2015-10-04,home,Grinnell,D3,2.0,Carroll (WI),D3,0.7
 2015-10-10,home,Grinnell,D3,1.8,Monmouth (IL),D3,0.6
 2015-10-29,home,Grinnell,D3,2.4,Coe,D3,0.5
 2015-10-31,home,Grinnell,D3,2.3,Beloit,D3,0.6
+2015-10-05,home,Grove City,D3,2.4,Geneva,D3,1.0
 2015-10-10,home,Grove City,D3,3.2,Bethany (WV),D3,0.7
 2015-10-17,home,Grove City,D3,5.0,Saint Vincent,D3,0.7
 2015-10-21,home,Grove City,D3,1.8,Thomas More,D3,1.9
@@ -1040,7 +1019,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Gwynedd Mercy,D3,1.1,Immaculata,D3,1.5
 2015-10-24,home,Gwynedd Mercy,D3,1.0,Neumann,D3,1.3
 2015-10-27,home,Gwynedd Mercy,D3,1.3,Centenary (NJ),D3,1.6
-2015-10-04,home,Hamilton,D3,0.7,Tufts,D3,1.3
 2015-10-10,home,Hamilton,D3,0.6,Amherst,D3,1.6
 2015-10-24,home,Hamilton,D3,1.6,Colby,D3,1.2
 2015-10-14,home,Hamline,D3,1.2,Carleton,D3,1.4
@@ -1121,7 +1099,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-14,home,Holy Family,D2,0.9,Bloomsburg,D2,1.4
 2015-10-17,home,Holy Family,D2,2.3,Felician,D2,1.1
 2015-10-20,home,Holy Family,D2,1.4,Chestnut Hill,D2,1.4
-2015-10-04,home,Holy Names,D2,1.1,Dixie St.,D2,2.3
 2015-10-28,home,Holy Names,D2,1.1,Fresno Pacific,D2,2.8
 2015-10-31,home,Holy Names,D2,0.7,Notre Dame de Namur,D2,1.6
 2015-11-05,home,Holy Names,D2,1.8,Azusa Pacific,D2,1.8
@@ -1161,15 +1138,12 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-11,home,Huntingdon,D3,1.2,Greensboro,D3,1.5
 2015-10-14,home,Huntingdon,D3,1.6,Covenant,D3,1.2
 2015-10-28,home,Huntingdon,D3,2.6,LaGrange,D3,1.0
-2015-10-04,home,Husson,D3,5.0,Lyndon St.,D3,1.0
 2015-10-20,home,Husson,D3,3.2,Me.-Farmington,D3,1.8
 2015-10-13,home,Ill.-Chicago,D1,1.0,Loyola Chicago,D1,0.7
 2015-10-24,home,Ill.-Chicago,D1,1.4,Oakland,D1,0.8
 2015-11-06,home,Ill.-Chicago,D1,1.7,Cleveland St.,D1,0.7
-2015-10-04,home,Illinois Col.,D3,1.2,St. Norbert,D3,1.2
 2015-10-10,home,Illinois Col.,D3,1.6,Carroll (WI),D3,1.1
 2015-10-24,home,Illinois Col.,D3,0.9,Grinnell,D3,1.4
-2015-10-04,home,Ill.-Springfield,D2,1.0,Wis.-Parkside,D2,1.9
 2015-10-16,home,Ill.-Springfield,D2,0.6,Maryville (MO),D2,1.0
 2015-10-18,home,Ill.-Springfield,D2,0.7,Mo.-St. Louis,D2,1.9
 2015-10-10,home,Ill. Wesleyan,D3,1.7,Carthage,D3,1.1
@@ -1179,7 +1153,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-21,home,Immaculata,D3,1.0,Ursinus,D3,1.3
 2015-10-24,home,Immaculata,D3,1.5,Centenary (NJ),D3,1.1
 2015-10-31,home,Immaculata,D3,2.0,Cairn,D3,1.0
-2015-10-04,home,Incarnate Word,D1,2.5,San Jose St.,D1,0.9
 2015-10-15,home,Incarnate Word,D1,2.1,Grand Canyon,D1,1.3
 2015-10-22,home,Incarnate Word,D1,1.9,Houston Baptist,D1,0.9
 2015-10-25,home,Incarnate Word,D1,2.4,UTRGV,D1,0.9
@@ -1246,7 +1219,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-13,home,Kenyon,D3,2.3,Oberlin,D3,1.1
 2015-10-17,home,Kenyon,D3,1.5,Denison,D3,0.7
 2015-10-31,home,Kenyon,D3,1.8,Wabash,D3,1.0
-2015-10-04,home,Keuka,D3,2.0,Gallaudet,D3,0.6
 2015-10-17,home,Keuka,D3,6.8,Cobleskill St.,D3,0.7
 2015-10-18,home,Keuka,D3,2.0,SUNY Poly,D3,1.0
 2015-10-31,home,Keuka,D3,1.4,Morrisville St.,D3,1.0
@@ -1254,17 +1226,14 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Keystone,D3,2.4,Cairn,D3,0.9
 2015-10-24,home,Keystone,D3,1.9,Marywood,D3,1.2
 2015-10-31,home,Keystone,D3,1.2,Cabrini,D3,1.6
-2015-10-04,home,King's (PA),D3,1.7,DeSales,D3,0.9
 2015-10-10,home,King's (PA),D3,0.9,Manhattanville,D3,0.9
 2015-10-20,home,King's (PA),D3,2.2,Misericordia,D3,1.2
 2015-10-24,home,King's (PA),D3,0.8,Eastern,D3,0.9
 2015-10-28,home,King's (PA),D3,2.2,Elmira,D3,0.8
-2015-10-04,home,King (TN),D2,1.8,Mount Olive,D2,1.3
 2015-10-14,home,King (TN),D2,1.7,Limestone,D2,1.6
 2015-10-21,home,King (TN),D2,1.7,Carson-Newman,D2,1.6
 2015-10-24,home,King (TN),D2,1.4,Pfeiffer,D2,1.8
 2015-10-27,home,King (TN),D2,2.3,Lees-McRae,D2,1.1
-2015-10-04,home,Knox,D3,2.7,Lawrence,D3,0.5
 2015-10-31,home,Knox,D3,5.8,Cornell College,D3,0.5
 2015-10-13,home,Ky. Wesleyan,D2,1.9,Oakland City,D2,1.2
 2015-10-15,home,Ky. Wesleyan,D2,0.9,Cedarville,D2,2.4
@@ -1276,7 +1245,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,LaGrange,D3,1.1,Greensboro,D3,3.0
 2015-10-11,home,LaGrange,D3,1.8,Averett,D3,2.8
 2015-10-17,home,LaGrange,D3,1.4,Piedmont,D3,2.2
-2015-10-04,home,Lake Erie,D2,1.5,Northwood (MI),D2,3.1
 2015-10-09,home,Lake Erie,D2,2.3,Findlay,D2,1.4
 2015-10-11,home,Lake Erie,D2,1.5,Tiffin,D2,1.5
 2015-10-23,home,Lake Erie,D2,2.0,Malone,D2,1.2
@@ -1291,6 +1259,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-06,home,Lancaster Bible,D3,3.3,Cazenovia,D3,1.1
 2015-10-15,home,Lancaster Bible,D3,1.8,Penn St.-Abington,D3,1.3
 2015-10-10,home,Lander,D2,2.1,Clayton St.,D2,0.9
+2015-10-12,home,Lander,D2,2.3,Montevallo,D2,0.7
 2015-10-14,home,Lander,D2,1.3,Wingate,D2,1.1
 2015-10-21,home,Lander,D2,1.5,Young Harris,D2,1.2
 2015-10-31,home,Lander,D2,1.5,Francis Marion,D2,1.0
@@ -1321,6 +1290,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-25,home,Lee,D2,2.9,Union (TN),D2,1.2
 2015-10-30,home,Lee,D2,3.2,Shorter,D2,1.4
 2015-10-07,home,Lees-McRae,D2,2.1,Belmont Abbey,D2,1.3
+2015-10-19,home,Lees-McRae,D2,1.8,Barton,D2,1.3
 2015-10-21,home,Lees-McRae,D2,2.7,North Greenville,D2,1.2
 2015-10-31,home,Lees-McRae,D2,1.4,Erskine,D2,1.7
 2015-10-17,home,Lehigh,D1,2.1,Loyola Maryland,D1,0.6
@@ -1356,12 +1326,12 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-25,home,Lewis,D2,1.3,William Jewell,D2,1.3
 2015-10-28,home,Lewis,D2,1.0,Wis.-Parkside,D2,1.5
 2015-10-10,home,Liberty,D1,2.3,Gardner-Webb,D1,0.9
+2015-10-20,home,Liberty,D1,1.1,Radford,D1,1.3
 2015-10-27,home,Liberty,D1,1.2,Longwood,D1,1.3
 2015-10-31,home,Liberty,D1,2.5,Presbyterian,D1,0.6
 2015-10-06,home,Limestone,D2,1.5,Young Harris,D2,1.9
 2015-10-21,home,Limestone,D2,2.5,Southern Wesleyan,D2,1.2
 2015-10-24,home,Limestone,D2,2.3,Mount Olive,D2,1.5
-2015-10-04,home,Lincoln Memorial,D2,1.0,Wingate,D2,1.3
 2015-10-07,home,Lincoln Memorial,D2,1.7,Carson-Newman,D2,1.4
 2015-10-10,home,Lincoln Memorial,D2,2.8,Newberry,D2,0.6
 2015-10-21,home,Lincoln Memorial,D2,1.6,Mars Hill,D2,0.8
@@ -1423,7 +1393,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-24,home,Lycoming,D3,1.8,Hood,D3,1.0
 2015-10-28,home,Lycoming,D3,1.3,SUNY Oneonta,D3,0.9
 2015-10-31,home,Lycoming,D3,2.0,Widener,D3,0.7
-2015-10-04,neutral,Lynchburg,D3,2.1,Bridgewater (VA),D3,0.9
 2015-10-07,home,Lynchburg,D3,1.6,Randolph-Macon,D3,0.9
 2015-10-14,home,Lynchburg,D3,1.7,Wash. & Lee,D3,1.0
 2015-10-17,home,Lynchburg,D3,2.5,East. Mennonite,D3,0.5
@@ -1440,7 +1409,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-27,home,Macalester,D3,1.3,Saint John's (MN),D3,0.9
 2015-10-17,home,MacMurray,D3,1.4,Webster,D3,3.0
 2015-10-31,home,MacMurray,D3,1.0,Principia,D3,2.9
-2015-10-04,home,Maine Maritime,D3,2.7,Johnson St.,D3,1.0
 2015-10-10,home,Maine Maritime,D3,1.5,Husson,D3,1.7
 2015-10-20,home,Maine Maritime,D3,0.9,Thomas (ME),D3,1.9
 2015-10-09,home,Malone,D2,0.9,Northwood (MI),D2,2.6
@@ -1497,7 +1465,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-14,home,Marymount (VA),D3,0.9,Salisbury,D3,1.1
 2015-10-17,home,Marymount (VA),D3,1.1,York (PA),D3,1.1
 2015-10-28,home,Marymount (VA),D3,0.8,Chris. Newport,D3,1.3
-2015-10-04,home,Maryville (MO),D2,0.9,Drury,D2,0.6
 2015-10-23,home,Maryville (MO),D2,1.0,Southern Ind.,D2,0.9
 2015-10-25,home,Maryville (MO),D2,0.6,Bellarmine,D2,0.6
 2015-10-28,home,Maryville (MO),D2,0.7,Mo.-St. Louis,D2,0.9
@@ -1520,7 +1487,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-06,home,McDaniel,D3,1.3,Wilkes,D3,0.8
 2015-10-17,home,McDaniel,D3,0.9,Swarthmore,D3,1.1
 2015-10-24,home,McDaniel,D3,0.9,Ursinus,D3,1.2
-2015-10-04,home,McKendree,D2,1.5,Lewis,D2,0.6
 2015-10-16,home,McKendree,D2,1.0,Mo.-St. Louis,D2,1.0
 2015-10-18,home,McKendree,D2,0.9,Maryville (MO),D2,0.5
 2015-10-28,home,McKendree,D2,1.8,Ill.-Springfield,D2,0.6
@@ -1579,7 +1545,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-19,home,Michigan,D1,1.0,Valparaiso,D1,0.6
 2015-10-27,home,Michigan,D1,1.0,Western Mich.,D1,0.8
 2015-10-31,home,Michigan,D1,1.1,Michigan St.,D1,0.7
-2015-10-04,home,Michigan St.,D1,1.2,Ohio St.,D1,0.7
 2015-10-13,home,Michigan St.,D1,0.7,Western Mich.,D1,0.7
 2015-10-18,home,Michigan St.,D1,0.9,Penn St.,D1,0.6
 2015-10-28,home,Michigan St.,D1,1.2,Oakland,D1,0.7
@@ -1640,7 +1605,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,Monmouth,D1,1.8,Quinnipiac,D1,0.6
 2015-10-14,home,Monmouth,D1,1.5,Saint Peter's,D1,0.9
 2015-10-24,home,Monmouth,D1,2.7,Niagara,D1,0.8
-2015-10-04,home,Monmouth (IL),D3,2.0,Ripon,D3,1.1
 2015-10-24,home,Monmouth (IL),D3,0.7,Knox,D3,2.2
 2015-10-27,home,Monmouth (IL),D3,1.1,Illinois Col.,D3,1.1
 2015-10-14,home,Montclair St.,D3,2.0,Kean,D3,1.5
@@ -1661,7 +1625,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-18,home,Morrisville St.,D3,1.7,Gallaudet,D3,0.6
 2015-10-22,home,Morrisville St.,D3,2.8,Cazenovia,D3,0.9
 2015-10-28,home,Morrisville St.,D3,1.7,Oswego St.,D3,1.1
-2015-10-04,home,Mo.-St. Louis,D2,1.8,Missouri S&T,D2,1.2
 2015-10-23,home,Mo.-St. Louis,D2,1.1,Bellarmine,D2,0.7
 2015-10-25,home,Mo.-St. Louis,D2,2.0,Southern Ind.,D2,1.0
 2015-10-07,home,Mount Aloysius,D3,2.8,Pitt.-Greensburg,D3,0.9
@@ -1688,10 +1651,12 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-07,home,Mt. St. Mary (NY),D3,0.8,Amherst,D3,2.4
 2015-10-14,home,Mt. St. Mary (NY),D3,2.3,Purchase,D3,1.2
 2015-10-21,home,Mt. St. Mary (NY),D3,3.2,Yeshiva,D3,2.1
+2015-10-06,home,Mt. St. Vincent,D3,0.9,Sage Colleges,D3,1.8
 2015-10-17,home,Mt. St. Vincent,D3,2.3,New Jersey City,D3,1.1
 2015-10-21,home,Mt. St. Vincent,D3,1.7,Farmingdale St.,D3,2.4
 2015-10-24,home,Mt. St. Vincent,D3,1.9,Mt. St. Mary (NY),D3,1.8
 2015-10-10,home,Muhlenberg,D3,0.9,Washington Col.,D3,1.1
+2015-10-20,home,Muhlenberg,D3,0.6,Frank. & Marsh.,D3,1.2
 2015-10-24,home,Muhlenberg,D3,0.9,Johns Hopkins,D3,1.0
 2015-10-06,home,Muskingum,D3,1.8,Capital,D3,1.9
 2015-10-17,home,Muskingum,D3,1.4,Otterbein,D3,2.6
@@ -1699,11 +1664,13 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-31,home,Muskingum,D3,1.2,John Carroll,D3,2.6
 2015-10-07,home,Navy,D1,1.3,Lehigh,D1,0.9
 2015-10-24,home,Navy,D1,1.2,Colgate,D1,0.9
+2015-11-03,neutral,Navy,D1,0.9,Army West Point,D1,0.8
 2015-11-06,home,Navy,D1,1.1,Boston U.,D1,0.9
 2015-10-06,home,Nazareth,D3,0.5,Hobart,D3,2.9
 2015-10-10,home,Nazareth,D3,1.3,Elmira,D3,2.4
 2015-10-17,home,Nazareth,D3,1.0,Ithaca,D3,2.1
 2015-10-06,home,N.C. Wesleyan,D3,1.8,Va. Wesleyan,D3,1.1
+2015-10-06,home,N.C. Wesleyan,D3,3.0,Ferrum,D3,1.0
 2015-10-17,home,N.C. Wesleyan,D3,4.9,William Peace,D3,0.9
 2015-10-24,home,N.C. Wesleyan,D3,2.6,Huntingdon,D3,0.9
 2015-10-25,home,N.C. Wesleyan,D3,5.2,LaGrange,D3,0.8
@@ -1718,7 +1685,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Newbury,D3,3.5,Wheelock,D3,1.3
 2015-10-20,home,Newbury,D3,2.0,Mitchell,D3,1.1
 2015-10-24,home,Newbury,D3,3.3,Southern Vt.,D3,1.3
-2015-10-04,home,New England Col.,D3,2.9,Me.-Farmington,D3,1.6
 2015-10-17,home,New England Col.,D3,2.0,Maine Maritime,D3,1.1
 2015-10-10,home,New Hampshire,D1,1.8,Stony Brook,D1,0.7
 2015-10-14,home,New Hampshire,D1,1.6,Binghamton,D1,0.7
@@ -1731,12 +1697,10 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-27,home,New Haven,D2,1.0,Bentley,D2,1.1
 2015-10-14,home,New Jersey City,D3,0.8,Ramapo,D3,2.2
 2015-10-21,home,New Jersey City,D3,1.0,TCNJ,D3,2.9
-2015-10-04,home,Newman,D2,2.3,Eastern N.M.,D2,1.5
 2015-10-08,home,Newman,D2,1.3,Dallas Baptist,D2,1.1
 2015-10-10,home,Newman,D2,0.7,St. Edward's,D2,2.0
 2015-10-15,home,Newman,D2,1.8,Lubbock Christian,D2,1.3
 2015-10-17,home,Newman,D2,1.4,Tex. Permian Basin,D2,1.6
-2015-10-04,home,New Mexico,D1,1.2,Kentucky,D1,0.9
 2015-10-14,home,New Mexico,D1,0.8,Valparaiso,D1,0.6
 2015-10-18,home,New Mexico,D1,1.9,UAB,D1,0.8
 2015-10-27,home,New Mexico,D1,1.0,Charlotte,D1,0.7
@@ -1758,7 +1722,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-13,home,North Carolina,D1,1.8,Col. of Charleston,D1,0.8
 2015-10-23,home,North Carolina,D1,1.4,Louisville,D1,0.8
 2015-10-27,home,North Carolina,D1,1.8,Northeastern,D1,0.5
-2015-10-04,home,North Carolina St.,D1,1.0,Notre Dame,D1,1.6
 2015-10-09,home,North Carolina St.,D1,0.9,Wake Forest,D1,1.5
 2015-10-13,home,North Carolina St.,D1,1.9,South Carolina,D1,1.3
 2015-10-19,home,North Carolina St.,D1,1.6,Appalachian St.,D1,0.7
@@ -1872,7 +1835,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-09,home,Oglethorpe,D3,1.3,Birmingham-So.,D3,0.6
 2015-10-11,home,Oglethorpe,D3,1.6,Millsaps,D3,1.1
 2015-10-24,home,Oglethorpe,D3,1.3,Centre,D3,0.9
-2015-10-04,home,Ohio Dominican,D2,0.7,Saginaw Valley,D2,3.3
 2015-10-09,home,Ohio Dominican,D2,0.8,Tiffin,D2,1.4
 2015-10-11,home,Ohio Dominican,D2,1.3,Findlay,D2,1.4
 2015-10-23,home,Ohio Dominican,D2,2.2,Walsh,D2,1.4
@@ -1903,6 +1865,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,Old Dominion,D1,1.4,New Mexico,D1,1.0
 2015-10-24,home,Old Dominion,D1,1.7,Kentucky,D1,1.1
 2015-11-07,home,Old Dominion,D1,1.9,Marshall,D1,0.7
+2015-10-05,neutral,Old Westbury,D3,3.1,St. Joseph's (Brkln),D3,1.7
 2015-10-17,home,Old Westbury,D3,1.9,Mt. St. Mary (NY),D3,2.8
 2015-10-21,home,Old Westbury,D3,1.8,SUNY Maritime,D3,2.8
 2015-10-06,home,Olivet,D3,1.9,Hope,D3,1.8
@@ -1917,7 +1880,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-27,home,Oral Roberts,D1,2.2,Central Ark.,D1,0.9
 2015-10-31,home,Oral Roberts,D1,1.5,IPFW,D1,1.3
 2015-11-02,home,Oral Roberts,D1,0.9,Missouri St.,D1,0.8
-2015-10-04,home,Oregon St.,D1,1.0,San Diego St.,D1,0.9
 2015-10-30,home,Oregon St.,D1,0.8,Stanford,D1,0.8
 2015-11-01,home,Oregon St.,D1,1.4,California,D1,1.1
 2015-11-12,home,Oregon St.,D1,0.8,Washington,D1,0.8
@@ -1934,11 +1896,9 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-30,home,Pacific,D1,1.1,San Diego,D1,1.6
 2015-11-01,home,Pacific,D1,1.1,Loyola Marymount,D1,1.3
 2015-11-14,home,Pacific,D1,0.7,Gonzaga,D1,1.1
-2015-10-04,home,Pacific Lutheran,D3,1.6,Willamette,D3,0.5
 2015-10-24,home,Pacific Lutheran,D3,0.9,Whitworth,D3,1.4
 2015-10-25,home,Pacific Lutheran,D3,2.2,Whitman,D3,0.7
 2015-11-07,home,Pacific Lutheran,D3,1.6,Puget Sound,D3,0.8
-2015-10-04,home,Pacific (OR),D3,1.5,Whitman,D3,1.4
 2015-10-10,home,Pacific (OR),D3,1.3,George Fox,D3,1.2
 2015-10-23,home,Pacific (OR),D3,1.3,Linfield,D3,1.4
 2015-10-31,home,Pacific (OR),D3,0.8,Pacific Lutheran,D3,1.9
@@ -1974,7 +1934,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-06,home,Philadelphia U.,D2,1.4,Holy Family,D2,0.5
 2015-10-20,home,Philadelphia U.,D2,1.6,Georgian Court,D2,0.9
 2015-10-24,home,Philadelphia U.,D2,1.1,Concordia (NY),D2,0.8
-2015-10-04,home,Piedmont,D3,1.4,Sewanee,D3,1.2
 2015-10-09,home,Piedmont,D3,1.2,Methodist,D3,2.3
 2015-10-14,home,Piedmont,D3,1.0,Maryville (TN),D3,3.1
 2015-10-05,home,Pine Manor,D3,2.0,Eastern Nazarene,D3,1.8
@@ -2040,7 +1999,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-24,home,Providence,D1,1.8,DePaul,D1,0.7
 2015-10-31,home,Providence,D1,0.8,Creighton,D1,1.4
 2015-11-05,home,Providence,D1,1.4,St. John's (NY),D1,0.6
-2015-10-04,home,Puget Sound,D3,1.5,Linfield,D3,1.0
 2015-10-10,home,Puget Sound,D3,1.0,Pacific Lutheran,D3,1.3
 2015-10-24,home,Puget Sound,D3,1.7,Whitman,D3,0.9
 2015-10-25,home,Puget Sound,D3,0.7,Whitworth,D3,1.8
@@ -2054,7 +2012,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-24,home,Queens (NC),D2,2.4,Coker,D2,1.5
 2015-10-17,home,Queens (NY),D2,1.5,Dowling,D2,1.4
 2015-10-28,home,Queens (NY),D2,1.5,Dist. Columbia,D2,2.1
-2015-10-04,home,Quincy,D2,1.7,Rockhurst,D2,1.8
 2015-10-23,home,Quincy,D2,1.6,McKendree,D2,1.3
 2015-10-25,home,Quincy,D2,2.9,Ill.-Springfield,D2,0.9
 2015-10-07,home,Quinnipiac,D1,1.5,Marist,D1,1.3
@@ -2079,7 +2036,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,Redlands,D3,1.2,Chapman,D3,1.1
 2015-10-21,home,Redlands,D3,0.9,Occidental,D3,1.5
 2015-10-31,home,Redlands,D3,1.6,La Verne,D3,1.4
-2015-10-04,home,Regis (CO),D2,2.6,Colo. Christian,D2,0.6
 2015-10-16,home,Regis (CO),D2,1.0,Metro St.,D2,1.0
 2015-10-18,home,Regis (CO),D2,1.3,UC-Colo. Springs,D2,1.0
 2015-10-21,home,Regis (CO),D2,2.6,South Dakota Mines,D2,0.9
@@ -2232,7 +2188,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Saint Rose,D2,1.5,Southern Conn. St.,D2,0.8
 2015-10-21,home,Saint Rose,D2,1.9,American Int'l,D2,0.7
 2015-10-27,home,Saint Rose,D2,1.5,Saint Michael's,D2,0.8
-2015-10-04,home,Saint Vincent,D3,0.9,Thomas More,D3,5.3
 2015-10-07,home,Saint Vincent,D3,3.0,Thiel,D3,2.8
 2015-10-13,home,Saint Vincent,D3,1.6,Bethany (WV),D3,2.0
 2015-10-21,home,Saint Vincent,D3,2.4,Waynesburg,D3,1.4
@@ -2247,7 +2202,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,Salisbury,D3,2.0,Penn St. Harrisburg,D3,0.9
 2015-10-24,home,Salisbury,D3,0.9,Frostburg St.,D3,1.1
 2015-10-28,home,Salisbury,D3,1.7,Wesley,D3,0.7
-2015-10-04,home,Salve Regina,D3,1.3,Wentworth,D3,1.5
 2015-10-06,home,Salve Regina,D3,1.0,Wesleyan (CT),D3,1.9
 2015-10-10,home,Salve Regina,D3,1.5,Roger Williams,D3,1.4
 2015-10-24,home,Salve Regina,D3,0.9,Endicott,D3,1.8
@@ -2263,7 +2217,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-16,home,San Francisco,D1,1.4,Pacific,D1,1.4
 2015-10-18,home,San Francisco,D1,1.5,St. Mary's (CA),D1,1.5
 2015-11-14,home,San Francisco,D1,1.2,Loyola Marymount,D1,1.8
-2015-10-04,home,San Fran. St.,D2,1.6,Humboldt St.,D2,0.6
 2015-10-16,home,San Fran. St.,D2,0.8,Cal St. L.A.,D2,0.9
 2015-10-18,home,San Fran. St.,D2,1.5,Cal St. Dom. Hills,D2,1.3
 2015-10-23,home,San Fran. St.,D2,1.6,Cal St. San B'dino,D2,0.8
@@ -2280,17 +2233,16 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-13,home,Sarah Lawrence,D3,1.6,St. Joseph's (L.I.),D3,2.1
 2015-10-24,home,Sarah Lawrence,D3,2.9,York (NY),D3,1.4
 2015-10-28,home,Sarah Lawrence,D3,1.3,Farmingdale St.,D3,3.4
-2015-10-05,home,S.C. Aiken,D2,1.8,Flagler,D2,2.0
+2015-10-07,home,S.C. Aiken,D2,1.8,Flagler,D2,2.0
 2015-10-23,home,S.C. Aiken,D2,1.6,Clayton St.,D2,1.3
+2015-10-26,home,S.C. Aiken,D2,2.8,Ga. Southwestern,D2,1.0
 2015-10-31,home,S.C. Aiken,D2,2.4,North Georgia,D2,1.2
-2015-10-04,home,Schreiner,D3,0.6,Texas Lutheran,D3,1.2
 2015-10-09,home,Schreiner,D3,0.8,Colorado Col.,D3,1.8
 2015-10-11,home,Schreiner,D3,0.9,Dallas,D3,1.2
 2015-11-01,home,Schreiner,D3,0.6,Trinity (TX),D3,1.8
 2015-10-17,home,Scranton,D3,1.0,Catholic,D3,0.9
 2015-10-21,home,Scranton,D3,1.2,Moravian,D3,1.2
 2015-10-24,home,Scranton,D3,0.7,Merchant Marine,D3,1.0
-2015-10-04,home,Seattle,D1,1.9,Air Force,D1,0.6
 2015-10-16,home,Seattle,D1,2.3,CSU Bakersfield,D1,0.6
 2015-10-18,home,Seattle,D1,2.6,San Jose St.,D1,0.6
 2015-11-01,home,Seattle,D1,2.1,Incarnate Word,D1,1.0
@@ -2352,13 +2304,11 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-27,home,South Carolina,D1,1.7,FIU,D1,2.7
 2015-10-31,home,South Carolina,D1,1.6,Old Dominion,D1,2.0
 2015-11-07,home,South Carolina,D1,0.9,Coastal Caro.,D1,2.0
-2015-10-04,home,South Dakota Mines,D2,0.9,Colorado Mines,D2,4.0
 2015-10-16,home,South Dakota Mines,D2,1.4,UC-Colo. Springs,D2,2.6
 2015-10-18,home,South Dakota Mines,D2,1.1,Metro St.,D2,2.5
 2015-10-21,home,Southern Conn. St.,D2,1.1,Adelphi,D2,1.4
 2015-10-24,home,Southern Conn. St.,D2,1.3,Assumption,D2,0.7
 2015-10-27,home,Southern Conn. St.,D2,1.8,Stonehill,D2,1.3
-2015-10-04,home,Southern Ind.,D2,1.2,St. Joseph's (IN),D2,1.1
 2015-10-16,home,Southern Ind.,D2,1.8,Truman,D2,1.3
 2015-10-18,home,Southern Ind.,D2,1.9,Quincy,D2,1.9
 2015-10-17,home,Southern Me.,D3,0.7,Eastern Conn. St.,D3,2.8
@@ -2400,7 +2350,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-24,home,Springfield,D3,0.9,MIT,D3,1.2
 2015-10-27,home,Springfield,D3,2.6,Fitchburg St.,D3,0.5
 2015-10-31,home,Springfield,D3,2.0,Coast Guard,D3,0.6
-2015-10-04,home,Spring Hill,D2,1.0,Lee,D2,1.8
 2015-10-23,home,Spring Hill,D2,1.3,Mississippi Col.,D2,0.8
 2015-10-25,home,Spring Hill,D2,1.5,Delta St.,D2,1.1
 2015-10-30,home,Spring Hill,D2,0.9,West Florida,D2,1.4
@@ -2446,6 +2395,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-14,home,St. John's (NY),D1,0.6,Xavier,D1,1.3
 2015-10-24,home,St. John's (NY),D1,0.8,Georgetown,D1,1.5
 2015-10-28,home,St. John's (NY),D1,1.2,Villanova,D1,1.4
+2015-10-05,neutral,St. Joseph's (Brkln),D3,1.7,Old Westbury,D3,3.1
 2015-10-07,home,St. Joseph's (Brkln),D3,1.3,St. Joseph's (L.I.),D3,2.6
 2015-10-10,home,St. Joseph's (Brkln),D3,1.8,Sarah Lawrence,D3,2.1
 2015-10-13,home,St. Joseph's (Brkln),D3,1.1,SUNY Maritime,D3,3.2
@@ -2537,7 +2487,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,SUNY Oneonta,D3,1.2,Plattsburgh St.,D3,1.1
 2015-10-14,home,SUNY Oneonta,D3,1.7,Hamilton,D3,0.5
 2015-10-17,home,SUNY Oneonta,D3,1.5,SUNY New Paltz,D3,0.6
-2015-10-04,home,SUNY Poly,D3,1.3,Bryn Athyn,D3,1.0
 2015-10-07,home,SUNY Poly,D3,2.2,SUNY Canton,D3,1.4
 2015-10-10,home,SUNY Poly,D3,5.6,Cobleskill St.,D3,0.9
 2015-10-30,home,SUNY Poly,D3,2.7,Penn St.-Berks,D3,1.4
@@ -2604,7 +2553,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Thomas More,D3,1.8,Westminster (PA),D3,0.8
 2015-10-24,home,Thomas More,D3,3.3,Geneva,D3,1.0
 2015-11-01,home,Thomas More,D3,2.3,Wash. & Jeff.,D3,0.8
-2015-10-04,home,Tiffin,D2,3.0,Walsh,D2,0.9
 2015-10-23,home,Tiffin,D2,1.0,Saginaw Valley,D2,2.1
 2015-10-25,home,Tiffin,D2,1.1,Northwood (MI),D2,1.9
 2015-10-10,home,Transylvania,D3,1.0,Rose-Hulman,D3,1.0
@@ -2622,11 +2570,9 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,Trinity (CT),D3,0.7,Bowdoin,D3,1.2
 2015-10-21,home,Trinity (CT),D3,0.7,Wesleyan (CT),D3,1.6
 2015-10-28,home,Trinity (CT),D3,0.6,Amherst,D3,1.6
-2015-10-04,home,Trinity (TX),D3,2.8,Southwestern (TX),D3,0.7
 2015-10-09,home,Trinity (TX),D3,1.8,Dallas,D3,0.7
 2015-10-11,home,Trinity (TX),D3,1.7,Colorado Col.,D3,1.1
 2015-10-30,home,Trinity (TX),D3,2.0,UC Santa Cruz,D3,0.9
-2015-10-04,home,Truman,D2,2.0,William Jewell,D2,1.2
 2015-10-23,home,Truman,D2,1.9,Ill.-Springfield,D2,0.8
 2015-10-25,home,Truman,D2,1.1,McKendree,D2,1.2
 2015-10-28,home,Truman,D2,1.7,Quincy,D2,1.8
@@ -2642,7 +2588,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,UAB,D1,1.3,FIU,D1,2.9
 2015-10-24,home,UAB,D1,2.4,Fla. Atlantic,D1,1.1
 2015-11-07,home,UAB,D1,1.0,Charlotte,D1,1.4
-2015-10-04,home,UC-Colo. Springs,D2,1.7,Colorado St.-Pueblo,D2,1.7
 2015-10-09,home,UC-Colo. Springs,D2,3.3,South Dakota Mines,D2,1.1
 2015-10-11,home,UC-Colo. Springs,D2,1.3,Regis (CO),D2,1.0
 2015-10-23,home,UC-Colo. Springs,D2,1.2,Colorado Mesa,D2,1.6
@@ -2714,10 +2659,12 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-27,home,UNCG,D1,2.5,VMI,D1,0.5
 2015-10-07,home,UNC Pembroke,D2,0.8,Lander,D2,2.0
 2015-10-14,home,UNC Pembroke,D2,2.1,Coker,D2,1.2
+2015-10-26,home,UNC Pembroke,D2,1.5,Flagler,D2,2.4
 2015-10-28,home,UNC Pembroke,D2,1.3,S.C. Aiken,D2,1.5
 2015-10-10,home,UNCW,D1,2.3,Drexel,D1,0.5
 2015-10-14,home,UNCW,D1,1.8,Elon,D1,1.1
 2015-10-21,home,UNCW,D1,2.1,Old Dominion,D1,1.1
+2015-10-28,home,UNCW,D1,2.3,Col. of Charleston,D1,0.8
 2015-10-31,home,UNCW,D1,1.8,FGCU,D1,0.9
 2015-10-06,home,U New England,D3,1.0,Johnson & Wales (RI),D3,2.7
 2015-10-10,home,U New England,D3,1.3,Western New Eng.,D3,3.0
@@ -2732,7 +2679,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-09,home,Union (TN),D2,1.8,Mississippi Col.,D2,1.0
 2015-10-11,home,Union (TN),D2,2.2,Delta St.,D2,1.4
 2015-10-20,home,Union (TN),D2,2.5,Ouachita Baptist,D2,1.5
-2015-10-04,home,UNLV,D1,2.4,UTRGV,D1,0.9
 2015-10-18,home,UNLV,D1,1.9,Incarnate Word,D1,1.5
 2015-10-23,home,UNLV,D1,1.2,Seattle,D1,1.6
 2015-10-25,home,UNLV,D1,1.3,Utah Valley,D1,1.2
@@ -2748,7 +2694,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-31,home,Ursinus,D3,1.1,Muhlenberg,D3,0.8
 2015-10-21,home,USC Upstate,D1,1.2,Stetson,D1,1.5
 2015-10-24,home,USC Upstate,D1,1.2,FGCU,D1,2.1
-2015-10-04,home,Utah Valley,D1,2.1,UMKC,D1,0.6
 2015-10-16,home,Utah Valley,D1,2.0,San Jose St.,D1,0.6
 2015-10-29,home,Utah Valley,D1,1.6,Incarnate Word,D1,1.0
 2015-11-07,home,Utah Valley,D1,1.0,Seattle,D1,1.1
@@ -2801,18 +2746,15 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-16,home,Walsh,D2,1.1,Tiffin,D2,2.4
 2015-10-18,home,Walsh,D2,1.7,Findlay,D2,2.3
 2015-10-25,home,Walsh,D2,1.8,Lake Erie,D2,3.2
-2015-10-04,home,Wartburg,D3,1.9,Augsburg,D3,1.1
 2015-10-09,home,Wartburg,D3,1.4,Loras,D3,1.6
 2015-10-24,home,Wartburg,D3,2.5,Simpson,D3,1.2
 2015-10-27,home,Wartburg,D3,1.7,Luther,D3,1.5
-2015-10-04,home,Washington,D1,1.5,UCLA,D1,0.9
 2015-10-18,home,Washington,D1,1.0,Oregon St.,D1,0.7
 2015-10-30,home,Washington,D1,1.2,California,D1,0.8
 2015-11-02,home,Washington,D1,0.7,Stanford,D1,0.6
 2015-10-21,home,Washington Col.,D3,1.6,Catholic,D3,0.9
 2015-10-24,home,Washington Col.,D3,1.1,Gettysburg,D3,1.2
 2015-10-31,home,Washington Col.,D3,1.3,Johns Hopkins,D3,0.9
-2015-10-04,home,Washington-St. Louis,D3,1.4,Rochester (NY),D3,0.8
 2015-10-21,home,Washington-St. Louis,D3,3.8,Fontbonne,D3,0.9
 2015-10-30,home,Washington-St. Louis,D3,1.7,Carnegie Mellon,D3,1.7
 2015-11-01,home,Washington-St. Louis,D3,1.2,Case,D3,1.4
@@ -2820,7 +2762,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-14,home,Wash. & Jeff.,D3,2.7,Waynesburg,D3,0.5
 2015-10-24,home,Wash. & Jeff.,D3,2.8,Saint Vincent,D3,0.7
 2015-10-27,home,Wash. & Jeff.,D3,0.8,Westminster (PA),D3,0.8
-2015-10-04,home,Wash. & Lee,D3,1.9,Guilford,D3,0.7
 2015-10-07,home,Wash. & Lee,D3,1.8,Hampden-Sydney,D3,0.8
 2015-10-21,home,Wash. & Lee,D3,2.2,Shenandoah,D3,0.8
 2015-10-24,home,Wash. & Lee,D3,2.1,East. Mennonite,D3,0.6
@@ -2833,7 +2774,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-13,home,Webster,D3,1.2,Westminster (MO),D3,3.0
 2015-10-25,home,Webster,D3,1.5,Finlandia,D3,1.9
 2015-10-31,home,Webster,D3,1.6,Greenville,D3,1.3
-2015-10-04,home,Wells,D3,2.3,Wilson,D3,1.1
 2015-10-14,home,Wells,D3,1.1,Morrisville St.,D3,1.3
 2015-10-17,home,Wells,D3,1.7,SUNY Poly,D3,1.3
 2015-10-18,home,Wells,D3,5.5,Cobleskill St.,D3,0.9
@@ -2847,7 +2787,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-10,home,Wesleyan (CT),D3,2.8,Colby,D3,0.7
 2015-10-11,home,Wesleyan (CT),D3,1.2,Middlebury,D3,0.9
 2015-10-17,home,Wesleyan (CT),D3,1.5,Williams,D3,0.7
-2015-10-04,home,West Ala.,D2,1.5,Christian Bros.,D2,1.3
 2015-10-16,home,West Ala.,D2,1.5,Spring Hill,D2,0.7
 2015-10-18,home,West Ala.,D2,1.4,West Florida,D2,1.3
 2015-10-06,home,West Chester,D2,2.7,Pitt.-Johnstown,D2,1.1
@@ -2876,7 +2815,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-17,home,Westfield St.,D3,2.2,Worcester St.,D3,2.1
 2015-10-21,home,Westfield St.,D3,1.8,Rhode Island Col.,D3,2.8
 2015-10-24,home,Westfield St.,D3,0.9,Bridgewater St.,D3,2.4
-2015-10-04,home,West Florida,D2,2.5,Shorter,D2,1.1
 2015-10-23,home,West Florida,D2,2.8,Delta St.,D2,1.0
 2015-10-25,home,West Florida,D2,2.3,Mississippi Col.,D2,0.7
 2015-10-06,home,Westminster (MO),D3,6.4,MacMurray,D3,0.6
@@ -2994,7 +2932,6 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-20,home,Wis.-Platteville,D3,1.7,Wartburg,D3,1.4
 2015-10-28,home,Wis.-Platteville,D3,1.0,Wis.-Whitewater,D3,1.8
 2015-11-01,home,Wis.-Platteville,D3,2.2,Carroll (WI),D3,0.9
-2015-10-04,home,Wis.-Superior,D3,1.2,Saint John's (MN),D3,1.2
 2015-10-10,home,Wis.-Superior,D3,2.5,Minn.-Morris,D3,0.9
 2015-10-24,home,Wis.-Superior,D3,3.3,Northwestern-St.Paul,D3,0.7
 2015-10-31,home,Wis.-Superior,D3,2.9,Concordia-M'head,D3,0.9
@@ -3007,6 +2944,7 @@ date,site,team,div,t_score,opp,div,o_score
 2015-10-07,home,Wm. Paterson,D3,1.3,Sage Colleges,D3,1.3
 2015-10-10,home,Wm. Paterson,D3,1.1,Kean,D3,2.2
 2015-10-17,home,Wm. Paterson,D3,1.5,Rowan,D3,2.4
+2015-10-19,home,Wm. Paterson,D3,1.3,Stockton,D3,1.7
 2015-10-28,home,Wm. Paterson,D3,3.2,New Jersey City,D3,0.8
 2015-10-06,home,Wofford,D1,2.8,VMI,D1,0.5
 2015-10-13,home,Wofford,D1,1.2,UNCG,D1,0.9
