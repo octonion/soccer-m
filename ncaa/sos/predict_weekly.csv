@@ -1,757 +1,754 @@
 date,site,team,div,t_score,opp,div,o_score
-2015-10-14,home,Academy of Art,D2,1.2,Fresno Pacific,D2,1.7
-2015-10-17,home,Academy of Art,D2,1.2,Dixie St.,D2,1.4
-2015-10-16,home,Adams St.,D2,1.9,Colo. Christian,D2,1.3
-2015-10-18,home,Adams St.,D2,0.6,Colorado Mines,D2,3.2
-2015-10-17,home,Adelphi,D2,1.0,Southern N.H.,D2,1.2
-2015-10-14,home,Adrian,D3,1.1,Trine,D3,1.2
-2015-10-16,home,Air Force,D1,1.4,UTRGV,D1,0.9
+2015-10-14,home,Academy of Art,D2,0.8,Fresno Pacific,D2,1.9
+2015-10-17,home,Academy of Art,D2,0.6,Dixie St.,D2,1.3
+2015-10-16,home,Adams St.,D2,1.7,Colo. Christian,D2,1.2
+2015-10-18,home,Adams St.,D2,0.5,Colorado Mines,D2,3.2
+2015-10-17,home,Adelphi,D2,1.1,Southern N.H.,D2,1.0
+2015-10-14,home,Adrian,D3,1.0,Trine,D3,1.2
+2015-10-16,home,Air Force,D1,1.1,UTRGV,D1,0.7
 2015-10-18,home,Air Force,D1,1.1,Houston Baptist,D1,0.9
-2015-10-17,home,Akron,D1,2.1,Northern Ill.,D1,1.0
-2015-10-16,home,Ala.-Huntsville,D2,1.3,West Florida,D2,1.3
-2015-10-18,home,Ala.-Huntsville,D2,1.5,Spring Hill,D2,0.7
+2015-10-17,home,Akron,D1,2.1,Northern Ill.,D1,0.8
+2015-10-16,home,Ala.-Huntsville,D2,1.3,West Florida,D2,1.2
+2015-10-18,home,Ala.-Huntsville,D2,1.8,Spring Hill,D2,0.7
 2015-10-14,home,Albany (NY),D1,1.3,Hartford,D1,0.9
 2015-10-17,home,Albany (NY),D1,1.4,UMass Lowell,D1,0.8
-2015-10-12,home,Albertus Magnus,D3,1.9,Lasell,D3,0.5
-2015-10-14,home,Albion,D3,1.0,Kalamazoo,D3,1.4
-2015-10-17,home,Albright,D3,1.5,Lebanon Valley,D3,1.7
-2015-10-17,home,Alfred,D3,2.6,Utica,D3,1.8
-2015-10-14,home,Allegheny,D3,1.3,Hiram,D3,1.8
-2015-10-14,home,Alvernia,D3,2.7,Albright,D3,0.6
-2015-10-17,home,Alvernia,D3,1.1,Lycoming,D3,1.2
-2015-10-13,home,American Int'l,D2,1.5,Stonehill,D2,1.6
-2015-10-13,home,Amherst,D3,1.6,Connecticut Col.,D3,0.7
-2015-10-14,home,Anderson (IN),D3,2.2,Defiance,D3,2.6
-2015-10-17,home,Anderson (SC),D2,1.6,Catawba,D2,1.2
-2015-10-12,home,Anna Maria,D3,1.4,Emmanuel (MA),D3,2.1
-2015-10-15,home,Anna Maria,D3,1.4,Lesley,D3,1.3
-2015-10-16,home,Appalachian St.,D1,1.6,USC Upstate,D1,1.3
+2015-10-14,home,Albion,D3,0.8,Kalamazoo,D3,1.9
+2015-10-17,home,Albright,D3,1.2,Lebanon Valley,D3,2.0
+2015-10-17,home,Alfred,D3,3.0,Utica,D3,1.3
+2015-10-19,home,Alfred,D3,4.0,Pitt.-Bradford,D3,0.6
+2015-10-14,home,Allegheny,D3,1.1,Hiram,D3,1.5
+2015-10-14,home,Alvernia,D3,2.9,Albright,D3,0.4
+2015-10-17,home,Alvernia,D3,0.9,Lycoming,D3,1.2
+2015-10-13,home,American Int'l,D2,1.3,Stonehill,D2,1.3
+2015-10-13,home,Amherst,D3,1.4,Connecticut Col.,D3,0.6
+2015-10-14,home,Anderson (IN),D3,2.5,Defiance,D3,2.0
+2015-10-17,home,Anderson (SC),D2,2.1,Catawba,D2,1.2
+2015-10-15,home,Anna Maria,D3,1.7,Lesley,D3,1.3
+2015-10-16,home,Appalachian St.,D1,1.2,USC Upstate,D1,1.3
 2015-10-17,home,Army West Point,D1,0.9,American,D1,1.3
-2015-10-13,home,Assumption,D2,0.9,Merrimack,D2,2.0
-2015-10-17,home,Assumption,D2,0.9,Saint Michael's,D2,1.0
-2015-10-13,home,Augsburg,D3,2.2,Concordia-M'head,D3,0.8
-2015-10-17,home,Augsburg,D3,1.5,Hamline,D3,1.1
-2015-10-14,home,Aurora,D3,0.9,Dominican (IL),D3,1.1
-2015-10-16,home,Austin,D3,1.2,Schreiner,D3,0.7
-2015-10-18,home,Austin,D3,0.7,Trinity (TX),D3,1.6
-2015-10-17,home,Averett,D3,1.5,Methodist,D3,3.0
-2015-10-15,home,Azusa Pacific,D2,1.4,California Baptist,D2,2.0
-2015-10-17,home,Babson,D3,0.8,Springfield,D3,0.8
+2015-10-13,home,Assumption,D2,0.8,Merrimack,D2,1.9
+2015-10-17,home,Assumption,D2,1.0,Saint Michael's,D2,0.9
+2015-10-13,home,Augsburg,D3,2.1,Concordia-M'head,D3,0.9
+2015-10-17,home,Augsburg,D3,1.3,Hamline,D3,1.4
+2015-10-19,home,Augsburg,D3,2.2,Martin Luther,D3,0.9
+2015-10-14,home,Aurora,D3,0.7,Dominican (IL),D3,1.1
+2015-10-16,home,Austin,D3,1.3,Schreiner,D3,0.8
+2015-10-18,home,Austin,D3,0.6,Trinity (TX),D3,1.8
+2015-10-17,home,Averett,D3,1.3,Methodist,D3,2.9
+2015-10-15,home,Azusa Pacific,D2,1.7,California Baptist,D2,1.6
+2015-10-17,home,Babson,D3,0.9,Springfield,D3,0.9
 2015-10-18,home,Babson,D3,1.1,Williams,D3,0.7
-2015-10-14,home,Baldwin Wallace,D3,1.4,Mount Union,D3,1.0
-2015-10-13,home,Barry,D2,2.3,Flagler,D2,2.3
-2015-10-17,home,Barry,D2,1.7,Tampa,D2,1.3
-2015-10-17,home,Barton,D2,1.1,Limestone,D2,2.2
-2015-10-17,home,Bates,D3,1.0,Tufts,D3,1.1
-2015-10-18,home,Bates,D3,0.8,Amherst,D3,1.4
-2015-10-12,home,Becker,D3,0.8,Regis (MA),D3,3.7
-2015-10-16,home,Bellarmine,D2,1.5,Quincy,D2,1.1
-2015-10-18,home,Bellarmine,D2,1.3,Truman,D2,0.7
-2015-10-14,home,Belmont Abbey,D2,1.5,Barton,D2,1.3
-2015-10-17,home,Beloit,D3,1.1,Illinois Col.,D3,1.4
-2015-10-18,home,Beloit,D3,0.7,Knox,D3,2.8
-2015-10-14,home,Benedictine (IL),D3,2.8,Concordia Chicago,D3,1.0
-2015-10-13,home,Bentley,D2,1.2,Southern Conn. St.,D2,1.0
-2015-10-16,home,Bentley,D2,1.8,St. Anselm,D2,1.1
-2015-10-13,home,Bethany Lutheran,D3,1.5,Martin Luther,D3,3.4
-2015-10-17,home,Bethany (WV),D3,0.9,Wash. & Jeff.,D3,1.5
-2015-10-16,home,Birmingham-So.,D3,1.0,Centre,D3,1.0
-2015-10-18,home,Birmingham-So.,D3,1.6,Sewanee,D3,0.6
-2015-10-15,home,Blackburn,D3,1.8,Eureka,D3,1.2
-2015-10-17,home,Blackburn,D3,0.9,Westminster (MO),D3,2.4
-2015-10-17,home,Bloomfield,D2,1.9,Shippensburg,D2,1.2
-2015-10-17,home,Bloomsburg,D2,2.9,Pitt.-Johnstown,D2,1.0
-2015-10-12,home,Bowdoin,D3,0.9,Babson,D3,0.7
-2015-10-17,home,Bowdoin,D3,1.4,Hamilton,D3,0.5
-2015-10-17,home,Bradley,D1,1.0,Missouri St.,D1,0.7
-2015-10-13,home,Brandeis,D3,1.4,Mass. Maritime,D3,0.6
-2015-10-16,home,Brandeis,D3,1.0,Chicago,D3,0.7
-2015-10-18,home,Brandeis,D3,1.0,Washington-St. Louis,D3,0.9
-2015-10-12,home,Brevard,D2,0.6,Wingate,D2,1.9
-2015-10-16,home,Brevard,D2,1.0,Lenoir-Rhyne,D2,1.8
-2015-10-17,home,Bridgeport,D2,1.6,NYIT,D2,0.8
-2015-10-14,home,Bridgewater (VA),D3,1.7,East. Mennonite,D3,0.9
-2015-10-17,home,Bridgewater (VA),D3,1.5,Hampden-Sydney,D3,1.2
-2015-10-13,home,Brown,D1,1.4,Boston U.,D1,1.2
-2015-10-18,home,Bryant,D1,2.0,Sacred Heart,D1,1.0
-2015-10-17,home,Bucknell,D1,1.2,Navy,D1,1.0
-2015-10-14,home,Buena Vista,D3,1.0,Wartburg,D3,2.4
-2015-10-16,home,Buffalo,D1,1.5,West Virginia,D1,1.7
-2015-10-14,home,Butler,D1,1.1,Creighton,D1,1.6
-2015-10-17,home,Butler,D1,1.9,St. John's (NY),D1,0.7
-2015-10-17,home,BYU-Hawaii,D2,2.6,Holy Names,D2,1.1
-2015-10-14,home,Cabrini,D3,1.8,Neumann,D3,0.7
-2015-10-17,home,Cabrini,D3,2.7,Marywood,D3,1.0
-2015-10-12,home,Cairn,D3,1.9,Summit,D3,1.1
-2015-10-14,home,Caldwell,D2,1.4,Bloomfield,D2,2.0
-2015-10-17,home,California (PA),D2,2.9,Gannon,D2,1.0
-2015-10-17,home,Cal Lutheran,D3,1.4,La Verne,D3,2.2
-2015-10-17,home,Cal Poly,D1,1.3,UC Santa Barbara,D1,1.3
-2015-10-14,home,Cal Poly Pomona,D2,1.8,Cal St. San B'dino,D2,1.0
-2015-10-16,home,Cal Poly Pomona,D2,1.6,Chico St.,D2,0.8
-2015-10-17,home,Cal St. Fullerton,D1,1.4,UC Irvine,D1,1.0
-2015-10-16,home,Cal St. Monterey Bay,D2,1.8,Cal St. Dom. Hills,D2,1.9
-2015-10-18,home,Cal St. Monterey Bay,D2,1.0,Cal St. L.A.,D2,1.4
+2015-10-14,home,Baldwin Wallace,D3,1.3,Mount Union,D3,1.1
+2015-10-13,home,Barry,D2,1.8,Flagler,D2,2.1
+2015-10-17,home,Barry,D2,1.6,Tampa,D2,1.3
+2015-10-17,home,Barton,D2,1.0,Limestone,D2,2.1
+2015-10-17,home,Bates,D3,0.8,Tufts,D3,1.1
+2015-10-18,home,Bates,D3,0.6,Amherst,D3,1.3
+2015-10-16,home,Bellarmine,D2,1.4,Quincy,D2,1.1
+2015-10-18,home,Bellarmine,D2,1.4,Truman,D2,0.7
+2015-10-14,home,Belmont Abbey,D2,1.2,Barton,D2,1.3
+2015-10-17,home,Beloit,D3,1.0,Illinois Col.,D3,1.3
+2015-10-18,home,Beloit,D3,0.8,Knox,D3,3.0
+2015-10-14,home,Benedictine (IL),D3,3.7,Concordia Chicago,D3,0.8
+2015-10-13,home,Bentley,D2,1.3,Southern Conn. St.,D2,1.1
+2015-10-16,home,Bentley,D2,2.7,St. Anselm,D2,1.0
+2015-10-13,home,Bethany Lutheran,D3,1.3,Martin Luther,D3,2.2
+2015-10-17,home,Bethany (WV),D3,0.9,Wash. & Jeff.,D3,1.6
+2015-10-16,home,Birmingham-So.,D3,0.9,Centre,D3,1.1
+2015-10-18,home,Birmingham-So.,D3,1.7,Sewanee,D3,0.7
+2015-10-15,home,Blackburn,D3,1.7,Eureka,D3,1.3
+2015-10-17,home,Blackburn,D3,0.7,Westminster (MO),D3,2.7
+2015-10-17,home,Bloomfield,D2,2.1,Shippensburg,D2,1.1
+2015-10-17,home,Bloomsburg,D2,3.4,Pitt.-Johnstown,D2,0.8
+2015-10-17,home,Bowdoin,D3,1.7,Hamilton,D3,0.5
+2015-10-17,home,Bradley,D1,1.0,Missouri St.,D1,0.8
+2015-10-13,home,Brandeis,D3,1.9,Mass. Maritime,D3,0.5
+2015-10-16,home,Brandeis,D3,1.2,Chicago,D3,0.6
+2015-10-18,home,Brandeis,D3,1.1,Washington-St. Louis,D3,0.8
+2015-10-16,home,Brevard,D2,1.0,Lenoir-Rhyne,D2,1.5
+2015-10-17,home,Bridgeport,D2,1.2,NYIT,D2,1.7
+2015-10-14,home,Bridgewater (VA),D3,1.3,East. Mennonite,D3,0.7
+2015-10-17,home,Bridgewater (VA),D3,1.5,Hampden-Sydney,D3,1.0
+2015-10-19,home,Brooklyn,D3,1.1,Rowan,D3,3.2
+2015-10-13,home,Brown,D1,1.1,Boston U.,D1,1.0
+2015-10-18,home,Bryant,D1,2.4,Sacred Heart,D1,0.8
+2015-10-17,home,Bucknell,D1,1.0,Navy,D1,1.2
+2015-10-14,home,Buena Vista,D3,1.0,Wartburg,D3,2.9
+2015-10-16,home,Buffalo,D1,1.6,West Virginia,D1,1.8
+2015-10-14,home,Butler,D1,1.1,Creighton,D1,1.5
+2015-10-17,home,Butler,D1,1.8,St. John's (NY),D1,0.7
+2015-10-17,home,BYU-Hawaii,D2,1.9,Holy Names,D2,0.8
+2015-10-14,home,Cabrini,D3,2.0,Neumann,D3,0.6
+2015-10-17,home,Cabrini,D3,2.6,Marywood,D3,1.0
+2015-10-14,home,Caldwell,D2,1.3,Bloomfield,D2,1.9
+2015-10-17,home,California (PA),D2,2.2,Gannon,D2,0.8
+2015-10-17,home,Cal Lutheran,D3,1.4,La Verne,D3,1.9
+2015-10-17,home,Cal Poly,D1,1.2,UC Santa Barbara,D1,1.2
+2015-10-14,home,Cal Poly Pomona,D2,1.8,Cal St. San B'dino,D2,0.9
+2015-10-16,home,Cal Poly Pomona,D2,1.7,Chico St.,D2,0.7
+2015-10-17,home,Cal St. Fullerton,D1,1.4,UC Irvine,D1,0.8
+2015-10-16,home,Cal St. Monterey Bay,D2,1.6,Cal St. Dom. Hills,D2,2.1
+2015-10-18,home,Cal St. Monterey Bay,D2,1.1,Cal St. L.A.,D2,1.6
 2015-10-18,home,Cal St. San B'dino,D2,1.4,Chico St.,D2,1.0
-2015-10-14,home,Cal St. Stanislaus,D2,4.7,UC Santa Cruz,D3,0.7
-2015-10-14,home,Caltech,D3,1.4,Whittier,D3,3.5
-2015-10-17,home,Calvin,D3,2.2,Alma,D3,0.8
-2015-10-17,home,Campbell,D1,3.4,Gardner-Webb,D1,1.4
-2015-10-14,home,Capital,D3,1.9,Wilmington (OH),D3,1.3
-2015-10-17,home,Capital,D3,1.1,Ohio Northern,D3,2.1
+2015-10-14,home,Cal St. Stanislaus,D2,4.0,UC Santa Cruz,D3,0.7
+2015-10-14,home,Caltech,D3,1.4,Whittier,D3,4.0
+2015-10-17,home,Calvin,D3,2.2,Alma,D3,0.6
+2015-10-17,home,Campbell,D1,2.7,Gardner-Webb,D1,1.6
+2015-10-14,home,Capital,D3,2.3,Wilmington (OH),D3,1.1
+2015-10-17,home,Capital,D3,1.2,Ohio Northern,D3,1.8
 2015-10-17,home,Carleton,D3,1.1,Macalester,D3,1.2
-2015-10-16,home,Carnegie Mellon,D3,1.9,Rochester (NY),D3,0.8
-2015-10-18,home,Carnegie Mellon,D3,2.1,Emory,D3,1.1
-2015-10-14,home,Carroll (WI),D3,1.5,Lake Forest,D3,2.3
-2015-10-17,home,Carroll (WI),D3,0.9,Knox,D3,2.5
-2015-10-18,home,Carroll (WI),D3,1.4,Monmouth (IL),D3,1.0
-2015-10-13,home,Carson-Newman,D2,1.5,Young Harris,D2,1.9
-2015-10-17,home,Carson-Newman,D2,1.3,Wingate,D2,1.7
-2015-10-17,home,Carthage,D3,2.5,Augustana (IL),D3,0.9
-2015-10-16,home,Case,D3,1.7,Emory,D3,0.7
-2015-10-18,home,Case,D3,1.5,Rochester (NY),D3,0.6
-2015-10-17,home,Castleton,D3,2.3,SUNY Canton,D3,0.6
-2015-10-17,home,Cazenovia,D3,1.5,Gallaudet,D3,1.4
-2015-10-18,home,Cazenovia,D3,2.2,Wilson,D3,1.9
-2015-10-16,home,Centenary (LA),D3,0.7,Trinity (TX),D3,2.0
-2015-10-18,home,Centenary (LA),D3,1.2,Schreiner,D3,1.0
-2015-10-17,home,Centenary (NJ),D3,3.0,Rosemont,D3,1.0
-2015-10-14,home,Central (IA),D3,1.5,Simpson,D3,1.7
-2015-10-17,home,Central (IA),D3,1.2,Wartburg,D3,2.3
-2015-10-17,home,Chaminade,D2,0.9,Hawaii Pacific,D2,3.6
-2015-10-12,home,Chapman,D3,2.1,Cal Lutheran,D3,0.9
-2015-10-17,home,Chapman,D3,3.8,Caltech,D3,0.8
-2015-10-15,home,Charleston (WV),D2,2.1,Urbana,D2,0.8
-2015-10-18,home,Charleston (WV),D2,1.9,Chowan,D2,0.7
-2015-10-17,home,Chestnut Hill,D2,1.9,Caldwell,D2,1.4
-2015-10-14,home,Chowan,D2,2.6,Newberry,D2,0.5
-2015-10-17,home,Chris. Newport,D3,2.1,Wesley,D3,0.6
-2015-10-15,neutral,Christian Bros.,D2,1.4,Saint Leo,D2,1.6
-2015-10-14,home,Cincinnati,D1,2.5,IPFW,D1,1.6
-2015-10-17,home,Cincinnati,D1,1.7,SMU,D1,2.0
-2015-10-12,home,Claremont-M-S,D3,1.4,Redlands,D3,0.8
-2015-10-14,home,Claremont-M-S,D3,1.3,La Verne,D3,0.8
-2015-10-16,home,Clarkson,D3,0.8,Union (NY),D3,1.5
-2015-10-17,home,Clarkson,D3,0.8,Rensselaer,D3,2.0
-2015-10-14,home,Clayton St.,D2,2.5,North Georgia,D2,1.2
-2015-10-18,home,Clayton St.,D2,1.2,Francis Marion,D2,1.4
-2015-10-17,home,Cleveland St.,D1,1.5,Belmont,D1,1.0
+2015-10-16,home,Carnegie Mellon,D3,1.7,Rochester (NY),D3,1.0
+2015-10-18,home,Carnegie Mellon,D3,1.6,Emory,D3,1.1
+2015-10-14,home,Carroll (WI),D3,1.4,Lake Forest,D3,2.2
+2015-10-17,home,Carroll (WI),D3,1.1,Knox,D3,2.5
+2015-10-18,home,Carroll (WI),D3,1.7,Monmouth (IL),D3,1.0
+2015-10-13,home,Carson-Newman,D2,1.5,Young Harris,D2,2.4
+2015-10-17,home,Carson-Newman,D2,1.2,Wingate,D2,1.9
+2015-10-17,home,Carthage,D3,2.4,Augustana (IL),D3,0.7
+2015-10-16,home,Case,D3,1.4,Emory,D3,0.8
+2015-10-18,home,Case,D3,1.5,Rochester (NY),D3,0.7
+2015-10-17,home,Castleton,D3,1.9,SUNY Canton,D3,0.5
+2015-10-17,home,Cazenovia,D3,2.1,Gallaudet,D3,1.0
+2015-10-18,home,Cazenovia,D3,1.7,Wilson,D3,1.3
+2015-10-16,home,Centenary (LA),D3,0.5,Trinity (TX),D3,2.1
+2015-10-18,home,Centenary (LA),D3,1.0,Schreiner,D3,1.0
+2015-10-17,home,Centenary (NJ),D3,3.5,Rosemont,D3,0.8
+2015-10-14,home,Central (IA),D3,1.3,Simpson,D3,1.8
+2015-10-17,home,Central (IA),D3,1.1,Wartburg,D3,2.5
+2015-10-17,home,Chaminade,D2,0.9,Hawaii Pacific,D2,3.2
+2015-10-19,home,Chaminade,D2,1.3,Holy Names,D2,1.9
+2015-10-17,home,Chapman,D3,4.9,Caltech,D3,0.7
+2015-10-15,home,Charleston (WV),D2,1.7,Urbana,D2,0.8
+2015-10-18,home,Charleston (WV),D2,1.8,Chowan,D2,0.6
+2015-10-17,home,Chestnut Hill,D2,1.8,Caldwell,D2,1.3
+2015-10-14,home,Chowan,D2,2.9,Newberry,D2,0.5
+2015-10-17,home,Chris. Newport,D3,2.0,Wesley,D3,0.7
+2015-10-15,neutral,Christian Bros.,D2,1.1,Saint Leo,D2,1.8
+2015-10-14,home,Cincinnati,D1,2.6,IPFW,D1,1.5
+2015-10-17,home,Cincinnati,D1,1.5,SMU,D1,2.0
+2015-10-14,home,Claremont-M-S,D3,1.5,La Verne,D3,0.8
+2015-10-16,home,Clarkson,D3,1.0,Union (NY),D3,1.9
+2015-10-17,home,Clarkson,D3,0.8,Rensselaer,D3,1.8
+2015-10-14,home,Clayton St.,D2,2.6,North Georgia,D2,0.9
+2015-10-18,home,Clayton St.,D2,1.5,Francis Marion,D2,1.5
+2015-10-17,home,Cleveland St.,D1,1.7,Belmont,D1,1.1
 2015-10-14,home,Coastal Caro.,D1,3.1,Campbell,D1,0.7
-2015-10-17,home,Coastal Caro.,D1,2.0,Liberty,D1,0.4
-2015-10-17,home,Coast Guard,D3,0.9,WPI,D3,1.4
-2015-10-14,home,Cobleskill St.,D3,5.8,Green Mountain,D3,3.1
+2015-10-17,home,Coastal Caro.,D1,1.9,Liberty,D1,0.5
+2015-10-19,home,Coastal Caro.,D1,1.4,Hofstra,D1,0.8
+2015-10-17,home,Coast Guard,D3,0.8,WPI,D3,1.2
+2015-10-14,home,Cobleskill St.,D3,5.1,Green Mountain,D3,2.6
 2015-10-17,home,Coker,D2,1.0,Lincoln Memorial,D2,2.2
-2015-10-17,home,Colby,D3,0.8,Amherst,D3,2.2
-2015-10-17,home,Colby-Sawyer,D3,9.6,Green Mountain,D3,1.2
-2015-10-17,home,Colgate,D1,0.8,Holy Cross,D1,1.1
-2015-10-17,home,Col. of Charleston,D1,1.2,Hofstra,D1,1.4
+2015-10-17,home,Colby,D3,0.5,Amherst,D3,2.0
+2015-10-17,home,Colby-Sawyer,D3,12.3,Green Mountain,D3,0.9
+2015-10-17,home,Colgate,D1,0.8,Holy Cross,D1,0.8
+2015-10-17,home,Col. of Charleston,D1,0.9,Hofstra,D1,1.4
 2015-10-16,home,Colorado Col.,D3,2.8,Southwestern (TX),D3,0.9
-2015-10-18,home,Colorado Col.,D3,1.3,Texas Lutheran,D3,0.9
-2015-10-18,home,Colorado Mesa,D2,2.2,Colorado St.-Pueblo,D2,1.3
-2015-10-15,home,Concord,D2,1.1,Wheeling Jesuit,D2,1.4
+2015-10-18,home,Colorado Col.,D3,1.4,Texas Lutheran,D3,0.8
+2015-10-18,home,Colorado Mesa,D2,2.0,Colorado St.-Pueblo,D2,1.0
+2015-10-15,home,Concord,D2,0.9,Wheeling Jesuit,D2,1.4
 2015-10-17,home,Concordia-M'head,D3,0.7,Saint John's (MN),D3,2.0
-2015-10-14,home,Concordia Wisconsin,D3,4.7,Rockford,D3,0.7
-2015-10-17,home,Concordia Wisconsin,D3,1.3,Dominican (IL),D3,0.9
-2015-10-13,home,Cornell,D1,0.8,Colgate,D1,1.2
-2015-10-13,home,Crown (MN),D3,1.8,North Central (MN),D3,1.1
-2015-10-18,home,CSU Bakersfield,D1,0.8,Utah Valley,D1,1.4
-2015-10-14,home,CSUN,D1,1.5,Cal St. Fullerton,D1,1.0
-2015-10-14,home,Curry,D3,1.5,Bates,D3,0.9
-2015-10-17,home,Daemen,D2,1.5,Dist. Columbia,D2,2.1
-2015-10-16,home,Dallas,D3,0.9,Texas Lutheran,D3,1.0
-2015-10-18,home,Dallas,D3,1.9,Southwestern (TX),D3,1.0
-2015-10-17,home,Daniel Webster,D3,2.3,Me.-Farmington,D3,1.1
-2015-10-17,home,Dayton,D1,2.9,La Salle,D1,0.9
-2015-10-17,home,Defiance,D3,0.9,Transylvania,D3,1.4
-2015-10-14,home,Delaware,D1,1.1,Drexel,D1,0.8
-2015-10-14,home,Delaware Valley,D3,0.7,Eastern,D3,1.9
-2015-10-16,home,Delta St.,D2,1.4,Lee,D2,2.8
-2015-10-18,home,Delta St.,D2,1.9,Shorter,D2,2.0
-2015-10-17,home,Denver,D1,1.6,Omaha,D1,0.8
-2015-10-17,home,DePaul,D1,1.0,Georgetown,D1,1.8
-2015-10-17,home,Detroit,D1,0.9,Ill.-Chicago,D1,0.9
-2015-10-14,home,Dickinson,D3,1.5,Scranton,D3,0.7
-2015-10-17,home,Dickinson,D3,1.3,Gettysburg,D3,1.2
-2015-10-14,home,Dist. Columbia,D2,2.5,Gannon,D2,1.2
-2015-10-14,home,Dominican (NY),D2,1.1,Concordia (NY),D2,1.5
-2015-10-14,home,Drew,D3,2.4,St. Joseph's (L.I.),D3,0.6
-2015-10-17,home,Drew,D3,1.8,Goucher,D3,0.6
-2015-10-16,home,Drury,D2,1.2,Wis.-Parkside,D2,1.3
-2015-10-18,home,Drury,D2,1.4,Lewis,D2,0.7
-2015-10-17,home,Dubuque,D3,2.7,Buena Vista,D3,0.6
-2015-10-13,home,Duke,D1,1.1,Holy Cross,D1,1.3
-2015-10-16,home,Duke,D1,1.7,North Carolina St.,D1,1.5
-2015-10-13,home,D'Youville,D3,1.6,Pitt.-Bradford,D3,0.9
-2015-10-17,home,D'Youville,D3,1.5,La Roche,D3,1.9
-2015-10-14,home,Earlham,D3,1.1,Transylvania,D3,1.3
-2015-10-17,home,Eastern,D3,1.9,DeSales,D3,0.8
-2015-10-14,home,Eastern Nazarene,D3,2.6,Emerson,D3,1.2
-2015-10-17,home,Eastern Nazarene,D3,2.2,Salve Regina,D3,1.8
-2015-10-13,home,Eastern N.M.,D2,1.6,Tex. Permian Basin,D2,2.5
-2015-10-13,home,East Stroudsburg,D2,1.6,West Chester,D2,1.4
-2015-10-13,home,East Tenn. St.,D1,1.7,Furman,D1,0.9
-2015-10-17,home,Eckerd,D2,1.2,Lynn,D2,1.6
-2015-10-17,home,Edgewood,D3,2.5,Lakeland,D3,1.6
-2015-10-14,home,Elizabethtown,D3,4.3,Penn St.-Berks,D3,0.9
-2015-10-17,home,Elizabethtown,D3,2.4,Lancaster Bible,D3,1.0
-2015-10-17,home,Elmhurst,D3,1.1,Millikin,D3,1.5
-2015-10-14,home,Elmira,D3,2.4,SUNY Canton,D3,1.7
-2015-10-17,home,Elmira,D3,1.3,Houghton,D3,1.8
-2015-10-13,home,Elms,D3,1.8,Newbury,D3,1.7
-2015-10-17,home,Elon,D1,2.7,James Madison,D1,0.7
-2015-10-17,home,Emerson,D3,1.0,Wheaton (MA),D3,2.2
-2015-10-17,home,Emmanuel (MA),D3,1.9,Mount Ida,D3,1.9
-2015-10-16,home,Emory & Henry,D3,1.1,Roanoke,D3,2.3
-2015-10-13,home,Endicott,D3,1.4,Williams,D3,0.7
-2015-10-17,home,Endicott,D3,2.0,Western New Eng.,D3,0.8
-2015-10-13,home,Erskine,D2,1.4,Anderson (SC),D2,1.2
-2015-10-17,home,Erskine,D2,1.2,Pfeiffer,D2,1.8
-2015-10-14,home,Fairfield,D1,1.5,Siena,D1,1.2
-2015-10-17,home,Fairfield,D1,1.0,Monmouth,D1,1.4
-2015-10-17,home,Fairleigh Dickinson,D1,1.7,Central Conn. St.,D1,1.8
-2015-10-14,home,Farmingdale St.,D3,4.6,Old Westbury,D3,1.4
-2015-10-16,home,Farmingdale St.,D3,1.4,Sage Colleges,D3,1.6
-2015-10-14,home,FDU-Florham,D3,1.2,King's (PA),D3,1.8
-2015-10-17,home,FDU-Florham,D3,2.4,Delaware Valley,D3,1.5
-2015-10-14,home,Ferrum,D3,2.3,Averett,D3,1.6
-2015-10-17,home,Ferrum,D3,1.4,Greensboro,D3,1.7
-2015-10-17,home,FGCU,D1,1.6,Lipscomb,D1,0.8
-2015-10-13,home,Finlandia,D3,3.6,Northland,D3,0.8
-2015-10-13,home,Fitchburg St.,D3,0.8,Eastern Conn. St.,D3,2.4
-2015-10-17,home,Fitchburg St.,D3,0.8,Bridgewater St.,D3,2.0
-2015-10-17,home,FIU,D1,2.3,Old Dominion,D1,1.5
-2015-10-13,home,Fla. Atlantic,D1,0.8,FGCU,D1,2.3
-2015-10-16,home,Fla. Atlantic,D1,0.7,Charlotte,D1,1.7
-2015-10-17,home,Flagler,D2,1.7,Lander,D2,1.9
-2015-10-17,home,Florida Tech,D2,2.9,Fla. Southern,D2,0.8
-2015-10-13,home,Fontbonne,D3,2.2,Blackburn,D3,1.3
-2015-10-17,home,Fontbonne,D3,2.2,Spalding,D3,2.3
-2015-10-18,home,Fontbonne,D3,1.9,Finlandia,D3,1.8
-2015-10-17,home,Fordham,D1,1.1,Saint Louis,D1,1.5
+2015-10-14,home,Concordia Wisconsin,D3,3.9,Rockford,D3,0.5
+2015-10-17,home,Concordia Wisconsin,D3,0.9,Dominican (IL),D3,0.8
+2015-10-13,home,Cornell,D1,0.6,Colgate,D1,1.2
+2015-10-13,home,Crown (MN),D3,1.5,North Central (MN),D3,1.4
+2015-10-18,home,CSU Bakersfield,D1,0.8,Utah Valley,D1,1.3
+2015-10-14,home,CSUN,D1,1.1,Cal St. Fullerton,D1,0.9
+2015-10-14,home,Curry,D3,1.3,Bates,D3,1.1
+2015-10-17,home,Daemen,D2,1.4,Dist. Columbia,D2,2.4
+2015-10-16,home,Dallas,D3,0.8,Texas Lutheran,D3,1.1
+2015-10-18,home,Dallas,D3,1.7,Southwestern (TX),D3,1.3
+2015-10-17,home,Daniel Webster,D3,3.2,Me.-Farmington,D3,0.8
+2015-10-17,home,Dayton,D1,3.1,La Salle,D1,1.0
+2015-10-17,home,Defiance,D3,0.6,Transylvania,D3,1.9
+2015-10-14,home,Delaware,D1,1.4,Drexel,D1,0.7
+2015-10-14,home,Delaware Valley,D3,0.6,Eastern,D3,2.8
+2015-10-16,home,Delta St.,D2,1.4,Lee,D2,2.5
+2015-10-18,home,Delta St.,D2,1.8,Shorter,D2,1.7
+2015-10-17,home,Denver,D1,1.5,Omaha,D1,0.8
+2015-10-17,home,DePaul,D1,0.9,Georgetown,D1,1.8
+2015-10-17,home,Detroit,D1,0.7,Ill.-Chicago,D1,0.9
+2015-10-14,home,Dickinson,D3,1.4,Scranton,D3,0.8
+2015-10-17,home,Dickinson,D3,1.6,Gettysburg,D3,1.2
+2015-10-14,home,Dist. Columbia,D2,2.1,Gannon,D2,1.2
+2015-10-14,home,Dominican (NY),D2,1.2,Concordia (NY),D2,1.5
+2015-10-14,home,Drew,D3,2.1,St. Joseph's (L.I.),D3,0.6
+2015-10-17,home,Drew,D3,2.1,Goucher,D3,0.5
+2015-10-16,home,Drury,D2,1.5,Wis.-Parkside,D2,1.1
+2015-10-18,home,Drury,D2,1.6,Lewis,D2,0.6
+2015-10-17,home,Dubuque,D3,3.8,Buena Vista,D3,0.6
+2015-10-13,home,Duke,D1,1.2,Holy Cross,D1,1.2
+2015-10-16,home,Duke,D1,1.5,North Carolina St.,D1,1.4
+2015-10-13,home,D'Youville,D3,1.6,Pitt.-Bradford,D3,1.2
+2015-10-17,home,D'Youville,D3,1.3,La Roche,D3,2.7
+2015-10-14,home,Earlham,D3,0.8,Transylvania,D3,1.3
+2015-10-17,home,Eastern,D3,2.0,DeSales,D3,0.6
+2015-10-14,home,Eastern Nazarene,D3,2.5,Emerson,D3,1.2
+2015-10-17,home,Eastern Nazarene,D3,2.0,Salve Regina,D3,2.0
+2015-10-13,home,Eastern N.M.,D2,1.5,Tex. Permian Basin,D2,1.8
+2015-10-19,home,Eastern N.M.,D2,1.9,Lubbock Christian,D2,1.6
+2015-10-13,home,East Stroudsburg,D2,1.3,West Chester,D2,1.5
+2015-10-13,home,East Tenn. St.,D1,1.4,Furman,D1,0.9
+2015-10-17,home,Eckerd,D2,1.0,Lynn,D2,1.4
+2015-10-17,home,Edgewood,D3,2.4,Lakeland,D3,1.5
+2015-10-14,home,Elizabethtown,D3,3.9,Penn St.-Berks,D3,0.8
+2015-10-17,home,Elizabethtown,D3,2.2,Lancaster Bible,D3,0.8
+2015-10-17,home,Elmhurst,D3,1.2,Millikin,D3,1.3
+2015-10-14,home,Elmira,D3,2.8,SUNY Canton,D3,1.4
+2015-10-17,home,Elmira,D3,1.6,Houghton,D3,1.5
+2015-10-13,home,Elms,D3,1.7,Newbury,D3,1.6
+2015-10-17,home,Elon,D1,2.1,James Madison,D1,0.6
+2015-10-17,home,Emerson,D3,0.9,Wheaton (MA),D3,2.7
+2015-10-17,home,Emmanuel (MA),D3,1.8,Mount Ida,D3,2.2
+2015-10-16,home,Emory & Henry,D3,1.1,Roanoke,D3,2.1
+2015-10-13,home,Endicott,D3,1.3,Williams,D3,0.7
+2015-10-17,home,Endicott,D3,2.0,Western New Eng.,D3,0.7
+2015-10-13,home,Erskine,D2,1.5,Anderson (SC),D2,1.5
+2015-10-17,home,Erskine,D2,1.0,Pfeiffer,D2,2.3
+2015-10-14,home,Fairfield,D1,1.4,Siena,D1,1.0
+2015-10-17,home,Fairfield,D1,1.0,Monmouth,D1,1.2
+2015-10-17,home,Fairleigh Dickinson,D1,1.5,Central Conn. St.,D1,1.7
+2015-10-14,home,Farmingdale St.,D3,3.2,Old Westbury,D3,1.4
+2015-10-16,home,Farmingdale St.,D3,1.1,Sage Colleges,D3,1.6
+2015-10-14,home,FDU-Florham,D3,1.2,King's (PA),D3,1.7
+2015-10-17,home,FDU-Florham,D3,3.7,Delaware Valley,D3,1.3
+2015-10-14,home,Ferrum,D3,2.0,Averett,D3,1.5
+2015-10-17,home,Ferrum,D3,1.0,Greensboro,D3,2.4
+2015-10-19,home,Ferrum,D3,1.9,Emory & Henry,D3,1.6
+2015-10-17,home,FGCU,D1,1.9,Lipscomb,D1,0.6
+2015-10-13,home,Finlandia,D3,3.1,Northland,D3,0.8
+2015-10-13,home,Fitchburg St.,D3,0.7,Eastern Conn. St.,D3,2.1
+2015-10-17,home,Fitchburg St.,D3,0.7,Bridgewater St.,D3,1.9
+2015-10-17,home,FIU,D1,2.1,Old Dominion,D1,1.6
+2015-10-13,home,Fla. Atlantic,D1,0.7,FGCU,D1,2.1
+2015-10-16,home,Fla. Atlantic,D1,0.6,Charlotte,D1,1.6
+2015-10-19,home,Fla. Atlantic,D1,1.1,Marshall,D1,1.3
+2015-10-17,home,Flagler,D2,1.7,Lander,D2,1.6
+2015-10-17,home,Florida Tech,D2,2.0,Fla. Southern,D2,1.0
+2015-10-13,home,Fontbonne,D3,2.2,Blackburn,D3,1.1
+2015-10-17,home,Fontbonne,D3,1.9,Spalding,D3,2.1
+2015-10-18,home,Fontbonne,D3,2.2,Finlandia,D3,1.6
+2015-10-17,home,Fordham,D1,1.2,Saint Louis,D1,1.2
 2015-10-16,home,Fort Lewis,D2,1.2,Colorado Mines,D2,1.6
-2015-10-18,home,Fort Lewis,D2,3.9,Colo. Christian,D2,0.6
-2015-10-13,home,Framingham St.,D3,2.6,Keene St.,D3,1.2
-2015-10-17,home,Franciscan,D3,3.6,Hilbert,D3,1.3
-2015-10-17,home,Franklin,D3,3.0,Bluffton,D3,1.2
-2015-10-13,home,Franklin Pierce,D2,1.6,Adelphi,D2,1.4
-2015-10-17,home,Fresno Pacific,D2,3.4,Azusa Pacific,D2,1.1
-2015-10-17,home,Frostburg St.,D3,2.0,St. Mary's (MD),D3,1.4
+2015-10-18,home,Fort Lewis,D2,3.7,Colo. Christian,D2,0.6
+2015-10-13,home,Framingham St.,D3,2.9,Keene St.,D3,1.3
+2015-10-17,home,Franciscan,D3,3.2,Hilbert,D3,1.5
+2015-10-17,home,Franklin,D3,2.5,Bluffton,D3,0.8
+2015-10-13,home,Franklin Pierce,D2,1.1,Adelphi,D2,1.6
+2015-10-17,home,Fresno Pacific,D2,2.9,Azusa Pacific,D2,1.1
+2015-10-19,home,Fresno Pacific,D2,1.6,Notre Dame de Namur,D2,0.9
+2015-10-17,home,Frostburg St.,D3,2.2,St. Mary's (MD),D3,1.4
+2015-10-19,home,Gannon,D2,1.7,Roberts Wesleyan,D2,2.1
 2015-10-14,home,Gardner-Webb,D1,1.6,UNC Asheville,D1,1.8
-2015-10-13,home,Ga. Southern,D1,2.4,Jacksonville,D1,1.5
-2015-10-14,home,Ga. Southwestern,D2,1.3,Montevallo,D2,1.8
-2015-10-17,home,Ga. Southwestern,D2,0.9,Young Harris,D2,3.1
-2015-10-13,home,Geneva,D3,2.7,Franciscan,D3,1.7
-2015-10-14,home,George Mason,D1,1.2,Dayton,D1,1.7
-2015-10-14,home,Georgetown,D1,1.8,Marquette,D1,1.1
-2015-10-13,home,George Washington,D1,1.5,Longwood,D1,1.8
-2015-10-17,home,George Washington,D1,1.1,Rhode Island,D1,1.7
-2015-10-13,home,Georgian Court,D2,2.6,St. Thomas Aquinas,D2,1.3
-2015-10-17,home,Georgian Court,D2,1.5,Concordia (NY),D2,1.5
-2015-10-13,home,Goldey-Beacom,D2,1.8,Nyack,D2,1.8
-2015-10-14,home,Goldey-Beacom,D2,2.7,Pitt.-Johnstown,D2,1.6
-2015-10-17,home,Goldey-Beacom,D2,1.7,Dominican (NY),D2,1.5
-2015-10-14,home,Goucher,D3,0.8,Washington Col.,D3,1.7
-2015-10-17,home,Green Bay,D1,0.9,Oakland,D1,0.9
-2015-10-14,home,Greensboro,D3,3.4,William Peace,D3,0.9
-2015-10-17,home,Greenville,D3,1.8,Eureka,D3,1.1
-2015-10-17,home,Grove City,D3,5.0,Saint Vincent,D3,0.7
-2015-10-13,home,Guilford,D3,0.9,Roanoke,D3,1.4
-2015-10-17,home,Gust. Adolphus,D3,1.9,Bethel (MN),D3,0.6
-2015-10-17,home,Gwynedd Mercy,D3,1.1,Immaculata,D3,1.5
-2015-10-14,home,Hamline,D3,1.2,Carleton,D3,1.4
-2015-10-17,home,Hanover,D3,3.1,Anderson (IN),D3,0.9
-2015-10-17,home,Hardin-Simmons,D3,2.9,McMurry,D3,0.6
+2015-10-13,home,Ga. Southern,D1,2.4,Jacksonville,D1,1.8
+2015-10-14,home,Ga. Southwestern,D2,1.0,Montevallo,D2,1.9
+2015-10-17,home,Ga. Southwestern,D2,0.8,Young Harris,D2,3.4
+2015-10-13,home,Geneva,D3,3.2,Franciscan,D3,1.4
+2015-10-14,home,George Mason,D1,1.1,Dayton,D1,1.8
+2015-10-14,home,Georgetown,D1,1.7,Marquette,D1,0.8
+2015-10-13,home,George Washington,D1,1.7,Longwood,D1,1.5
+2015-10-17,home,George Washington,D1,1.2,Rhode Island,D1,1.3
+2015-10-13,home,Georgian Court,D2,3.6,St. Thomas Aquinas,D2,1.2
+2015-10-17,home,Georgian Court,D2,1.9,Concordia (NY),D2,1.5
+2015-10-13,home,Goldey-Beacom,D2,1.8,Nyack,D2,2.0
+2015-10-14,home,Goldey-Beacom,D2,3.3,Pitt.-Johnstown,D2,1.5
+2015-10-17,home,Goldey-Beacom,D2,1.8,Dominican (NY),D2,1.7
+2015-10-14,home,Goucher,D3,0.8,Washington Col.,D3,2.0
+2015-10-17,home,Green Bay,D1,1.0,Oakland,D1,0.9
+2015-10-14,home,Greensboro,D3,4.6,William Peace,D3,0.8
+2015-10-17,home,Greenville,D3,2.1,Eureka,D3,1.0
+2015-10-17,home,Grove City,D3,5.1,Saint Vincent,D3,0.7
+2015-10-13,home,Guilford,D3,0.8,Roanoke,D3,1.7
+2015-10-17,home,Gust. Adolphus,D3,1.6,Bethel (MN),D3,0.8
+2015-10-19,home,Gust. Adolphus,D3,4.0,Bethany Lutheran,D3,0.6
+2015-10-17,home,Gwynedd Mercy,D3,1.0,Immaculata,D3,1.4
+2015-10-14,home,Hamline,D3,1.2,Carleton,D3,1.3
+2015-10-17,home,Hanover,D3,3.5,Anderson (IN),D3,0.7
+2015-10-17,home,Hardin-Simmons,D3,2.2,McMurry,D3,0.5
 2015-10-17,home,Hartford,D1,1.3,Binghamton,D1,0.8
-2015-10-17,home,Harvard,D1,1.2,Brown,D1,1.4
-2015-10-13,home,Haverford,D3,2.3,Catholic,D3,1.0
-2015-10-17,home,Haverford,D3,2.0,Muhlenberg,D3,0.7
-2015-10-15,home,Hawaii Hilo,D2,1.4,BYU-Hawaii,D2,1.6
-2015-10-17,home,Hawaii Hilo,D2,1.7,Dominican (CA),D2,1.0
-2015-10-16,home,Hendrix,D3,0.9,Berry,D3,1.1
-2015-10-18,home,Hendrix,D3,0.7,Oglethorpe,D3,1.8
-2015-10-13,home,High Point,D1,1.0,Virginia Tech,D1,0.9
-2015-10-17,home,Hiram,D3,1.2,Wabash,D3,1.7
-2015-10-16,home,Hobart,D3,1.7,Vassar,D3,1.1
-2015-10-17,home,Hobart,D3,1.4,Bard,D3,0.7
-2015-10-14,home,Hofstra,D1,1.8,Northeastern,D1,0.6
-2015-10-12,home,Holy Family,D2,1.3,Dowling,D2,1.0
-2015-10-14,home,Holy Family,D2,0.9,Bloomsburg,D2,1.4
-2015-10-17,home,Holy Family,D2,2.3,Felician,D2,1.1
-2015-10-14,home,Hood,D3,2.8,Stevenson,D3,0.8
-2015-10-14,home,Hope,D3,0.7,Calvin,D3,2.4
-2015-10-17,home,Hope,D3,1.7,Adrian,D3,1.2
-2015-10-16,home,Houston Baptist,D1,1.5,UMKC,D1,1.0
-2015-10-12,home,Howard,D1,1.1,Bucknell,D1,2.9
-2015-10-17,home,Howard,D1,1.6,Ga. Southern,D1,2.9
-2015-10-15,home,Howard Payne,D3,1.5,LeTourneau,D3,1.3
-2015-10-17,home,Howard Payne,D3,2.4,East Tex. Baptist,D3,1.5
-2015-10-16,home,Humboldt St.,D2,0.9,UC San Diego,D2,0.9
-2015-10-14,home,Hunter,D3,1.1,SUNY New Paltz,D3,1.4
-2015-10-17,home,Hunter,D3,1.1,Baruch,D3,1.6
-2015-10-14,home,Huntingdon,D3,1.6,Covenant,D3,1.2
-2015-10-13,home,Ill.-Chicago,D1,1.0,Loyola Chicago,D1,0.7
-2015-10-16,home,Ill.-Springfield,D2,0.6,Maryville (MO),D2,1.0
-2015-10-18,home,Ill.-Springfield,D2,0.7,Mo.-St. Louis,D2,1.9
-2015-10-15,home,Incarnate Word,D1,2.1,Grand Canyon,D1,1.3
-2015-10-14,home,Iona,D1,2.2,Marist,D1,0.8
-2015-10-18,home,IUPUI,D1,1.7,IPFW,D1,1.1
-2015-10-14,home,James Madison,D1,1.1,William & Mary,D1,2.1
-2015-10-13,home,John Carroll,D3,2.5,Heidelberg,D3,0.9
-2015-10-17,home,John Carroll,D3,2.0,Marietta,D3,1.3
-2015-10-14,home,John Jay,D3,2.4,Brooklyn,D3,2.2
-2015-10-17,home,John Jay,D3,2.0,CCNY,D3,2.6
-2015-10-17,home,Johns Hopkins,D3,0.8,Frank. & Marsh.,D3,1.1
-2015-10-14,home,Johnson St.,D3,2.9,Lyndon St.,D3,1.8
-2015-10-12,home,Johnson & Wales (RI),D3,3.3,Suffolk,D3,0.5
-2015-10-17,home,Johnson & Wales (RI),D3,1.5,St. Joseph's (ME),D3,1.0
-2015-10-17,home,Juniata,D3,0.8,Merchant Marine,D3,2.2
-2015-10-17,home,Kalamazoo,D3,1.7,Trine,D3,0.8
-2015-10-17,home,Kean,D3,2.6,Rutgers-Newark,D3,1.0
-2015-10-17,home,Keene St.,D3,1.9,UMass Dartmouth,D3,2.3
-2015-10-14,home,Kentucky,D1,1.5,Ohio St.,D1,0.9
-2015-10-18,home,Kentucky,D1,2.0,South Carolina,D1,1.2
-2015-10-13,home,Kenyon,D3,2.3,Oberlin,D3,1.1
-2015-10-17,home,Kenyon,D3,1.5,Denison,D3,0.7
-2015-10-17,home,Keuka,D3,6.8,Cobleskill St.,D3,0.7
-2015-10-18,home,Keuka,D3,2.0,SUNY Poly,D3,1.0
-2015-10-17,home,Keystone,D3,2.4,Cairn,D3,0.9
-2015-10-14,home,King (TN),D2,1.7,Limestone,D2,1.6
-2015-10-13,home,Ky. Wesleyan,D2,1.9,Oakland City,D2,1.2
-2015-10-15,home,Ky. Wesleyan,D2,0.9,Cedarville,D2,2.4
-2015-10-17,home,Lafayette,D1,1.0,Boston U.,D1,0.7
-2015-10-17,home,LaGrange,D3,1.4,Piedmont,D3,2.2
-2015-10-17,home,Lake Forest,D3,2.6,Monmouth (IL),D3,1.0
-2015-10-18,home,Lake Forest,D3,2.5,Illinois Col.,D3,1.2
-2015-10-15,home,Lancaster Bible,D3,1.8,Penn St.-Abington,D3,1.3
-2015-10-12,home,Lander,D2,2.3,Montevallo,D2,0.7
-2015-10-14,home,Lander,D2,1.3,Wingate,D2,1.1
-2015-10-13,home,La Roche,D3,2.0,Mount Aloysius,D3,2.0
-2015-10-14,home,La Salle,D1,1.3,VCU,D1,1.6
-2015-10-17,home,Lasell,D3,1.4,Anna Maria,D3,1.1
+2015-10-17,home,Harvard,D1,1.2,Brown,D1,1.1
+2015-10-13,home,Haverford,D3,2.9,Catholic,D3,1.0
+2015-10-17,home,Haverford,D3,2.4,Muhlenberg,D3,0.7
+2015-10-15,home,Hawaii Hilo,D2,1.0,BYU-Hawaii,D2,1.7
+2015-10-17,home,Hawaii Hilo,D2,1.9,Dominican (CA),D2,1.5
+2015-10-19,home,Hawaii Pacific,D2,3.0,Dominican (CA),D2,0.9
+2015-10-16,home,Hendrix,D3,0.9,Berry,D3,1.5
+2015-10-18,home,Hendrix,D3,0.7,Oglethorpe,D3,2.5
+2015-10-13,home,High Point,D1,0.7,Virginia Tech,D1,0.9
+2015-10-17,home,Hiram,D3,1.1,Wabash,D3,1.4
+2015-10-16,home,Hobart,D3,1.4,Vassar,D3,0.8
+2015-10-17,home,Hobart,D3,1.9,Bard,D3,0.5
+2015-10-14,home,Hofstra,D1,1.7,Northeastern,D1,0.6
+2015-10-14,home,Holy Family,D2,0.9,Bloomsburg,D2,1.6
+2015-10-17,home,Holy Family,D2,2.9,Felician,D2,1.5
+2015-10-14,home,Hood,D3,2.3,Stevenson,D3,0.8
+2015-10-14,home,Hope,D3,0.6,Calvin,D3,2.5
+2015-10-17,home,Hope,D3,1.9,Adrian,D3,0.9
+2015-10-16,home,Houston Baptist,D1,1.8,UMKC,D1,1.0
+2015-10-17,home,Howard,D1,1.7,Ga. Southern,D1,2.8
+2015-10-15,home,Howard Payne,D3,1.4,LeTourneau,D3,1.4
+2015-10-17,home,Howard Payne,D3,2.0,East Tex. Baptist,D3,1.7
+2015-10-16,home,Humboldt St.,D2,0.7,UC San Diego,D2,0.9
+2015-10-14,home,Hunter,D3,1.4,SUNY New Paltz,D3,1.8
+2015-10-17,home,Hunter,D3,1.4,Baruch,D3,2.2
+2015-10-14,home,Huntingdon,D3,1.3,Covenant,D3,1.4
+2015-10-13,home,Ill.-Chicago,D1,0.9,Loyola Chicago,D1,0.6
+2015-10-16,home,Ill.-Springfield,D2,0.8,Maryville (MO),D2,0.9
+2015-10-18,home,Ill.-Springfield,D2,0.9,Mo.-St. Louis,D2,1.5
+2015-10-15,home,Incarnate Word,D1,2.3,Grand Canyon,D1,1.3
+2015-10-14,home,Iona,D1,1.7,Marist,D1,0.9
+2015-10-18,home,IUPUI,D1,1.9,IPFW,D1,1.3
+2015-10-14,home,James Madison,D1,0.9,William & Mary,D1,1.6
+2015-10-13,home,John Carroll,D3,2.6,Heidelberg,D3,1.0
+2015-10-17,home,John Carroll,D3,2.1,Marietta,D3,1.2
+2015-10-14,home,John Jay,D3,2.1,Brooklyn,D3,2.5
+2015-10-17,home,John Jay,D3,2.1,CCNY,D3,2.0
+2015-10-17,home,Johns Hopkins,D3,0.8,Frank. & Marsh.,D3,1.3
+2015-10-14,home,Johnson St.,D3,2.2,Lyndon St.,D3,2.2
+2015-10-17,home,Johnson & Wales (RI),D3,1.5,St. Joseph's (ME),D3,0.9
+2015-10-17,home,Juniata,D3,0.7,Merchant Marine,D3,2.3
+2015-10-17,home,Kalamazoo,D3,2.3,Trine,D3,0.6
+2015-10-17,home,Kean,D3,2.0,Rutgers-Newark,D3,1.0
+2015-10-17,home,Keene St.,D3,1.6,UMass Dartmouth,D3,2.2
+2015-10-14,home,Kentucky,D1,1.3,Ohio St.,D1,0.9
+2015-10-18,home,Kentucky,D1,1.8,South Carolina,D1,1.1
+2015-10-13,home,Kenyon,D3,2.1,Oberlin,D3,1.1
+2015-10-17,home,Kenyon,D3,1.5,Denison,D3,0.6
+2015-10-17,home,Keuka,D3,6.4,Cobleskill St.,D3,0.5
+2015-10-18,home,Keuka,D3,1.5,SUNY Poly,D3,0.8
+2015-10-17,home,Keystone,D3,1.8,Cairn,D3,1.1
+2015-10-14,home,King (TN),D2,1.4,Limestone,D2,1.7
+2015-10-13,home,Ky. Wesleyan,D2,2.2,Oakland City,D2,1.3
+2015-10-15,home,Ky. Wesleyan,D2,1.1,Cedarville,D2,2.6
+2015-10-17,home,Lafayette,D1,0.8,Boston U.,D1,0.6
+2015-10-17,home,LaGrange,D3,1.2,Piedmont,D3,2.0
+2015-10-17,home,Lake Forest,D3,2.8,Monmouth (IL),D3,0.8
+2015-10-18,home,Lake Forest,D3,2.3,Illinois Col.,D3,0.9
+2015-10-15,home,Lancaster Bible,D3,1.6,Penn St.-Abington,D3,0.8
+2015-10-14,home,Lander,D2,1.1,Wingate,D2,1.2
+2015-10-13,home,La Roche,D3,2.4,Mount Aloysius,D3,2.0
+2015-10-14,home,La Salle,D1,1.2,VCU,D1,1.5
+2015-10-17,home,Lasell,D3,1.1,Anna Maria,D3,1.1
 2015-10-17,home,Lawrence,D3,0.6,Grinnell,D3,1.4
-2015-10-18,home,Lawrence,D3,2.1,Cornell College,D3,0.8
-2015-10-14,home,Lebanon Valley,D3,1.4,Arcadia,D3,2.0
-2015-10-17,home,Lehigh,D1,2.1,Loyola Maryland,D1,0.6
-2015-10-17,home,Lehman,D3,1.6,Brooklyn,D3,1.2
-2015-10-13,home,Le Moyne,D2,1.4,Slippery Rock,D2,0.8
+2015-10-18,home,Lawrence,D3,2.1,Cornell College,D3,0.7
+2015-10-14,home,Lebanon Valley,D3,1.2,Arcadia,D3,1.8
+2015-10-19,home,Lees-McRae,D2,1.9,Barton,D2,1.0
+2015-10-17,home,Lehigh,D1,2.1,Loyola Maryland,D1,0.7
+2015-10-17,home,Lehman,D3,1.5,Brooklyn,D3,1.6
+2015-10-13,home,Le Moyne,D2,1.2,Slippery Rock,D2,0.9
 2015-10-17,home,Le Moyne,D2,1.9,Stonehill,D2,0.9
-2015-10-14,home,Lenoir-Rhyne,D2,1.5,Tusculum,D2,1.1
-2015-10-17,home,Lesley ,D3,1.7,Elms,D3,1.5
-2015-10-14,home,Lindenwood (MO),D2,2.4,Missouri S&T,D2,2.3
-2015-10-17,home,Linfield,D3,1.2,Puget Sound,D3,1.2
-2015-10-18,home,Linfield,D3,0.9,Pacific Lutheran,D3,1.5
+2015-10-14,home,Lenoir-Rhyne,D2,1.4,Tusculum,D2,1.1
+2015-10-17,home,Lesley ,D3,1.8,Elms,D3,1.4
+2015-10-14,home,Lindenwood (MO),D2,2.3,Missouri S&T,D2,1.7
+2015-10-17,home,Linfield,D3,1.6,Puget Sound,D3,1.5
+2015-10-18,home,Linfield,D3,1.2,Pacific Lutheran,D3,1.6
 2015-10-16,home,LIU Brooklyn,D1,1.1,Robert Morris,D1,1.1
-2015-10-18,home,LIU Brooklyn,D1,0.6,Saint Francis (PA),D1,0.9
-2015-10-17,home,LIU Post,D2,1.6,Mercy,D2,0.8
-2015-10-17,home,Lock Haven,D2,1.4,Mercyhurst,D2,1.0
-2015-10-18,home,Lock Haven,D2,1.1,Urbana,D2,1.3
-2015-10-16,home,Longwood,D1,3.5,Presbyterian,D1,0.7
-2015-10-13,home,Loras,D3,3.0,Coe,D3,0.5
-2015-10-17,home,Loras,D3,1.7,Luther,D3,1.1
-2015-10-15,home,Louisiana Col.,D3,0.7,Texas-Tyler,D3,1.4
-2015-10-16,home,Louisiana Col.,D3,0.8,Ozarks (AR),D3,1.2
+2015-10-18,home,LIU Brooklyn,D1,0.8,Saint Francis (PA),D1,1.1
+2015-10-17,home,LIU Post,D2,2.0,Mercy,D2,0.6
+2015-10-17,home,Lock Haven,D2,1.3,Mercyhurst,D2,1.0
+2015-10-18,home,Lock Haven,D2,0.9,Urbana,D2,1.5
+2015-10-16,home,Longwood,D1,3.0,Presbyterian,D1,0.8
+2015-10-13,home,Loras,D3,3.7,Coe,D3,0.4
+2015-10-17,home,Loras,D3,2.0,Luther,D3,1.0
+2015-10-15,home,Louisiana Col.,D3,0.6,Texas-Tyler,D3,2.3
+2015-10-16,home,Louisiana Col.,D3,0.8,Ozarks (AR),D3,1.7
 2015-10-13,home,Louisville,D1,1.1,UConn,D1,0.7
-2015-10-16,home,Louisville,D1,1.3,Boston College,D1,1.3
-2015-10-17,home,Loyola Chicago,D1,2.3,Central Ark.,D1,0.5
-2015-10-16,home,Loyola Marymount,D1,0.9,Gonzaga,D1,0.9
-2015-10-18,home,Loyola Marymount,D1,1.5,Portland,D1,1.1
-2015-10-14,home,Luther,D3,1.5,Dubuque,D3,1.3
-2015-10-14,home,Lycoming,D3,1.7,Messiah,D3,1.2
-2015-10-14,home,Lynchburg,D3,1.7,Wash. & Lee,D3,1.0
-2015-10-17,home,Lynchburg,D3,2.5,East. Mennonite,D3,0.5
-2015-10-18,home,Lyndon St.,D3,0.8,St. Joseph's (ME),D3,3.5
-2015-10-14,home,Macalester,D3,2.1,Saint Mary's (MN),D3,0.8
-2015-10-17,home,MacMurray,D3,1.4,Webster,D3,3.0
-2015-10-16,home,Malone,D2,1.4,Findlay,D2,1.2
-2015-10-18,home,Malone,D2,0.9,Tiffin,D2,1.2
-2015-10-14,home,Manchester,D3,3.3,Bluffton,D3,1.0
-2015-10-14,home,Manhattan,D1,1.2,Quinnipiac,D1,0.9
+2015-10-16,home,Louisville,D1,1.7,Boston College,D1,1.5
+2015-10-17,home,Loyola Chicago,D1,2.0,Central Ark.,D1,0.4
+2015-10-16,home,Loyola Marymount,D1,0.9,Gonzaga,D1,1.1
+2015-10-18,home,Loyola Marymount,D1,1.7,Portland,D1,1.1
+2015-10-14,home,Luther,D3,1.4,Dubuque,D3,1.5
+2015-10-14,home,Lycoming,D3,1.8,Messiah,D3,1.1
+2015-10-14,home,Lynchburg,D3,1.3,Wash. & Lee,D3,1.0
+2015-10-17,home,Lynchburg,D3,2.1,East. Mennonite,D3,0.5
+2015-10-18,home,Lyndon St.,D3,0.5,St. Joseph's (ME),D3,2.9
+2015-10-14,home,Macalester,D3,2.3,Saint Mary's (MN),D3,0.7
+2015-10-17,home,MacMurray,D3,1.1,Webster,D3,3.7
+2015-10-16,home,Malone,D2,1.4,Findlay,D2,1.9
+2015-10-18,home,Malone,D2,0.8,Tiffin,D2,1.5
+2015-10-14,home,Manchester,D3,3.4,Bluffton,D3,0.8
+2015-10-14,home,Manhattan,D1,1.1,Quinnipiac,D1,0.8
 2015-10-14,home,Manhattanville,D3,1.9,DeSales,D3,0.8
-2015-10-14,home,Marian (WI),D3,4.2,Lakeland,D3,1.0
-2015-10-14,home,Marietta,D3,2.7,Muskingum,D3,1.0
-2015-10-17,home,Marquette,D1,0.9,Creighton,D1,1.8
-2015-10-14,home,Mars Hill,D2,1.8,Lees-McRae,D2,1.1
-2015-10-17,home,Mars Hill,D2,1.0,Tusculum,D2,1.1
-2015-10-17,home,Martin Luther,D3,1.5,Wis.-Superior,D3,2.6
-2015-10-17,home,Mary,D2,0.7,Northwest Nazarene,D2,1.5
-2015-10-16,home,Maryland,D1,1.2,Indiana,D1,0.8
-2015-10-14,home,Marymount (VA),D3,0.9,Salisbury,D3,1.1
-2015-10-17,home,Marymount (VA),D3,1.1,York (PA),D3,1.1
-2015-10-17,home,Maryville (TN),D3,3.3,Huntingdon,D3,0.8
-2015-10-17,home,Mary Washington,D3,1.2,Salisbury,D3,0.8
-2015-10-14,home,Marywood,D3,1.5,Immaculata,D3,1.3
-2015-10-17,home,McDaniel,D3,0.9,Swarthmore,D3,1.1
+2015-10-14,home,Marian (WI),D3,3.6,Lakeland,D3,1.0
+2015-10-14,home,Marietta,D3,2.6,Muskingum,D3,0.8
+2015-10-17,home,Marquette,D1,0.8,Creighton,D1,1.6
+2015-10-14,home,Mars Hill,D2,1.3,Lees-McRae,D2,1.1
+2015-10-17,home,Mars Hill,D2,0.8,Tusculum,D2,1.0
+2015-10-17,home,Martin Luther,D3,1.1,Wis.-Superior,D3,2.4
+2015-10-17,home,Mary,D2,0.6,Northwest Nazarene,D2,1.4
+2015-10-16,home,Maryland,D1,1.2,Indiana,D1,0.9
+2015-10-14,home,Marymount (VA),D3,0.9,Salisbury,D3,1.3
+2015-10-17,home,Marymount (VA),D3,1.1,York (PA),D3,1.4
+2015-10-17,home,Maryville (TN),D3,4.0,Huntingdon,D3,0.6
+2015-10-17,home,Mary Washington,D3,1.1,Salisbury,D3,0.8
+2015-10-14,home,Marywood,D3,1.5,Immaculata,D3,1.2
+2015-10-17,home,McDaniel,D3,0.8,Swarthmore,D3,1.3
 2015-10-16,home,McKendree,D2,1.0,Mo.-St. Louis,D2,1.0
-2015-10-18,home,McKendree,D2,0.9,Maryville (MO),D2,0.5
-2015-10-12,home,MCLA,D3,2.2,Mt. St. Vincent,D3,1.4
-2015-10-17,home,MCLA,D3,1.6,Mass. Maritime,D3,1.5
-2015-10-13,home,Medaille,D3,1.2,Penn St.-Behrend,D3,2.5
-2015-10-14,home,Me.-Farmington,D3,1.3,Thomas (ME),D3,2.7
-2015-10-13,home,Memphis,D1,1.3,Georgia St.,D1,1.9
-2015-10-17,home,Memphis,D1,0.7,South Fla.,D1,1.6
-2015-10-14,home,Mercy,D2,1.9,Nyack,D2,1.2
-2015-10-13,home,Mercyhurst,D2,1.3,California (PA),D2,1.7
-2015-10-17,home,Merrimack,D2,2.6,Franklin Pierce,D2,1.5
-2015-10-17,home,Messiah,D3,2.4,Arcadia,D3,1.0
-2015-10-13,home,Michigan,D1,1.6,Duquesne,D1,0.6
-2015-10-13,home,Michigan St.,D1,0.7,Western Mich.,D1,0.7
-2015-10-18,home,Michigan St.,D1,0.9,Penn St.,D1,0.6
-2015-10-14,home,Middlebury,D3,1.1,Castleton,D3,0.6
-2015-10-17,home,Middlebury,D3,1.9,Trinity (CT),D3,0.5
-2015-10-17,home,Midwestern St.,D2,2.8,Dallas Baptist,D2,0.7
-2015-10-14,home,Millikin,D3,1.9,Monmouth (IL),D3,0.7
-2015-10-16,home,Millsaps,D3,2.6,Sewanee,D3,0.7
-2015-10-18,home,Millsaps,D3,1.6,Centre,D3,1.3
-2015-10-14,home,Milwaukee,D1,1.0,Green Bay,D1,0.8
-2015-10-17,home,Milwaukee,D1,0.7,Wright St.,D1,1.2
-2015-10-13,home,Minn.-Morris,D3,1.2,Bethel (MN),D3,1.1
-2015-10-17,home,Minn.-Morris,D3,2.5,Crown (MN),D3,0.9
-2015-10-14,home,Misericordia,D3,2.7,Wilkes,D3,1.1
-2015-10-17,home,Misericordia,D3,1.3,Manhattanville,D3,2.0
-2015-10-16,home,Mississippi Col.,D2,1.4,Shorter,D2,1.7
-2015-10-18,home,Mississippi Col.,D2,1.1,Lee,D2,2.3
-2015-10-16,home,Missouri S&T,D2,2.3,Lewis,D2,0.8
-2015-10-18,home,Missouri S&T,D2,2.1,Wis.-Parkside,D2,1.5
-2015-10-14,home,MIT,D3,4.8,Worcester St.,D3,0.6
-2015-10-17,home,MIT,D3,2.6,Clark (MA),D3,0.5
-2015-10-17,home,Mitchell,D3,2.9,Becker,D3,0.8
-2015-10-16,home,Molloy,D2,2.8,St. Thomas Aquinas,D2,1.1
-2015-10-14,home,Monmouth,D1,1.5,Saint Peter's,D1,0.9
-2015-10-14,home,Montclair St.,D3,2.0,Kean,D3,1.5
-2015-10-17,home,Montevallo,D2,1.3,S.C. Aiken,D2,1.4
-2015-10-15,home,Mont. St. Billings,D2,1.1,Northwest Nazarene,D2,1.1
-2015-10-14,home,Moravian,D3,1.6,Muhlenberg,D3,1.1
-2015-10-17,home,Morrisville St.,D3,2.4,Wilson,D3,0.8
-2015-10-18,home,Morrisville St.,D3,1.7,Gallaudet,D3,0.6
-2015-10-17,home,Mount Aloysius,D3,2.1,Medaille,D3,1.5
-2015-10-13,home,Mount Olive,D2,1.7,S.C. Aiken,D2,1.4
-2015-10-17,home,Mount Olive,D2,2.6,Lees-McRae,D2,1.3
-2015-10-17,home,Mount Union,D3,1.4,Heidelberg,D3,1.1
-2015-10-17,home,MSOE,D3,2.3,Benedictine (IL),D3,1.1
-2015-10-13,home,Mt. St. Joseph,D3,1.5,Hanover,D3,1.4
-2015-10-17,home,Mt. St. Joseph,D3,2.7,Earlham,D3,1.7
-2015-10-14,home,Mt. St. Mary (NY),D3,2.3,Purchase,D3,1.2
-2015-10-17,home,Mt. St. Vincent,D3,2.3,New Jersey City,D3,1.1
-2015-10-17,home,Muskingum,D3,1.4,Otterbein,D3,2.6
-2015-10-17,home,Nazareth,D3,1.0,Ithaca,D3,2.1
-2015-10-17,home,N.C. Wesleyan,D3,4.9,William Peace,D3,0.9
-2015-10-17,home,Neumann,D3,1.6,Summit,D3,0.6
-2015-10-17,home,Newberry,D2,1.2,Queens (NC),D2,2.0
-2015-10-17,home,Newbury,D3,3.5,Wheelock,D3,1.3
-2015-10-17,home,New England Col.,D3,2.0,Maine Maritime,D3,1.1
-2015-10-14,home,New Hampshire,D1,1.6,Binghamton,D1,0.7
-2015-10-13,home,New Haven,D2,0.8,Saint Rose,D2,1.3
-2015-10-17,home,New Haven,D2,1.3,American Int'l,D2,1.0
-2015-10-14,home,New Jersey City,D3,0.8,Ramapo,D3,2.2
-2015-10-15,home,Newman,D2,1.8,Lubbock Christian,D2,1.3
-2015-10-17,home,Newman,D2,1.4,Tex. Permian Basin,D2,1.6
+2015-10-18,home,McKendree,D2,0.9,Maryville (MO),D2,0.6
+2015-10-17,home,MCLA,D3,1.7,Mass. Maritime,D3,1.6
+2015-10-13,home,Medaille,D3,1.0,Penn St.-Behrend,D3,2.3
+2015-10-19,home,Medgar Evers,D3,1.6,Old Westbury,D3,4.8
+2015-10-14,home,Me.-Farmington,D3,1.2,Thomas (ME),D3,3.9
+2015-10-13,home,Memphis,D1,1.2,Georgia St.,D1,2.4
+2015-10-17,home,Memphis,D1,0.6,South Fla.,D1,1.9
+2015-10-14,home,Mercy,D2,1.6,Nyack,D2,1.3
+2015-10-13,home,Mercyhurst,D2,1.2,California (PA),D2,1.4
+2015-10-17,home,Merrimack,D2,2.6,Franklin Pierce,D2,1.3
+2015-10-17,home,Messiah,D3,2.0,Arcadia,D3,1.0
+2015-10-13,home,Michigan,D1,1.8,Duquesne,D1,0.7
+2015-10-19,home,Michigan,D1,1.1,Valparaiso,D1,0.6
+2015-10-13,home,Michigan St.,D1,0.6,Western Mich.,D1,0.7
+2015-10-18,home,Michigan St.,D1,0.9,Penn St.,D1,0.7
+2015-10-14,home,Middlebury,D3,1.2,Castleton,D3,0.5
+2015-10-17,home,Middlebury,D3,2.0,Trinity (CT),D3,0.6
+2015-10-17,home,Midwestern St.,D2,2.0,Dallas Baptist,D2,0.7
+2015-10-14,home,Millikin,D3,2.0,Monmouth (IL),D3,0.8
+2015-10-16,home,Millsaps,D3,2.6,Sewanee,D3,1.0
+2015-10-18,home,Millsaps,D3,1.4,Centre,D3,1.6
+2015-10-14,home,Milwaukee,D1,0.9,Green Bay,D1,0.8
+2015-10-17,home,Milwaukee,D1,0.7,Wright St.,D1,1.3
+2015-10-13,home,Minn.-Morris,D3,1.0,Bethel (MN),D3,1.1
+2015-10-17,home,Minn.-Morris,D3,2.8,Crown (MN),D3,0.8
+2015-10-14,home,Misericordia,D3,3.4,Wilkes,D3,1.2
+2015-10-17,home,Misericordia,D3,1.6,Manhattanville,D3,1.9
+2015-10-16,home,Mississippi Col.,D2,1.6,Shorter,D2,1.7
+2015-10-18,home,Mississippi Col.,D2,1.3,Lee,D2,2.4
+2015-10-16,home,Missouri S&T,D2,2.3,Lewis,D2,0.7
+2015-10-18,home,Missouri S&T,D2,2.2,Wis.-Parkside,D2,1.4
+2015-10-14,home,MIT,D3,3.6,Worcester St.,D3,0.6
+2015-10-17,home,MIT,D3,2.5,Clark (MA),D3,0.5
+2015-10-17,home,Mitchell,D3,4.4,Becker,D3,0.6
+2015-10-16,home,Molloy,D2,3.4,St. Thomas Aquinas,D2,1.0
+2015-10-14,home,Monmouth,D1,1.5,Saint Peter's,D1,0.8
+2015-10-14,home,Montclair St.,D3,2.0,Kean,D3,1.2
+2015-10-17,home,Montevallo,D2,1.4,S.C. Aiken,D2,1.1
+2015-10-15,home,Mont. St. Billings,D2,1.2,Northwest Nazarene,D2,1.1
+2015-10-14,home,Moravian,D3,1.5,Muhlenberg,D3,1.1
+2015-10-17,home,Morrisville St.,D3,2.4,Wilson,D3,0.5
+2015-10-18,home,Morrisville St.,D3,3.0,Gallaudet,D3,0.4
+2015-10-17,home,Mount Aloysius,D3,2.1,Medaille,D3,1.6
+2015-10-13,home,Mount Olive,D2,1.5,S.C. Aiken,D2,1.2
+2015-10-17,home,Mount Olive,D2,2.0,Lees-McRae,D2,1.1
+2015-10-17,home,Mount Union,D3,1.3,Heidelberg,D3,1.2
+2015-10-17,home,MSOE,D3,1.9,Benedictine (IL),D3,1.2
+2015-10-13,home,Mt. St. Joseph,D3,1.0,Hanover,D3,1.7
+2015-10-17,home,Mt. St. Joseph,D3,2.0,Earlham,D3,1.5
+2015-10-14,home,Mt. St. Mary (NY),D3,1.8,Purchase,D3,1.0
+2015-10-17,home,Mt. St. Vincent,D3,2.6,New Jersey City,D3,1.0
+2015-10-17,home,Muskingum,D3,1.4,Otterbein,D3,2.5
+2015-10-17,home,Nazareth,D3,0.9,Ithaca,D3,2.3
+2015-10-17,home,N.C. Wesleyan,D3,4.1,William Peace,D3,0.7
+2015-10-17,home,Neumann,D3,1.5,Summit,D3,0.6
+2015-10-17,home,Newberry,D2,1.1,Queens (NC),D2,2.4
+2015-10-17,home,Newbury,D3,5.4,Wheelock,D3,0.8
+2015-10-17,home,New England Col.,D3,2.2,Maine Maritime,D3,1.5
+2015-10-14,home,New Hampshire,D1,1.7,Binghamton,D1,0.8
+2015-10-13,home,New Haven,D2,1.4,Saint Rose,D2,1.1
+2015-10-17,home,New Haven,D2,1.3,American Int'l,D2,0.8
+2015-10-14,home,New Jersey City,D3,0.9,Ramapo,D3,2.4
+2015-10-15,home,Newman,D2,2.2,Lubbock Christian,D2,1.3
+2015-10-17,home,Newman,D2,1.7,Tex. Permian Basin,D2,1.4
 2015-10-14,home,New Mexico,D1,0.8,Valparaiso,D1,0.6
-2015-10-18,home,New Mexico,D1,1.9,UAB,D1,0.8
-2015-10-14,home,Niagara,D1,1.5,Rider,D1,2.1
-2015-10-17,home,Niagara,D1,1.4,Saint Peter's,D1,2.4
-2015-10-17,home,Nichols,D3,1.1,Gordon,D3,1.2
-2015-10-14,home,NJIT,D1,0.6,Lafayette,D1,1.0
-2015-10-17,home,NJIT,D1,1.0,Hartwick,D1,1.1
-2015-10-13,home,North Carolina,D1,1.8,Col. of Charleston,D1,0.8
-2015-10-13,home,North Carolina St.,D1,1.9,South Carolina,D1,1.3
-2015-10-14,home,North Central (IL),D3,1.4,Elmhurst,D3,1.2
-2015-10-18,home,North Central (IL),D3,1.4,UC Santa Cruz,D3,1.5
+2015-10-18,home,New Mexico,D1,1.7,UAB,D1,0.8
+2015-10-14,home,Niagara,D1,1.3,Rider,D1,1.9
+2015-10-17,home,Niagara,D1,1.1,Saint Peter's,D1,1.8
+2015-10-17,home,Nichols,D3,1.0,Gordon,D3,1.4
+2015-10-14,home,NJIT,D1,0.5,Lafayette,D1,1.0
+2015-10-17,home,NJIT,D1,1.0,Hartwick,D1,1.2
+2015-10-13,home,North Carolina,D1,2.0,Col. of Charleston,D1,0.6
+2015-10-13,home,North Carolina St.,D1,1.7,South Carolina,D1,1.1
+2015-10-19,home,North Carolina St.,D1,1.4,Appalachian St.,D1,0.5
+2015-10-14,home,North Central (IL),D3,1.2,Elmhurst,D3,0.9
+2015-10-18,home,North Central (IL),D3,1.2,UC Santa Cruz,D3,1.0
 2015-10-17,home,Northeastern,D1,1.0,Delaware,D1,0.9
-2015-10-15,home,Northeastern St.,D2,2.8,Southwest Baptist,D2,0.9
+2015-10-15,home,Northeastern St.,D2,3.6,Southwest Baptist,D2,0.8
 2015-10-13,home,Northern Ill.,D1,1.2,IUPUI,D1,1.0
-2015-10-17,home,Northern Ky.,D1,0.7,Valparaiso,D1,0.6
-2015-10-17,home,North Florida,D1,1.2,Stetson,D1,1.4
-2015-10-17,home,North Georgia,D2,1.8,UNC Pembroke,D2,1.5
-2015-10-17,home,North Greenville,D2,0.9,King (TN),D2,2.4
-2015-10-14,home,Northland,D3,0.9,Finlandia,D3,2.9
-2015-10-17,home,Northland,D3,1.6,North Central (MN),D3,1.5
-2015-10-18,home,Northland,D3,0.8,Marian (WI),D3,5.4
-2015-10-14,home,North Park,D3,1.9,Ill. Wesleyan,D3,1.0
-2015-10-16,home,North Park,D3,2.2,UC Santa Cruz,D3,0.9
-2015-10-16,home,Northwestern,D1,1.0,Rutgers,D1,1.8
-2015-10-12,home,Northwestern-St.Paul,D3,0.8,St. Olaf,D3,3.1
-2015-10-16,home,Northwood (MI),D2,3.9,Lake Erie,D2,1.2
-2015-10-18,home,Northwood (MI),D2,3.8,Ohio Dominican,D2,0.7
-2015-10-12,home,Norwich,D3,3.4,Rivier,D3,0.7
-2015-10-17,home,Norwich,D3,1.7,Albertus Magnus,D3,0.7
-2015-10-15,home,Notre Dame de Namur,D2,1.2,Dixie St.,D2,0.9
-2015-10-14,home,Nova Southeastern,D2,1.7,Florida Tech,D2,1.7
-2015-10-17,home,Nyack,D2,1.0,Philadelphia U.,D2,1.3
-2015-10-13,home,NYIT,D2,1.8,Seton Hill,D2,1.0
-2015-10-12,home,NYU,D3,0.9,Baruch,D3,1.5
-2015-10-16,home,NYU,D3,0.8,Washington-St. Louis,D3,1.9
-2015-10-18,home,NYU,D3,0.8,Chicago,D3,1.4
-2015-10-18,neutral,Oakland City,D2,0.7,Upper Iowa,D2,1.9
-2015-10-17,home,Occidental,D3,1.9,Whittier,D3,0.7
-2015-10-14,home,Ohio Northern,D3,2.0,Otterbein,D3,1.2
-2015-10-18,home,Ohio St.,D1,1.8,Wisconsin,D1,0.9
-2015-10-15,home,Ohio Valley,D2,1.2,Davis & Elkins,D2,0.8
-2015-10-17,home,Ohio Valley,D2,1.0,Alderson Broaddus,D2,1.1
-2015-10-14,home,Ohio Wesleyan,D3,2.2,Wooster,D3,0.7
-2015-10-17,home,Ohio Wesleyan,D3,2.8,Allegheny,D3,0.8
-2015-10-17,home,Old Westbury,D3,1.9,Mt. St. Mary (NY),D3,2.8
-2015-10-14,home,Olivet,D3,1.4,Alma,D3,2.5
-2015-10-17,home,Olivet,D3,1.5,Albion,D3,1.7
-2015-10-16,home,Oswego St.,D3,1.2,SUNY Geneseo,D3,1.7
-2015-10-17,home,Oswego St.,D3,0.9,Brockport,D3,1.8
-2015-10-13,home,Penn,D1,0.9,Rutgers,D1,2.2
-2015-10-17,home,Penn,D1,0.8,Dartmouth,D1,1.6
-2015-10-16,home,Penn St.-Berks,D3,1.4,Bryn Athyn,D3,1.6
-2015-10-14,home,Penn St. Harrisburg,D3,1.9,Wesley,D3,1.4
-2015-10-17,home,Penn St. Harrisburg,D3,3.4,Southern Va.,D3,1.0
-2015-10-14,home,Piedmont,D3,1.0,Maryville (TN),D3,3.1
-2015-10-15,home,Pine Manor,D3,1.3,Daniel Webster,D3,1.2
-2015-10-17,home,Pitt.-Bradford,D3,0.7,Penn St.-Altoona,D3,2.1
-2015-10-13,home,Pitt.-Greensburg,D3,0.8,Penn St.-Altoona,D3,2.3
-2015-10-17,home,Pitt.-Greensburg,D3,0.7,Penn St.-Behrend,D3,3.4
-2015-10-13,home,Pittsburgh,D1,1.5,Cleveland St.,D1,0.8
-2015-10-16,home,Plattsburgh St.,D3,3.5,Fredonia,D3,0.8
-2015-10-17,home,Plattsburgh St.,D3,1.8,Buffalo St.,D3,0.9
-2015-10-14,home,Plymouth St.,D3,1.1,Norwich,D3,2.1
-2015-10-17,home,Plymouth St.,D3,2.0,Rhode Island Col.,D3,2.0
-2015-10-12,home,Point Loma,D2,3.2,Chaminade,D2,0.7
-2015-10-12,home,Pomona-Pitzer,D3,0.7,Occidental,D3,1.5
-2015-10-17,home,Pomona-Pitzer,D3,1.4,Redlands,D3,1.4
-2015-10-14,home,Post,D2,3.8,Felician,D2,0.9
-2015-10-13,home,Presbyterian,D1,0.8,Appalachian St.,D1,1.8
+2015-10-17,home,Northern Ky.,D1,0.8,Valparaiso,D1,0.6
+2015-10-17,home,North Florida,D1,1.6,Stetson,D1,1.1
+2015-10-17,home,North Georgia,D2,1.4,UNC Pembroke,D2,1.5
+2015-10-17,home,North Greenville,D2,0.9,King (TN),D2,2.3
+2015-10-14,home,Northland,D3,1.0,Finlandia,D3,2.5
+2015-10-17,home,Northland,D3,1.2,North Central (MN),D3,1.4
+2015-10-18,home,Northland,D3,0.7,Marian (WI),D3,4.3
+2015-10-14,home,North Park,D3,1.7,Ill. Wesleyan,D3,0.9
+2015-10-16,home,North Park,D3,2.1,UC Santa Cruz,D3,0.7
+2015-10-16,home,Northwestern,D1,1.1,Rutgers,D1,1.7
+2015-10-16,home,Northwood (MI),D2,3.3,Lake Erie,D2,0.8
+2015-10-18,home,Northwood (MI),D2,4.0,Ohio Dominican,D2,0.4
+2015-10-17,home,Norwich,D3,1.5,Albertus Magnus,D3,0.7
+2015-10-15,home,Notre Dame de Namur,D2,0.9,Dixie St.,D2,0.9
+2015-10-14,home,Nova Southeastern,D2,1.8,Florida Tech,D2,1.4
+2015-10-17,home,Nyack,D2,1.1,Philadelphia U.,D2,1.6
+2015-10-13,home,NYIT,D2,2.2,Seton Hill,D2,0.8
+2015-10-16,home,NYU,D3,0.7,Washington-St. Louis,D3,1.9
+2015-10-18,home,NYU,D3,0.8,Chicago,D3,1.5
+2015-10-18,neutral,Oakland City,D2,0.7,Upper Iowa,D2,2.1
+2015-10-17,home,Occidental,D3,2.1,Whittier,D3,0.6
+2015-10-14,home,Ohio Northern,D3,2.3,Otterbein,D3,1.2
+2015-10-18,home,Ohio St.,D1,1.7,Wisconsin,D1,0.9
+2015-10-15,home,Ohio Valley,D2,1.1,Davis & Elkins,D2,0.8
+2015-10-17,home,Ohio Valley,D2,1.0,Alderson Broaddus,D2,1.2
+2015-10-14,home,Ohio Wesleyan,D3,3.2,Wooster,D3,0.6
+2015-10-17,home,Ohio Wesleyan,D3,3.1,Allegheny,D3,0.7
+2015-10-17,home,Old Westbury,D3,1.9,Mt. St. Mary (NY),D3,2.0
+2015-10-14,home,Olivet,D3,1.1,Alma,D3,2.1
+2015-10-17,home,Olivet,D3,1.4,Albion,D3,1.6
+2015-10-16,home,Oswego St.,D3,1.3,SUNY Geneseo,D3,1.7
+2015-10-17,home,Oswego St.,D3,0.7,Brockport,D3,1.9
+2015-10-13,home,Penn,D1,1.0,Rutgers,D1,2.1
+2015-10-17,home,Penn,D1,0.7,Dartmouth,D1,1.5
+2015-10-16,home,Penn St.-Berks,D3,1.8,Bryn Athyn,D3,1.4
+2015-10-14,home,Penn St. Harrisburg,D3,1.5,Wesley,D3,1.9
+2015-10-17,home,Penn St. Harrisburg,D3,2.8,Southern Va.,D3,1.1
+2015-10-14,home,Piedmont,D3,0.8,Maryville (TN),D3,3.0
+2015-10-15,home,Pine Manor,D3,1.0,Daniel Webster,D3,2.2
+2015-10-17,home,Pitt.-Bradford,D3,0.8,Penn St.-Altoona,D3,2.0
+2015-10-13,home,Pitt.-Greensburg,D3,1.0,Penn St.-Altoona,D3,2.3
+2015-10-17,home,Pitt.-Greensburg,D3,0.6,Penn St.-Behrend,D3,3.6
+2015-10-13,home,Pittsburgh,D1,1.4,Cleveland St.,D1,0.9
+2015-10-16,home,Plattsburgh St.,D3,3.5,Fredonia,D3,0.7
+2015-10-17,home,Plattsburgh St.,D3,1.9,Buffalo St.,D3,0.8
+2015-10-14,home,Plymouth St.,D3,1.1,Norwich,D3,1.5
+2015-10-17,home,Plymouth St.,D3,1.8,Rhode Island Col.,D3,1.9
+2015-10-17,home,Pomona-Pitzer,D3,1.5,Redlands,D3,1.6
+2015-10-19,home,Pomona-Pitzer,D3,1.6,La Verne,D3,1.3
+2015-10-14,home,Post,D2,4.6,Felician,D2,0.9
+2015-10-13,home,Presbyterian,D1,0.7,Appalachian St.,D1,1.4
 2015-10-13,home,Princeton,D1,2.7,Fairleigh Dickinson,D1,1.0
-2015-10-17,home,Princeton,D1,1.3,Columbia,D1,0.9
-2015-10-13,home,Principia,D3,1.5,Greenville,D3,1.0
-2015-10-17,home,Providence,D1,2.6,Seton Hall,D1,0.8
-2015-10-14,home,Queens (NC),D2,1.2,Pfeiffer,D2,2.7
-2015-10-17,home,Queens (NY),D2,1.5,Dowling,D2,1.4
-2015-10-17,home,Quinnipiac,D1,1.3,Canisius,D1,1.2
-2015-10-17,home,Radford,D1,1.0,High Point,D1,0.8
-2015-10-12,home,Ramapo,D3,2.1,Lehman,D3,0.7
-2015-10-17,home,Ramapo,D3,1.7,TCNJ,D3,1.5
-2015-10-17,home,Randolph,D3,1.6,Va. Wesleyan,D3,1.3
-2015-10-14,home,Randolph-Macon,D3,1.3,Va. Wesleyan,D3,0.8
-2015-10-17,home,Randolph-Macon,D3,1.3,Wash. & Lee,D3,1.1
-2015-10-16,home,Regis (CO),D2,1.0,Metro St.,D2,1.0
-2015-10-18,home,Regis (CO),D2,1.3,UC-Colo. Springs,D2,1.0
-2015-10-14,home,Rhode Island,D1,2.3,Saint Joseph's,D1,0.6
-2015-10-16,home,Rhodes,D3,1.0,Oglethorpe,D3,1.1
-2015-10-18,home,Rhodes,D3,1.2,Berry,D3,0.7
-2015-10-17,home,Rider,D1,1.5,Manhattan,D1,0.9
-2015-10-15,home,Ripon,D3,2.1,Northwestern-St.Paul,D3,1.3
-2015-10-17,home,Rivier,D3,2.7,Suffolk,D3,1.0
-2015-10-16,home,Rochester Inst.,D3,1.2,Bard,D3,1.4
-2015-10-17,home,Rochester Inst.,D3,1.5,Vassar,D3,2.2
-2015-10-17,home,Rockford,D3,1.5,Concordia Chicago,D3,3.0
-2015-10-16,home,Rockhurst,D2,1.2,UIndy,D2,0.7
-2015-10-18,home,Rockhurst,D2,1.4,St. Joseph's (IN),D2,0.8
-2015-10-13,home,Roger Williams,D3,1.9,UMass Dartmouth,D3,1.2
-2015-10-16,home,Roger Williams,D3,1.1,Curry,D3,1.4
-2015-10-14,home,Rollins,D2,1.7,Palm Beach Atl.,D2,4.5
-2015-10-17,home,Rollins,D2,2.4,Nova Southeastern,D2,1.9
-2015-10-14,home,Rose-Hulman,D3,2.4,Franklin,D3,0.9
-2015-10-17,home,Rose-Hulman,D3,2.1,Manchester,D3,1.0
-2015-10-14,home,Rosemont,D3,1.5,Gwynedd Mercy,D3,2.1
-2015-10-14,home,Rowan,D3,2.1,Stockton,D3,1.4
-2015-10-17,home,Rutgers-Camden,D3,1.5,Montclair St.,D3,1.6
-2015-10-14,home,Rutgers-Newark,D3,2.1,Wm. Paterson,D3,1.4
-2015-10-14,home,Sacramento St.,D1,1.2,UC Santa Barbara,D1,1.7
-2015-10-16,home,Saginaw Valley,D2,4.2,Ohio Dominican,D2,0.6
+2015-10-17,home,Princeton,D1,1.2,Columbia,D1,1.0
+2015-10-13,home,Principia,D3,1.3,Greenville,D3,1.1
+2015-10-17,home,Providence,D1,2.6,Seton Hall,D1,0.7
+2015-10-14,home,Queens (NC),D2,1.0,Pfeiffer,D2,2.7
+2015-10-17,home,Queens (NY),D2,1.4,Dowling,D2,1.1
+2015-10-17,home,Quinnipiac,D1,1.1,Canisius,D1,1.1
+2015-10-17,home,Radford,D1,1.2,High Point,D1,0.6
+2015-10-17,home,Ramapo,D3,1.8,TCNJ,D3,1.8
+2015-10-17,home,Randolph,D3,1.5,Va. Wesleyan,D3,1.0
+2015-10-14,home,Randolph-Macon,D3,1.4,Va. Wesleyan,D3,0.8
+2015-10-17,home,Randolph-Macon,D3,1.1,Wash. & Lee,D3,1.1
+2015-10-16,home,Regis (CO),D2,0.9,Metro St.,D2,1.0
+2015-10-18,home,Regis (CO),D2,1.2,UC-Colo. Springs,D2,1.1
+2015-10-14,home,Rhode Island,D1,1.9,Saint Joseph's,D1,0.7
+2015-10-16,home,Rhodes,D3,0.9,Oglethorpe,D3,1.2
+2015-10-18,home,Rhodes,D3,1.1,Berry,D3,0.7
+2015-10-17,home,Rider,D1,1.4,Manhattan,D1,0.8
+2015-10-15,home,Ripon,D3,2.5,Northwestern-St.Paul,D3,1.1
+2015-10-17,home,Rivier,D3,2.4,Suffolk,D3,0.9
+2015-10-16,home,Rochester Inst.,D3,1.6,Bard,D3,1.1
+2015-10-17,home,Rochester Inst.,D3,1.2,Vassar,D3,1.7
+2015-10-17,home,Rockford,D3,1.5,Concordia Chicago,D3,2.4
+2015-10-16,home,Rockhurst,D2,1.0,UIndy,D2,0.7
+2015-10-18,home,Rockhurst,D2,1.6,St. Joseph's (IN),D2,0.7
+2015-10-13,home,Roger Williams,D3,1.6,UMass Dartmouth,D3,1.2
+2015-10-16,home,Roger Williams,D3,1.3,Curry,D3,1.2
+2015-10-14,home,Rollins,D2,1.4,Palm Beach Atl.,D2,5.2
+2015-10-17,home,Rollins,D2,2.0,Nova Southeastern,D2,2.1
+2015-10-14,home,Rose-Hulman,D3,2.4,Franklin,D3,0.7
+2015-10-17,home,Rose-Hulman,D3,2.3,Manchester,D3,0.9
+2015-10-14,home,Rosemont,D3,1.3,Gwynedd Mercy,D3,1.9
+2015-10-14,home,Rowan,D3,1.8,Stockton,D3,1.2
+2015-10-17,home,Rutgers-Camden,D3,1.3,Montclair St.,D3,2.0
+2015-10-14,home,Rutgers-Newark,D3,1.9,Wm. Paterson,D3,1.1
+2015-10-14,home,Sacramento St.,D1,1.1,UC Santa Barbara,D1,2.1
+2015-10-16,home,Saginaw Valley,D2,5.3,Ohio Dominican,D2,0.6
 2015-10-18,home,Saginaw Valley,D2,4.3,Lake Erie,D2,1.1
-2015-10-14,home,Saint John's (MN),D3,1.2,Gust. Adolphus,D3,0.9
-2015-10-17,home,Saint Joseph's,D1,1.0,George Mason,D1,1.5
-2015-10-15,neutral,Saint Leo,D2,1.6,Christian Bros.,D2,1.4
-2015-10-14,home,Saint Louis,D1,2.0,Wisconsin,D1,0.9
+2015-10-14,home,Saint John's (MN),D3,1.4,Gust. Adolphus,D3,0.8
+2015-10-17,home,Saint Joseph's,D1,1.0,George Mason,D1,1.2
+2015-10-15,neutral,Saint Leo,D2,1.8,Christian Bros.,D2,1.1
+2015-10-14,home,Saint Louis,D1,1.8,Wisconsin,D1,0.9
 2015-10-15,home,Saint Martin's,D2,1.2,Western Wash.,D2,1.9
-2015-10-17,home,Saint Martin's,D2,1.3,Simon Fraser,D2,2.0
-2015-10-17,home,Saint Mary's (MN),D3,1.2,St. Olaf,D3,1.9
-2015-10-14,home,Saint Michael's,D2,2.2,Queens (NY),D2,0.9
-2015-10-17,home,Saint Rose,D2,1.5,Southern Conn. St.,D2,0.8
-2015-10-13,home,Saint Vincent,D3,1.6,Bethany (WV),D3,2.0
-2015-10-15,home,Salem Int'l,D2,1.3,Alderson Broaddus,D2,1.1
-2015-10-17,home,Salem Int'l,D2,1.5,Davis & Elkins,D2,0.8
-2015-10-17,home,Salem St.,D3,0.9,Framingham St.,D3,1.8
-2015-10-16,home,San Diego,D1,1.9,Portland,D1,1.1
-2015-10-18,home,San Diego,D1,1.1,Gonzaga,D1,0.9
+2015-10-17,home,Saint Martin's,D2,1.0,Simon Fraser,D2,2.4
+2015-10-17,home,Saint Mary's (MN),D3,1.0,St. Olaf,D3,2.0
+2015-10-14,home,Saint Michael's,D2,1.4,Queens (NY),D2,1.2
+2015-10-17,home,Saint Rose,D2,1.2,Southern Conn. St.,D2,1.5
+2015-10-13,home,Saint Vincent,D3,1.8,Bethany (WV),D3,1.8
+2015-10-15,home,Salem Int'l,D2,1.2,Alderson Broaddus,D2,1.4
+2015-10-17,home,Salem Int'l,D2,1.3,Davis & Elkins,D2,0.9
+2015-10-17,home,Salem St.,D3,0.9,Framingham St.,D3,2.4
+2015-10-16,home,San Diego,D1,2.2,Portland,D1,1.0
+2015-10-18,home,San Diego,D1,1.2,Gonzaga,D1,1.0
 2015-10-16,home,San Diego St.,D1,1.4,California,D1,1.0
-2015-10-18,home,San Diego St.,D1,0.9,Stanford,D1,0.7
-2015-10-16,home,San Francisco,D1,1.4,Pacific,D1,1.4
-2015-10-18,home,San Francisco,D1,1.5,St. Mary's (CA),D1,1.5
-2015-10-16,home,San Fran. St.,D2,0.8,Cal St. L.A.,D2,0.9
-2015-10-18,home,San Fran. St.,D2,1.5,Cal St. Dom. Hills,D2,1.3
-2015-10-16,home,Santa Clara,D1,1.4,St. Mary's (CA),D1,0.9
-2015-10-18,home,Santa Clara,D1,1.3,Pacific,D1,0.8
-2015-10-13,home,Sarah Lawrence,D3,1.6,St. Joseph's (L.I.),D3,2.1
-2015-10-17,home,Scranton,D3,1.0,Catholic,D3,0.9
-2015-10-16,home,Seattle,D1,2.3,CSU Bakersfield,D1,0.6
-2015-10-18,home,Seattle,D1,2.6,San Jose St.,D1,0.6
-2015-10-15,home,Seattle Pacific,D2,1.3,Simon Fraser,D2,0.6
-2015-10-17,home,Seattle Pacific,D2,1.1,Western Wash.,D2,0.5
-2015-10-14,home,Seton Hall,D1,1.6,DePaul,D1,1.7
-2015-10-17,home,Seton Hill,D2,1.4,East Stroudsburg,D2,1.5
-2015-10-16,home,Shenandoah,D3,1.4,Guilford,D3,1.1
-2015-10-15,home,Shepherd,D2,1.1,Notre Dame (OH),D2,3.8
-2015-10-13,home,Shippensburg,D2,0.8,Millersville,D2,1.7
-2015-10-17,home,Siena,D1,1.0,Iona,D1,1.4
-2015-10-16,home,Simpson,D3,2.2,Coe,D3,0.9
-2015-10-17,home,SIUE,D1,2.0,Evansville,D1,0.7
-2015-10-18,home,Skidmore,D3,2.5,Ithaca,D3,0.7
-2015-10-17,home,Slippery Rock,D2,1.6,West Chester,D2,1.0
-2015-10-18,home,Sonoma St.,D2,1.3,UC San Diego,D2,0.7
-2015-10-16,home,South Dakota Mines,D2,1.4,UC-Colo. Springs,D2,2.6
-2015-10-18,home,South Dakota Mines,D2,1.1,Metro St.,D2,2.5
-2015-10-16,home,Southern Ind.,D2,1.8,Truman,D2,1.3
-2015-10-18,home,Southern Ind.,D2,1.9,Quincy,D2,1.9
-2015-10-17,home,Southern Me.,D3,0.7,Eastern Conn. St.,D3,2.8
-2015-10-15,home,Southern Nazarene,D2,2.1,Ouachita Baptist,D2,2.1
-2015-10-17,home,Southern Nazarene,D2,2.2,Harding,D2,1.6
-2015-10-14,home,Southern N.H.,D2,2.5,St. Anselm,D2,0.7
-2015-10-14,home,Southern Va.,D3,0.6,Mary Washington,D3,2.9
-2015-10-12,home,Southern Vt.,D3,3.1,Wheelock,D3,2.4
-2015-10-17,home,Southern Vt.,D3,1.4,Regis (MA),D3,3.2
-2015-10-17,home,Southern Wesleyan,D2,2.2,Belmont Abbey,D2,1.1
-2015-10-15,home,Spalding,D3,5.0,MacMurray,D3,0.8
-2015-10-14,home,St. Bonaventure,D1,0.8,Davidson,D1,2.2
-2015-10-17,home,St. Bonaventure,D1,1.1,Massachusetts,D1,1.6
-2015-10-14,home,St. Edward's,D2,2.1,Dallas Baptist,D2,0.4
-2015-10-17,home,St. Edward's,D2,2.5,West Tex. A&M,D2,0.9
-2015-10-14,home,Stevens,D3,1.4,Merchant Marine,D3,1.0
-2015-10-17,home,Stevens,D3,4.0,St. John Fisher,D3,0.6
-2015-10-16,home,St. Francis Brooklyn,D1,0.8,Saint Francis (PA),D1,0.4
-2015-10-18,home,St. Francis Brooklyn,D1,1.6,Robert Morris,D1,0.4
-2015-10-14,home,St. John's (NY),D1,0.6,Xavier,D1,1.3
-2015-10-13,home,St. Joseph's (Brkln),D3,1.1,SUNY Maritime,D3,3.2
-2015-10-18,home,St. Joseph's (Brkln),D3,0.6,Sage Colleges,D3,3.2
-2015-10-12,home,St. Joseph's (ME),D3,2.0,Mount Ida,D3,1.1
-2015-10-15,home,St. Joseph's (ME),D3,2.6,Anna Maria,D3,0.7
-2015-10-16,home,St. Lawrence,D3,0.9,Rensselaer,D3,0.7
-2015-10-17,home,St. Lawrence,D3,1.0,Union (NY),D3,0.5
-2015-10-14,home,St. Mary's (MD),D3,1.6,Chris. Newport,D3,1.4
-2015-10-15,home,St. Mary's (TX),D2,1.1,Rogers St.,D2,1.3
+2015-10-18,home,San Diego St.,D1,0.7,Stanford,D1,0.9
+2015-10-16,home,San Francisco,D1,1.6,Pacific,D1,1.2
+2015-10-18,home,San Francisco,D1,1.5,St. Mary's (CA),D1,1.4
+2015-10-16,home,San Fran. St.,D2,0.7,Cal St. L.A.,D2,0.8
+2015-10-18,home,San Fran. St.,D2,1.0,Cal St. Dom. Hills,D2,1.1
+2015-10-16,home,Santa Clara,D1,1.2,St. Mary's (CA),D1,0.8
+2015-10-18,home,Santa Clara,D1,1.3,Pacific,D1,0.7
+2015-10-13,home,Sarah Lawrence,D3,1.3,St. Joseph's (L.I.),D3,2.4
+2015-10-17,home,Scranton,D3,1.3,Catholic,D3,0.9
+2015-10-16,home,Seattle,D1,2.4,CSU Bakersfield,D1,0.8
+2015-10-18,home,Seattle,D1,2.5,San Jose St.,D1,0.8
+2015-10-15,home,Seattle Pacific,D2,1.3,Simon Fraser,D2,0.7
+2015-10-17,home,Seattle Pacific,D2,1.6,Western Wash.,D2,0.5
+2015-10-14,home,Seton Hall,D1,1.5,DePaul,D1,1.7
+2015-10-17,home,Seton Hill,D2,1.3,East Stroudsburg,D2,1.3
+2015-10-16,home,Shenandoah,D3,1.8,Guilford,D3,1.1
+2015-10-15,home,Shepherd,D2,0.9,Notre Dame (OH),D2,3.6
+2015-10-13,home,Shippensburg,D2,0.7,Millersville,D2,1.8
+2015-10-17,home,Siena,D1,1.0,Iona,D1,1.1
+2015-10-16,home,Simpson,D3,2.4,Coe,D3,0.7
+2015-10-17,home,SIUE,D1,2.8,Evansville,D1,0.7
+2015-10-18,home,Skidmore,D3,2.0,Ithaca,D3,0.5
+2015-10-17,home,Slippery Rock,D2,1.4,West Chester,D2,1.0
+2015-10-18,home,Sonoma St.,D2,1.1,UC San Diego,D2,0.7
+2015-10-16,home,South Dakota Mines,D2,1.1,UC-Colo. Springs,D2,2.6
+2015-10-18,home,South Dakota Mines,D2,0.9,Metro St.,D2,2.5
+2015-10-16,home,Southern Ind.,D2,1.6,Truman,D2,1.4
+2015-10-18,home,Southern Ind.,D2,1.5,Quincy,D2,2.1
+2015-10-17,home,Southern Me.,D3,0.6,Eastern Conn. St.,D3,3.0
+2015-10-19,home,Southern Me.,D3,1.8,U New England,D3,1.9
+2015-10-15,home,Southern Nazarene,D2,2.0,Ouachita Baptist,D2,2.2
+2015-10-17,home,Southern Nazarene,D2,2.1,Harding,D2,2.0
+2015-10-14,home,Southern N.H.,D2,3.5,St. Anselm,D2,0.7
+2015-10-14,home,Southern Va.,D3,0.5,Mary Washington,D3,3.2
+2015-10-17,home,Southern Vt.,D3,1.3,Regis (MA),D3,3.0
+2015-10-17,home,Southern Wesleyan,D2,2.4,Belmont Abbey,D2,0.9
+2015-10-15,home,Spalding,D3,5.5,MacMurray,D3,0.7
+2015-10-14,home,St. Bonaventure,D1,0.8,Davidson,D1,2.3
+2015-10-17,home,St. Bonaventure,D1,0.9,Massachusetts,D1,1.8
+2015-10-14,home,St. Edward's,D2,1.9,Dallas Baptist,D2,0.4
+2015-10-17,home,St. Edward's,D2,2.4,West Tex. A&M,D2,0.8
+2015-10-14,home,Stevens,D3,1.4,Merchant Marine,D3,0.8
+2015-10-17,home,Stevens,D3,3.4,St. John Fisher,D3,0.5
+2015-10-16,home,St. Francis Brooklyn,D1,0.9,Saint Francis (PA),D1,0.5
+2015-10-18,home,St. Francis Brooklyn,D1,1.3,Robert Morris,D1,0.5
+2015-10-14,home,St. John's (NY),D1,0.7,Xavier,D1,1.1
+2015-10-13,home,St. Joseph's (Brkln),D3,0.9,SUNY Maritime,D3,3.7
+2015-10-18,home,St. Joseph's (Brkln),D3,0.5,Sage Colleges,D3,4.5
+2015-10-15,home,St. Joseph's (ME),D3,2.4,Anna Maria,D3,0.7
+2015-10-16,home,St. Lawrence,D3,0.8,Rensselaer,D3,0.6
+2015-10-17,home,St. Lawrence,D3,0.9,Union (NY),D3,0.6
+2015-10-14,home,St. Mary's (MD),D3,1.5,Chris. Newport,D3,1.5
+2015-10-15,home,St. Mary's (TX),D2,0.9,Rogers St.,D2,1.3
 2015-10-17,home,St. Mary's (TX),D2,1.3,Okla. Christian,D2,1.0
-2015-10-14,home,St. Norbert,D3,1.5,Lawrence,D3,0.7
-2015-10-17,home,St. Norbert,D3,3.1,Cornell College,D3,0.7
-2015-10-18,home,St. Norbert,D3,1.0,Grinnell,D3,1.3
-2015-10-17,home,Stockton,D3,2.6,Farmingdale St.,D3,1.1
-2015-10-14,home,St. Olaf,D3,1.5,St. Thomas (MN),D3,1.7
-2015-10-18,home,St. Olaf,D3,2.1,Wartburg,D3,1.4
-2015-10-18,home,Stony Brook,D1,1.2,Vermont,D1,1.3
-2015-10-14,home,St. Scholastica,D3,3.4,Wis.-Superior,D3,1.3
-2015-10-17,home,St. Scholastica,D3,9.3,Bethany Lutheran,D3,0.6
-2015-10-18,home,St. Scholastica,D3,2.7,Carleton,D3,1.1
-2015-10-14,home,Summit,D3,1.0,Centenary (NJ),D3,1.6
-2015-10-16,home,SUNY Cortland,D3,1.4,Brockport,D3,1.4
-2015-10-17,home,SUNY Cortland,D3,1.9,SUNY Geneseo,D3,1.4
-2015-10-17,home,SUNY Maritime,D3,2.5,St. Joseph's (L.I.),D3,1.3
-2015-10-14,home,SUNY Oneonta,D3,1.7,Hamilton,D3,0.5
-2015-10-17,home,SUNY Oneonta,D3,1.5,SUNY New Paltz,D3,0.6
-2015-10-16,home,SUNY Potsdam,D3,1.6,Buffalo St.,D3,0.9
-2015-10-17,home,SUNY Potsdam,D3,3.1,Fredonia,D3,0.8
-2015-10-13,home,Susquehanna,D3,1.2,Gettysburg,D3,1.8
-2015-10-17,home,Susquehanna,D3,2.2,Moravian,D3,1.8
-2015-10-13,home,Syracuse,D1,2.5,Bowling Green,D1,1.0
-2015-10-17,home,Syracuse,D1,1.3,Clemson,D1,1.4
+2015-10-14,home,St. Norbert,D3,1.6,Lawrence,D3,0.7
+2015-10-17,home,St. Norbert,D3,3.6,Cornell College,D3,0.6
+2015-10-18,home,St. Norbert,D3,1.1,Grinnell,D3,1.2
+2015-10-17,home,Stockton,D3,2.6,Farmingdale St.,D3,0.8
+2015-10-14,home,St. Olaf,D3,1.8,St. Thomas (MN),D3,1.4
+2015-10-18,home,St. Olaf,D3,2.0,Wartburg,D3,1.4
+2015-10-18,home,Stony Brook,D1,1.3,Vermont,D1,1.4
+2015-10-14,home,St. Scholastica,D3,3.3,Wis.-Superior,D3,1.3
+2015-10-17,home,St. Scholastica,D3,8.6,Bethany Lutheran,D3,0.6
+2015-10-18,home,St. Scholastica,D3,2.5,Carleton,D3,1.1
+2015-10-19,home,St. Thomas (MN),D3,1.3,Loras,D3,1.5
+2015-10-19,home,Suffolk,D3,0.4,Springfield,D3,3.8
+2015-10-14,home,Summit,D3,0.8,Centenary (NJ),D3,1.8
+2015-10-16,home,SUNY Cortland,D3,1.4,Brockport,D3,1.0
+2015-10-17,home,SUNY Cortland,D3,2.5,SUNY Geneseo,D3,0.9
+2015-10-17,home,SUNY Maritime,D3,1.9,St. Joseph's (L.I.),D3,1.1
+2015-10-14,home,SUNY Oneonta,D3,2.0,Hamilton,D3,0.4
+2015-10-17,home,SUNY Oneonta,D3,2.3,SUNY New Paltz,D3,0.6
+2015-10-16,home,SUNY Potsdam,D3,1.4,Buffalo St.,D3,1.3
+2015-10-17,home,SUNY Potsdam,D3,2.6,Fredonia,D3,1.1
+2015-10-13,home,Susquehanna,D3,1.3,Gettysburg,D3,1.6
+2015-10-17,home,Susquehanna,D3,1.9,Moravian,D3,1.4
+2015-10-13,home,Syracuse,D1,2.5,Bowling Green,D1,0.9
+2015-10-17,home,Syracuse,D1,1.3,Clemson,D1,1.5
 2015-10-14,home,Tampa,D2,1.0,Eckerd,D2,0.9
-2015-10-14,home,TCNJ,D3,1.3,Rutgers-Camden,D3,1.9
-2015-10-13,home,Temple,D1,1.1,Columbia,D1,0.7
-2015-10-15,home,Tex. A&M Int'l,D2,1.4,Okla. Christian,D2,0.8
-2015-10-17,home,Tex. A&M Int'l,D2,1.1,Rogers St.,D2,1.0
-2015-10-15,home,Texas-Dallas,D3,3.3,East Tex. Baptist,D3,0.5
-2015-10-17,home,Texas-Dallas,D3,2.1,LeTourneau,D3,0.5
-2015-10-12,home,Thiel,D3,1.3,Thomas More,D3,6.3
-2015-10-17,home,Thomas (ME),D3,3.0,Husson,D3,1.3
+2015-10-14,home,TCNJ,D3,1.6,Rutgers-Camden,D3,1.9
+2015-10-13,home,Temple,D1,1.2,Columbia,D1,0.8
+2015-10-15,home,Tex. A&M Int'l,D2,1.4,Okla. Christian,D2,0.9
+2015-10-17,home,Tex. A&M Int'l,D2,1.0,Rogers St.,D2,1.2
+2015-10-15,home,Texas-Dallas,D3,3.4,East Tex. Baptist,D3,0.5
+2015-10-17,home,Texas-Dallas,D3,2.5,LeTourneau,D3,0.4
+2015-10-17,home,Thomas (ME),D3,2.8,Husson,D3,1.1
 2015-10-17,home,Thomas More,D3,1.8,Westminster (PA),D3,0.8
-2015-10-17,home,Trevecca Nazarene,D2,1.2,Cedarville,D2,3.1
-2015-10-13,home,Tufts,D3,1.2,Gordon,D3,0.8
-2015-10-17,home,Tulsa,D1,1.1,Temple,D1,1.3
-2015-10-14,home,UC Davis,D1,1.4,Cal Poly,D1,1.6
-2015-10-17,home,UC Davis,D1,1.7,Sacramento St.,D1,1.5
-2015-10-13,home,UCF,D1,1.1,Stetson,D1,1.0
-2015-10-14,home,UC Irvine,D1,1.4,UC Riverside,D1,1.1
-2015-10-12,home,UCLA,D1,1.4,San Diego St.,D1,1.4
-2015-10-16,home,UCLA,D1,1.2,Stanford,D1,1.3
-2015-10-17,home,UConn,D1,1.2,UCF,D1,0.8
+2015-10-17,home,Trevecca Nazarene,D2,1.4,Cedarville,D2,2.3
+2015-10-13,home,Tufts,D3,1.1,Gordon,D3,0.8
+2015-10-17,home,Tulsa,D1,1.2,Temple,D1,1.2
+2015-10-14,home,UC Davis,D1,1.1,Cal Poly,D1,1.3
+2015-10-17,home,UC Davis,D1,2.0,Sacramento St.,D1,1.2
+2015-10-13,home,UCF,D1,1.4,Stetson,D1,0.9
+2015-10-14,home,UC Irvine,D1,1.5,UC Riverside,D1,1.1
+2015-10-16,home,UCLA,D1,1.0,Stanford,D1,1.3
+2015-10-19,home,UCLA,D1,2.0,California,D1,1.6
+2015-10-17,home,UConn,D1,0.9,UCF,D1,0.8
 2015-10-17,home,UC Riverside,D1,1.1,CSUN,D1,1.3
-2015-10-14,home,UMass Lowell,D1,1.3,Stony Brook,D1,0.8
-2015-10-17,home,UMBC,D1,1.1,New Hampshire,D1,1.3
-2015-10-18,home,UMKC,D1,1.5,UTRGV,D1,1.2
-2015-10-17,home,UNCG,D1,1.2,Furman,D1,0.8
-2015-10-14,home,UNC Pembroke,D2,2.1,Coker,D2,1.2
-2015-10-14,home,UNCW,D1,1.8,Elon,D1,1.1
-2015-10-13,home,U New England,D3,1.6,Colby,D3,2.6
+2015-10-14,home,UMass Lowell,D1,1.3,Stony Brook,D1,0.9
+2015-10-17,home,UMBC,D1,1.2,New Hampshire,D1,1.3
+2015-10-18,home,UMKC,D1,1.2,UTRGV,D1,1.2
+2015-10-17,home,UNCG,D1,1.4,Furman,D1,0.8
+2015-10-14,home,UNC Pembroke,D2,1.9,Coker,D2,1.1
+2015-10-14,home,UNCW,D1,1.6,Elon,D1,1.2
+2015-10-13,home,U New England,D3,1.4,Colby,D3,2.0
 2015-10-15,home,U New England,D3,1.1,Clark (MA),D3,1.9
-2015-10-18,home,UNLV,D1,1.9,Incarnate Word,D1,1.5
-2015-10-14,home,Upper Iowa,D2,1.9,Ill.-Springfield,D2,0.5
-2015-10-18,neutral,Upper Iowa,D2,1.9,Oakland City,D2,0.7
-2015-10-17,home,Ursinus,D3,1.1,Washington Col.,D3,1.2
-2015-10-16,home,Utah Valley,D1,2.0,San Jose St.,D1,0.6
-2015-10-14,home,Utica,D3,1.2,Skidmore,D3,2.1
-2015-10-12,home,Va. Wesleyan,D3,1.7,Shenandoah,D3,0.9
-2015-10-17,home,VCU,D1,1.3,Duquesne,D1,0.9
-2015-10-14,home,Vermont,D1,1.4,UMBC,D1,1.3
-2015-10-14,home,Villanova,D1,1.3,Providence,D1,1.4
-2015-10-17,home,Villanova,D1,1.1,Xavier,D1,1.6
-2015-10-13,home,Virginia,D1,1.2,American,D1,1.2
-2015-10-16,home,Virginia,D1,1.3,Pittsburgh,D1,0.7
-2015-10-16,home,Virginia Tech,D1,1.3,Notre Dame,D1,1.8
-2015-10-13,home,VMI,D1,0.6,Mercer,D1,2.1
-2015-10-17,home,VMI,D1,0.7,ETSU,D1,2.6
-2015-10-14,home,Wabash,D3,1.2,Denison,D3,0.9
-2015-10-17,home,Wake Forest,D1,1.4,North Carolina,D1,0.9
-2015-10-16,home,Walsh,D2,1.1,Tiffin,D2,2.4
-2015-10-18,home,Walsh,D2,1.7,Findlay,D2,2.3
-2015-10-18,home,Washington,D1,1.0,Oregon St.,D1,0.7
-2015-10-14,home,Wash. & Jeff.,D3,2.7,Waynesburg,D3,0.5
+2015-10-18,home,UNLV,D1,1.9,Incarnate Word,D1,1.2
+2015-10-14,home,Upper Iowa,D2,1.8,Ill.-Springfield,D2,0.7
+2015-10-18,neutral,Upper Iowa,D2,2.1,Oakland City,D2,0.7
+2015-10-17,home,Ursinus,D3,1.1,Washington Col.,D3,1.3
+2015-10-16,home,Utah Valley,D1,1.7,San Jose St.,D1,0.7
+2015-10-14,home,Utica,D3,0.8,Skidmore,D3,2.2
+2015-10-17,home,VCU,D1,1.4,Duquesne,D1,0.9
+2015-10-14,home,Vermont,D1,1.3,UMBC,D1,1.4
+2015-10-14,home,Villanova,D1,1.2,Providence,D1,1.5
+2015-10-17,home,Villanova,D1,1.2,Xavier,D1,1.5
+2015-10-13,home,Virginia,D1,1.3,American,D1,1.4
+2015-10-16,home,Virginia,D1,1.5,Pittsburgh,D1,0.7
+2015-10-16,home,Virginia Tech,D1,1.2,Notre Dame,D1,1.4
+2015-10-13,home,VMI,D1,0.6,Mercer,D1,2.2
+2015-10-17,home,VMI,D1,0.8,ETSU,D1,2.6
+2015-10-14,home,Wabash,D3,1.1,Denison,D3,0.8
+2015-10-17,home,Wake Forest,D1,1.3,North Carolina,D1,0.8
+2015-10-16,home,Walsh,D2,0.9,Tiffin,D2,2.4
+2015-10-18,home,Walsh,D2,1.5,Findlay,D2,2.9
+2015-10-18,home,Washington,D1,1.0,Oregon St.,D1,0.5
+2015-10-14,home,Wash. & Jeff.,D3,2.2,Waynesburg,D3,0.7
 2015-10-16,home,Waynesburg,D3,0.9,Geneva,D3,2.8
-2015-10-13,home,Webster,D3,1.2,Westminster (MO),D3,3.0
-2015-10-14,home,Wells,D3,1.1,Morrisville St.,D3,1.3
-2015-10-17,home,Wells,D3,1.7,SUNY Poly,D3,1.3
-2015-10-18,home,Wells,D3,5.5,Cobleskill St.,D3,0.9
-2015-10-17,home,Wentworth,D3,3.6,U New England,D3,0.8
-2015-10-17,home,Wesleyan (CT),D3,1.5,Williams,D3,0.7
-2015-10-16,home,West Ala.,D2,1.5,Spring Hill,D2,0.7
-2015-10-18,home,West Ala.,D2,1.4,West Florida,D2,1.3
-2015-10-13,home,Western Conn. St.,D3,1.3,Trinity (CT),D3,1.0
-2015-10-16,home,Western Conn. St.,D3,0.7,UMass Boston,D3,2.7
-2015-10-13,home,Western Ill.,D1,1.8,Drake,D1,2.0
-2015-10-17,home,Western Ill.,D1,3.3,Eastern Ill.,D1,1.5
-2015-10-17,home,Western Mich.,D1,1.7,Bowling Green,D1,0.7
-2015-10-13,home,Western New Eng.,D3,1.0,UMass Boston,D3,2.6
-2015-10-17,home,Westfield St.,D3,2.2,Worcester St.,D3,2.1
-2015-10-14,home,Westminster (PA),D3,1.0,Grove City,D3,1.1
-2015-10-14,home,West Va. Wesleyan,D2,2.0,Lock Haven,D2,1.0
-2015-10-18,home,West Va. Wesleyan,D2,1.9,Notre Dame (OH),D2,1.8
-2015-10-13,home,West Virginia,D1,1.4,Penn St.,D1,1.0
-2015-10-14,home,Wheaton (IL),D3,1.9,Carthage,D3,1.2
-2015-10-17,home,Wheaton (IL),D3,1.7,Ill. Wesleyan,D3,1.3
-2015-10-14,home,Wheaton (MA),D3,1.4,Bridgewater St.,D3,1.2
-2015-10-18,home,Wheeling Jesuit,D2,3.1,Shepherd,D2,0.8
-2015-10-18,home,Wheelock,D3,2.8,Me.-Presque Isle,D3,2.3
-2015-10-17,home,Whitman,D3,1.8,Pacific (OR),D3,1.2
-2015-10-18,home,Whitman,D3,1.4,George Fox,D3,1.1
-2015-10-17,home,Whitworth,D3,2.7,George Fox,D3,0.4
-2015-10-18,home,Whitworth,D3,3.3,Pacific (OR),D3,0.5
-2015-10-17,home,Widener,D3,1.0,Hood,D3,1.3
-2015-10-17,home,Wilkes,D3,0.7,King's (PA),D3,1.4
-2015-10-17,home,Willamette,D3,0.7,Pacific Lutheran,D3,1.3
-2015-10-18,home,Willamette,D3,0.9,Puget Sound,D3,1.0
-2015-10-16,home,William Jewell,D2,1.0,St. Joseph's (IN),D2,1.3
-2015-10-18,home,William Jewell,D2,0.9,UIndy,D2,1.3
-2015-10-17,home,William & Mary,D1,1.3,UNCW,D1,2.0
-2015-10-14,home,Wilmington (DE),D2,1.8,Philadelphia U.,D2,0.8
-2015-10-17,home,Wilmington (DE),D2,2.4,Post,D2,1.1
-2015-10-17,home,Wilmington (OH),D3,1.2,Baldwin Wallace,D3,1.3
-2015-10-12,home,Wingate,D2,2.4,Brevard,D2,0.5
-2015-10-13,home,Winthrop,D1,1.4,Radford,D1,2.0
-2015-10-17,home,Winthrop,D1,2.1,UNC Asheville,D1,1.4
-2015-10-13,home,Wis. Lutheran,D3,2.0,Maranatha Baptist,D3,0.9
-2015-10-17,home,Wis. Lutheran,D3,1.3,Aurora,D3,1.1
-2015-10-13,home,Wis.-Platteville,D3,3.1,Edgewood,D3,0.9
-2015-10-17,home,Wis.-Platteville,D3,0.9,Wis.-Oshkosh,D3,1.4
-2015-10-12,home,Wis.-Whitewater,D3,3.1,Simpson,D3,0.7
-2015-10-14,home,Wittenberg,D3,1.1,DePauw,D3,2.2
-2015-10-17,home,Wittenberg,D3,1.4,Oberlin,D3,3.0
-2015-10-17,home,Wm. Paterson,D3,1.5,Rowan,D3,2.4
-2015-10-13,home,Wofford,D1,1.2,UNCG,D1,0.9
-2015-10-17,home,Wofford,D1,1.3,Mercer,D1,1.0
-2015-10-17,home,Wooster,D3,0.8,DePauw,D3,1.5
+2015-10-13,home,Webster,D3,1.1,Westminster (MO),D3,3.1
+2015-10-14,home,Wells,D3,1.0,Morrisville St.,D3,1.4
+2015-10-17,home,Wells,D3,1.4,SUNY Poly,D3,1.2
+2015-10-18,home,Wells,D3,6.0,Cobleskill St.,D3,0.7
+2015-10-17,home,Wentworth,D3,3.2,U New England,D3,0.7
+2015-10-17,home,Wesleyan (CT),D3,1.6,Williams,D3,0.8
+2015-10-16,home,West Ala.,D2,1.9,Spring Hill,D2,0.6
+2015-10-18,home,West Ala.,D2,1.4,West Florida,D2,0.9
+2015-10-13,home,Western Conn. St.,D3,1.1,Trinity (CT),D3,1.2
+2015-10-16,home,Western Conn. St.,D3,0.6,UMass Boston,D3,2.1
+2015-10-13,home,Western Ill.,D1,1.7,Drake,D1,1.8
+2015-10-17,home,Western Ill.,D1,3.9,Eastern Ill.,D1,1.4
+2015-10-17,home,Western Mich.,D1,1.4,Bowling Green,D1,0.6
+2015-10-13,home,Western New Eng.,D3,0.9,UMass Boston,D3,2.1
+2015-10-17,home,Westfield St.,D3,1.9,Worcester St.,D3,1.7
+2015-10-14,home,Westminster (PA),D3,1.1,Grove City,D3,1.1
+2015-10-14,home,West Va. Wesleyan,D2,1.8,Lock Haven,D2,1.0
+2015-10-18,home,West Va. Wesleyan,D2,1.7,Notre Dame (OH),D2,1.9
+2015-10-13,home,West Virginia,D1,1.6,Penn St.,D1,1.2
+2015-10-14,home,Wheaton (IL),D3,1.6,Carthage,D3,0.9
+2015-10-17,home,Wheaton (IL),D3,1.7,Ill. Wesleyan,D3,1.0
+2015-10-14,home,Wheaton (MA),D3,1.3,Bridgewater St.,D3,1.2
+2015-10-18,home,Wheeling Jesuit,D2,2.3,Shepherd,D2,0.8
+2015-10-18,home,Wheelock,D3,1.8,Me.-Presque Isle,D3,4.3
+2015-10-17,home,Whitman,D3,1.7,Pacific (OR),D3,1.1
+2015-10-18,home,Whitman,D3,1.1,George Fox,D3,1.3
+2015-10-19,home,Whittier,D3,2.2,Cal Lutheran,D3,1.3
+2015-10-17,home,Whitworth,D3,2.2,George Fox,D3,0.5
+2015-10-18,home,Whitworth,D3,3.4,Pacific (OR),D3,0.4
+2015-10-17,home,Widener,D3,1.2,Hood,D3,1.1
+2015-10-17,home,Wilkes,D3,0.7,King's (PA),D3,1.8
+2015-10-17,home,Willamette,D3,0.8,Pacific Lutheran,D3,1.4
+2015-10-18,home,Willamette,D3,1.1,Puget Sound,D3,1.4
+2015-10-16,home,William Jewell,D2,1.2,St. Joseph's (IN),D2,1.3
+2015-10-18,home,William Jewell,D2,0.8,UIndy,D2,1.4
+2015-10-17,home,William & Mary,D1,1.3,UNCW,D1,1.7
+2015-10-14,home,Wilmington (DE),D2,1.8,Philadelphia U.,D2,0.9
+2015-10-17,home,Wilmington (DE),D2,2.1,Post,D2,1.0
+2015-10-17,home,Wilmington (OH),D3,1.3,Baldwin Wallace,D3,1.5
+2015-10-13,home,Winthrop,D1,1.4,Radford,D1,2.3
+2015-10-17,home,Winthrop,D1,2.1,UNC Asheville,D1,1.5
+2015-10-13,home,Wis. Lutheran,D3,2.5,Maranatha Baptist,D3,1.1
+2015-10-17,home,Wis. Lutheran,D3,1.4,Aurora,D3,1.3
+2015-10-13,home,Wis.-Platteville,D3,2.8,Edgewood,D3,0.9
+2015-10-17,home,Wis.-Platteville,D3,0.8,Wis.-Oshkosh,D3,1.4
+2015-10-14,home,Wittenberg,D3,0.8,DePauw,D3,2.3
+2015-10-17,home,Wittenberg,D3,1.1,Oberlin,D3,3.1
+2015-10-17,home,Wm. Paterson,D3,1.2,Rowan,D3,2.3
+2015-10-19,home,Wm. Paterson,D3,1.0,Stockton,D3,1.5
+2015-10-13,home,Wofford,D1,1.4,UNCG,D1,1.1
+2015-10-17,home,Wofford,D1,1.2,Mercer,D1,0.9
+2015-10-17,home,Wooster,D3,0.6,DePauw,D3,1.9
 2015-10-17,home,Yale,D1,1.3,Cornell,D1,1.0
-2015-10-17,home,Yeshiva,D3,4.8,St. Joseph's (Brkln),D3,1.4
-2015-10-18,home,Yeshiva,D3,2.8,Purchase,D3,1.8
-2015-10-17,home,York (NY),D3,2.9,Medgar Evers,D3,2.3
+2015-10-17,home,Yeshiva,D3,6.2,St. Joseph's (Brkln),D3,1.1
+2015-10-18,home,Yeshiva,D3,2.5,Purchase,D3,1.2
+2015-10-17,home,York (NY),D3,3.2,Medgar Evers,D3,2.0
 2015-10-13,home,York (PA),D3,1.0,Frostburg St.,D3,1.3
