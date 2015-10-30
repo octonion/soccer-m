@@ -37,15 +37,19 @@ records_header = ["year","team_id","team_name","wins","losses","ties",
   records << records_header
 
   teams.each do |team|
+
+    sleep 5
+    
     team_id = team[0]
     team_name = team[1]
+
     print "#{year}/#{team_name} (#{team_count}/#{game_count})\n"
     begin
       page = agent.post(search_url, {"academicYear" => "#{year}",
                           "orgId" => team_id, "sportCode" => "MSO"})
     rescue
       print "#{year}/#{team_name} -> error, retrying\n"
-      sleep 3
+      sleep 10
       retry
     end
 
