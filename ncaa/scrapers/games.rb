@@ -38,7 +38,7 @@ records_header = ["year","team_id","team_name","wins","losses","ties",
 
   teams.each do |team|
 
-    sleep 5
+    #sleep 5
     
     team_id = team[0]
     team_name = team[1]
