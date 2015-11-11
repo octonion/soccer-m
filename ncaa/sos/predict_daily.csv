@@ -1,54 +1,24 @@
 date,site,team,div,t_score,opp,div,o_score
-2015-11-08,neutral,Bowdoin,D3,1.0,Wesleyan (CT),D3,0.8
-2015-11-08,home,Bryant,D1,1.7,Central Conn. St.,D1,1.1
-2015-11-08,home,Butler,D1,1.6,Providence,D1,1.1
-2015-11-08,home,Cal Poly Pomona,D2,1.5,Stanislaus St.,D2,1.2
-2015-11-08,home,Charleston (WV),D2,2.2,Notre Dame (OH),D2,0.9
-2015-11-08,home,Clemson,D1,2.3,Boston College,D1,0.8
-2015-11-08,home,Colorado Col.,D3,1.0,Trinity (TX),D3,1.3
-2015-11-08,home,Colorado Mines,D2,1.2,Colorado Mesa,D2,0.9
-2015-11-08,home,Daniel Webster,D3,1.9,Newbury,D3,0.7
-2015-11-08,home,Fort Hays St.,D2,1.8,Lindenwood (MO),D2,1.4
-2015-11-08,home,Framingham St.,D3,0.8,Bridgewater St.,D3,1.8
-2015-11-08,home,Gonzaga,D1,1.0,St. Mary's (CA),D1,0.7
-2015-11-08,home,Haverford,D3,2.0,Dickinson,D3,1.1
-2015-11-08,home,Indiana,D1,1.9,Wisconsin,D1,0.6
-2015-11-08,neutral,Iona,D1,1.1,Monmouth,D1,1.2
-2015-11-08,neutral,Lander,D2,1.2,Young Harris,D2,1.5
-2015-11-08,home,LIU Brooklyn,D1,0.6,St. Francis Brooklyn,D1,1.0
-2015-11-08,home,Loyola Marymount,D1,1.2,Santa Clara,D1,0.9
-2015-11-08,home,Maryland,D1,1.1,Michigan,D1,0.9
-2015-11-08,home,Midwestern St.,D2,3.6,Eastern N.M.,D2,0.8
-2015-11-08,neutral,Millersville,D2,1.3,Slippery Rock,D2,0.9
-2015-11-08,home,Millsaps,D3,2.7,Sewanee,D3,0.9
-2015-11-08,home,MIT,D3,1.7,Babson,D3,0.8
-2015-11-08,neutral,Monmouth,D1,1.2,Iona,D1,1.1
-2015-11-08,home,Morrisville St.,D3,1.5,Wells,D3,0.7
-2015-11-08,home,North Carolina,D1,1.5,Syracuse,D1,1.0
-2015-11-08,home,Northwood (MI),D2,2.9,Lake Erie,D2,0.7
-2015-11-08,home,Notre Dame,D1,1.5,Virginia,D1,0.8
-2015-11-08,home,Ohio St.,D1,1.2,Penn St.,D1,0.7
-2015-11-08,home,Pfeiffer,D2,2.9,Limestone,D2,1.2
-2015-11-08,home,Portland,D1,1.6,Pacific,D1,0.9
-2015-11-08,neutral,Queens (NC),D2,0.8,Wingate,D2,2.0
-2015-11-08,neutral,Rider,D1,1.6,Siena,D1,1.2
-2015-11-08,home,Rockhurst,D2,2.0,Quincy,D2,1.1
-2015-11-08,home,Rutgers,D1,2.3,Northwestern,D1,0.9
-2015-11-08,home,Sacred Heart,D1,1.4,Fairleigh Dickinson,D1,1.8
-2015-11-08,home,Saint Francis (PA),D1,1.3,Robert Morris,D1,0.7
-2015-11-08,home,Saint Leo,D2,2.6,Rollins,D2,1.6
-2015-11-08,home,San Diego St.,D1,1.3,Oregon St.,D1,1.0
-2015-11-08,neutral,Siena,D1,1.2,Rider,D1,1.6
-2015-11-08,neutral,Slippery Rock,D2,0.9,Millersville,D2,1.3
-2015-11-08,home,Southern N.H.,D2,1.4,Adelphi,D2,0.9
-2015-11-08,home,Spring Hill,D2,0.6,Palm Beach Atl.,D2,3.4
-2015-11-08,home,Texas-Tyler,D3,0.8,Texas-Dallas,D3,1.2
-2015-11-08,home,Tex.-Pan American,D1,1.3,Houston Baptist,D1,1.2
-2015-11-08,home,UCLA,D1,1.5,Washington,D1,1.0
-2015-11-08,home,Wake Forest,D1,2.4,Louisville,D1,0.7
-2015-11-08,home,Wash. & Lee,D3,2.0,Randolph,D3,1.0
-2015-11-08,neutral,Wesleyan (CT),D3,0.8,Bowdoin,D3,1.0
-2015-11-08,home,West Ala.,D2,1.4,West Florida,D2,0.8
-2015-11-08,neutral,Wingate,D2,2.0,Queens (NC),D2,0.8
-2015-11-08,home,Xavier,D1,1.5,DePaul,D1,0.7
-2015-11-08,neutral,Young Harris,D2,1.5,Lander,D2,1.2
+2015-11-11,home,Albany (NY),D1,1.5,Binghamton,D1,0.8
+2015-11-11,home,Arcadia,D3,1.5,Grove City,D3,1.3
+2015-11-11,home,Cal St. Fullerton,D1,1.1,Cal Poly,D1,0.8
+2015-11-11,home,Castleton,D3,1.5,Western New Eng.,D3,1.1
+2015-11-11,neutral,Central Ark.,D1,0.8,Drake,D1,2.7
+2015-11-11,home,Clemson,D1,1.8,Syracuse,D1,0.9
+2015-11-11,neutral,Drake,D1,2.7,Central Ark.,D1,0.8
+2015-11-11,home,Drew,D3,2.6,Brooklyn,D3,0.9
+2015-11-11,home,Endicott,D3,2.4,Mount Ida,D3,0.6
+2015-11-11,neutral,FIU,D1,1.5,Old Dominion,D1,1.4
+2015-11-11,home,Frostburg St.,D3,1.4,Alvernia,D3,0.7
+2015-11-11,home,Geneva,D3,1.7,Hood,D3,1.2
+2015-11-11,neutral,Loyola Chicago,D1,0.9,Missouri St.,D1,0.5
+2015-11-11,neutral,Missouri St.,D1,0.5,Loyola Chicago,D1,0.9
+2015-11-11,neutral,New Mexico,D1,1.2,South Carolina,D1,1.1
+2015-11-11,neutral,Old Dominion,D1,1.4,FIU,D1,1.5
+2015-11-11,home,Rutgers-Newark,D3,2.2,Centenary (NJ),D3,0.9
+2015-11-11,neutral,South Carolina,D1,1.1,New Mexico,D1,1.2
+2015-11-11,home,Springfield,D3,2.9,Colby-Sawyer,D3,0.8
+2015-11-11,home,UC Santa Barbara,D1,2.2,UC Davis,D1,1.1
+2015-11-11,home,Vermont,D1,1.2,UMBC,D1,1.2
+2015-11-11,home,Wake Forest,D1,1.6,Notre Dame,D1,0.8
+2015-11-11,home,Wentworth,D3,1.4,Norwich,D3,0.9
