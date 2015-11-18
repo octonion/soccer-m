@@ -1,0 +1,279 @@
+BEGIN
+ rd |      name      |   p   
+----+----------------+-------
+  2 | Dayton         | 0.744
+  2 | Coastal Caro.  | 0.741
+  2 | Rutgers        | 0.723
+  2 | CSU Fullerton  | 0.713
+  2 | Boston College | 0.709
+  2 | Elon           | 0.707
+  2 | Dartmouth      | 0.676
+  2 | Kentucky       | 0.667
+  2 | Virginia       | 0.656
+  2 | UCLA           | 0.648
+  2 | Charlotte      | 0.642
+  2 | South Carolina | 0.600
+  2 | Connecticut    | 0.586
+  2 | Hofstra        | 0.585
+  2 | SMU            | 0.548
+  2 | FIU            | 0.540
+  2 | Tulsa          | 0.460
+  2 | Utah Valley    | 0.452
+  2 | Lehigh         | 0.415
+  2 | Boston U.      | 0.414
+  2 | Furman         | 0.400
+  2 | Radford        | 0.358
+  2 | Cal Poly       | 0.352
+  2 | Rider          | 0.344
+  2 | Drake          | 0.333
+  2 | Hartwick       | 0.324
+  2 | Winthrop       | 0.293
+  2 | Vermont        | 0.291
+  2 | Santa Clara    | 0.287
+  2 | LIU Brooklyn   | 0.277
+  2 | North Florida  | 0.259
+  2 | Oakland        | 0.256
+  3 | Clemson        | 0.803
+  3 | Wake Forest    | 0.729
+  3 | Creighton      | 0.718
+  3 | Georgetown     | 0.711
+  3 | Seattle        | 0.706
+  3 | Maryland       | 0.702
+  3 | Notre Dame     | 0.697
+  3 | North Carolina | 0.696
+  3 | Syracuse       | 0.695
+  3 | Akron          | 0.683
+  3 | UC Santa Barb. | 0.680
+  3 | Indiana        | 0.637
+  3 | Stanford       | 0.637
+  3 | South Florida  | 0.634
+  3 | Denver         | 0.624
+  3 | Ohio State     | 0.574
+  3 | Dayton         | 0.340
+  3 | CSU Fullerton  | 0.289
+  3 | Boston College | 0.282
+  3 | Coastal Caro.  | 0.261
+  3 | Rutgers        | 0.255
+  3 | Dartmouth      | 0.235
+  3 | Connecticut    | 0.223
+  3 | Virginia       | 0.218
+  3 | Kentucky       | 0.216
+  3 | SMU            | 0.199
+  3 | UCLA           | 0.194
+  3 | South Carolina | 0.193
+  3 | Charlotte      | 0.193
+  3 | FIU            | 0.184
+  3 | Utah Valley    | 0.177
+  3 | Hofstra        | 0.175
+  3 | Elon           | 0.162
+  3 | Boston U.      | 0.140
+  3 | Furman         | 0.127
+  3 | Tulsa          | 0.119
+  3 | Lehigh         | 0.114
+  3 | Cal Poly       | 0.100
+  3 | Oakland        | 0.085
+  3 | Vermont        | 0.083
+  3 | Rider          | 0.080
+  3 | Radford        | 0.078
+  3 | Santa Clara    | 0.074
+  3 | Hartwick       | 0.070
+  3 | Drake          | 0.065
+  3 | LIU Brooklyn   | 0.063
+  3 | North Florida  | 0.043
+  3 | Winthrop       | 0.035
+  4 | Clemson        | 0.646
+  4 | Wake Forest    | 0.545
+  4 | Georgetown     | 0.477
+  4 | Notre Dame     | 0.446
+  4 | Syracuse       | 0.413
+  4 | North Carolina | 0.410
+  4 | Stanford       | 0.406
+  4 | Akron          | 0.399
+  4 | Creighton      | 0.376
+  4 | Seattle        | 0.368
+  4 | Maryland       | 0.334
+  4 | Denver         | 0.321
+  4 | South Florida  | 0.275
+  4 | Ohio State     | 0.253
+  4 | Indiana        | 0.223
+  4 | UC Santa Barb. | 0.197
+  4 | CSU Fullerton  | 0.147
+  4 | Dayton         | 0.147
+  4 | Rutgers        | 0.112
+  4 | Boston College | 0.108
+  4 | Charlotte      | 0.103
+  4 | Coastal Caro.  | 0.102
+  4 | Dartmouth      | 0.090
+  4 | Kentucky       | 0.087
+  4 | Virginia       | 0.080
+  4 | FIU            | 0.079
+  4 | UCLA           | 0.078
+  4 | Elon           | 0.078
+  4 | SMU            | 0.078
+  4 | Hofstra        | 0.076
+  4 | Utah Valley    | 0.071
+  4 | Connecticut    | 0.063
+  4 | Lehigh         | 0.044
+  4 | Tulsa          | 0.042
+  4 | South Carolina | 0.041
+  4 | Cal Poly       | 0.035
+  4 | Radford        | 0.034
+  4 | Boston U.      | 0.031
+  4 | Furman         | 0.027
+  4 | Oakland        | 0.025
+  4 | Santa Clara    | 0.022
+  4 | Vermont        | 0.021
+  4 | Rider          | 0.020
+  4 | LIU Brooklyn   | 0.019
+  4 | Drake          | 0.017
+  4 | Hartwick       | 0.016
+  4 | Winthrop       | 0.011
+  4 | North Florida  | 0.008
+  5 | Clemson        | 0.450
+  5 | Wake Forest    | 0.405
+  5 | Georgetown     | 0.272
+  5 | North Carolina | 0.249
+  5 | Syracuse       | 0.240
+  5 | Creighton      | 0.237
+  5 | Seattle        | 0.220
+  5 | Notre Dame     | 0.212
+  5 | Akron          | 0.198
+  5 | Stanford       | 0.177
+  5 | Maryland       | 0.146
+  5 | Denver         | 0.136
+  5 | Indiana        | 0.110
+  5 | South Florida  | 0.103
+  5 | Ohio State     | 0.094
+  5 | UC Santa Barb. | 0.075
+  5 | CSU Fullerton  | 0.054
+  5 | Charlotte      | 0.052
+  5 | Dayton         | 0.048
+  5 | Coastal Caro.  | 0.048
+  5 | Dartmouth      | 0.040
+  5 | Kentucky       | 0.039
+  5 | UCLA           | 0.035
+  5 | Rutgers        | 0.035
+  5 | Boston College | 0.034
+  5 | Elon           | 0.029
+  5 | FIU            | 0.027
+  5 | Connecticut    | 0.026
+  5 | SMU            | 0.024
+  5 | Virginia       | 0.024
+  5 | Hofstra        | 0.023
+  5 | Utah Valley    | 0.023
+  5 | Radford        | 0.014
+  5 | Cal Poly       | 0.014
+  5 | South Carolina | 0.012
+  5 | Lehigh         | 0.012
+  5 | Tulsa          | 0.011
+  5 | Boston U.      | 0.011
+  5 | Furman         | 0.008
+  5 | Oakland        | 0.006
+  5 | Drake          | 0.005
+  5 | Santa Clara    | 0.005
+  5 | Hartwick       | 0.005
+  5 | Vermont        | 0.004
+  5 | Rider          | 0.004
+  5 | LIU Brooklyn   | 0.004
+  5 | Winthrop       | 0.003
+  5 | North Florida  | 0.002
+  6 | Clemson        | 0.283
+  6 | Wake Forest    | 0.260
+  6 | Georgetown     | 0.129
+  6 | North Carolina | 0.129
+  6 | Creighton      | 0.126
+  6 | Syracuse       | 0.117
+  6 | Notre Dame     | 0.113
+  6 | Seattle        | 0.110
+  6 | Stanford       | 0.086
+  6 | Akron          | 0.084
+  6 | Maryland       | 0.072
+  6 | Denver         | 0.062
+  6 | Indiana        | 0.051
+  6 | South Florida  | 0.040
+  6 | Ohio State     | 0.039
+  6 | UC Santa Barb. | 0.030
+  6 | Charlotte      | 0.026
+  6 | CSU Fullerton  | 0.024
+  6 | Dayton         | 0.020
+  6 | Coastal Caro.  | 0.020
+  6 | Kentucky       | 0.017
+  6 | Dartmouth      | 0.016
+  6 | UCLA           | 0.014
+  6 | Rutgers        | 0.013
+  6 | Elon           | 0.012
+  6 | Boston College | 0.012
+  6 | FIU            | 0.012
+  6 | Virginia       | 0.010
+  6 | Connecticut    | 0.010
+  6 | Utah Valley    | 0.009
+  6 | SMU            | 0.009
+  6 | Hofstra        | 0.008
+  6 | Radford        | 0.006
+  6 | Cal Poly       | 0.005
+  6 | Lehigh         | 0.004
+  6 | Boston U.      | 0.004
+  6 | South Carolina | 0.004
+  6 | Tulsa          | 0.004
+  6 | Furman         | 0.002
+  6 | Oakland        | 0.002
+  6 | Drake          | 0.002
+  6 | Winthrop       | 0.001
+  6 | Santa Clara    | 0.001
+  6 | Rider          | 0.001
+  6 | Vermont        | 0.001
+  6 | Hartwick       | 0.001
+  6 | LIU Brooklyn   | 0.001
+  6 | North Florida  | 0.000
+  7 | Clemson        | 0.163
+  7 | Wake Forest    | 0.163
+  7 | Creighton      | 0.070
+  7 | North Carolina | 0.068
+  7 | Georgetown     | 0.061
+  7 | Syracuse       | 0.056
+  7 | Notre Dame     | 0.055
+  7 | Seattle        | 0.055
+  7 | Stanford       | 0.041
+  7 | Akron          | 0.036
+  7 | Maryland       | 0.032
+  7 | Denver         | 0.029
+  7 | Indiana        | 0.022
+  7 | Ohio State     | 0.016
+  7 | South Florida  | 0.015
+  7 | Charlotte      | 0.012
+  7 | UC Santa Barb. | 0.011
+  7 | CSU Fullerton  | 0.011
+  7 | Coastal Caro.  | 0.009
+  7 | Dayton         | 0.008
+  7 | Kentucky       | 0.007
+  7 | Dartmouth      | 0.006
+  7 | Rutgers        | 0.005
+  7 | UCLA           | 0.005
+  7 | FIU            | 0.005
+  7 | Boston College | 0.004
+  7 | Connecticut    | 0.004
+  7 | Utah Valley    | 0.004
+  7 | Elon           | 0.004
+  7 | SMU            | 0.003
+  7 | Hofstra        | 0.003
+  7 | Virginia       | 0.003
+  7 | Cal Poly       | 0.002
+  7 | Radford        | 0.002
+  7 | Furman         | 0.001
+  7 | Lehigh         | 0.001
+  7 | Boston U.      | 0.001
+  7 | Tulsa          | 0.001
+  7 | South Carolina | 0.001
+  7 | Oakland        | 0.000
+  7 | North Florida  | 0.000
+  7 | Drake          | 0.000
+  7 | Winthrop       | 0.000
+  7 | Vermont        | 0.000
+  7 | Rider          | 0.000
+  7 | Hartwick       | 0.000
+  7 | LIU Brooklyn   | 0.000
+  7 | Santa Clara    | 0.000
+(272 rows)
+
+COPY 272
+COMMIT

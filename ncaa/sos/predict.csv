@@ -1,117 +1,13 @@
 date,site,team,div,t_score,opp,div,o_score
-2015-11-13,home,Akron,D1,2.9,West Virginia,D1,1.3
-2015-11-11,home,Albany (NY),D1,1.5,Binghamton,D1,0.8
-2015-11-12,home,Appalachian St.,D1,1.0,NJIT,D1,0.7
-2015-11-11,home,Arcadia,D3,1.5,Grove City,D3,1.3
-2015-11-14,neutral,Bowdoin,D3,1.1,Plattsburgh St.,D3,0.8
-2015-11-14,home,Brandeis,D3,1.6,Thomas (ME),D3,0.8
-2015-11-14,home,Brown,D1,0.8,Dartmouth,D1,1.0
-2015-11-13,neutral,Buffalo,D1,0.6,Western Mich.,D1,1.2
-2015-11-11,home,Cal St. Fullerton,D1,1.1,Cal Poly,D1,0.8
-2015-11-13,neutral,Calvin,D3,3.0,Mount Aloysius,D3,0.4
-2015-11-14,neutral,Carnegie Mellon,D3,1.3,Gordon,D3,1.3
-2015-11-11,home,Castleton,D3,1.5,Western New Eng.,D3,1.1
-2015-11-11,neutral,Central Ark.,D1,0.8,Drake,D1,2.7
-2015-11-15,home,Charlotte,D1,1.8,Marshall,D1,0.5
-2015-11-14,neutral,Chicago,D3,1.3,Thomas More,D3,1.6
-2015-11-11,home,Clemson,D1,1.8,Syracuse,D1,0.9
-2015-11-14,home,Cornell,D1,0.6,Columbia,D1,1.0
-2015-11-12,home,Creighton,D1,2.0,Providence,D1,0.9
-2015-11-12,neutral,CSU Bakersfield,D1,1.4,Houston Baptist,D1,1.2
-2015-11-12,neutral,Dayton,D1,2.3,Duquesne,D1,1.2
-2015-11-13,neutral,Delaware,D1,1.1,Elon,D1,1.4
-2015-11-12,home,Denver,D1,1.7,Western Ill.,D1,0.7
-2015-11-14,neutral,DePauw,D3,1.3,Westminster (MO),D3,1.6
-2015-11-14,neutral,Dickinson,D3,1.3,Rowan,D3,1.7
-2015-11-11,neutral,Drake,D1,2.7,Central Ark.,D1,0.8
-2015-11-11,home,Drew,D3,2.6,Brooklyn,D3,0.9
-2015-11-12,neutral,Duquesne,D1,1.2,Dayton,D1,2.3
-2015-11-14,neutral,Eastern,D3,0.9,Rutgers-Camden,D3,1.1
-2015-11-13,home,East Tenn. St.,D1,1.3,UNCG,D1,1.5
-2015-11-13,neutral,Elon,D1,1.4,Delaware,D1,1.1
-2015-11-11,home,Endicott,D3,2.4,Mount Ida,D3,0.6
-2015-11-11,neutral,FIU,D1,1.5,Old Dominion,D1,1.4
-2015-11-12,neutral,Fordham,D1,1.6,Massachusetts,D1,0.9
-2015-11-14,home,Frank. & Marsh.,D3,1.6,Babson,D3,0.7
-2015-11-11,home,Frostburg St.,D3,1.4,Alvernia,D3,0.7
-2015-11-13,neutral,Furman,D1,0.8,Mercer,D1,1.0
-2015-11-13,neutral,Ga. Southern,D1,1.9,Georgia St.,D1,2.5
-2015-11-11,home,Geneva,D3,1.7,Hood,D3,1.2
-2015-11-12,home,Georgetown,D1,1.3,Xavier,D1,0.7
-2015-11-12,neutral,George Washington,D1,0.8,VCU,D1,1.0
-2015-11-13,neutral,Georgia St.,D1,2.5,Ga. Southern,D1,1.9
-2015-11-14,neutral,Gordon,D3,1.3,Carnegie Mellon,D3,1.3
-2015-11-14,home,Harvard,D1,1.9,Penn,D1,0.7
-2015-11-13,home,Hofstra,D1,1.7,James Madison,D1,0.7
-2015-11-12,neutral,Houston Baptist,D1,1.2,CSU Bakersfield,D1,1.4
-2015-11-13,neutral,Indiana,D1,1.0,Maryland,D1,1.0
-2015-11-14,home,Kenyon,D3,2.0,Westminster (PA),D3,0.6
-2015-11-13,home,LIU Brooklyn,D1,0.6,St. Francis Brooklyn,D1,0.9
-2015-11-11,neutral,Loyola Chicago,D1,0.9,Missouri St.,D1,0.5
-2015-11-14,home,Lycoming,D3,1.9,Johnson & Wales (RI),D3,0.9
-2015-11-14,home,Macalester,D3,1.6,St. Scholastica,D3,1.7
-2015-11-13,neutral,Maryland,D1,1.0,Indiana,D1,1.0
-2015-11-12,neutral,Massachusetts,D1,0.9,Fordham,D1,1.6
-2015-11-13,neutral,Mercer,D1,1.0,Furman,D1,0.8
-2015-11-11,neutral,Missouri St.,D1,0.5,Loyola Chicago,D1,0.9
-2015-11-14,home,MIT,D3,1.5,Bridgewater St.,D3,0.8
-2015-11-14,home,Montclair St.,D3,2.6,Daniel Webster,D3,0.6
-2015-11-12,home,Morrisville St.,D3,1.5,Cabrini,D3,1.1
-2015-11-13,neutral,Mount Aloysius,D3,0.4,Calvin,D3,3.0
-2015-11-11,neutral,New Mexico,D1,1.2,South Carolina,D1,1.1
-2015-11-14,home,North Florida,D1,2.2,USC Upstate,D1,1.3
-2015-11-12,home,Ohio Northern,D3,1.8,Carthage,D3,0.9
-2015-11-13,home,Ohio St.,D1,1.1,Rutgers,D1,1.1
-2015-11-13,home,Ohio Wesleyan,D3,2.4,MSOE,D3,1.6
-2015-11-11,neutral,Old Dominion,D1,1.4,FIU,D1,1.5
-2015-11-12,neutral,Omaha,D1,1.8,Oral Roberts,D1,1.1
-2015-11-12,neutral,Oral Roberts,D1,1.1,Omaha,D1,1.8
-2015-11-12,home,Oregon St.,D1,0.6,Washington,D1,0.8
-2015-11-14,home,Pacific,D1,0.7,Gonzaga,D1,1.1
-2015-11-14,neutral,Plattsburgh St.,D3,0.8,Bowdoin,D3,1.1
-2015-11-14,home,Princeton,D1,2.8,Yale,D1,0.9
-2015-11-14,neutral,Redlands,D3,0.9,Whitworth,D3,1.8
-2015-11-14,neutral,Rensselaer,D3,1.0,Stevens,D3,1.2
-2015-11-12,neutral,Rhode Island,D1,0.8,Saint Louis,D1,1.1
-2015-11-13,neutral,Robert Morris,D1,0.8,Saint Francis (PA),D1,1.1
-2015-11-13,neutral,Rose-Hulman,D3,0.8,Wis.-Whitewater,D3,1.6
-2015-11-14,neutral,Rowan,D3,1.7,Dickinson,D3,1.3
-2015-11-14,neutral,Rutgers-Camden,D3,1.1,Eastern,D3,0.9
-2015-11-11,home,Rutgers-Newark,D3,2.2,Centenary (NJ),D3,0.9
-2015-11-13,neutral,Saint Francis (PA),D1,1.1,Robert Morris,D1,0.8
-2015-11-12,neutral,Saint Louis,D1,1.1,Rhode Island,D1,0.8
-2015-11-14,neutral,Salisbury,D3,0.6,Tufts,D3,0.8
-2015-11-14,home,San Diego St.,D1,1.6,UCLA,D1,2.3
-2015-11-14,home,San Francisco,D1,1.5,Loyola Marymount,D1,1.5
-2015-11-12,neutral,San Jose St.,D1,1.1,UNLV,D1,1.6
-2015-11-14,home,Santa Clara,D1,1.0,San Diego,D1,1.3
-2015-11-14,neutral,Scranton,D3,0.8,UMass Boston,D3,1.6
-2015-11-13,neutral,SMU,D1,1.5,Tulsa,D1,1.2
-2015-11-11,neutral,South Carolina,D1,1.1,New Mexico,D1,1.2
-2015-11-13,home,South Fla.,D1,0.9,UConn,D1,0.6
-2015-11-11,home,Springfield,D3,2.9,Colby-Sawyer,D3,0.8
-2015-11-12,home,Stanford,D1,2.1,California,D1,0.9
-2015-11-14,neutral,Stevens,D3,1.2,Rensselaer,D3,1.0
-2015-11-14,home,St. Lawrence,D3,1.6,Sage Colleges,D3,0.4
-2015-11-14,home,St. Mary's (CA),D1,1.4,Portland,D1,1.0
-2015-11-14,neutral,St. Olaf,D3,0.9,Wis.-Oshkosh,D3,1.3
-2015-11-14,home,SUNY Oneonta,D3,2.8,CCNY,D3,0.4
-2015-11-14,neutral,Thomas More,D3,1.6,Chicago,D3,1.3
-2015-11-14,home,Trinity (TX),D3,1.5,Texas-Dallas,D3,0.7
-2015-11-14,neutral,Tufts,D3,0.8,Salisbury,D3,0.6
-2015-11-13,neutral,Tulsa,D1,1.2,SMU,D1,1.5
-2015-11-11,home,UC Santa Barbara,D1,2.2,UC Davis,D1,1.1
-2015-11-14,neutral,UMass Boston,D3,1.6,Scranton,D3,0.8
-2015-11-12,neutral,UNLV,D1,1.6,San Jose St.,D1,1.1
-2015-11-12,neutral,VCU,D1,1.0,George Washington,D1,0.8
-2015-11-11,home,Vermont,D1,1.2,UMBC,D1,1.2
-2015-11-11,home,Wake Forest,D1,1.6,Notre Dame,D1,0.8
-2015-11-14,home,Washington-St. Louis,D3,2.6,Millsaps,D3,1.1
-2015-11-12,home,Wash. & Lee,D3,1.8,Methodist,D3,1.0
-2015-11-11,home,Wentworth,D3,1.4,Norwich,D3,0.9
-2015-11-13,neutral,Western Mich.,D1,1.2,Buffalo,D1,0.6
-2015-11-14,neutral,Westminster (MO),D3,1.6,DePauw,D3,1.3
-2015-11-13,home,Wheaton (IL),D3,2.3,Lake Forest,D3,1.0
-2015-11-14,neutral,Whitworth,D3,1.8,Redlands,D3,0.9
-2015-11-14,neutral,Wis.-Oshkosh,D3,1.3,St. Olaf,D3,0.9
-2015-11-13,neutral,Wis.-Whitewater,D3,1.6,Rose-Hulman,D3,0.8
+2015-11-21,home,Amherst,D3,1.2,Lycoming,D3,0.7
+2015-11-21,neutral,Brandeis,D3,0.6,Trinity (TX),D3,1.2
+2015-11-21,neutral,Calvin,D3,1.2,Frank. & Marsh.,D3,0.8
+2015-11-21,neutral,Frank. & Marsh.,D3,0.8,Calvin,D3,1.2
+2015-11-21,home,Haverford,D3,1.2,St. Lawrence,D3,1.2
+2015-11-21,home,Kenyon,D3,1.0,Tufts,D3,0.8
+2015-11-21,home,Loras,D3,2.2,DePauw,D3,0.9
+2015-11-21,neutral,MIT,D3,0.9,SUNY Oneonta,D3,1.3
+2015-11-21,neutral,St. Olaf,D3,1.2,Wheaton (IL),D3,1.4
+2015-11-21,neutral,SUNY Oneonta,D3,1.3,MIT,D3,0.9
+2015-11-21,neutral,Trinity (TX),D3,1.2,Brandeis,D3,0.6
+2015-11-21,neutral,Wheaton (IL),D3,1.4,St. Olaf,D3,1.2
