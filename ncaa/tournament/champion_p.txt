@@ -1,55 +1,39 @@
 BEGIN
    team_name    |   p   
 ----------------+-------
- Clemson        | 0.283
- Wake Forest    | 0.260
- North Carolina | 0.129
- Georgetown     | 0.129
- Creighton      | 0.126
- Syracuse       | 0.117
- Notre Dame     | 0.113
- Seattle        | 0.110
- Stanford       | 0.086
- Akron          | 0.084
- Maryland       | 0.072
- Denver         | 0.062
- Indiana        | 0.051
+ Clemson        | 0.269
+ Wake Forest    | 0.251
+ Creighton      | 0.141
+ Georgetown     | 0.126
+ North Carolina | 0.123
+ Notre Dame     | 0.122
+ Syracuse       | 0.109
+ Seattle        | 0.106
+ Stanford       | 0.098
+ Akron          | 0.081
+ Maryland       | 0.069
+ Denver         | 0.061
+ Indiana        | 0.048
  South Florida  | 0.040
- Ohio State     | 0.039
+ Charlotte      | 0.039
+ Ohio State     | 0.037
  UC Santa Barb. | 0.030
- Charlotte      | 0.026
- CSU Fullerton  | 0.024
- Dayton         | 0.020
- Coastal Caro.  | 0.020
- Kentucky       | 0.017
- Dartmouth      | 0.016
- UCLA           | 0.014
- Rutgers        | 0.013
- FIU            | 0.012
- Boston College | 0.012
- Elon           | 0.012
- Virginia       | 0.010
- Connecticut    | 0.010
- Utah Valley    | 0.009
- SMU            | 0.009
- Hofstra        | 0.008
- Radford        | 0.006
- Cal Poly       | 0.005
- Lehigh         | 0.004
- South Carolina | 0.004
- Tulsa          | 0.004
- Boston U.      | 0.004
- Furman         | 0.002
- Oakland        | 0.002
- Drake          | 0.002
- Vermont        | 0.001
- Hartwick       | 0.001
- Rider          | 0.001
- Winthrop       | 0.001
- LIU Brooklyn   | 0.001
- Santa Clara    | 0.001
- North Florida  | 0.000
-(48 rows)
+ Coastal Caro.  | 0.029
+ Dayton         | 0.026
+ UCLA           | 0.024
+ Dartmouth      | 0.023
+ Elon           | 0.021
+ SMU            | 0.019
+ Connecticut    | 0.019
+ Virginia       | 0.018
+ Boston College | 0.017
+ Rutgers        | 0.016
+ Hofstra        | 0.012
+ Tulsa          | 0.009
+ Santa Clara    | 0.007
+ South Carolina | 0.006
+ Drake          | 0.005
+(32 rows)
 
-COPY 48
+COPY 32
 COMMIT
