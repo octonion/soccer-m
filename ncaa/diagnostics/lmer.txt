@@ -1,6 +1,6 @@
-[1] 72572    10
+[1] 72622    10
 [1] TRUE
-[1] 72572     7
+[1] 72622     7
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -9,20 +9,20 @@ Formula: gs ~ year + field + d_div + o_div + (1 | offense) + (1 | defense) +
    Data: g
 Weights: w
       AIC       BIC    logLik  deviance  df.resid 
- 226542.6  226671.3 -113257.3  226514.6     72558 
+ 226688.5  226817.2 -113330.2  226660.5     72608 
 Random effects:
  Groups  Name        Std.Dev.
  game_id (Intercept) 0.08641 
- defense (Intercept) 0.48791 
- offense (Intercept) 0.38808 
-Number of obs: 72572, groups:  game_id, 36286; defense, 4040; offense, 4040
+ defense (Intercept) 0.48782 
+ offense (Intercept) 0.38795 
+Number of obs: 72622, groups:  game_id, 36311; defense, 4040; offense, 4040
 Fixed Effects:
       (Intercept)           year2013           year2014           year2015  
-         0.160165           0.010089          -0.012481          -0.017013  
+         0.159574           0.010089          -0.012487          -0.017020  
          year2016  fielddefense_home  fieldoffense_home             d_div2  
-         0.004645          -0.111788           0.106937           0.710547  
+         0.004599          -0.111156           0.107515           0.710361  
            d_div3             o_div2             o_div3  
-         1.183094          -0.548223          -1.032364  
+         1.182741          -0.548037          -1.031905  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -33,32 +33,32 @@ Weights: w
 Control: glmerControl(optimizer = "nloptwrap")
 
       AIC       BIC    logLik  deviance  df.resid 
- 226542.6  226671.3 -113257.3  226514.6     72558 
+ 226688.5  226817.2 -113330.2  226660.5     72608 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--2.2080 -0.8198 -0.1271  0.5332  5.1862 
+-2.2080 -0.8200 -0.1271  0.5331  5.1856 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
  game_id (Intercept) 0.007466 0.08641 
- defense (Intercept) 0.238057 0.48791 
- offense (Intercept) 0.150604 0.38808 
-Number of obs: 72572, groups:  game_id, 36286; defense, 4040; offense, 4040
+ defense (Intercept) 0.237964 0.48782 
+ offense (Intercept) 0.150508 0.38795 
+Number of obs: 72622, groups:  game_id, 36311; defense, 4040; offense, 4040
 
 Fixed effects:
                    Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        0.160165   0.032189   4.976 6.50e-07 ***
-year2013           0.010089   0.032981   0.306    0.760    
-year2014          -0.012481   0.032976  -0.378    0.705    
-year2015          -0.017013   0.032913  -0.517    0.605    
-year2016           0.004645   0.032847   0.141    0.888    
-fielddefense_home -0.111788   0.014670  -7.620 2.53e-14 ***
-fieldoffense_home  0.106937   0.014482   7.384 1.53e-13 ***
-d_div2             0.710547   0.089093   7.975 1.52e-15 ***
-d_div3             1.183094   0.097987  12.074  < 2e-16 ***
-o_div2            -0.548223   0.087943  -6.234 4.55e-10 ***
-o_div3            -1.032364   0.097180 -10.623  < 2e-16 ***
+(Intercept)        0.159574   0.032182   4.958 7.11e-07 ***
+year2013           0.010089   0.032974   0.306    0.760    
+year2014          -0.012487   0.032968  -0.379    0.705    
+year2015          -0.017020   0.032906  -0.517    0.605    
+year2016           0.004599   0.032838   0.140    0.889    
+fielddefense_home -0.111156   0.014665  -7.579 3.47e-14 ***
+fieldoffense_home  0.107515   0.014477   7.426 1.12e-13 ***
+d_div2             0.710361   0.089088   7.974 1.54e-15 ***
+d_div3             1.182741   0.097979  12.071  < 2e-16 ***
+o_div2            -0.548037   0.087939  -6.232 4.60e-10 ***
+o_div3            -1.031905   0.097173 -10.619  < 2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
