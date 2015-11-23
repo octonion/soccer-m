@@ -1,10 +1,10 @@
 BEGIN
-    team_name     |   p   
-------------------+-------
- Charlestown (WV) | 0.429
- Pfeiffer         | 0.256
- Cal Poly Pomona  | 0.175
- Rockhurst        | 0.140
+    team_name    |   p   
+-----------------+-------
+ Charleston (WV) | 0.429
+ Pfeiffer        | 0.256
+ Cal Poly Pomona | 0.175
+ Rockhurst       | 0.140
 (4 rows)
 
 COPY 4
