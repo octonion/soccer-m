@@ -1,167 +1,71 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  3 | Creighton      | 0.795
-  3 | Clemson        | 0.755
-  3 | Notre Dame     | 0.739
-  3 | Stanford       | 0.718
-  3 | Georgetown     | 0.703
-  3 | Wake Forest    | 0.701
-  3 | Seattle        | 0.682
-  3 | UC Santa Barb. | 0.677
-  3 | Akron          | 0.659
-  3 | Syracuse       | 0.651
-  3 | Maryland       | 0.650
-  3 | North Carolina | 0.644
-  3 | Denver         | 0.619
-  3 | Indiana        | 0.608
-  3 | South Florida  | 0.600
-  3 | Ohio State     | 0.551
-  3 | Dayton         | 0.449
-  3 | Boston College | 0.400
-  3 | Connecticut    | 0.392
-  3 | SMU            | 0.381
-  3 | Coastal Caro.  | 0.356
-  3 | Virginia       | 0.350
-  3 | Dartmouth      | 0.349
-  3 | Rutgers        | 0.341
-  3 | South Carolina | 0.323
-  3 | UCLA           | 0.318
-  3 | Charlotte      | 0.299
-  3 | Hofstra        | 0.297
-  3 | Santa Clara    | 0.282
-  3 | Tulsa          | 0.261
-  3 | Elon           | 0.245
-  3 | Drake          | 0.205
-  4 | Clemson        | 0.612
-  4 | Wake Forest    | 0.520
-  4 | Notre Dame     | 0.467
-  4 | Georgetown     | 0.464
-  4 | Stanford       | 0.458
-  4 | Creighton      | 0.416
-  4 | North Carolina | 0.386
-  4 | Akron          | 0.385
-  4 | Syracuse       | 0.385
-  4 | Seattle        | 0.355
-  4 | Denver         | 0.317
-  4 | Maryland       | 0.309
-  4 | South Florida  | 0.262
-  4 | Ohio State     | 0.247
-  4 | Indiana        | 0.213
-  4 | Dayton         | 0.204
-  4 | UC Santa Barb. | 0.198
-  4 | SMU            | 0.156
-  4 | Charlotte      | 0.155
-  4 | Boston College | 0.152
-  4 | Coastal Caro.  | 0.144
-  4 | Rutgers        | 0.141
-  4 | Virginia       | 0.132
-  4 | UCLA           | 0.130
-  4 | Dartmouth      | 0.130
-  4 | Hofstra        | 0.123
-  4 | Elon           | 0.123
-  4 | Connecticut    | 0.112
-  4 | Santa Clara    | 0.091
-  4 | Tulsa          | 0.091
-  4 | South Carolina | 0.067
-  4 | Drake          | 0.054
-  5 | Clemson        | 0.426
-  5 | Wake Forest    | 0.391
-  5 | Georgetown     | 0.264
-  5 | Creighton      | 0.263
-  5 | North Carolina | 0.236
-  5 | Notre Dame     | 0.227
-  5 | Syracuse       | 0.223
-  5 | Seattle        | 0.211
-  5 | Stanford       | 0.201
-  5 | Akron          | 0.190
-  5 | Maryland       | 0.138
-  5 | Denver         | 0.133
-  5 | Indiana        | 0.105
-  5 | South Florida  | 0.101
-  5 | Ohio State     | 0.091
-  5 | Charlotte      | 0.080
-  5 | UC Santa Barb. | 0.074
-  5 | Coastal Caro.  | 0.067
-  5 | Dayton         | 0.063
-  5 | UCLA           | 0.059
-  5 | Dartmouth      | 0.057
-  5 | SMU            | 0.050
-  5 | Boston College | 0.049
-  5 | Elon           | 0.048
-  5 | Connecticut    | 0.047
-  5 | Rutgers        | 0.044
-  5 | Virginia       | 0.043
-  5 | Hofstra        | 0.037
-  5 | Tulsa          | 0.025
-  5 | Santa Clara    | 0.021
-  5 | South Carolina | 0.019
-  5 | Drake          | 0.017
-  6 | Clemson        | 0.269
-  6 | Wake Forest    | 0.251
-  6 | Creighton      | 0.141
-  6 | Georgetown     | 0.126
-  6 | North Carolina | 0.123
-  6 | Notre Dame     | 0.122
-  6 | Syracuse       | 0.109
-  6 | Seattle        | 0.106
-  6 | Stanford       | 0.098
-  6 | Akron          | 0.081
-  6 | Maryland       | 0.069
-  6 | Denver         | 0.061
-  6 | Indiana        | 0.048
-  6 | South Florida  | 0.040
-  6 | Charlotte      | 0.039
-  6 | Ohio State     | 0.037
-  6 | UC Santa Barb. | 0.030
-  6 | Coastal Caro.  | 0.029
-  6 | Dayton         | 0.026
-  6 | UCLA           | 0.024
-  6 | Dartmouth      | 0.023
-  6 | Elon           | 0.021
-  6 | Connecticut    | 0.019
-  6 | SMU            | 0.019
-  6 | Virginia       | 0.018
-  6 | Boston College | 0.017
-  6 | Rutgers        | 0.016
-  6 | Hofstra        | 0.012
-  6 | Tulsa          | 0.009
-  6 | Santa Clara    | 0.007
-  6 | South Carolina | 0.006
-  6 | Drake          | 0.005
-  7 | Wake Forest    | 0.159
-  7 | Clemson        | 0.155
-  7 | Creighton      | 0.078
-  7 | North Carolina | 0.066
-  7 | Notre Dame     | 0.060
-  7 | Georgetown     | 0.059
-  7 | Seattle        | 0.053
-  7 | Syracuse       | 0.052
-  7 | Stanford       | 0.047
-  7 | Akron          | 0.036
-  7 | Maryland       | 0.031
-  7 | Denver         | 0.029
-  7 | Indiana        | 0.021
-  7 | Charlotte      | 0.019
-  7 | Ohio State     | 0.015
-  7 | South Florida  | 0.015
-  7 | Coastal Caro.  | 0.013
-  7 | UC Santa Barb. | 0.011
-  7 | Dayton         | 0.010
-  7 | UCLA           | 0.010
-  7 | Dartmouth      | 0.009
-  7 | SMU            | 0.008
-  7 | Elon           | 0.008
-  7 | Connecticut    | 0.007
-  7 | Rutgers        | 0.006
-  7 | Virginia       | 0.006
-  7 | Boston College | 0.006
-  7 | Hofstra        | 0.004
-  7 | Tulsa          | 0.003
-  7 | Santa Clara    | 0.002
-  7 | Drake          | 0.002
-  7 | South Carolina | 0.002
-(160 rows)
+  4 | Clemson        | 0.793
+  4 | Wake Forest    | 0.725
+  4 | Georgetown     | 0.687
+  4 | Akron          | 0.643
+  4 | Stanford       | 0.631
+  4 | Notre Dame     | 0.606
+  4 | Syracuse       | 0.559
+  4 | North Carolina | 0.554
+  4 | Creighton      | 0.446
+  4 | Seattle        | 0.441
+  4 | Maryland       | 0.394
+  4 | Ohio State     | 0.369
+  4 | SMU            | 0.357
+  4 | Boston College | 0.313
+  4 | Indiana        | 0.275
+  4 | UC Santa Barb. | 0.207
+  5 | Clemson        | 0.531
+  5 | Wake Forest    | 0.525
+  5 | Georgetown     | 0.377
+  5 | North Carolina | 0.328
+  5 | Akron          | 0.299
+  5 | Syracuse       | 0.296
+  5 | Creighton      | 0.273
+  5 | Notre Dame     | 0.255
+  5 | Seattle        | 0.240
+  5 | Stanford       | 0.239
+  5 | Maryland       | 0.149
+  5 | Indiana        | 0.121
+  5 | Ohio State     | 0.115
+  5 | SMU            | 0.100
+  5 | Boston College | 0.087
+  5 | UC Santa Barb. | 0.064
+  6 | Wake Forest    | 0.337
+  6 | Clemson        | 0.325
+  6 | Georgetown     | 0.169
+  6 | North Carolina | 0.160
+  6 | Creighton      | 0.137
+  6 | Syracuse       | 0.136
+  6 | Notre Dame     | 0.132
+  6 | Akron          | 0.117
+  6 | Stanford       | 0.115
+  6 | Seattle        | 0.113
+  6 | Maryland       | 0.071
+  6 | Indiana        | 0.054
+  6 | Ohio State     | 0.046
+  6 | SMU            | 0.035
+  6 | Boston College | 0.028
+  6 | UC Santa Barb. | 0.025
+  7 | Wake Forest    | 0.207
+  7 | Clemson        | 0.181
+  7 | North Carolina | 0.083
+  7 | Georgetown     | 0.076
+  7 | Creighton      | 0.073
+  7 | Syracuse       | 0.063
+  7 | Notre Dame     | 0.062
+  7 | Seattle        | 0.054
+  7 | Stanford       | 0.053
+  7 | Akron          | 0.049
+  7 | Maryland       | 0.030
+  7 | Indiana        | 0.023
+  7 | Ohio State     | 0.017
+  7 | SMU            | 0.013
+  7 | Boston College | 0.009
+  7 | UC Santa Barb. | 0.008
+(64 rows)
 
-COPY 160
+COPY 64
 COMMIT
