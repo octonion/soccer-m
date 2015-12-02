@@ -1,23 +1,15 @@
 BEGIN
    team_name    |   p   
 ----------------+-------
- Wake Forest    | 0.207
- Clemson        | 0.181
- North Carolina | 0.083
- Georgetown     | 0.076
- Creighton      | 0.073
- Syracuse       | 0.063
- Notre Dame     | 0.062
- Seattle        | 0.054
- Stanford       | 0.053
- Akron          | 0.049
- Maryland       | 0.030
- Indiana        | 0.023
- Ohio State     | 0.017
- SMU            | 0.013
- Boston College | 0.009
- UC Santa Barb. | 0.008
-(16 rows)
+ Wake Forest    | 0.273
+ Clemson        | 0.229
+ Creighton      | 0.148
+ Syracuse       | 0.137
+ Akron          | 0.069
+ Stanford       | 0.059
+ Maryland       | 0.059
+ Boston College | 0.024
+(8 rows)
 
-COPY 16
+COPY 8
 COMMIT
