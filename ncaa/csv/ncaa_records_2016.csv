@@ -81,7 +81,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,1305,Cairn,8,9,1,18
 2016,105,Cal Lutheran,3,13,3,19
 2016,90,Cal Poly,11,5,5,21
-2016,91,Cal Poly Pomona,16,2,3,21
+2016,91,Cal Poly Pomona,17,2,3,22
 2016,92,Cal St. Dom. Hills,15,3,4,22
 2016,98,Cal St. East Bay,5,12,0,17
 2016,97,Cal St. Fullerton,13,8,1,22
@@ -349,7 +349,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,2746,Lake Erie,7,9,2,18
 2016,344,Lake Forest,13,7,1,21
 2016,1164,Lakeland,2,16,0,18
-2016,30085,Lancaster Bible,13,6,4,23
+2016,30085,Lancaster Bible,13,6,3,22
 2016,1167,Lander,14,3,2,19
 2016,8486,Lasell,3,13,0,16
 2016,348,Lawrence,4,13,1,18
@@ -575,11 +575,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,18422,Rivier,3,11,1,15
 2016,578,Roanoke,12,7,1,20
 2016,579,Robert Morris,10,8,1,19
-2016,30150,Roberts Wesleyan,9,7,3,19
+2016,30150,Roberts Wesleyan,9,6,2,17
 2016,581,Rochester (NY),6,5,5,16
 2016,580,RIT,7,10,0,17
 2016,582,Rockford,3,14,0,17
-2016,1328,Rockhurst,18,1,3,22
+2016,1328,Rockhurst,18,2,3,23
 2016,583,Roger Williams,8,9,1,18
 2016,30180,Rogers St.,10,5,3,18
 2016,584,Rollins,13,8,0,21
