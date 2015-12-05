@@ -1,25 +1,21 @@
 rd,name,p
 5,Syracuse,0.708
 5,Wake Forest,0.701
-5,Clemson,0.681
 5,Creighton,0.548
 5,Akron,0.451
-5,Maryland,0.319
 5,Stanford,0.299
 5,Boston College,0.292
+6,Clemson,0.626
 6,Wake Forest,0.437
-6,Clemson,0.426
-6,Syracuse,0.320
+6,Syracuse,0.293
 6,Creighton,0.263
 6,Akron,0.163
-6,Maryland,0.162
 6,Stanford,0.137
-6,Boston College,0.092
-7,Wake Forest,0.272
-7,Clemson,0.216
-7,Creighton,0.147
-7,Syracuse,0.136
-7,Akron,0.071
-7,Maryland,0.065
-7,Stanford,0.064
-7,Boston College,0.027
+6,Boston College,0.081
+7,Clemson,0.317
+7,Wake Forest,0.264
+7,Creighton,0.141
+7,Syracuse,0.125
+7,Akron,0.067
+7,Stanford,0.061
+7,Boston College,0.024
