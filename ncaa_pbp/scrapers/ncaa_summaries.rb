@@ -76,7 +76,9 @@ ncaa_teams.each do |team|
 
   teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
-  stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
+  stat_url = "http://stats.ncaa.org/team/#{team_id}/stats?id=#{year_id}"
+
+  #stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
 
   #print "Sleep #{sleep_time} ... "
   #sleep sleep_time

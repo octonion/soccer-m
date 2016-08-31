@@ -1,401 +1,401 @@
 sport_code	year	year_id	division_id	team_id	team_name	team_url
-MSO	2012	10620	3	4	Adrian	http://stats.ncaa.org/team/index/10620?org_id=4
-MSO	2012	10620	3	2798	Albertus Magnus	http://stats.ncaa.org/team/index/10620?org_id=2798
-MSO	2012	10620	3	15	Albion	http://stats.ncaa.org/team/index/10620?org_id=15
-MSO	2012	10620	3	16	Albright	http://stats.ncaa.org/team/index/10620?org_id=16
-MSO	2012	10620	3	18	Alfred	http://stats.ncaa.org/team/index/10620?org_id=18
-MSO	2012	10620	3	19	Allegheny	http://stats.ncaa.org/team/index/10620?org_id=19
-MSO	2012	10620	3	21	Alma	http://stats.ncaa.org/team/index/10620?org_id=21
-MSO	2012	10620	3	938	Alvernia	http://stats.ncaa.org/team/index/10620?org_id=938
-MSO	2012	10620	3	24	Amherst	http://stats.ncaa.org/team/index/10620?org_id=24
-MSO	2012	10620	3	939	Anderson (IN)	http://stats.ncaa.org/team/index/10620?org_id=939
-MSO	2012	10620	3	26	Anna Maria	http://stats.ncaa.org/team/index/10620?org_id=26
-MSO	2012	10620	3	966	Arcadia	http://stats.ncaa.org/team/index/10620?org_id=966
-MSO	2012	10620	3	38	Augsburg	http://stats.ncaa.org/team/index/10620?org_id=38
-MSO	2012	10620	3	40	Augustana (IL)	http://stats.ncaa.org/team/index/10620?org_id=40
-MSO	2012	10620	3	42	Aurora	http://stats.ncaa.org/team/index/10620?org_id=42
-MSO	2012	10620	3	953	Austin	http://stats.ncaa.org/team/index/10620?org_id=953
-MSO	2012	10620	3	44	Averett	http://stats.ncaa.org/team/index/10620?org_id=44
-MSO	2012	10620	3	45	Babson	http://stats.ncaa.org/team/index/10620?org_id=45
-MSO	2012	10620	3	46	Baldwin Wallace	http://stats.ncaa.org/team/index/10620?org_id=46
-MSO	2012	10620	3	962	Bard	http://stats.ncaa.org/team/index/10620?org_id=962
-MSO	2012	10620	3	58	Baruch	http://stats.ncaa.org/team/index/10620?org_id=58
-MSO	2012	10620	3	50	Bates	http://stats.ncaa.org/team/index/10620?org_id=50
-MSO	2012	10620	3	26107	Becker	http://stats.ncaa.org/team/index/10620?org_id=26107
-MSO	2012	10620	3	53	Beloit	http://stats.ncaa.org/team/index/10620?org_id=53
-MSO	2012	10620	3	296	Benedictine (IL)	http://stats.ncaa.org/team/index/10620?org_id=296
-MSO	2012	10620	3	973	Berry	http://stats.ncaa.org/team/index/10620?org_id=973
-MSO	2012	10620	3	59	Bethany (WV)	http://stats.ncaa.org/team/index/10620?org_id=59
-MSO	2012	10620	3	30038	Bethany Lutheran	http://stats.ncaa.org/team/index/10620?org_id=30038
-MSO	2012	10620	3	60	Bethel (MN)	http://stats.ncaa.org/team/index/10620?org_id=60
-MSO	2012	10620	3	28593	Birmingham-So.	http://stats.ncaa.org/team/index/10620?org_id=28593
-MSO	2012	10620	3	64	Blackburn	http://stats.ncaa.org/team/index/10620?org_id=64
-MSO	2012	10620	3	987	Bluffton	http://stats.ncaa.org/team/index/10620?org_id=987
-MSO	2012	10620	3	69	Bowdoin	http://stats.ncaa.org/team/index/10620?org_id=69
-MSO	2012	10620	3	73	Brandeis	http://stats.ncaa.org/team/index/10620?org_id=73
-MSO	2012	10620	3	75	Bridgewater (VA)	http://stats.ncaa.org/team/index/10620?org_id=75
-MSO	2012	10620	3	76	Bridgewater St.	http://stats.ncaa.org/team/index/10620?org_id=76
-MSO	2012	10620	3	78	Brockport	http://stats.ncaa.org/team/index/10620?org_id=78
-MSO	2012	10620	3	79	Brooklyn	http://stats.ncaa.org/team/index/10620?org_id=79
-MSO	2012	10620	3	84	Buena Vista	http://stats.ncaa.org/team/index/10620?org_id=84
-MSO	2012	10620	3	85	Buffalo St.	http://stats.ncaa.org/team/index/10620?org_id=85
-MSO	2012	10620	3	480	CCNY	http://stats.ncaa.org/team/index/10620?org_id=480
-MSO	2012	10620	3	88	Cabrini	http://stats.ncaa.org/team/index/10620?org_id=88
-MSO	2012	10620	3	1305	Cairn	http://stats.ncaa.org/team/index/10620?org_id=1305
-MSO	2012	10620	3	105	Cal Lutheran	http://stats.ncaa.org/team/index/10620?org_id=105
-MSO	2012	10620	3	89	Caltech	http://stats.ncaa.org/team/index/10620?org_id=89
-MSO	2012	10620	3	114	Calvin	http://stats.ncaa.org/team/index/10620?org_id=114
-MSO	2012	10620	3	117	Capital	http://stats.ncaa.org/team/index/10620?org_id=117
-MSO	2012	10620	3	118	Carleton	http://stats.ncaa.org/team/index/10620?org_id=118
-MSO	2012	10620	3	119	Carnegie Mellon	http://stats.ncaa.org/team/index/10620?org_id=119
-MSO	2012	10620	3	120	Carroll (WI)	http://stats.ncaa.org/team/index/10620?org_id=120
-MSO	2012	10620	3	121	Carthage	http://stats.ncaa.org/team/index/10620?org_id=121
-MSO	2012	10620	3	122	Case	http://stats.ncaa.org/team/index/10620?org_id=122
-MSO	2012	10620	3	123	Castleton	http://stats.ncaa.org/team/index/10620?org_id=123
-MSO	2012	10620	3	124	Catholic	http://stats.ncaa.org/team/index/10620?org_id=124
-MSO	2012	10620	3	23624	Cazenovia	http://stats.ncaa.org/team/index/10620?org_id=23624
-MSO	2012	10620	3	125	Centenary (LA)	http://stats.ncaa.org/team/index/10620?org_id=125
-MSO	2012	10620	3	12884	Centenary (NJ)	http://stats.ncaa.org/team/index/10620?org_id=12884
-MSO	2012	10620	3	126	Central (IA)	http://stats.ncaa.org/team/index/10620?org_id=126
-MSO	2012	10620	3	132	Centre	http://stats.ncaa.org/team/index/10620?org_id=132
-MSO	2012	10620	3	134	Chapman	http://stats.ncaa.org/team/index/10620?org_id=134
-MSO	2012	10620	3	137	Chicago	http://stats.ncaa.org/team/index/10620?org_id=137
-MSO	2012	10620	3	139	Chris. Newport	http://stats.ncaa.org/team/index/10620?org_id=139
-MSO	2012	10620	3	142	Claremont-M-S	http://stats.ncaa.org/team/index/10620?org_id=142
-MSO	2012	10620	3	145	Clark (MA)	http://stats.ncaa.org/team/index/10620?org_id=145
-MSO	2012	10620	3	146	Clarkson	http://stats.ncaa.org/team/index/10620?org_id=146
-MSO	2012	10620	3	722	Coast Guard	http://stats.ncaa.org/team/index/10620?org_id=722
-MSO	2012	10620	3	150	Coe	http://stats.ncaa.org/team/index/10620?org_id=150
-MSO	2012	10620	3	151	Colby	http://stats.ncaa.org/team/index/10620?org_id=151
-MSO	2012	10620	3	152	Colby-Sawyer	http://stats.ncaa.org/team/index/10620?org_id=152
-MSO	2012	10620	3	154	Colorado Col.	http://stats.ncaa.org/team/index/10620?org_id=154
-MSO	2012	10620	3	24400	Concordia (TX)	http://stats.ncaa.org/team/index/10620?org_id=24400
-MSO	2012	10620	3	160	Concordia Chicago	http://stats.ncaa.org/team/index/10620?org_id=160
-MSO	2012	10620	3	1036	Concordia Wisconsin	http://stats.ncaa.org/team/index/10620?org_id=1036
-MSO	2012	10620	3	161	Concordia-M'head	http://stats.ncaa.org/team/index/10620?org_id=161
-MSO	2012	10620	3	163	Connecticut Col.	http://stats.ncaa.org/team/index/10620?org_id=163
-MSO	2012	10620	3	166	Cornell College	http://stats.ncaa.org/team/index/10620?org_id=166
-MSO	2012	10620	3	30035	Crown (MN)	http://stats.ncaa.org/team/index/10620?org_id=30035
-MSO	2012	10620	3	170	Curry	http://stats.ncaa.org/team/index/10620?org_id=170
-MSO	2012	10620	3	1059	D'Youville	http://stats.ncaa.org/team/index/10620?org_id=1059
-MSO	2012	10620	3	1044	Dallas	http://stats.ncaa.org/team/index/10620?org_id=1044
-MSO	2012	10620	3	2691	Daniel Webster	http://stats.ncaa.org/team/index/10620?org_id=2691
-MSO	2012	10620	3	177	DePauw	http://stats.ncaa.org/team/index/10620?org_id=177
-MSO	2012	10620	3	20	DeSales	http://stats.ncaa.org/team/index/10620?org_id=20
-MSO	2012	10620	3	1050	Defiance	http://stats.ncaa.org/team/index/10620?org_id=1050
-MSO	2012	10620	3	179	Delaware Valley	http://stats.ncaa.org/team/index/10620?org_id=179
-MSO	2012	10620	3	182	Denison	http://stats.ncaa.org/team/index/10620?org_id=182
-MSO	2012	10620	3	185	Dickinson	http://stats.ncaa.org/team/index/10620?org_id=185
-MSO	2012	10620	3	1332	Dominican (IL)	http://stats.ncaa.org/team/index/10620?org_id=1332
-MSO	2012	10620	3	190	Drew	http://stats.ncaa.org/team/index/10620?org_id=190
-MSO	2012	10620	3	192	Dubuque	http://stats.ncaa.org/team/index/10620?org_id=192
-MSO	2012	10620	3	195	Earlham	http://stats.ncaa.org/team/index/10620?org_id=195
-MSO	2012	10620	3	1062	East Tex. Baptist	http://stats.ncaa.org/team/index/10620?org_id=1062
-MSO	2012	10620	3	203	East. Mennonite	http://stats.ncaa.org/team/index/10620?org_id=203
-MSO	2012	10620	3	8968	Eastern	http://stats.ncaa.org/team/index/10620?org_id=8968
-MSO	2012	10620	3	200	Eastern Conn. St.	http://stats.ncaa.org/team/index/10620?org_id=200
-MSO	2012	10620	3	1064	Eastern Nazarene	http://stats.ncaa.org/team/index/10620?org_id=1064
-MSO	2012	10620	3	1066	Edgewood	http://stats.ncaa.org/team/index/10620?org_id=1066
-MSO	2012	10620	3	211	Elizabethtown	http://stats.ncaa.org/team/index/10620?org_id=211
-MSO	2012	10620	3	212	Elmhurst	http://stats.ncaa.org/team/index/10620?org_id=212
-MSO	2012	10620	3	213	Elmira	http://stats.ncaa.org/team/index/10620?org_id=213
-MSO	2012	10620	3	532	Elms	http://stats.ncaa.org/team/index/10620?org_id=532
-MSO	2012	10620	3	214	Emerson	http://stats.ncaa.org/team/index/10620?org_id=214
-MSO	2012	10620	3	215	Emmanuel (MA)	http://stats.ncaa.org/team/index/10620?org_id=215
-MSO	2012	10620	3	217	Emory	http://stats.ncaa.org/team/index/10620?org_id=217
-MSO	2012	10620	3	216	Emory & Henry	http://stats.ncaa.org/team/index/10620?org_id=216
-MSO	2012	10620	3	8981	Endicott	http://stats.ncaa.org/team/index/10620?org_id=8981
-MSO	2012	10620	3	218	Eureka	http://stats.ncaa.org/team/index/10620?org_id=218
-MSO	2012	10620	3	221	FDU-Florham	http://stats.ncaa.org/team/index/10620?org_id=221
-MSO	2012	10620	3	27892	Farmingdale St.	http://stats.ncaa.org/team/index/10620?org_id=27892
-MSO	2012	10620	3	225	Ferrum	http://stats.ncaa.org/team/index/10620?org_id=225
-MSO	2012	10620	3	30032	Finlandia	http://stats.ncaa.org/team/index/10620?org_id=30032
-MSO	2012	10620	3	227	Fitchburg St.	http://stats.ncaa.org/team/index/10620?org_id=227
-MSO	2012	10620	3	11538	Fontbonne	http://stats.ncaa.org/team/index/10620?org_id=11538
-MSO	2012	10620	3	238	Framingham St.	http://stats.ncaa.org/team/index/10620?org_id=238
-MSO	2012	10620	3	30069	Franciscan	http://stats.ncaa.org/team/index/10620?org_id=30069
-MSO	2012	10620	3	239	Frank. & Marsh.	http://stats.ncaa.org/team/index/10620?org_id=239
-MSO	2012	10620	3	2694	Franklin	http://stats.ncaa.org/team/index/10620?org_id=2694
-MSO	2012	10620	3	242	Fredonia	http://stats.ncaa.org/team/index/10620?org_id=242
-MSO	2012	10620	3	243	Frostburg St.	http://stats.ncaa.org/team/index/10620?org_id=243
-MSO	2012	10620	3	245	Gallaudet	http://stats.ncaa.org/team/index/10620?org_id=245
-MSO	2012	10620	3	30084	Geneva	http://stats.ncaa.org/team/index/10620?org_id=30084
-MSO	2012	10620	3	1094	George Fox	http://stats.ncaa.org/team/index/10620?org_id=1094
-MSO	2012	10620	3	258	Gettysburg	http://stats.ncaa.org/team/index/10620?org_id=258
-MSO	2012	10620	3	1099	Gordon	http://stats.ncaa.org/team/index/10620?org_id=1099
-MSO	2012	10620	3	1467	Goucher	http://stats.ncaa.org/team/index/10620?org_id=1467
-MSO	2012	10620	3	11062	Green Mountain	http://stats.ncaa.org/team/index/10620?org_id=11062
-MSO	2012	10620	3	263	Greensboro	http://stats.ncaa.org/team/index/10620?org_id=263
-MSO	2012	10620	3	1111	Greenville	http://stats.ncaa.org/team/index/10620?org_id=1111
-MSO	2012	10620	3	264	Grinnell	http://stats.ncaa.org/team/index/10620?org_id=264
-MSO	2012	10620	3	265	Grove City	http://stats.ncaa.org/team/index/10620?org_id=265
-MSO	2012	10620	3	1112	Guilford	http://stats.ncaa.org/team/index/10620?org_id=1112
-MSO	2012	10620	3	266	Gust. Adolphus	http://stats.ncaa.org/team/index/10620?org_id=266
-MSO	2012	10620	3	12399	Gwynedd Mercy	http://stats.ncaa.org/team/index/10620?org_id=12399
-MSO	2012	10620	3	267	Hamilton	http://stats.ncaa.org/team/index/10620?org_id=267
-MSO	2012	10620	3	268	Hamline	http://stats.ncaa.org/team/index/10620?org_id=268
-MSO	2012	10620	3	269	Hampden-Sydney	http://stats.ncaa.org/team/index/10620?org_id=269
-MSO	2012	10620	3	1115	Hanover	http://stats.ncaa.org/team/index/10620?org_id=1115
-MSO	2012	10620	3	271	Hardin-Simmons	http://stats.ncaa.org/team/index/10620?org_id=271
-MSO	2012	10620	3	276	Haverford	http://stats.ncaa.org/team/index/10620?org_id=276
-MSO	2012	10620	3	278	Heidelberg	http://stats.ncaa.org/team/index/10620?org_id=278
-MSO	2012	10620	3	1124	Hendrix	http://stats.ncaa.org/team/index/10620?org_id=1124
-MSO	2012	10620	3	8398	Hilbert	http://stats.ncaa.org/team/index/10620?org_id=8398
-MSO	2012	10620	3	281	Hiram	http://stats.ncaa.org/team/index/10620?org_id=281
-MSO	2012	10620	3	282	Hobart	http://stats.ncaa.org/team/index/10620?org_id=282
-MSO	2012	10620	3	8404	Hood	http://stats.ncaa.org/team/index/10620?org_id=8404
-MSO	2012	10620	3	286	Hope	http://stats.ncaa.org/team/index/10620?org_id=286
-MSO	2012	10620	3	2741	Howard Payne	http://stats.ncaa.org/team/index/10620?org_id=2741
-MSO	2012	10620	3	292	Hunter	http://stats.ncaa.org/team/index/10620?org_id=292
-MSO	2012	10620	3	1130	Huntingdon	http://stats.ncaa.org/team/index/10620?org_id=1130
-MSO	2012	10620	3	1133	Husson	http://stats.ncaa.org/team/index/10620?org_id=1133
-MSO	2012	10620	3	300	Ill. Wesleyan	http://stats.ncaa.org/team/index/10620?org_id=300
-MSO	2012	10620	3	297	Illinois Col.	http://stats.ncaa.org/team/index/10620?org_id=297
-MSO	2012	10620	3	303	Immaculata	http://stats.ncaa.org/team/index/10620?org_id=303
-MSO	2012	10620	3	313	Ithaca	http://stats.ncaa.org/team/index/10620?org_id=313
-MSO	2012	10620	3	320	John Carroll	http://stats.ncaa.org/team/index/10620?org_id=320
-MSO	2012	10620	3	321	John Jay	http://stats.ncaa.org/team/index/10620?org_id=321
-MSO	2012	10620	3	322	Johns Hopkins	http://stats.ncaa.org/team/index/10620?org_id=322
-MSO	2012	10620	3	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/index/10620?org_id=22626
-MSO	2012	10620	3	324	Johnson St.	http://stats.ncaa.org/team/index/10620?org_id=324
-MSO	2012	10620	3	325	Juniata	http://stats.ncaa.org/team/index/10620?org_id=325
-MSO	2012	10620	3	326	Kalamazoo	http://stats.ncaa.org/team/index/10620?org_id=326
-MSO	2012	10620	3	329	Kean	http://stats.ncaa.org/team/index/10620?org_id=329
-MSO	2012	10620	3	330	Keene St.	http://stats.ncaa.org/team/index/10620?org_id=330
-MSO	2012	10620	3	335	Kenyon	http://stats.ncaa.org/team/index/10620?org_id=335
-MSO	2012	10620	3	1159	Keuka	http://stats.ncaa.org/team/index/10620?org_id=1159
-MSO	2012	10620	3	30047	Keystone	http://stats.ncaa.org/team/index/10620?org_id=30047
-MSO	2012	10620	3	336	King's (PA)	http://stats.ncaa.org/team/index/10620?org_id=336
-MSO	2012	10620	3	337	Knox	http://stats.ncaa.org/team/index/10620?org_id=337
-MSO	2012	10620	3	1163	La Roche	http://stats.ncaa.org/team/index/10620?org_id=1163
-MSO	2012	10620	3	341	La Verne	http://stats.ncaa.org/team/index/10620?org_id=341
-MSO	2012	10620	3	1162	LaGrange	http://stats.ncaa.org/team/index/10620?org_id=1162
-MSO	2012	10620	3	344	Lake Forest	http://stats.ncaa.org/team/index/10620?org_id=344
-MSO	2012	10620	3	1164	Lakeland	http://stats.ncaa.org/team/index/10620?org_id=1164
-MSO	2012	10620	3	30085	Lancaster Bible	http://stats.ncaa.org/team/index/10620?org_id=30085
-MSO	2012	10620	3	8486	Lasell	http://stats.ncaa.org/team/index/10620?org_id=8486
-MSO	2012	10620	3	348	Lawrence	http://stats.ncaa.org/team/index/10620?org_id=348
-MSO	2012	10620	3	8490	LeTourneau	http://stats.ncaa.org/team/index/10620?org_id=8490
-MSO	2012	10620	3	351	Lebanon Valley	http://stats.ncaa.org/team/index/10620?org_id=351
-MSO	2012	10620	3	279	Lehman	http://stats.ncaa.org/team/index/10620?org_id=279
-MSO	2012	10620	3	24317	Lesley	http://stats.ncaa.org/team/index/10620?org_id=24317
-MSO	2012	10620	3	1179	Linfield	http://stats.ncaa.org/team/index/10620?org_id=1179
-MSO	2012	10620	3	364	Loras	http://stats.ncaa.org/team/index/10620?org_id=364
-MSO	2012	10620	3	1182	Louisiana Col.	http://stats.ncaa.org/team/index/10620?org_id=1182
-MSO	2012	10620	3	372	Luther	http://stats.ncaa.org/team/index/10620?org_id=372
-MSO	2012	10620	3	373	Lycoming	http://stats.ncaa.org/team/index/10620?org_id=373
-MSO	2012	10620	3	374	Lynchburg	http://stats.ncaa.org/team/index/10620?org_id=374
-MSO	2012	10620	3	30065	Lyndon St.	http://stats.ncaa.org/team/index/10620?org_id=30065
-MSO	2012	10620	3	486	MCLA	http://stats.ncaa.org/team/index/10620?org_id=486
-MSO	2012	10620	3	398	MIT	http://stats.ncaa.org/team/index/10620?org_id=398
-MSO	2012	10620	3	20220	MSOE	http://stats.ncaa.org/team/index/10620?org_id=20220
-MSO	2012	10620	3	377	MacMurray	http://stats.ncaa.org/team/index/10620?org_id=377
-MSO	2012	10620	3	376	Macalester	http://stats.ncaa.org/team/index/10620?org_id=376
-MSO	2012	10620	3	378	Maine Maritime	http://stats.ncaa.org/team/index/10620?org_id=378
-MSO	2012	10620	3	1192	Manchester	http://stats.ncaa.org/team/index/10620?org_id=1192
-MSO	2012	10620	3	382	Manhattanville	http://stats.ncaa.org/team/index/10620?org_id=382
-MSO	2012	10620	3	1194	Maranatha Baptist	http://stats.ncaa.org/team/index/10620?org_id=1194
-MSO	2012	10620	3	1196	Marian (WI)	http://stats.ncaa.org/team/index/10620?org_id=1196
-MSO	2012	10620	3	385	Marietta	http://stats.ncaa.org/team/index/10620?org_id=385
-MSO	2012	10620	3	8597	Martin Luther	http://stats.ncaa.org/team/index/10620?org_id=8597
-MSO	2012	10620	3	1203	Mary Hardin-Baylor	http://stats.ncaa.org/team/index/10620?org_id=1203
-MSO	2012	10620	3	390	Mary Washington	http://stats.ncaa.org/team/index/10620?org_id=390
-MSO	2012	10620	3	394	Marymount (VA)	http://stats.ncaa.org/team/index/10620?org_id=394
-MSO	2012	10620	3	396	Maryville (TN)	http://stats.ncaa.org/team/index/10620?org_id=396
-MSO	2012	10620	3	397	Marywood	http://stats.ncaa.org/team/index/10620?org_id=397
-MSO	2012	10620	3	399	Mass. Maritime	http://stats.ncaa.org/team/index/10620?org_id=399
-MSO	2012	10620	3	773	McDaniel	http://stats.ncaa.org/team/index/10620?org_id=773
-MSO	2012	10620	3	8530	McMurry	http://stats.ncaa.org/team/index/10620?org_id=8530
-MSO	2012	10620	3	379	Me.-Farmington	http://stats.ncaa.org/team/index/10620?org_id=379
-MSO	2012	10620	3	30040	Me.-Presque Isle	http://stats.ncaa.org/team/index/10620?org_id=30040
-MSO	2012	10620	3	23725	Medaille	http://stats.ncaa.org/team/index/10620?org_id=23725
-MSO	2012	10620	3	403	Medgar Evers	http://stats.ncaa.org/team/index/10620?org_id=403
-MSO	2012	10620	3	724	Merchant Marine	http://stats.ncaa.org/team/index/10620?org_id=724
-MSO	2012	10620	3	411	Messiah	http://stats.ncaa.org/team/index/10620?org_id=411
-MSO	2012	10620	3	412	Methodist	http://stats.ncaa.org/team/index/10620?org_id=412
-MSO	2012	10620	3	420	Middlebury	http://stats.ncaa.org/team/index/10620?org_id=420
-MSO	2012	10620	3	424	Millikin	http://stats.ncaa.org/team/index/10620?org_id=424
-MSO	2012	10620	3	426	Millsaps	http://stats.ncaa.org/team/index/10620?org_id=426
-MSO	2012	10620	3	1226	Minn.-Morris	http://stats.ncaa.org/team/index/10620?org_id=1226
-MSO	2012	10620	3	16142	Misericordia	http://stats.ncaa.org/team/index/10620?org_id=16142
-MSO	2012	10620	3	429	Mississippi Col.	http://stats.ncaa.org/team/index/10620?org_id=429
-MSO	2012	10620	3	30042	Mitchell	http://stats.ncaa.org/team/index/10620?org_id=30042
-MSO	2012	10620	3	438	Monmouth (IL)	http://stats.ncaa.org/team/index/10620?org_id=438
-MSO	2012	10620	3	442	Montclair St.	http://stats.ncaa.org/team/index/10620?org_id=442
-MSO	2012	10620	3	443	Moravian	http://stats.ncaa.org/team/index/10620?org_id=443
-MSO	2012	10620	3	30067	Morrisville St.	http://stats.ncaa.org/team/index/10620?org_id=30067
-MSO	2012	10620	3	30036	Mount Aloysius	http://stats.ncaa.org/team/index/10620?org_id=30036
-MSO	2012	10620	3	27901	Mount Ida	http://stats.ncaa.org/team/index/10620?org_id=27901
-MSO	2012	10620	3	452	Mount Union	http://stats.ncaa.org/team/index/10620?org_id=452
-MSO	2012	10620	3	8567	Mt. St. Joseph	http://stats.ncaa.org/team/index/10620?org_id=8567
-MSO	2012	10620	3	1468	Mt. St. Mary (NY)	http://stats.ncaa.org/team/index/10620?org_id=1468
-MSO	2012	10620	3	451	Mt. St. Vincent	http://stats.ncaa.org/team/index/10620?org_id=451
-MSO	2012	10620	3	453	Muhlenberg	http://stats.ncaa.org/team/index/10620?org_id=453
-MSO	2012	10620	3	455	Muskingum	http://stats.ncaa.org/team/index/10620?org_id=455
-MSO	2012	10620	3	491	N.C. Wesleyan	http://stats.ncaa.org/team/index/10620?org_id=491
-MSO	2012	10620	3	479	NYU	http://stats.ncaa.org/team/index/10620?org_id=479
-MSO	2012	10620	3	461	Nazareth	http://stats.ncaa.org/team/index/10620?org_id=461
-MSO	2012	10620	3	462	Neb. Wesleyan	http://stats.ncaa.org/team/index/10620?org_id=462
-MSO	2012	10620	3	1254	Neumann	http://stats.ncaa.org/team/index/10620?org_id=1254
-MSO	2012	10620	3	467	New England Col.	http://stats.ncaa.org/team/index/10620?org_id=467
-MSO	2012	10620	3	319	New Jersey City	http://stats.ncaa.org/team/index/10620?org_id=319
-MSO	2012	10620	3	21772	Newbury	http://stats.ncaa.org/team/index/10620?org_id=21772
-MSO	2012	10620	3	484	Nichols	http://stats.ncaa.org/team/index/10620?org_id=484
-MSO	2012	10620	3	492	North Central (IL)	http://stats.ncaa.org/team/index/10620?org_id=492
-MSO	2012	10620	3	30039	North Central (MN)	http://stats.ncaa.org/team/index/10620?org_id=30039
-MSO	2012	10620	3	496	North Park	http://stats.ncaa.org/team/index/10620?org_id=496
-MSO	2012	10620	3	1267	Northland	http://stats.ncaa.org/team/index/10620?org_id=1267
-MSO	2012	10620	3	30031	Northwestern-St. Paul	http://stats.ncaa.org/team/index/10620?org_id=30031
-MSO	2012	10620	3	511	Norwich	http://stats.ncaa.org/team/index/10620?org_id=511
-MSO	2012	10620	3	515	Oberlin	http://stats.ncaa.org/team/index/10620?org_id=515
-MSO	2012	10620	3	516	Occidental	http://stats.ncaa.org/team/index/10620?org_id=516
-MSO	2012	10620	3	2713	Oglethorpe	http://stats.ncaa.org/team/index/10620?org_id=2713
-MSO	2012	10620	3	517	Ohio Northern	http://stats.ncaa.org/team/index/10620?org_id=517
-MSO	2012	10620	3	520	Ohio Wesleyan	http://stats.ncaa.org/team/index/10620?org_id=520
-MSO	2012	10620	3	524	Old Westbury	http://stats.ncaa.org/team/index/10620?org_id=524
-MSO	2012	10620	3	525	Olivet	http://stats.ncaa.org/team/index/10620?org_id=525
-MSO	2012	10620	3	530	Oswego St.	http://stats.ncaa.org/team/index/10620?org_id=530
-MSO	2012	10620	3	531	Otterbein	http://stats.ncaa.org/team/index/10620?org_id=531
-MSO	2012	10620	3	23008	Ozarks (AR)	http://stats.ncaa.org/team/index/10620?org_id=23008
-MSO	2012	10620	3	2751	Pacific (OR)	http://stats.ncaa.org/team/index/10620?org_id=2751
-MSO	2012	10620	3	1297	Pacific Lutheran	http://stats.ncaa.org/team/index/10620?org_id=1297
-MSO	2012	10620	3	30081	Penn St. Harrisburg	http://stats.ncaa.org/team/index/10620?org_id=30081
-MSO	2012	10620	3	25719	Penn St.-Altoona	http://stats.ncaa.org/team/index/10620?org_id=25719
-MSO	2012	10620	3	538	Penn St.-Behrend	http://stats.ncaa.org/team/index/10620?org_id=538
-MSO	2012	10620	3	30044	Penn St.-Berks	http://stats.ncaa.org/team/index/10620?org_id=30044
-MSO	2012	10620	3	21830	Piedmont	http://stats.ncaa.org/team/index/10620?org_id=21830
-MSO	2012	10620	3	1315	Pitt.-Bradford	http://stats.ncaa.org/team/index/10620?org_id=1315
-MSO	2012	10620	3	11839	Pitt.-Greensburg	http://stats.ncaa.org/team/index/10620?org_id=11839
-MSO	2012	10620	3	547	Plattsburgh St.	http://stats.ncaa.org/team/index/10620?org_id=547
-MSO	2012	10620	3	548	Plymouth St.	http://stats.ncaa.org/team/index/10620?org_id=548
-MSO	2012	10620	3	481	Polytechnic (NY)	http://stats.ncaa.org/team/index/10620?org_id=481
-MSO	2012	10620	3	549	Pomona-Pitzer	http://stats.ncaa.org/team/index/10620?org_id=549
-MSO	2012	10620	3	30034	Presentation	http://stats.ncaa.org/team/index/10620?org_id=30034
-MSO	2012	10620	3	555	Principia	http://stats.ncaa.org/team/index/10620?org_id=555
-MSO	2012	10620	3	557	Puget Sound	http://stats.ncaa.org/team/index/10620?org_id=557
-MSO	2012	10620	3	30029	Purchase	http://stats.ncaa.org/team/index/10620?org_id=30029
-MSO	2012	10620	3	564	Ramapo	http://stats.ncaa.org/team/index/10620?org_id=564
-MSO	2012	10620	3	566	Randolph	http://stats.ncaa.org/team/index/10620?org_id=566
-MSO	2012	10620	3	565	Randolph-Macon	http://stats.ncaa.org/team/index/10620?org_id=565
-MSO	2012	10620	3	567	Redlands	http://stats.ncaa.org/team/index/10620?org_id=567
-MSO	2012	10620	3	569	Regis (MA)	http://stats.ncaa.org/team/index/10620?org_id=569
-MSO	2012	10620	3	570	Rensselaer	http://stats.ncaa.org/team/index/10620?org_id=570
-MSO	2012	10620	3	571	Rhode Island Col.	http://stats.ncaa.org/team/index/10620?org_id=571
-MSO	2012	10620	3	573	Rhodes	http://stats.ncaa.org/team/index/10620?org_id=573
-MSO	2012	10620	3	577	Ripon	http://stats.ncaa.org/team/index/10620?org_id=577
-MSO	2012	10620	3	18422	Rivier	http://stats.ncaa.org/team/index/10620?org_id=18422
-MSO	2012	10620	3	578	Roanoke	http://stats.ncaa.org/team/index/10620?org_id=578
-MSO	2012	10620	3	581	Rochester (NY)	http://stats.ncaa.org/team/index/10620?org_id=581
-MSO	2012	10620	3	580	Rochester Inst.	http://stats.ncaa.org/team/index/10620?org_id=580
-MSO	2012	10620	3	582	Rockford	http://stats.ncaa.org/team/index/10620?org_id=582
-MSO	2012	10620	3	583	Roger Williams	http://stats.ncaa.org/team/index/10620?org_id=583
-MSO	2012	10620	3	585	Rose-Hulman	http://stats.ncaa.org/team/index/10620?org_id=585
-MSO	2012	10620	3	15882	Rosemont	http://stats.ncaa.org/team/index/10620?org_id=15882
-MSO	2012	10620	3	259	Rowan	http://stats.ncaa.org/team/index/10620?org_id=259
-MSO	2012	10620	3	586	Rust	http://stats.ncaa.org/team/index/10620?org_id=586
-MSO	2012	10620	3	588	Rutgers-Camden	http://stats.ncaa.org/team/index/10620?org_id=588
-MSO	2012	10620	3	589	Rutgers-Newark	http://stats.ncaa.org/team/index/10620?org_id=589
-MSO	2012	10620	3	168	SUNY Cortland	http://stats.ncaa.org/team/index/10620?org_id=168
-MSO	2012	10620	3	247	SUNY Geneseo	http://stats.ncaa.org/team/index/10620?org_id=247
-MSO	2012	10620	3	478	SUNY Maritime	http://stats.ncaa.org/team/index/10620?org_id=478
-MSO	2012	10620	3	475	SUNY New Paltz	http://stats.ncaa.org/team/index/10620?org_id=475
-MSO	2012	10620	3	526	SUNY Oneonta	http://stats.ncaa.org/team/index/10620?org_id=526
-MSO	2012	10620	3	9500	SUNY Poly	http://stats.ncaa.org/team/index/10620?org_id=9500
-MSO	2012	10620	3	552	SUNY Potsdam	http://stats.ncaa.org/team/index/10620?org_id=552
-MSO	2012	10620	3	11036	Sage Colleges	http://stats.ncaa.org/team/index/10620?org_id=11036
-MSO	2012	10620	3	602	Saint John's (MN)	http://stats.ncaa.org/team/index/10620?org_id=602
-MSO	2012	10620	3	612	Saint Mary's (MN)	http://stats.ncaa.org/team/index/10620?org_id=612
-MSO	2012	10620	3	30064	Saint Vincent	http://stats.ncaa.org/team/index/10620?org_id=30064
-MSO	2012	10620	3	621	Salem St.	http://stats.ncaa.org/team/index/10620?org_id=621
-MSO	2012	10620	3	622	Salisbury	http://stats.ncaa.org/team/index/10620?org_id=622
-MSO	2012	10620	3	623	Salve Regina	http://stats.ncaa.org/team/index/10620?org_id=623
-MSO	2012	10620	3	1355	Schreiner	http://stats.ncaa.org/team/index/10620?org_id=1355
-MSO	2012	10620	3	633	Scranton	http://stats.ncaa.org/team/index/10620?org_id=633
-MSO	2012	10620	3	652	Sewanee	http://stats.ncaa.org/team/index/10620?org_id=652
-MSO	2012	10620	3	637	Shenandoah	http://stats.ncaa.org/team/index/10620?org_id=637
-MSO	2012	10620	3	641	Simpson	http://stats.ncaa.org/team/index/10620?org_id=641
-MSO	2012	10620	3	642	Skidmore	http://stats.ncaa.org/team/index/10620?org_id=642
-MSO	2012	10620	3	662	Southern Me.	http://stats.ncaa.org/team/index/10620?org_id=662
-MSO	2012	10620	3	1379	Southern Vt.	http://stats.ncaa.org/team/index/10620?org_id=1379
-MSO	2012	10620	3	8746	Southwestern (TX)	http://stats.ncaa.org/team/index/10620?org_id=8746
-MSO	2012	10620	3	673	Springfield	http://stats.ncaa.org/team/index/10620?org_id=673
-MSO	2012	10620	3	601	St. John Fisher	http://stats.ncaa.org/team/index/10620?org_id=601
-MSO	2012	10620	3	30072	St. Joseph's (Brkln)	http://stats.ncaa.org/team/index/10620?org_id=30072
-MSO	2012	10620	3	1340	St. Joseph's (L.I.)	http://stats.ncaa.org/team/index/10620?org_id=1340
-MSO	2012	10620	3	605	St. Joseph's (ME)	http://stats.ncaa.org/team/index/10620?org_id=605
-MSO	2012	10620	3	607	St. Lawrence	http://stats.ncaa.org/team/index/10620?org_id=607
-MSO	2012	10620	3	611	St. Mary's (MD)	http://stats.ncaa.org/team/index/10620?org_id=611
-MSO	2012	10620	3	614	St. Norbert	http://stats.ncaa.org/team/index/10620?org_id=614
-MSO	2012	10620	3	615	St. Olaf	http://stats.ncaa.org/team/index/10620?org_id=615
-MSO	2012	10620	3	618	St. Scholastica	http://stats.ncaa.org/team/index/10620?org_id=618
-MSO	2012	10620	3	620	St. Thomas (MN)	http://stats.ncaa.org/team/index/10620?org_id=620
-MSO	2012	10620	3	675	Staten Island	http://stats.ncaa.org/team/index/10620?org_id=675
-MSO	2012	10620	3	679	Stevens	http://stats.ncaa.org/team/index/10620?org_id=679
-MSO	2012	10620	3	21852	Stevenson	http://stats.ncaa.org/team/index/10620?org_id=21852
-MSO	2012	10620	3	681	Stockton	http://stats.ncaa.org/team/index/10620?org_id=681
-MSO	2012	10620	3	684	Suffolk	http://stats.ncaa.org/team/index/10620?org_id=684
-MSO	2012	10620	3	958	Summit	http://stats.ncaa.org/team/index/10620?org_id=958
-MSO	2012	10620	3	685	Susquehanna	http://stats.ncaa.org/team/index/10620?org_id=685
-MSO	2012	10620	3	686	Swarthmore	http://stats.ncaa.org/team/index/10620?org_id=686
-MSO	2012	10620	3	712	TCNJ	http://stats.ncaa.org/team/index/10620?org_id=712
-MSO	2012	10620	3	1400	Texas Lutheran	http://stats.ncaa.org/team/index/10620?org_id=1400
-MSO	2012	10620	3	23121	Texas-Dallas	http://stats.ncaa.org/team/index/10620?org_id=23121
-MSO	2012	10620	3	30028	Texas-Tyler	http://stats.ncaa.org/team/index/10620?org_id=30028
-MSO	2012	10620	3	707	Thiel	http://stats.ncaa.org/team/index/10620?org_id=707
-MSO	2012	10620	3	2758	Thomas (ME)	http://stats.ncaa.org/team/index/10620?org_id=2758
-MSO	2012	10620	3	1402	Thomas More	http://stats.ncaa.org/team/index/10620?org_id=1402
-MSO	2012	10620	3	28749	Transylvania	http://stats.ncaa.org/team/index/10620?org_id=28749
-MSO	2012	10620	3	30037	Trine	http://stats.ncaa.org/team/index/10620?org_id=30037
-MSO	2012	10620	3	713	Trinity (CT)	http://stats.ncaa.org/team/index/10620?org_id=713
-MSO	2012	10620	3	715	Trinity (TX)	http://stats.ncaa.org/team/index/10620?org_id=715
-MSO	2012	10620	3	717	Tufts	http://stats.ncaa.org/team/index/10620?org_id=717
-MSO	2012	10620	3	1255	U New England	http://stats.ncaa.org/team/index/10620?org_id=1255
-MSO	2012	10620	3	113	UC Santa Cruz	http://stats.ncaa.org/team/index/10620?org_id=113
-MSO	2012	10620	3	401	UMass Boston	http://stats.ncaa.org/team/index/10620?org_id=401
-MSO	2012	10620	3	656	UMass Dartmouth	http://stats.ncaa.org/team/index/10620?org_id=656
-MSO	2012	10620	3	727	Union (NY)	http://stats.ncaa.org/team/index/10620?org_id=727
-MSO	2012	10620	3	730	Ursinus	http://stats.ncaa.org/team/index/10620?org_id=730
-MSO	2012	10620	3	733	Utica	http://stats.ncaa.org/team/index/10620?org_id=733
-MSO	2012	10620	3	745	Va. Wesleyan	http://stats.ncaa.org/team/index/10620?org_id=745
-MSO	2012	10620	3	737	Vassar	http://stats.ncaa.org/team/index/10620?org_id=737
-MSO	2012	10620	3	808	WPI	http://stats.ncaa.org/team/index/10620?org_id=808
-MSO	2012	10620	3	747	Wabash	http://stats.ncaa.org/team/index/10620?org_id=747
-MSO	2012	10620	3	750	Wartburg	http://stats.ncaa.org/team/index/10620?org_id=750
-MSO	2012	10620	3	751	Wash. & Jeff.	http://stats.ncaa.org/team/index/10620?org_id=751
-MSO	2012	10620	3	752	Wash. & Lee	http://stats.ncaa.org/team/index/10620?org_id=752
-MSO	2012	10620	3	753	Washington Col.	http://stats.ncaa.org/team/index/10620?org_id=753
-MSO	2012	10620	3	755	Washington-St. Louis	http://stats.ncaa.org/team/index/10620?org_id=755
-MSO	2012	10620	3	1434	Waynesburg	http://stats.ncaa.org/team/index/10620?org_id=1434
-MSO	2012	10620	3	759	Webster	http://stats.ncaa.org/team/index/10620?org_id=759
-MSO	2012	10620	3	761	Wells	http://stats.ncaa.org/team/index/10620?org_id=761
-MSO	2012	10620	3	762	Wentworth	http://stats.ncaa.org/team/index/10620?org_id=762
-MSO	2012	10620	3	763	Wesley	http://stats.ncaa.org/team/index/10620?org_id=763
-MSO	2012	10620	3	764	Wesleyan (CT)	http://stats.ncaa.org/team/index/10620?org_id=764
-MSO	2012	10620	3	770	Western Conn. St.	http://stats.ncaa.org/team/index/10620?org_id=770
-MSO	2012	10620	3	775	Western New Eng.	http://stats.ncaa.org/team/index/10620?org_id=775
-MSO	2012	10620	3	777	Westfield St.	http://stats.ncaa.org/team/index/10620?org_id=777
-MSO	2012	10620	3	1450	Westminster (MO)	http://stats.ncaa.org/team/index/10620?org_id=1450
-MSO	2012	10620	3	1451	Westminster (PA)	http://stats.ncaa.org/team/index/10620?org_id=1451
-MSO	2012	10620	3	778	Wheaton (IL)	http://stats.ncaa.org/team/index/10620?org_id=778
-MSO	2012	10620	3	779	Wheaton (MA)	http://stats.ncaa.org/team/index/10620?org_id=779
-MSO	2012	10620	3	8896	Wheelock	http://stats.ncaa.org/team/index/10620?org_id=8896
-MSO	2012	10620	3	780	Whitman	http://stats.ncaa.org/team/index/10620?org_id=780
-MSO	2012	10620	3	781	Whittier	http://stats.ncaa.org/team/index/10620?org_id=781
-MSO	2012	10620	3	1454	Whitworth	http://stats.ncaa.org/team/index/10620?org_id=1454
-MSO	2012	10620	3	783	Widener	http://stats.ncaa.org/team/index/10620?org_id=783
-MSO	2012	10620	3	784	Wilkes	http://stats.ncaa.org/team/index/10620?org_id=784
-MSO	2012	10620	3	785	Willamette	http://stats.ncaa.org/team/index/10620?org_id=785
-MSO	2012	10620	3	789	Williams	http://stats.ncaa.org/team/index/10620?org_id=789
-MSO	2012	10620	3	1461	Wilmington (OH)	http://stats.ncaa.org/team/index/10620?org_id=1461
-MSO	2012	10620	3	8911	Wis. Lutheran	http://stats.ncaa.org/team/index/10620?org_id=8911
-MSO	2012	10620	3	798	Wis.-Oshkosh	http://stats.ncaa.org/team/index/10620?org_id=798
-MSO	2012	10620	3	800	Wis.-Platteville	http://stats.ncaa.org/team/index/10620?org_id=800
-MSO	2012	10620	3	804	Wis.-Superior	http://stats.ncaa.org/team/index/10620?org_id=804
-MSO	2012	10620	3	805	Wis.-Whitewater	http://stats.ncaa.org/team/index/10620?org_id=805
-MSO	2012	10620	3	806	Wittenberg	http://stats.ncaa.org/team/index/10620?org_id=806
-MSO	2012	10620	3	787	Wm. Paterson	http://stats.ncaa.org/team/index/10620?org_id=787
-MSO	2012	10620	3	807	Wooster	http://stats.ncaa.org/team/index/10620?org_id=807
-MSO	2012	10620	3	809	Worcester St.	http://stats.ncaa.org/team/index/10620?org_id=809
-MSO	2012	10620	3	814	Yeshiva	http://stats.ncaa.org/team/index/10620?org_id=814
-MSO	2012	10620	3	2730	York (NY)	http://stats.ncaa.org/team/index/10620?org_id=2730
-MSO	2012	10620	3	815	York (PA)	http://stats.ncaa.org/team/index/10620?org_id=815
+MSO	2012	10620	3	4	Adrian	http://stats.ncaa.org/team/4/10620
+MSO	2012	10620	3	2798	Albertus Magnus	http://stats.ncaa.org/team/2798/10620
+MSO	2012	10620	3	15	Albion	http://stats.ncaa.org/team/15/10620
+MSO	2012	10620	3	16	Albright	http://stats.ncaa.org/team/16/10620
+MSO	2012	10620	3	18	Alfred	http://stats.ncaa.org/team/18/10620
+MSO	2012	10620	3	19	Allegheny	http://stats.ncaa.org/team/19/10620
+MSO	2012	10620	3	21	Alma	http://stats.ncaa.org/team/21/10620
+MSO	2012	10620	3	938	Alvernia	http://stats.ncaa.org/team/938/10620
+MSO	2012	10620	3	24	Amherst	http://stats.ncaa.org/team/24/10620
+MSO	2012	10620	3	939	Anderson (IN)	http://stats.ncaa.org/team/939/10620
+MSO	2012	10620	3	26	Anna Maria	http://stats.ncaa.org/team/26/10620
+MSO	2012	10620	3	966	Arcadia	http://stats.ncaa.org/team/966/10620
+MSO	2012	10620	3	38	Augsburg	http://stats.ncaa.org/team/38/10620
+MSO	2012	10620	3	40	Augustana (IL)	http://stats.ncaa.org/team/40/10620
+MSO	2012	10620	3	42	Aurora	http://stats.ncaa.org/team/42/10620
+MSO	2012	10620	3	953	Austin	http://stats.ncaa.org/team/953/10620
+MSO	2012	10620	3	44	Averett	http://stats.ncaa.org/team/44/10620
+MSO	2012	10620	3	45	Babson	http://stats.ncaa.org/team/45/10620
+MSO	2012	10620	3	46	Baldwin Wallace	http://stats.ncaa.org/team/46/10620
+MSO	2012	10620	3	962	Bard	http://stats.ncaa.org/team/962/10620
+MSO	2012	10620	3	58	Baruch	http://stats.ncaa.org/team/58/10620
+MSO	2012	10620	3	50	Bates	http://stats.ncaa.org/team/50/10620
+MSO	2012	10620	3	26107	Becker	http://stats.ncaa.org/team/26107/10620
+MSO	2012	10620	3	53	Beloit	http://stats.ncaa.org/team/53/10620
+MSO	2012	10620	3	296	Benedictine (IL)	http://stats.ncaa.org/team/296/10620
+MSO	2012	10620	3	973	Berry	http://stats.ncaa.org/team/973/10620
+MSO	2012	10620	3	59	Bethany (WV)	http://stats.ncaa.org/team/59/10620
+MSO	2012	10620	3	30038	Bethany Lutheran	http://stats.ncaa.org/team/30038/10620
+MSO	2012	10620	3	60	Bethel (MN)	http://stats.ncaa.org/team/60/10620
+MSO	2012	10620	3	28593	Birmingham-So.	http://stats.ncaa.org/team/28593/10620
+MSO	2012	10620	3	64	Blackburn	http://stats.ncaa.org/team/64/10620
+MSO	2012	10620	3	987	Bluffton	http://stats.ncaa.org/team/987/10620
+MSO	2012	10620	3	69	Bowdoin	http://stats.ncaa.org/team/69/10620
+MSO	2012	10620	3	73	Brandeis	http://stats.ncaa.org/team/73/10620
+MSO	2012	10620	3	75	Bridgewater (VA)	http://stats.ncaa.org/team/75/10620
+MSO	2012	10620	3	76	Bridgewater St.	http://stats.ncaa.org/team/76/10620
+MSO	2012	10620	3	78	Brockport	http://stats.ncaa.org/team/78/10620
+MSO	2012	10620	3	79	Brooklyn	http://stats.ncaa.org/team/79/10620
+MSO	2012	10620	3	84	Buena Vista	http://stats.ncaa.org/team/84/10620
+MSO	2012	10620	3	85	Buffalo St.	http://stats.ncaa.org/team/85/10620
+MSO	2012	10620	3	480	CCNY	http://stats.ncaa.org/team/480/10620
+MSO	2012	10620	3	122	CWRU	http://stats.ncaa.org/team/122/10620
+MSO	2012	10620	3	88	Cabrini	http://stats.ncaa.org/team/88/10620
+MSO	2012	10620	3	1305	Cairn	http://stats.ncaa.org/team/1305/10620
+MSO	2012	10620	3	105	Cal Lutheran	http://stats.ncaa.org/team/105/10620
+MSO	2012	10620	3	89	Caltech	http://stats.ncaa.org/team/89/10620
+MSO	2012	10620	3	114	Calvin	http://stats.ncaa.org/team/114/10620
+MSO	2012	10620	3	117	Capital	http://stats.ncaa.org/team/117/10620
+MSO	2012	10620	3	118	Carleton	http://stats.ncaa.org/team/118/10620
+MSO	2012	10620	3	119	Carnegie Mellon	http://stats.ncaa.org/team/119/10620
+MSO	2012	10620	3	120	Carroll (WI)	http://stats.ncaa.org/team/120/10620
+MSO	2012	10620	3	121	Carthage	http://stats.ncaa.org/team/121/10620
+MSO	2012	10620	3	123	Castleton	http://stats.ncaa.org/team/123/10620
+MSO	2012	10620	3	124	Catholic	http://stats.ncaa.org/team/124/10620
+MSO	2012	10620	3	23624	Cazenovia	http://stats.ncaa.org/team/23624/10620
+MSO	2012	10620	3	125	Centenary (LA)	http://stats.ncaa.org/team/125/10620
+MSO	2012	10620	3	12884	Centenary (NJ)	http://stats.ncaa.org/team/12884/10620
+MSO	2012	10620	3	126	Central (IA)	http://stats.ncaa.org/team/126/10620
+MSO	2012	10620	3	132	Centre	http://stats.ncaa.org/team/132/10620
+MSO	2012	10620	3	134	Chapman	http://stats.ncaa.org/team/134/10620
+MSO	2012	10620	3	137	Chicago	http://stats.ncaa.org/team/137/10620
+MSO	2012	10620	3	139	Chris. Newport	http://stats.ncaa.org/team/139/10620
+MSO	2012	10620	3	142	Claremont-M-S	http://stats.ncaa.org/team/142/10620
+MSO	2012	10620	3	145	Clark (MA)	http://stats.ncaa.org/team/145/10620
+MSO	2012	10620	3	958	Clarks Summit	http://stats.ncaa.org/team/958/10620
+MSO	2012	10620	3	146	Clarkson	http://stats.ncaa.org/team/146/10620
+MSO	2012	10620	3	722	Coast Guard	http://stats.ncaa.org/team/722/10620
+MSO	2012	10620	3	150	Coe	http://stats.ncaa.org/team/150/10620
+MSO	2012	10620	3	151	Colby	http://stats.ncaa.org/team/151/10620
+MSO	2012	10620	3	152	Colby-Sawyer	http://stats.ncaa.org/team/152/10620
+MSO	2012	10620	3	154	Colorado Col.	http://stats.ncaa.org/team/154/10620
+MSO	2012	10620	3	24400	Concordia (TX)	http://stats.ncaa.org/team/24400/10620
+MSO	2012	10620	3	160	Concordia Chicago	http://stats.ncaa.org/team/160/10620
+MSO	2012	10620	3	1036	Concordia Wisconsin	http://stats.ncaa.org/team/1036/10620
+MSO	2012	10620	3	161	Concordia-M'head	http://stats.ncaa.org/team/161/10620
+MSO	2012	10620	3	163	Connecticut Col.	http://stats.ncaa.org/team/163/10620
+MSO	2012	10620	3	166	Cornell College	http://stats.ncaa.org/team/166/10620
+MSO	2012	10620	3	30035	Crown (MN)	http://stats.ncaa.org/team/30035/10620
+MSO	2012	10620	3	170	Curry	http://stats.ncaa.org/team/170/10620
+MSO	2012	10620	3	1059	D'Youville	http://stats.ncaa.org/team/1059/10620
+MSO	2012	10620	3	1044	Dallas	http://stats.ncaa.org/team/1044/10620
+MSO	2012	10620	3	2691	Daniel Webster	http://stats.ncaa.org/team/2691/10620
+MSO	2012	10620	3	177	DePauw	http://stats.ncaa.org/team/177/10620
+MSO	2012	10620	3	20	DeSales	http://stats.ncaa.org/team/20/10620
+MSO	2012	10620	3	1050	Defiance	http://stats.ncaa.org/team/1050/10620
+MSO	2012	10620	3	179	Delaware Valley	http://stats.ncaa.org/team/179/10620
+MSO	2012	10620	3	182	Denison	http://stats.ncaa.org/team/182/10620
+MSO	2012	10620	3	185	Dickinson	http://stats.ncaa.org/team/185/10620
+MSO	2012	10620	3	1332	Dominican (IL)	http://stats.ncaa.org/team/1332/10620
+MSO	2012	10620	3	190	Drew	http://stats.ncaa.org/team/190/10620
+MSO	2012	10620	3	192	Dubuque	http://stats.ncaa.org/team/192/10620
+MSO	2012	10620	3	195	Earlham	http://stats.ncaa.org/team/195/10620
+MSO	2012	10620	3	1062	East Tex. Baptist	http://stats.ncaa.org/team/1062/10620
+MSO	2012	10620	3	203	East. Mennonite	http://stats.ncaa.org/team/203/10620
+MSO	2012	10620	3	8968	Eastern	http://stats.ncaa.org/team/8968/10620
+MSO	2012	10620	3	200	Eastern Conn. St.	http://stats.ncaa.org/team/200/10620
+MSO	2012	10620	3	1064	Eastern Nazarene	http://stats.ncaa.org/team/1064/10620
+MSO	2012	10620	3	1066	Edgewood	http://stats.ncaa.org/team/1066/10620
+MSO	2012	10620	3	211	Elizabethtown	http://stats.ncaa.org/team/211/10620
+MSO	2012	10620	3	212	Elmhurst	http://stats.ncaa.org/team/212/10620
+MSO	2012	10620	3	213	Elmira	http://stats.ncaa.org/team/213/10620
+MSO	2012	10620	3	532	Elms	http://stats.ncaa.org/team/532/10620
+MSO	2012	10620	3	214	Emerson	http://stats.ncaa.org/team/214/10620
+MSO	2012	10620	3	215	Emmanuel (MA)	http://stats.ncaa.org/team/215/10620
+MSO	2012	10620	3	217	Emory	http://stats.ncaa.org/team/217/10620
+MSO	2012	10620	3	216	Emory & Henry	http://stats.ncaa.org/team/216/10620
+MSO	2012	10620	3	8981	Endicott	http://stats.ncaa.org/team/8981/10620
+MSO	2012	10620	3	218	Eureka	http://stats.ncaa.org/team/218/10620
+MSO	2012	10620	3	221	FDU-Florham	http://stats.ncaa.org/team/221/10620
+MSO	2012	10620	3	27892	Farmingdale St.	http://stats.ncaa.org/team/27892/10620
+MSO	2012	10620	3	225	Ferrum	http://stats.ncaa.org/team/225/10620
+MSO	2012	10620	3	30032	Finlandia	http://stats.ncaa.org/team/30032/10620
+MSO	2012	10620	3	227	Fitchburg St.	http://stats.ncaa.org/team/227/10620
+MSO	2012	10620	3	11538	Fontbonne	http://stats.ncaa.org/team/11538/10620
+MSO	2012	10620	3	238	Framingham St.	http://stats.ncaa.org/team/238/10620
+MSO	2012	10620	3	30069	Franciscan	http://stats.ncaa.org/team/30069/10620
+MSO	2012	10620	3	239	Frank. & Marsh.	http://stats.ncaa.org/team/239/10620
+MSO	2012	10620	3	2694	Franklin	http://stats.ncaa.org/team/2694/10620
+MSO	2012	10620	3	242	Fredonia	http://stats.ncaa.org/team/242/10620
+MSO	2012	10620	3	243	Frostburg St.	http://stats.ncaa.org/team/243/10620
+MSO	2012	10620	3	245	Gallaudet	http://stats.ncaa.org/team/245/10620
+MSO	2012	10620	3	30084	Geneva	http://stats.ncaa.org/team/30084/10620
+MSO	2012	10620	3	1094	George Fox	http://stats.ncaa.org/team/1094/10620
+MSO	2012	10620	3	258	Gettysburg	http://stats.ncaa.org/team/258/10620
+MSO	2012	10620	3	1099	Gordon	http://stats.ncaa.org/team/1099/10620
+MSO	2012	10620	3	1467	Goucher	http://stats.ncaa.org/team/1467/10620
+MSO	2012	10620	3	11062	Green Mountain	http://stats.ncaa.org/team/11062/10620
+MSO	2012	10620	3	263	Greensboro	http://stats.ncaa.org/team/263/10620
+MSO	2012	10620	3	1111	Greenville	http://stats.ncaa.org/team/1111/10620
+MSO	2012	10620	3	264	Grinnell	http://stats.ncaa.org/team/264/10620
+MSO	2012	10620	3	265	Grove City	http://stats.ncaa.org/team/265/10620
+MSO	2012	10620	3	1112	Guilford	http://stats.ncaa.org/team/1112/10620
+MSO	2012	10620	3	266	Gust. Adolphus	http://stats.ncaa.org/team/266/10620
+MSO	2012	10620	3	12399	Gwynedd Mercy	http://stats.ncaa.org/team/12399/10620
+MSO	2012	10620	3	267	Hamilton	http://stats.ncaa.org/team/267/10620
+MSO	2012	10620	3	268	Hamline	http://stats.ncaa.org/team/268/10620
+MSO	2012	10620	3	269	Hampden-Sydney	http://stats.ncaa.org/team/269/10620
+MSO	2012	10620	3	1115	Hanover	http://stats.ncaa.org/team/1115/10620
+MSO	2012	10620	3	271	Hardin-Simmons	http://stats.ncaa.org/team/271/10620
+MSO	2012	10620	3	276	Haverford	http://stats.ncaa.org/team/276/10620
+MSO	2012	10620	3	278	Heidelberg	http://stats.ncaa.org/team/278/10620
+MSO	2012	10620	3	1124	Hendrix	http://stats.ncaa.org/team/1124/10620
+MSO	2012	10620	3	8398	Hilbert	http://stats.ncaa.org/team/8398/10620
+MSO	2012	10620	3	281	Hiram	http://stats.ncaa.org/team/281/10620
+MSO	2012	10620	3	282	Hobart and William Smith Colleges	http://stats.ncaa.org/team/282/10620
+MSO	2012	10620	3	8404	Hood	http://stats.ncaa.org/team/8404/10620
+MSO	2012	10620	3	286	Hope	http://stats.ncaa.org/team/286/10620
+MSO	2012	10620	3	2741	Howard Payne	http://stats.ncaa.org/team/2741/10620
+MSO	2012	10620	3	292	Hunter	http://stats.ncaa.org/team/292/10620
+MSO	2012	10620	3	1130	Huntingdon	http://stats.ncaa.org/team/1130/10620
+MSO	2012	10620	3	1133	Husson	http://stats.ncaa.org/team/1133/10620
+MSO	2012	10620	3	300	Ill. Wesleyan	http://stats.ncaa.org/team/300/10620
+MSO	2012	10620	3	297	Illinois Col.	http://stats.ncaa.org/team/297/10620
+MSO	2012	10620	3	303	Immaculata	http://stats.ncaa.org/team/303/10620
+MSO	2012	10620	3	313	Ithaca	http://stats.ncaa.org/team/313/10620
+MSO	2012	10620	3	320	John Carroll	http://stats.ncaa.org/team/320/10620
+MSO	2012	10620	3	321	John Jay	http://stats.ncaa.org/team/321/10620
+MSO	2012	10620	3	322	Johns Hopkins	http://stats.ncaa.org/team/322/10620
+MSO	2012	10620	3	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/10620
+MSO	2012	10620	3	324	Johnson St.	http://stats.ncaa.org/team/324/10620
+MSO	2012	10620	3	325	Juniata	http://stats.ncaa.org/team/325/10620
+MSO	2012	10620	3	326	Kalamazoo	http://stats.ncaa.org/team/326/10620
+MSO	2012	10620	3	329	Kean	http://stats.ncaa.org/team/329/10620
+MSO	2012	10620	3	330	Keene St.	http://stats.ncaa.org/team/330/10620
+MSO	2012	10620	3	335	Kenyon	http://stats.ncaa.org/team/335/10620
+MSO	2012	10620	3	1159	Keuka	http://stats.ncaa.org/team/1159/10620
+MSO	2012	10620	3	30047	Keystone	http://stats.ncaa.org/team/30047/10620
+MSO	2012	10620	3	336	King's (PA)	http://stats.ncaa.org/team/336/10620
+MSO	2012	10620	3	337	Knox	http://stats.ncaa.org/team/337/10620
+MSO	2012	10620	3	1163	La Roche	http://stats.ncaa.org/team/1163/10620
+MSO	2012	10620	3	341	La Verne	http://stats.ncaa.org/team/341/10620
+MSO	2012	10620	3	1162	LaGrange	http://stats.ncaa.org/team/1162/10620
+MSO	2012	10620	3	344	Lake Forest	http://stats.ncaa.org/team/344/10620
+MSO	2012	10620	3	1164	Lakeland	http://stats.ncaa.org/team/1164/10620
+MSO	2012	10620	3	30085	Lancaster Bible	http://stats.ncaa.org/team/30085/10620
+MSO	2012	10620	3	8486	Lasell	http://stats.ncaa.org/team/8486/10620
+MSO	2012	10620	3	348	Lawrence	http://stats.ncaa.org/team/348/10620
+MSO	2012	10620	3	8490	LeTourneau	http://stats.ncaa.org/team/8490/10620
+MSO	2012	10620	3	351	Lebanon Valley	http://stats.ncaa.org/team/351/10620
+MSO	2012	10620	3	279	Lehman	http://stats.ncaa.org/team/279/10620
+MSO	2012	10620	3	24317	Lesley	http://stats.ncaa.org/team/24317/10620
+MSO	2012	10620	3	1179	Linfield	http://stats.ncaa.org/team/1179/10620
+MSO	2012	10620	3	364	Loras	http://stats.ncaa.org/team/364/10620
+MSO	2012	10620	3	1182	Louisiana Col.	http://stats.ncaa.org/team/1182/10620
+MSO	2012	10620	3	372	Luther	http://stats.ncaa.org/team/372/10620
+MSO	2012	10620	3	373	Lycoming	http://stats.ncaa.org/team/373/10620
+MSO	2012	10620	3	374	Lynchburg	http://stats.ncaa.org/team/374/10620
+MSO	2012	10620	3	30065	Lyndon St.	http://stats.ncaa.org/team/30065/10620
+MSO	2012	10620	3	486	MCLA	http://stats.ncaa.org/team/486/10620
+MSO	2012	10620	3	398	MIT	http://stats.ncaa.org/team/398/10620
+MSO	2012	10620	3	20220	MSOE	http://stats.ncaa.org/team/20220/10620
+MSO	2012	10620	3	377	MacMurray	http://stats.ncaa.org/team/377/10620
+MSO	2012	10620	3	376	Macalester	http://stats.ncaa.org/team/376/10620
+MSO	2012	10620	3	378	Maine Maritime	http://stats.ncaa.org/team/378/10620
+MSO	2012	10620	3	1192	Manchester	http://stats.ncaa.org/team/1192/10620
+MSO	2012	10620	3	382	Manhattanville	http://stats.ncaa.org/team/382/10620
+MSO	2012	10620	3	1194	Maranatha Baptist	http://stats.ncaa.org/team/1194/10620
+MSO	2012	10620	3	1196	Marian (WI)	http://stats.ncaa.org/team/1196/10620
+MSO	2012	10620	3	385	Marietta	http://stats.ncaa.org/team/385/10620
+MSO	2012	10620	3	8597	Martin Luther	http://stats.ncaa.org/team/8597/10620
+MSO	2012	10620	3	1203	Mary Hardin-Baylor	http://stats.ncaa.org/team/1203/10620
+MSO	2012	10620	3	390	Mary Washington	http://stats.ncaa.org/team/390/10620
+MSO	2012	10620	3	394	Marymount (VA)	http://stats.ncaa.org/team/394/10620
+MSO	2012	10620	3	396	Maryville (TN)	http://stats.ncaa.org/team/396/10620
+MSO	2012	10620	3	397	Marywood	http://stats.ncaa.org/team/397/10620
+MSO	2012	10620	3	399	Mass. Maritime	http://stats.ncaa.org/team/399/10620
+MSO	2012	10620	3	773	McDaniel	http://stats.ncaa.org/team/773/10620
+MSO	2012	10620	3	8530	McMurry	http://stats.ncaa.org/team/8530/10620
+MSO	2012	10620	3	379	Me.-Farmington	http://stats.ncaa.org/team/379/10620
+MSO	2012	10620	3	30040	Me.-Presque Isle	http://stats.ncaa.org/team/30040/10620
+MSO	2012	10620	3	23725	Medaille	http://stats.ncaa.org/team/23725/10620
+MSO	2012	10620	3	403	Medgar Evers	http://stats.ncaa.org/team/403/10620
+MSO	2012	10620	3	724	Merchant Marine	http://stats.ncaa.org/team/724/10620
+MSO	2012	10620	3	411	Messiah	http://stats.ncaa.org/team/411/10620
+MSO	2012	10620	3	412	Methodist	http://stats.ncaa.org/team/412/10620
+MSO	2012	10620	3	420	Middlebury	http://stats.ncaa.org/team/420/10620
+MSO	2012	10620	3	424	Millikin	http://stats.ncaa.org/team/424/10620
+MSO	2012	10620	3	426	Millsaps	http://stats.ncaa.org/team/426/10620
+MSO	2012	10620	3	1226	Minn.-Morris	http://stats.ncaa.org/team/1226/10620
+MSO	2012	10620	3	16142	Misericordia	http://stats.ncaa.org/team/16142/10620
+MSO	2012	10620	3	429	Mississippi Col.	http://stats.ncaa.org/team/429/10620
+MSO	2012	10620	3	30042	Mitchell	http://stats.ncaa.org/team/30042/10620
+MSO	2012	10620	3	438	Monmouth (IL)	http://stats.ncaa.org/team/438/10620
+MSO	2012	10620	3	442	Montclair St.	http://stats.ncaa.org/team/442/10620
+MSO	2012	10620	3	443	Moravian	http://stats.ncaa.org/team/443/10620
+MSO	2012	10620	3	30067	Morrisville St.	http://stats.ncaa.org/team/30067/10620
+MSO	2012	10620	3	30036	Mount Aloysius	http://stats.ncaa.org/team/30036/10620
+MSO	2012	10620	3	27901	Mount Ida	http://stats.ncaa.org/team/27901/10620
+MSO	2012	10620	3	452	Mount Union	http://stats.ncaa.org/team/452/10620
+MSO	2012	10620	3	8567	Mt. St. Joseph	http://stats.ncaa.org/team/8567/10620
+MSO	2012	10620	3	1468	Mt. St. Mary (NY)	http://stats.ncaa.org/team/1468/10620
+MSO	2012	10620	3	451	Mt. St. Vincent	http://stats.ncaa.org/team/451/10620
+MSO	2012	10620	3	453	Muhlenberg	http://stats.ncaa.org/team/453/10620
+MSO	2012	10620	3	455	Muskingum	http://stats.ncaa.org/team/455/10620
+MSO	2012	10620	3	491	N.C. Wesleyan	http://stats.ncaa.org/team/491/10620
+MSO	2012	10620	3	479	NYU	http://stats.ncaa.org/team/479/10620
+MSO	2012	10620	3	461	Nazareth	http://stats.ncaa.org/team/461/10620
+MSO	2012	10620	3	462	Neb. Wesleyan	http://stats.ncaa.org/team/462/10620
+MSO	2012	10620	3	1254	Neumann	http://stats.ncaa.org/team/1254/10620
+MSO	2012	10620	3	467	New England Col.	http://stats.ncaa.org/team/467/10620
+MSO	2012	10620	3	319	New Jersey City	http://stats.ncaa.org/team/319/10620
+MSO	2012	10620	3	21772	Newbury	http://stats.ncaa.org/team/21772/10620
+MSO	2012	10620	3	484	Nichols	http://stats.ncaa.org/team/484/10620
+MSO	2012	10620	3	492	North Central (IL)	http://stats.ncaa.org/team/492/10620
+MSO	2012	10620	3	30039	North Central (MN)	http://stats.ncaa.org/team/30039/10620
+MSO	2012	10620	3	496	North Park	http://stats.ncaa.org/team/496/10620
+MSO	2012	10620	3	1267	Northland	http://stats.ncaa.org/team/1267/10620
+MSO	2012	10620	3	30031	Northwestern-St. Paul	http://stats.ncaa.org/team/30031/10620
+MSO	2012	10620	3	511	Norwich	http://stats.ncaa.org/team/511/10620
+MSO	2012	10620	3	515	Oberlin	http://stats.ncaa.org/team/515/10620
+MSO	2012	10620	3	516	Occidental	http://stats.ncaa.org/team/516/10620
+MSO	2012	10620	3	2713	Oglethorpe	http://stats.ncaa.org/team/2713/10620
+MSO	2012	10620	3	517	Ohio Northern	http://stats.ncaa.org/team/517/10620
+MSO	2012	10620	3	520	Ohio Wesleyan	http://stats.ncaa.org/team/520/10620
+MSO	2012	10620	3	524	Old Westbury	http://stats.ncaa.org/team/524/10620
+MSO	2012	10620	3	525	Olivet	http://stats.ncaa.org/team/525/10620
+MSO	2012	10620	3	530	Oswego St.	http://stats.ncaa.org/team/530/10620
+MSO	2012	10620	3	531	Otterbein	http://stats.ncaa.org/team/531/10620
+MSO	2012	10620	3	23008	Ozarks (AR)	http://stats.ncaa.org/team/23008/10620
+MSO	2012	10620	3	2751	Pacific (OR)	http://stats.ncaa.org/team/2751/10620
+MSO	2012	10620	3	1297	Pacific Lutheran	http://stats.ncaa.org/team/1297/10620
+MSO	2012	10620	3	30081	Penn St. Harrisburg	http://stats.ncaa.org/team/30081/10620
+MSO	2012	10620	3	25719	Penn St.-Altoona	http://stats.ncaa.org/team/25719/10620
+MSO	2012	10620	3	538	Penn St.-Behrend	http://stats.ncaa.org/team/538/10620
+MSO	2012	10620	3	30044	Penn St.-Berks	http://stats.ncaa.org/team/30044/10620
+MSO	2012	10620	3	21830	Piedmont	http://stats.ncaa.org/team/21830/10620
+MSO	2012	10620	3	1315	Pitt.-Bradford	http://stats.ncaa.org/team/1315/10620
+MSO	2012	10620	3	11839	Pitt.-Greensburg	http://stats.ncaa.org/team/11839/10620
+MSO	2012	10620	3	547	Plattsburgh St.	http://stats.ncaa.org/team/547/10620
+MSO	2012	10620	3	548	Plymouth St.	http://stats.ncaa.org/team/548/10620
+MSO	2012	10620	3	481	Polytechnic (NY)	http://stats.ncaa.org/team/481/10620
+MSO	2012	10620	3	549	Pomona-Pitzer	http://stats.ncaa.org/team/549/10620
+MSO	2012	10620	3	30034	Presentation	http://stats.ncaa.org/team/30034/10620
+MSO	2012	10620	3	555	Principia	http://stats.ncaa.org/team/555/10620
+MSO	2012	10620	3	557	Puget Sound	http://stats.ncaa.org/team/557/10620
+MSO	2012	10620	3	30029	Purchase	http://stats.ncaa.org/team/30029/10620
+MSO	2012	10620	3	580	RIT	http://stats.ncaa.org/team/580/10620
+MSO	2012	10620	3	564	Ramapo	http://stats.ncaa.org/team/564/10620
+MSO	2012	10620	3	566	Randolph	http://stats.ncaa.org/team/566/10620
+MSO	2012	10620	3	565	Randolph-Macon	http://stats.ncaa.org/team/565/10620
+MSO	2012	10620	3	567	Redlands	http://stats.ncaa.org/team/567/10620
+MSO	2012	10620	3	569	Regis (MA)	http://stats.ncaa.org/team/569/10620
+MSO	2012	10620	3	570	Rensselaer	http://stats.ncaa.org/team/570/10620
+MSO	2012	10620	3	571	Rhode Island Col.	http://stats.ncaa.org/team/571/10620
+MSO	2012	10620	3	573	Rhodes	http://stats.ncaa.org/team/573/10620
+MSO	2012	10620	3	577	Ripon	http://stats.ncaa.org/team/577/10620
+MSO	2012	10620	3	18422	Rivier	http://stats.ncaa.org/team/18422/10620
+MSO	2012	10620	3	578	Roanoke	http://stats.ncaa.org/team/578/10620
+MSO	2012	10620	3	581	Rochester (NY)	http://stats.ncaa.org/team/581/10620
+MSO	2012	10620	3	582	Rockford	http://stats.ncaa.org/team/582/10620
+MSO	2012	10620	3	583	Roger Williams	http://stats.ncaa.org/team/583/10620
+MSO	2012	10620	3	585	Rose-Hulman	http://stats.ncaa.org/team/585/10620
+MSO	2012	10620	3	15882	Rosemont	http://stats.ncaa.org/team/15882/10620
+MSO	2012	10620	3	259	Rowan	http://stats.ncaa.org/team/259/10620
+MSO	2012	10620	3	586	Rust	http://stats.ncaa.org/team/586/10620
+MSO	2012	10620	3	588	Rutgers-Camden	http://stats.ncaa.org/team/588/10620
+MSO	2012	10620	3	589	Rutgers-Newark	http://stats.ncaa.org/team/589/10620
+MSO	2012	10620	3	168	SUNY Cortland	http://stats.ncaa.org/team/168/10620
+MSO	2012	10620	3	247	SUNY Geneseo	http://stats.ncaa.org/team/247/10620
+MSO	2012	10620	3	478	SUNY Maritime	http://stats.ncaa.org/team/478/10620
+MSO	2012	10620	3	475	SUNY New Paltz	http://stats.ncaa.org/team/475/10620
+MSO	2012	10620	3	526	SUNY Oneonta	http://stats.ncaa.org/team/526/10620
+MSO	2012	10620	3	9500	SUNY Poly	http://stats.ncaa.org/team/9500/10620
+MSO	2012	10620	3	552	SUNY Potsdam	http://stats.ncaa.org/team/552/10620
+MSO	2012	10620	3	11036	Sage Colleges	http://stats.ncaa.org/team/11036/10620
+MSO	2012	10620	3	602	Saint John's (MN)	http://stats.ncaa.org/team/602/10620
+MSO	2012	10620	3	612	Saint Mary's (MN)	http://stats.ncaa.org/team/612/10620
+MSO	2012	10620	3	30064	Saint Vincent	http://stats.ncaa.org/team/30064/10620
+MSO	2012	10620	3	621	Salem St.	http://stats.ncaa.org/team/621/10620
+MSO	2012	10620	3	622	Salisbury	http://stats.ncaa.org/team/622/10620
+MSO	2012	10620	3	623	Salve Regina	http://stats.ncaa.org/team/623/10620
+MSO	2012	10620	3	1355	Schreiner	http://stats.ncaa.org/team/1355/10620
+MSO	2012	10620	3	633	Scranton	http://stats.ncaa.org/team/633/10620
+MSO	2012	10620	3	652	Sewanee	http://stats.ncaa.org/team/652/10620
+MSO	2012	10620	3	637	Shenandoah	http://stats.ncaa.org/team/637/10620
+MSO	2012	10620	3	641	Simpson	http://stats.ncaa.org/team/641/10620
+MSO	2012	10620	3	642	Skidmore	http://stats.ncaa.org/team/642/10620
+MSO	2012	10620	3	662	Southern Me.	http://stats.ncaa.org/team/662/10620
+MSO	2012	10620	3	1379	Southern Vt.	http://stats.ncaa.org/team/1379/10620
+MSO	2012	10620	3	8746	Southwestern (TX)	http://stats.ncaa.org/team/8746/10620
+MSO	2012	10620	3	673	Springfield	http://stats.ncaa.org/team/673/10620
+MSO	2012	10620	3	601	St. John Fisher	http://stats.ncaa.org/team/601/10620
+MSO	2012	10620	3	30072	St. Joseph's (Brkln)	http://stats.ncaa.org/team/30072/10620
+MSO	2012	10620	3	1340	St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/10620
+MSO	2012	10620	3	605	St. Joseph's (ME)	http://stats.ncaa.org/team/605/10620
+MSO	2012	10620	3	607	St. Lawrence	http://stats.ncaa.org/team/607/10620
+MSO	2012	10620	3	611	St. Mary's (MD)	http://stats.ncaa.org/team/611/10620
+MSO	2012	10620	3	614	St. Norbert	http://stats.ncaa.org/team/614/10620
+MSO	2012	10620	3	615	St. Olaf	http://stats.ncaa.org/team/615/10620
+MSO	2012	10620	3	618	St. Scholastica	http://stats.ncaa.org/team/618/10620
+MSO	2012	10620	3	620	St. Thomas (MN)	http://stats.ncaa.org/team/620/10620
+MSO	2012	10620	3	675	Staten Island	http://stats.ncaa.org/team/675/10620
+MSO	2012	10620	3	679	Stevens	http://stats.ncaa.org/team/679/10620
+MSO	2012	10620	3	21852	Stevenson	http://stats.ncaa.org/team/21852/10620
+MSO	2012	10620	3	681	Stockton	http://stats.ncaa.org/team/681/10620
+MSO	2012	10620	3	684	Suffolk	http://stats.ncaa.org/team/684/10620
+MSO	2012	10620	3	685	Susquehanna	http://stats.ncaa.org/team/685/10620
+MSO	2012	10620	3	686	Swarthmore	http://stats.ncaa.org/team/686/10620
+MSO	2012	10620	3	712	TCNJ	http://stats.ncaa.org/team/712/10620
+MSO	2012	10620	3	1400	Texas Lutheran	http://stats.ncaa.org/team/1400/10620
+MSO	2012	10620	3	23121	Texas-Dallas	http://stats.ncaa.org/team/23121/10620
+MSO	2012	10620	3	30028	Texas-Tyler	http://stats.ncaa.org/team/30028/10620
+MSO	2012	10620	3	707	Thiel	http://stats.ncaa.org/team/707/10620
+MSO	2012	10620	3	2758	Thomas (ME)	http://stats.ncaa.org/team/2758/10620
+MSO	2012	10620	3	1402	Thomas More	http://stats.ncaa.org/team/1402/10620
+MSO	2012	10620	3	28749	Transylvania	http://stats.ncaa.org/team/28749/10620
+MSO	2012	10620	3	30037	Trine	http://stats.ncaa.org/team/30037/10620
+MSO	2012	10620	3	713	Trinity (CT)	http://stats.ncaa.org/team/713/10620
+MSO	2012	10620	3	715	Trinity (TX)	http://stats.ncaa.org/team/715/10620
+MSO	2012	10620	3	717	Tufts	http://stats.ncaa.org/team/717/10620
+MSO	2012	10620	3	1255	U New England	http://stats.ncaa.org/team/1255/10620
+MSO	2012	10620	3	113	UC Santa Cruz	http://stats.ncaa.org/team/113/10620
+MSO	2012	10620	3	401	UMass Boston	http://stats.ncaa.org/team/401/10620
+MSO	2012	10620	3	656	UMass Dartmouth	http://stats.ncaa.org/team/656/10620
+MSO	2012	10620	3	727	Union (NY)	http://stats.ncaa.org/team/727/10620
+MSO	2012	10620	3	730	Ursinus	http://stats.ncaa.org/team/730/10620
+MSO	2012	10620	3	733	Utica	http://stats.ncaa.org/team/733/10620
+MSO	2012	10620	3	745	Va. Wesleyan	http://stats.ncaa.org/team/745/10620
+MSO	2012	10620	3	737	Vassar	http://stats.ncaa.org/team/737/10620
+MSO	2012	10620	3	808	WPI	http://stats.ncaa.org/team/808/10620
+MSO	2012	10620	3	747	Wabash	http://stats.ncaa.org/team/747/10620
+MSO	2012	10620	3	750	Wartburg	http://stats.ncaa.org/team/750/10620
+MSO	2012	10620	3	751	Wash. & Jeff.	http://stats.ncaa.org/team/751/10620
+MSO	2012	10620	3	752	Wash. & Lee	http://stats.ncaa.org/team/752/10620
+MSO	2012	10620	3	753	Washington Col.	http://stats.ncaa.org/team/753/10620
+MSO	2012	10620	3	755	Washington-St. Louis	http://stats.ncaa.org/team/755/10620
+MSO	2012	10620	3	1434	Waynesburg	http://stats.ncaa.org/team/1434/10620
+MSO	2012	10620	3	759	Webster	http://stats.ncaa.org/team/759/10620
+MSO	2012	10620	3	761	Wells	http://stats.ncaa.org/team/761/10620
+MSO	2012	10620	3	762	Wentworth	http://stats.ncaa.org/team/762/10620
+MSO	2012	10620	3	763	Wesley	http://stats.ncaa.org/team/763/10620
+MSO	2012	10620	3	764	Wesleyan (CT)	http://stats.ncaa.org/team/764/10620
+MSO	2012	10620	3	770	Western Conn. St.	http://stats.ncaa.org/team/770/10620
+MSO	2012	10620	3	775	Western New Eng.	http://stats.ncaa.org/team/775/10620
+MSO	2012	10620	3	777	Westfield St.	http://stats.ncaa.org/team/777/10620
+MSO	2012	10620	3	1450	Westminster (MO)	http://stats.ncaa.org/team/1450/10620
+MSO	2012	10620	3	1451	Westminster (PA)	http://stats.ncaa.org/team/1451/10620
+MSO	2012	10620	3	778	Wheaton (IL)	http://stats.ncaa.org/team/778/10620
+MSO	2012	10620	3	779	Wheaton (MA)	http://stats.ncaa.org/team/779/10620
+MSO	2012	10620	3	8896	Wheelock	http://stats.ncaa.org/team/8896/10620
+MSO	2012	10620	3	780	Whitman	http://stats.ncaa.org/team/780/10620
+MSO	2012	10620	3	781	Whittier	http://stats.ncaa.org/team/781/10620
+MSO	2012	10620	3	1454	Whitworth	http://stats.ncaa.org/team/1454/10620
+MSO	2012	10620	3	783	Widener	http://stats.ncaa.org/team/783/10620
+MSO	2012	10620	3	784	Wilkes	http://stats.ncaa.org/team/784/10620
+MSO	2012	10620	3	785	Willamette	http://stats.ncaa.org/team/785/10620
+MSO	2012	10620	3	789	Williams	http://stats.ncaa.org/team/789/10620
+MSO	2012	10620	3	1461	Wilmington (OH)	http://stats.ncaa.org/team/1461/10620
+MSO	2012	10620	3	8911	Wis. Lutheran	http://stats.ncaa.org/team/8911/10620
+MSO	2012	10620	3	798	Wis.-Oshkosh	http://stats.ncaa.org/team/798/10620
+MSO	2012	10620	3	800	Wis.-Platteville	http://stats.ncaa.org/team/800/10620
+MSO	2012	10620	3	804	Wis.-Superior	http://stats.ncaa.org/team/804/10620
+MSO	2012	10620	3	805	Wis.-Whitewater	http://stats.ncaa.org/team/805/10620
+MSO	2012	10620	3	806	Wittenberg	http://stats.ncaa.org/team/806/10620
+MSO	2012	10620	3	787	Wm. Paterson	http://stats.ncaa.org/team/787/10620
+MSO	2012	10620	3	807	Wooster	http://stats.ncaa.org/team/807/10620
+MSO	2012	10620	3	809	Worcester St.	http://stats.ncaa.org/team/809/10620
+MSO	2012	10620	3	814	Yeshiva	http://stats.ncaa.org/team/814/10620
+MSO	2012	10620	3	2730	York (NY)	http://stats.ncaa.org/team/2730/10620
+MSO	2012	10620	3	815	York (PA)	http://stats.ncaa.org/team/815/10620
