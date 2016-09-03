@@ -21,13 +21,13 @@ end
 base_url = 'http://stats.ncaa.org'
 #base_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/stats.ncaa.org'
 
-boxscores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
+boxscores_xpath = '//*[@id="contentarea"]/table[position()>4]/tr[position()>2]'
 
 #'//*[@id="contentArea"]/table[5]/tbody/tr[1]/td'
 
 #periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3
@@ -71,7 +71,7 @@ game_ids.uniq!
 
 # Randomize
 
-game_ids.shuffle!
+#game_ids.shuffle!
 
 #game_ids = game_ids[0..199]
 
@@ -148,6 +148,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
             if not(link.nil?)
 
               link_url = link.attributes["href"].text
+              
               parameters = link_url.split("/")[-1]
 
               # Player ID

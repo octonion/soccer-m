@@ -21,7 +21,7 @@ base_url = 'http://stats.ncaa.org'
 play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
 periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3
@@ -56,7 +56,7 @@ game_ids.uniq!
 
 # Randomize
 
-game_ids.shuffle!
+#game_ids.shuffle!
 
 #game_ids = game_ids[0..199]
 
@@ -136,9 +136,8 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
             if not(link.nil?)
               link_url = link.attributes["href"].text
-              team_url = link_url.split("cgi/")[1]
-              parameters = link_url.split("/")[-1]
-              team_id = parameters.split("=")[1]
+              team_url = base_url+link_url
+              team_id = link_url.split("/")[-2]
             end
           else
             team_period_scores += [element.text.strip.to_i]
