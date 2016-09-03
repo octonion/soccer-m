@@ -45,7 +45,7 @@ rm /tmp/rosters.csv
 
 # Boxscores
 
-cp csv/ncaa_boxscores_*.csv.gz /tmp
+cp csv/ncaa_boxscores_201[567]*.csv.gz /tmp
 gzip -d /tmp/ncaa_boxscores_*.csv.gz
 #tail -q -n+2 csv/ncaa_boxscores_*.csv >> /tmp/boxscores.csv
 tail -q -n+2 /tmp/ncaa_boxscores_*.csv >> /tmp/boxscores.csv
