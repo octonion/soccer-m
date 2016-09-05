@@ -464,36 +464,36 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	2683	Belmont Abbey	16	1721954.0	Villa, Juan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721954.0	Sr	1	0
 2017	12440	2	2683	Belmont Abbey	13		Wood, Luke		Fr	0	0
 2017	12440	2	2683	Belmont Abbey	2		Zellner, Aaron		Fr	0	0
-2017	12440	2	56	Bentley	2		Anderson, Dan		Jr	0	0
-2017	12440	2	56	Bentley	3		Baron, Michael		Sr	0	0
-2017	12440	2	56	Bentley	19	1698686.0	Batawi, Luc	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698686.0	Jr	0	0
-2017	12440	2	56	Bentley	29		Caceres, Daniel		Fr	0	0
-2017	12440	2	56	Bentley	23		Caso, Chris		So	0	0
-2017	12440	2	56	Bentley	13		Foster, Alec		Fr	0	0
-2017	12440	2	56	Bentley	24		Goldstein, Jake		Fr	0	0
-2017	12440	2	56	Bentley	14		Gould, Colby		Fr	0	0
+2017	12440	2	56	Bentley	2	1813888.0	Anderson, Dan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813888.0	Jr	1	0
+2017	12440	2	56	Bentley	3	1813889.0	Baron, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813889.0	Sr	1	0
+2017	12440	2	56	Bentley	19	1698686.0	Batawi, Luc	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698686.0	Jr	3	3
+2017	12440	2	56	Bentley	29	1813901.0	Caceres, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813901.0	Fr	3	3
+2017	12440	2	56	Bentley	23	1813896.0	Caso, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813896.0	So	3	0
+2017	12440	2	56	Bentley	13	1813893.0	Foster, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813893.0	Fr	3	3
+2017	12440	2	56	Bentley	24	1813897.0	Goldstein, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813897.0	Fr	1	0
+2017	12440	2	56	Bentley	14	1813894.0	Gould, Colby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813894.0	Fr	1	0
 2017	12440	2	56	Bentley	5	1606934.0	Jones, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606934.0	Jr	0	0
 2017	12440	2	56	Bentley	00		Koutroukas, Greg		Jr	0	0
-2017	12440	2	56	Bentley	26	1606940.0	Leone, Chuck	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606940.0	Jr	0	0
+2017	12440	2	56	Bentley	26	1606940.0	Leone, Chuck	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606940.0	Jr	3	3
 2017	12440	2	56	Bentley	18		Levesque, Brady		Fr	0	0
-2017	12440	2	56	Bentley	8		Lombardi, Diego		Fr	0	0
+2017	12440	2	56	Bentley	8	1813890.0	Lombardi, Diego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813890.0	Fr	3	0
 2017	12440	2	56	Bentley	28		Lopez, Charlie		Fr	0	0
 2017	12440	2	56	Bentley	1	1698692.0	McCarthy, Liam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698692.0	Jr	0	0
 2017	12440	2	56	Bentley	30	1698677.0	McDonnell, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698677.0	So	0	0
 2017	12440	2	56	Bentley	12		Mierzejewski, Alex		So	0	0
-2017	12440	2	56	Bentley	4	1698683.0	Morra, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698683.0	Jr	0	0
-2017	12440	2	56	Bentley	6	1606939.0	Nickerson, Tommy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606939.0	Sr	0	0
-2017	12440	2	56	Bentley	11	1485138.0	Pagano, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1485138.0	Sr	0	0
-2017	12440	2	56	Bentley	9		Perry, Connor		Fr	0	0
-2017	12440	2	56	Bentley	0		Rapant, Harrison		So	0	0
-2017	12440	2	56	Bentley	21	1606937.0	Ripperger, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606937.0	Sr	0	0
+2017	12440	2	56	Bentley	4	1698683.0	Morra, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698683.0	Jr	3	3
+2017	12440	2	56	Bentley	6	1606939.0	Nickerson, Tommy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606939.0	Sr	3	0
+2017	12440	2	56	Bentley	11	1485138.0	Pagano, Lucas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1485138.0	Sr	3	0
+2017	12440	2	56	Bentley	9	1813891.0	Perry, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813891.0	Fr	1	0
+2017	12440	2	56	Bentley	0	1698678.0	Rapant, Harrison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698678.0	So	3	3
+2017	12440	2	56	Bentley	21	1606937.0	Ripperger, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606937.0	Sr	3	3
 2017	12440	2	56	Bentley	10	1698685.0	Ryan, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698685.0	So	0	0
-2017	12440	2	56	Bentley	7	1485145.0	Scaringe, Forrest	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1485145.0	Sr	0	0
-2017	12440	2	56	Bentley	22	1606938.0	Spangler, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606938.0	Jr	0	0
-2017	12440	2	56	Bentley	15	1606933.0	Sullivan, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606933.0	Jr	0	0
-2017	12440	2	56	Bentley	25		Tidona, Matt		Fr	0	0
-2017	12440	2	56	Bentley	17	1698684.0	Williams, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698684.0	So	0	0
-2017	12440	2	56	Bentley	16	1728309.0	Zaepfel, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1728309.0	Jr	0	0
+2017	12440	2	56	Bentley	7	1485145.0	Scaringe, Forrest	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1485145.0	Sr	3	3
+2017	12440	2	56	Bentley	22	1606938.0	Spangler, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606938.0	Jr	3	3
+2017	12440	2	56	Bentley	15	1606933.0	Sullivan, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1606933.0	Jr	3	3
+2017	12440	2	56	Bentley	25	1813899.0	Tidona, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1813899.0	Fr	1	0
+2017	12440	2	56	Bentley	17	1698684.0	Williams, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698684.0	So	3	0
+2017	12440	2	56	Bentley	16	1728309.0	Zaepfel, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1728309.0	Jr	3	3
 2017	12440	2	984	Bloomfield	22		Acosta, Maximiliano		Fr	0	0
 2017	12440	2	984	Bloomfield	99		Altieri, Scott		Fr	0	0
 2017	12440	2	984	Bloomfield	4		Baah, William		Jr	0	0
@@ -676,29 +676,29 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	98	Cal St. East Bay	8	1494972.0	Sauer, Steffen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1494972.0	Sr	0	0
 2017	12440	2	98	Cal St. East Bay	14	1720481.0	Sjogrell, Kalle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720481.0	So	0	0
 2017	12440	2	100	Cal St. L.A.	23	1801972.0	Arkelian, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801972.0	So	1	0
-2017	12440	2	100	Cal St. L.A.	30	1801977.0	Arnoll, Dan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801977.0	Jr	1	1
+2017	12440	2	100	Cal St. L.A.	30	1801977.0	Arnoll, Dan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801977.0	Jr	2	2
 2017	12440	2	100	Cal St. L.A.	1	1358740.0	Barrera, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1358740.0	Jr	1	0
 2017	12440	2	100	Cal St. L.A.	8	1693108.0	Benitez, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693108.0	Fr	1	0
-2017	12440	2	100	Cal St. L.A.	31	1693110.0	Croucher, Samuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693110.0	Jr	1	1
-2017	12440	2	100	Cal St. L.A.	19	1801968.0	Diaz, Adrian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801968.0	Jr	1	1
-2017	12440	2	100	Cal St. L.A.	9	1358764.0	Dumlao, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1358764.0	Sr	1	1
-2017	12440	2	100	Cal St. L.A.	7	1693107.0	Eberle, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693107.0	Jr	1	1
-2017	12440	2	100	Cal St. L.A.	25	1801974.0	Eiben, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801974.0	Fr	1	1
-2017	12440	2	100	Cal St. L.A.	17	1693104.0	Hemat, Shahin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693104.0	Sr	1	1
-2017	12440	2	100	Cal St. L.A.	14	1586989.0	Hinojosa, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1586989.0	So	1	1
+2017	12440	2	100	Cal St. L.A.	31	1693110.0	Croucher, Samuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693110.0	Jr	2	2
+2017	12440	2	100	Cal St. L.A.	19	1801968.0	Diaz, Adrian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801968.0	Jr	2	2
+2017	12440	2	100	Cal St. L.A.	9	1358764.0	Dumlao, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1358764.0	Sr	2	2
+2017	12440	2	100	Cal St. L.A.	7	1693107.0	Eberle, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693107.0	Jr	2	2
+2017	12440	2	100	Cal St. L.A.	25	1801974.0	Eiben, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801974.0	Fr	2	2
+2017	12440	2	100	Cal St. L.A.	17	1693104.0	Hemat, Shahin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693104.0	Sr	2	2
+2017	12440	2	100	Cal St. L.A.	14	1586989.0	Hinojosa, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1586989.0	So	2	2
 2017	12440	2	100	Cal St. L.A.	26	1801975.0	Hwang, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801975.0	Fr	1	0
-2017	12440	2	100	Cal St. L.A.	11	1801965.0	Kaffo, Femi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801965.0	Sr	1	0
-2017	12440	2	100	Cal St. L.A.	2	1801962.0	Kalkan, Ihsan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801962.0	Jr	1	1
-2017	12440	2	100	Cal St. L.A.	5	1693106.0	Kersh, Samuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693106.0	Sr	1	1
-2017	12440	2	100	Cal St. L.A.	20	1801969.0	Klefisch, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801969.0	Fr	1	1
-2017	12440	2	100	Cal St. L.A.	13	1801966.0	Laugsand, Hakon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801966.0	Jr	1	0
-2017	12440	2	100	Cal St. L.A.	22	1801971.0	Leon, Eddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801971.0	Fr	1	0
+2017	12440	2	100	Cal St. L.A.	11	1801965.0	Kaffo, Femi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801965.0	Sr	2	0
+2017	12440	2	100	Cal St. L.A.	2	1801962.0	Kalkan, Ihsan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801962.0	Jr	2	2
+2017	12440	2	100	Cal St. L.A.	5	1693106.0	Kersh, Samuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693106.0	Sr	2	2
+2017	12440	2	100	Cal St. L.A.	20	1801969.0	Klefisch, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801969.0	Fr	2	2
+2017	12440	2	100	Cal St. L.A.	13	1801966.0	Laugsand, Hakon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801966.0	Jr	2	0
+2017	12440	2	100	Cal St. L.A.	22	1801971.0	Leon, Eddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801971.0	Fr	2	0
 2017	12440	2	100	Cal St. L.A.	27	1801980.0	Lindbom, Anton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801980.0	Fr	1	0
-2017	12440	2	100	Cal St. L.A.	18	1801967.0	Maciel, Rigoberto	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801967.0	Jr	1	0
+2017	12440	2	100	Cal St. L.A.	18	1801967.0	Maciel, Rigoberto	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801967.0	Jr	2	0
 2017	12440	2	100	Cal St. L.A.	3		Medina, Emmanuel		Jr	0	0
 2017	12440	2	100	Cal St. L.A.	24		Nelson, Nick		Fr	0	0
 2017	12440	2	100	Cal St. L.A.	33		Page, Jordan		Fr	0	0
-2017	12440	2	100	Cal St. L.A.	21	1801970.0	Rognstad, Dennis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801970.0	Jr	1	0
+2017	12440	2	100	Cal St. L.A.	21	1801970.0	Rognstad, Dennis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801970.0	Jr	2	0
 2017	12440	2	100	Cal St. L.A.	16	1693111.0	Rosas, Antonio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1693111.0	So	1	0
 2017	12440	2	100	Cal St. L.A.	0		Sanchez, Jaime		Jr	0	0
 2017	12440	2	100	Cal St. L.A.	28	1801976.0	Shabani, Narbeh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801976.0	Fr	1	0
@@ -805,31 +805,31 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	30198	Cal St. San Marcos	4	1709270.0	Stolmeier, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709270.0	Sr	1	1
 2017	12440	2	30198	Cal St. San Marcos	25	1821121.0	Swensen, Isaac	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1821121.0	So	1	1
 2017	12440	2	30198	Cal St. San Marcos	30	1709371.0	Tesar, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709371.0	Fr	1	1
-2017	12440	2	995	Caldwell	18	1826496.0	Appanah, Darren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826496.0	Fr	1	0
-2017	12440	2	995	Caldwell	15	1826495.0	Arnshed, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826495.0	Fr	1	1
-2017	12440	2	995	Caldwell	21	1826498.0	Axelsson, Filip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826498.0	Fr	1	1
-2017	12440	2	995	Caldwell	22		Bellgran, Hannes		Fr	0	0
+2017	12440	2	995	Caldwell	18	1826496.0	Appanah, Darren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826496.0	Fr	3	2
+2017	12440	2	995	Caldwell	15	1826495.0	Arnshed, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826495.0	Fr	3	3
+2017	12440	2	995	Caldwell	21	1826498.0	Axelsson, Filip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826498.0	Fr	3	3
+2017	12440	2	995	Caldwell	22	1826499.0	Bellgran, Hannes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826499.0	Fr	2	2
 2017	12440	2	995	Caldwell	3	1497359.0	Blankenstein, Sjoerd	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1497359.0	Sr	0	0
-2017	12440	2	995	Caldwell	25	1826500.0	Block, Tobias	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826500.0	Fr	1	1
+2017	12440	2	995	Caldwell	25	1826500.0	Block, Tobias	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826500.0	Fr	3	3
 2017	12440	2	995	Caldwell	6	1497358.0	Broderick, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1497358.0	Sr	0	0
-2017	12440	2	995	Caldwell	26	1826501.0	Caccoittolo, Luca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826501.0	Fr	1	0
-2017	12440	2	995	Caldwell	7	1716844.0	Cardoso, Italo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716844.0	So	1	1
+2017	12440	2	995	Caldwell	26	1826501.0	Caccoittolo, Luca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826501.0	Fr	3	0
+2017	12440	2	995	Caldwell	7	1716844.0	Cardoso, Italo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716844.0	So	3	1
 2017	12440	2	995	Caldwell	4	1608534.0	Carvalho, Tomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608534.0	Jr	0	0
-2017	12440	2	995	Caldwell	8	1608541.0	Djikanovic, Martin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608541.0	Jr	1	0
-2017	12440	2	995	Caldwell	2	1716840.0	Escudero, Joaquin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716840.0	So	1	0
-2017	12440	2	995	Caldwell	12	1608536.0	Grey, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608536.0	Jr	1	1
+2017	12440	2	995	Caldwell	8	1608541.0	Djikanovic, Martin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608541.0	Jr	3	0
+2017	12440	2	995	Caldwell	2	1716840.0	Escudero, Joaquin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716840.0	So	3	2
+2017	12440	2	995	Caldwell	12	1608536.0	Grey, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608536.0	Jr	3	3
 2017	12440	2	995	Caldwell	13	1497360.0	Groll, Aidan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1497360.0	Sr	0	0
-2017	12440	2	995	Caldwell	10	1716843.0	Havlak, Jakub	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716843.0	So	1	1
-2017	12440	2	995	Caldwell	19	1716826.0	Hill, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716826.0	So	1	1
-2017	12440	2	995	Caldwell	20		Johansen, Simen		Fr	0	0
+2017	12440	2	995	Caldwell	10	1716843.0	Havlak, Jakub	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716843.0	So	3	1
+2017	12440	2	995	Caldwell	19	1716826.0	Hill, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716826.0	So	3	3
+2017	12440	2	995	Caldwell	20	1826497.0	Johansen, Simen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826497.0	Fr	2	0
 2017	12440	2	995	Caldwell	29		Maldonado, Israel		Fr	0	0
-2017	12440	2	995	Caldwell	1	1608533.0	Meister, Fritz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608533.0	Jr	1	1
-2017	12440	2	995	Caldwell	27	1826502.0	Molin, Erik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826502.0	Fr	1	0
+2017	12440	2	995	Caldwell	1	1608533.0	Meister, Fritz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608533.0	Jr	3	3
+2017	12440	2	995	Caldwell	27	1826502.0	Molin, Erik	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1826502.0	Fr	3	0
 2017	12440	2	995	Caldwell	11	1608539.0	Odell, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608539.0	Jr	1	1
-2017	12440	2	995	Caldwell	17	1716839.0	Stenberg, Jesper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716839.0	Jr	1	1
+2017	12440	2	995	Caldwell	17	1716839.0	Stenberg, Jesper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716839.0	Jr	3	3
 2017	12440	2	995	Caldwell	0		Tirri, Anthony		Fr	0	0
 2017	12440	2	995	Caldwell	5	1716842.0	Wendelborg, Ole-Anders	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716842.0	Jr	1	0
-2017	12440	2	995	Caldwell	9	1716845.0	Yorston, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716845.0	So	1	1
+2017	12440	2	995	Caldwell	9	1716845.0	Yorston, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1716845.0	So	3	3
 2017	12440	2	995	Caldwell	14		de los Rios, Mariano		So	0	0
 2017	12440	2	106	California (PA)	9		Amos, Cooper		Fr	0	0
 2017	12440	2	106	California (PA)	15		Angelo, Nathan		Fr	0	0
@@ -997,42 +997,42 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	1013	Charleston (WV)	11	1715018.0	Windster, Jermaine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715018.0	Sr	0	0
 2017	12440	2	1013	Charleston (WV)	2	1508243.0	Young, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1508243.0	Sr	0	0
 2017	12440	2	21323	Chestnut Hill	16		Arpan, Jordan		Jr	0	0
-2017	12440	2	21323	Chestnut Hill	25	1727527.0	Ast, Jeffrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727527.0	So	0	0
+2017	12440	2	21323	Chestnut Hill	25	1727527.0	Ast, Jeffrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727527.0	So	1	1
 2017	12440	2	21323	Chestnut Hill	9	1616401.0	Barboza, Diogo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616401.0	So	0	0
-2017	12440	2	21323	Chestnut Hill	29		Bethel, Connor		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	11		Brito, Vini		Jr	0	0
+2017	12440	2	21323	Chestnut Hill	29	1833199.0	Bethel, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833199.0	Fr	1	1
+2017	12440	2	21323	Chestnut Hill	11	1833176.0	Brito, Vini	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833176.0	Jr	1	1
 2017	12440	2	21323	Chestnut Hill	26		Bruhn, Paris		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	2	1727528.0	Burns, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727528.0	So	0	0
-2017	12440	2	21323	Chestnut Hill	12	1616077.0	Casaletto, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616077.0	Jr	0	0
+2017	12440	2	21323	Chestnut Hill	2	1727528.0	Burns, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727528.0	So	1	0
+2017	12440	2	21323	Chestnut Hill	12	1616077.0	Casaletto, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616077.0	Jr	1	1
 2017	12440	2	21323	Chestnut Hill	30		Chan, Jonathan		Fr	0	0
 2017	12440	2	21323	Chestnut Hill	20		Couillard, Channing		Sr	0	0
-2017	12440	2	21323	Chestnut Hill	10	1727525.0	Doherty, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727525.0	So	0	0
+2017	12440	2	21323	Chestnut Hill	10	1727525.0	Doherty, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727525.0	So	1	0
 2017	12440	2	21323	Chestnut Hill	99		Dreyer, Vernon		Jr	0	0
 2017	12440	2	21323	Chestnut Hill	14		Ehmer, Mo		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	13		Finore, Stephen		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	6	1495882.0	Fussen, Nils	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495882.0	Sr	0	0
+2017	12440	2	21323	Chestnut Hill	13	1833177.0	Finore, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833177.0	Fr	1	0
+2017	12440	2	21323	Chestnut Hill	6	1495882.0	Fussen, Nils	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495882.0	Sr	1	1
 2017	12440	2	21323	Chestnut Hill	34		Gonzalez, Arnold		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	5		Gray, Zachary		Jr	0	0
+2017	12440	2	21323	Chestnut Hill	5	1833174.0	Gray, Zachary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833174.0	Jr	1	1
 2017	12440	2	21323	Chestnut Hill	98		Griffiths, Brendan		Jr	0	0
 2017	12440	2	21323	Chestnut Hill	15	1727530.0	Grimaldi, Donato	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727530.0	So	0	0
 2017	12440	2	21323	Chestnut Hill	97		Hernandez-Padilla, Miguel		Jr	0	0
-2017	12440	2	21323	Chestnut Hill	1	1495876.0	Jackson, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495876.0	Sr	0	0
-2017	12440	2	21323	Chestnut Hill	23	1727529.0	Johnson, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727529.0	So	0	0
+2017	12440	2	21323	Chestnut Hill	1	1495876.0	Jackson, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495876.0	Sr	1	1
+2017	12440	2	21323	Chestnut Hill	23	1727529.0	Johnson, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1727529.0	So	1	1
 2017	12440	2	21323	Chestnut Hill	8	1627512.0	Kekatos, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1627512.0	Jr	0	0
-2017	12440	2	21323	Chestnut Hill	27		Kemerer, Matthew		Fr	0	0
+2017	12440	2	21323	Chestnut Hill	27	1833198.0	Kemerer, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833198.0	Fr	1	0
 2017	12440	2	21323	Chestnut Hill	31		Kicinski, Jaron		Fr	0	0
 2017	12440	2	21323	Chestnut Hill	32		Mancini, Steve		Fr	0	0
 2017	12440	2	21323	Chestnut Hill	0		Maniscalco, Frank		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	17	1616078.0	McGuigan, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616078.0	Jr	0	0
+2017	12440	2	21323	Chestnut Hill	17	1616078.0	McGuigan, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616078.0	Jr	1	1
 2017	12440	2	21323	Chestnut Hill	19		Mitchell, Hampton		Sr	0	0
-2017	12440	2	21323	Chestnut Hill	18		Mitcho, Samuel		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	4	1616075.0	Murdoch, Lindsay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616075.0	Jr	0	0
+2017	12440	2	21323	Chestnut Hill	18	1833180.0	Mitcho, Samuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833180.0	Fr	1	0
+2017	12440	2	21323	Chestnut Hill	4	1616075.0	Murdoch, Lindsay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616075.0	Jr	1	1
 2017	12440	2	21323	Chestnut Hill	96		Nelson, Nate		So	0	0
 2017	12440	2	21323	Chestnut Hill	95		Nortey, Akimedice		Fr	0	0
-2017	12440	2	21323	Chestnut Hill	22		Onwuzuruoha, Darren		Jr	0	0
+2017	12440	2	21323	Chestnut Hill	22	1833196.0	Onwuzuruoha, Darren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833196.0	Jr	1	0
 2017	12440	2	21323	Chestnut Hill	21		Roscioli, Michael		Fr	0	0
 2017	12440	2	21323	Chestnut Hill	94		Serrano-Griffiths, Darren		Jr	0	0
-2017	12440	2	21323	Chestnut Hill	7		Simpson, Charles		Jr	0	0
+2017	12440	2	21323	Chestnut Hill	7	1833175.0	Simpson, Charles	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833175.0	Jr	1	1
 2017	12440	2	21323	Chestnut Hill	33		Sleep, Landis		Fr	0	0
 2017	12440	2	95	Chico St.	23		Abdelouahid, Amine		Fr	0	0
 2017	12440	2	95	Chico St.	12	1707735.0	Belda, Joshua	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707735.0	So	0	0
@@ -1238,33 +1238,33 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	11416	Colorado Mesa	2	1580368.0	Wagner, Dustin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1580368.0	So	0	0
 2017	12440	2	11416	Colorado Mesa	20		Yousufzai, Sadaam		Fr	0	0
 2017	12440	2	155	Colorado Mines	13		Adams, Greyson		Fr	0	0
-2017	12440	2	155	Colorado Mines	7		Amann, Trevor		Fr	0	0
-2017	12440	2	155	Colorado Mines	11	1452521.0	Blarr, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1452521.0	Jr	0	0
-2017	12440	2	155	Colorado Mines	6	1720930.0	Boldt, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720930.0	Jr	0	0
-2017	12440	2	155	Colorado Mines	0		Chely, Leo		Fr	0	0
+2017	12440	2	155	Colorado Mines	7	1793683.0	Amann, Trevor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793683.0	Fr	1	0
+2017	12440	2	155	Colorado Mines	11	1452521.0	Blarr, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1452521.0	Jr	1	1
+2017	12440	2	155	Colorado Mines	6	1720930.0	Boldt, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720930.0	Jr	1	1
+2017	12440	2	155	Colorado Mines	0	1793679.0	Chely, Leo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793679.0	Fr	1	1
 2017	12440	2	155	Colorado Mines	01	1579852.0	Clark, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579852.0	Jr	0	0
 2017	12440	2	155	Colorado Mines	16	1720938.0	Coit, Ethan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720938.0	So	0	0
-2017	12440	2	155	Colorado Mines	14		Edwards, Ford		Fr	0	0
-2017	12440	2	155	Colorado Mines	18	1452519.0	Fox, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1452519.0	Jr	0	0
-2017	12440	2	155	Colorado Mines	25	1720934.0	Geberkidane, Ashi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720934.0	So	0	0
-2017	12440	2	155	Colorado Mines	12	1579869.0	Grotz, Nikolaus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579869.0	Jr	0	0
-2017	12440	2	155	Colorado Mines	10	1720933.0	Haist, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720933.0	So	0	0
+2017	12440	2	155	Colorado Mines	14	1793685.0	Edwards, Ford	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793685.0	Fr	1	0
+2017	12440	2	155	Colorado Mines	18	1452519.0	Fox, Adam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1452519.0	Jr	1	0
+2017	12440	2	155	Colorado Mines	25	1720934.0	Geberkidane, Ashi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720934.0	So	1	1
+2017	12440	2	155	Colorado Mines	12	1579869.0	Grotz, Nikolaus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579869.0	Jr	1	1
+2017	12440	2	155	Colorado Mines	10	1720933.0	Haist, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720933.0	So	1	1
 2017	12440	2	155	Colorado Mines	1	1452513.0	Hall, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1452513.0	Sr	0	0
 2017	12440	2	155	Colorado Mines	15		Hofvander, Mans		Fr	0	0
 2017	12440	2	155	Colorado Mines	00	1720927.0	Johnson, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720927.0	So	0	0
 2017	12440	2	155	Colorado Mines	21		Mackey, Ryan		Fr	0	0
-2017	12440	2	155	Colorado Mines	24	1720937.0	McGrath, Jordyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720937.0	So	0	0
+2017	12440	2	155	Colorado Mines	24	1720937.0	McGrath, Jordyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720937.0	So	1	0
 2017	12440	2	155	Colorado Mines	20	1720939.0	Mertens, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720939.0	So	0	0
 2017	12440	2	155	Colorado Mines	19	1579870.0	Migaki, Preston	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579870.0	Jr	0	0
 2017	12440	2	155	Colorado Mines	5		Olson, Jared		Fr	0	0
-2017	12440	2	155	Colorado Mines	23	1720936.0	Overholt, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720936.0	Fr	0	0
+2017	12440	2	155	Colorado Mines	23	1720936.0	Overholt, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720936.0	Fr	1	1
 2017	12440	2	155	Colorado Mines	4		Rehl, John		Jr	0	0
 2017	12440	2	155	Colorado Mines	26	1736166.0	Richard, Trey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1736166.0	Jr	0	0
-2017	12440	2	155	Colorado Mines	22	1579855.0	Safadi, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579855.0	Sr	0	0
-2017	12440	2	155	Colorado Mines	2	1579854.0	Shelledy, Jackson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579854.0	Jr	0	0
-2017	12440	2	155	Colorado Mines	9	1720932.0	Summerfield, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720932.0	So	0	0
-2017	12440	2	155	Colorado Mines	8	1579872.0	Townsend, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579872.0	Jr	0	0
-2017	12440	2	155	Colorado Mines	3		Zobott, Jason		Fr	0	0
+2017	12440	2	155	Colorado Mines	22	1579855.0	Safadi, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579855.0	Sr	1	1
+2017	12440	2	155	Colorado Mines	2	1579854.0	Shelledy, Jackson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579854.0	Jr	1	1
+2017	12440	2	155	Colorado Mines	9	1720932.0	Summerfield, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1720932.0	So	1	0
+2017	12440	2	155	Colorado Mines	8	1579872.0	Townsend, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1579872.0	Jr	1	1
+2017	12440	2	155	Colorado Mines	3	1793680.0	Zobott, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793680.0	Fr	1	1
 2017	12440	2	2720	Colorado St.-Pueblo	22		Batista, Jose		Fr	0	0
 2017	12440	2	2720	Colorado St.-Pueblo	8		Chism, Michael		Fr	0	0
 2017	12440	2	2720	Colorado St.-Pueblo	6	1608980.0	Davis, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608980.0	Jr	0	0
@@ -1616,33 +1616,33 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	1057	Drury	14	1677728.0	Vial, Antoine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1677728.0	So	0	0
 2017	12440	2	1057	Drury	18	1615892.0	Villez, Pierre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1615892.0	So	0	0
 2017	12440	2	1057	Drury	6	1677727.0	Wagoner, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1677727.0	So	0	0
-2017	12440	2	197	East Stroudsburg	15	1495008.0	Albino, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495008.0	Sr	0	0
+2017	12440	2	197	East Stroudsburg	15	1495008.0	Albino, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495008.0	Sr	1	1
 2017	12440	2	197	East Stroudsburg	12		Amaya, Sebastian		Fr	0	0
-2017	12440	2	197	East Stroudsburg	6	1609235.0	Binagia, Cory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609235.0	Jr	0	0
-2017	12440	2	197	East Stroudsburg	0	1698334.0	Boerema, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698334.0	So	0	0
-2017	12440	2	197	East Stroudsburg	11	1609236.0	Bukowski, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609236.0	Jr	0	0
-2017	12440	2	197	East Stroudsburg	2		Casal, Christian		Sr	0	0
+2017	12440	2	197	East Stroudsburg	6	1609235.0	Binagia, Cory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609235.0	Jr	1	0
+2017	12440	2	197	East Stroudsburg	0	1698334.0	Boerema, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1698334.0	So	1	1
+2017	12440	2	197	East Stroudsburg	11	1609236.0	Bukowski, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609236.0	Jr	1	1
+2017	12440	2	197	East Stroudsburg	2	1812161.0	Casal, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812161.0	Sr	1	0
 2017	12440	2	197	East Stroudsburg	19		Ellison, Jordon		Sr	0	0
-2017	12440	2	197	East Stroudsburg	9		Enowbi, Eddy		Jr	0	0
-2017	12440	2	197	East Stroudsburg	27	1609245.0	Espinola, Keelby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609245.0	Jr	0	0
+2017	12440	2	197	East Stroudsburg	9	1812165.0	Enowbi, Eddy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812165.0	Jr	1	1
+2017	12440	2	197	East Stroudsburg	27	1609245.0	Espinola, Keelby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609245.0	Jr	1	1
 2017	12440	2	197	East Stroudsburg	22		Kambakis, Gregory		Fr	0	0
-2017	12440	2	197	East Stroudsburg	18		Kristensson, Oscar		Fr	0	0
-2017	12440	2	197	East Stroudsburg	25	1609243.0	Lesane, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609243.0	Jr	0	0
-2017	12440	2	197	East Stroudsburg	17		Levano, Brandon		So	0	0
+2017	12440	2	197	East Stroudsburg	18	1812170.0	Kristensson, Oscar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812170.0	Fr	1	1
+2017	12440	2	197	East Stroudsburg	25	1609243.0	Lesane, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609243.0	Jr	1	1
+2017	12440	2	197	East Stroudsburg	17	1812169.0	Levano, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812169.0	So	1	0
 2017	12440	2	197	East Stroudsburg	28		Lougee, Riley		Fr	0	0
-2017	12440	2	197	East Stroudsburg	10	1495014.0	McGinley, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495014.0	Sr	0	0
+2017	12440	2	197	East Stroudsburg	10	1495014.0	McGinley, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495014.0	Sr	1	1
 2017	12440	2	197	East Stroudsburg	23	1609238.0	McMahon, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609238.0	Jr	0	0
 2017	12440	2	197	East Stroudsburg	14	1697347.0	Munar, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1697347.0	So	0	0
 2017	12440	2	197	East Stroudsburg	7	1609241.0	Oladipo, Olatunde	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609241.0	Sr	0	0
-2017	12440	2	197	East Stroudsburg	5		Petros, Lata		Fr	0	0
+2017	12440	2	197	East Stroudsburg	5	1812163.0	Petros, Lata	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812163.0	Fr	1	0
 2017	12440	2	197	East Stroudsburg	3		Pino, Nikolas		Fr	0	0
 2017	12440	2	197	East Stroudsburg	1		Robak, Steven		So	0	0
-2017	12440	2	197	East Stroudsburg	21	1609239.0	Stephenson, Shaquille	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609239.0	Jr	0	0
+2017	12440	2	197	East Stroudsburg	21	1609239.0	Stephenson, Shaquille	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609239.0	Jr	1	1
 2017	12440	2	197	East Stroudsburg	16		Stewart, Will		Fr	0	0
-2017	12440	2	197	East Stroudsburg	8		Torgersson, Marcus		Fr	0	0
-2017	12440	2	197	East Stroudsburg	13		West, Matthew		Fr	0	0
+2017	12440	2	197	East Stroudsburg	8	1812164.0	Torgersson, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812164.0	Fr	1	1
+2017	12440	2	197	East Stroudsburg	13	1812167.0	West, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812167.0	Fr	1	0
 2017	12440	2	197	East Stroudsburg	24	1495017.0	Wolf, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1495017.0	Sr	0	0
-2017	12440	2	197	East Stroudsburg	20		Zuzic, Irvin		Fr	0	0
+2017	12440	2	197	East Stroudsburg	20	1812173.0	Zuzic, Irvin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1812173.0	Fr	1	1
 2017	12440	2	206	Eastern N.M.	13		Abdi, Liban		Jr	0	0
 2017	12440	2	206	Eastern N.M.	6	1719893.0	Alli, Osekhodion	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719893.0	Sr	0	0
 2017	12440	2	206	Eastern N.M.	18		Alstrom, Nicholai		Jr	0	0
@@ -2024,29 +2024,29 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	1085	Francis Marion	4	1711568.0	Williams, Jevon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1711568.0	Jr	1	1
 2017	12440	2	241	Franklin Pierce	30	1520902.0	Abolfazli, Aidan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1520902.0	Sr	0	0
 2017	12440	2	241	Franklin Pierce	20		Allien, Shawn		Fr	0	0
-2017	12440	2	241	Franklin Pierce	11	1721876.0	Aurell-Foulser, Louis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721876.0	Sr	0	0
-2017	12440	2	241	Franklin Pierce	9	1721875.0	Barnett, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721875.0	So	0	0
-2017	12440	2	241	Franklin Pierce	10		Blixt, Jacob		Fr	0	0
+2017	12440	2	241	Franklin Pierce	11	1721876.0	Aurell-Foulser, Louis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721876.0	Sr	1	0
+2017	12440	2	241	Franklin Pierce	9	1721875.0	Barnett, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721875.0	So	1	1
+2017	12440	2	241	Franklin Pierce	10	1800952.0	Blixt, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800952.0	Fr	1	1
 2017	12440	2	241	Franklin Pierce	13	1512492.0	Bois, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1512492.0	Sr	0	0
-2017	12440	2	241	Franklin Pierce	16		Broni, Bernard		Fr	0	0
-2017	12440	2	241	Franklin Pierce	3	1609091.0	Cadigan, Hamish	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609091.0	Jr	0	0
-2017	12440	2	241	Franklin Pierce	21		Fofanah, Alpha		Fr	0	0
-2017	12440	2	241	Franklin Pierce	12		Hunt, Jahkeem		Fr	0	0
-2017	12440	2	241	Franklin Pierce	17		Kolakofsky, Noam		Fr	0	0
-2017	12440	2	241	Franklin Pierce	6		Laudahn, Niklas		Fr	0	0
+2017	12440	2	241	Franklin Pierce	16	1800955.0	Broni, Bernard	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800955.0	Fr	1	0
+2017	12440	2	241	Franklin Pierce	3	1609091.0	Cadigan, Hamish	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609091.0	Jr	1	1
+2017	12440	2	241	Franklin Pierce	21	1800987.0	Fofanah, Alpha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800987.0	Fr	1	0
+2017	12440	2	241	Franklin Pierce	12	1800953.0	Hunt, Jahkeem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800953.0	Fr	1	0
+2017	12440	2	241	Franklin Pierce	17	1800956.0	Kolakofsky, Noam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800956.0	Fr	1	1
+2017	12440	2	241	Franklin Pierce	6	1800950.0	Laudahn, Niklas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800950.0	Fr	1	1
 2017	12440	2	241	Franklin Pierce	18		Lavalle, Rob		Sr	0	0
 2017	12440	2	241	Franklin Pierce	15	1512493.0	Lochhead, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1512493.0	Sr	0	0
-2017	12440	2	241	Franklin Pierce	8	1721874.0	Madden, Charlie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721874.0	So	0	0
-2017	12440	2	241	Franklin Pierce	23		Maddox, Jacob		Fr	0	0
-2017	12440	2	241	Franklin Pierce	14		Morehead, Joe		Fr	0	0
+2017	12440	2	241	Franklin Pierce	8	1721874.0	Madden, Charlie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721874.0	So	1	1
+2017	12440	2	241	Franklin Pierce	23	1800989.0	Maddox, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800989.0	Fr	1	1
+2017	12440	2	241	Franklin Pierce	14	1800954.0	Morehead, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800954.0	Fr	1	0
 2017	12440	2	241	Franklin Pierce	22		Murray, Tom		Fr	0	0
 2017	12440	2	241	Franklin Pierce	00	1609089.0	O'Reilly, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609089.0	Jr	0	0
-2017	12440	2	241	Franklin Pierce	1		Poon-Lewis, Jadel		Fr	0	0
-2017	12440	2	241	Franklin Pierce	7		Preber, Marius		N/A	0	0
+2017	12440	2	241	Franklin Pierce	1	1800949.0	Poon-Lewis, Jadel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800949.0	Fr	1	1
+2017	12440	2	241	Franklin Pierce	7	1800951.0	Preber, Marius	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1800951.0	N/A	1	1
 2017	12440	2	241	Franklin Pierce	25		Presti, Nate		Fr	0	0
 2017	12440	2	241	Franklin Pierce	27	1609113.0	Roach, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609113.0	Jr	0	0
-2017	12440	2	241	Franklin Pierce	2	1500610.0	Schehl, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1500610.0	Sr	0	0
-2017	12440	2	241	Franklin Pierce	4	1721879.0	Watt, Liam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721879.0	Jr	0	0
+2017	12440	2	241	Franklin Pierce	2	1500610.0	Schehl, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1500610.0	Sr	1	1
+2017	12440	2	241	Franklin Pierce	4	1721879.0	Watt, Liam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721879.0	Jr	1	1
 2017	12440	2	30147	Fresno Pacific	29	1616453.0	Acero, Sebastian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616453.0	Jr	0	0
 2017	12440	2	30147	Fresno Pacific	19		Alfonso, Sebastian		Fr	0	0
 2017	12440	2	30147	Fresno Pacific	2	1616454.0	Asencio, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616454.0	Jr	0	0
@@ -2207,33 +2207,33 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	8366	Goldey-Beacom	9	1472140.0	Traynor, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1472140.0	Sr	1	1
 2017	12440	2	8366	Goldey-Beacom	6	1609010.0	Wilkinson, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609010.0	Jr	1	1
 2017	12440	2	8366	Goldey-Beacom	2	1609016.0	Zvinchuk, Artur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1609016.0	Jr	1	1
-2017	12440	2	1116	Harding	11	1802128.0	Anderson, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802128.0	Sr	1	0
-2017	12440	2	1116	Harding	8	1691867.0	Callado, Oliver	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691867.0	So	1	1
-2017	12440	2	1116	Harding	5	1571283.0	Craig, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1571283.0	Jr	1	1
-2017	12440	2	1116	Harding	12	1571285.0	Cung, Van	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1571285.0	Jr	1	0
+2017	12440	2	1116	Harding	11	1802128.0	Anderson, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802128.0	Sr	2	0
+2017	12440	2	1116	Harding	8	1691867.0	Callado, Oliver	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691867.0	So	2	2
+2017	12440	2	1116	Harding	5	1571283.0	Craig, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1571283.0	Jr	2	2
+2017	12440	2	1116	Harding	12	1571285.0	Cung, Van	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1571285.0	Jr	2	0
 2017	12440	2	1116	Harding	19		Cunha, Andre		So	0	0
-2017	12440	2	1116	Harding	4	1691865.0	Diaz, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691865.0	So	1	1
-2017	12440	2	1116	Harding	13	1466094.0	Foster, Barry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466094.0	Sr	1	1
-2017	12440	2	1116	Harding	23	1802130.0	Grundy, Braeden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802130.0	Fr	1	0
+2017	12440	2	1116	Harding	4	1691865.0	Diaz, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691865.0	So	2	2
+2017	12440	2	1116	Harding	13	1466094.0	Foster, Barry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466094.0	Sr	2	2
+2017	12440	2	1116	Harding	23	1802130.0	Grundy, Braeden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802130.0	Fr	2	1
 2017	12440	2	1116	Harding	24		Hockett, Sam		Fr	0	0
 2017	12440	2	1116	Harding	3		Hollingsworth, Michael		Fr	0	0
-2017	12440	2	1116	Harding	15	1691868.0	Kucera, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691868.0	So	1	1
-2017	12440	2	1116	Harding	18	1691870.0	Martinez, Victor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691870.0	So	1	0
-2017	12440	2	1116	Harding	22	1466097.0	McAlister, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466097.0	Sr	1	1
+2017	12440	2	1116	Harding	15	1691868.0	Kucera, Justin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691868.0	So	2	2
+2017	12440	2	1116	Harding	18	1691870.0	Martinez, Victor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691870.0	So	2	0
+2017	12440	2	1116	Harding	22	1466097.0	McAlister, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466097.0	Sr	2	1
 2017	12440	2	1116	Harding	30	1571289.0	Melson, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1571289.0	Jr	0	0
 2017	12440	2	1116	Harding	27	1691883.0	Moore, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691883.0	So	0	0
-2017	12440	2	1116	Harding	25	1691872.0	Mosley, Cooper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691872.0	So	0	0
-2017	12440	2	1116	Harding	7	1691866.0	Nwonumah, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691866.0	So	1	0
-2017	12440	2	1116	Harding	2	1691864.0	Prato, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691864.0	So	0	0
-2017	12440	2	1116	Harding	14	1802133.0	Ramos, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802133.0	Fr	1	0
-2017	12440	2	1116	Harding	17	1466095.0	Rector, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466095.0	Sr	1	1
-2017	12440	2	1116	Harding	10	1802134.0	Ribeiro, Matheus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802134.0	So	1	1
+2017	12440	2	1116	Harding	25	1691872.0	Mosley, Cooper	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691872.0	So	1	0
+2017	12440	2	1116	Harding	7	1691866.0	Nwonumah, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691866.0	So	2	0
+2017	12440	2	1116	Harding	2	1691864.0	Prato, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691864.0	So	1	0
+2017	12440	2	1116	Harding	14	1802133.0	Ramos, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802133.0	Fr	2	1
+2017	12440	2	1116	Harding	17	1466095.0	Rector, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466095.0	Sr	2	2
+2017	12440	2	1116	Harding	10	1802134.0	Ribeiro, Matheus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1802134.0	So	2	2
 2017	12440	2	1116	Harding	16		Roberts, Tyler		Fr	0	0
 2017	12440	2	1116	Harding	0	1466089.0	Shults, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466089.0	Jr	0	0
 2017	12440	2	1116	Harding	29	1691884.0	Stroud, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691884.0	So	0	0
-2017	12440	2	1116	Harding	6	1571284.0	Thang, Van	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1571284.0	Jr	1	1
-2017	12440	2	1116	Harding	1	1691863.0	Wasson, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691863.0	So	1	1
-2017	12440	2	1116	Harding	21	1466096.0	White, Phillip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466096.0	Sr	1	1
+2017	12440	2	1116	Harding	6	1571284.0	Thang, Van	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1571284.0	Jr	2	1
+2017	12440	2	1116	Harding	1	1691863.0	Wasson, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1691863.0	So	2	2
+2017	12440	2	1116	Harding	21	1466096.0	White, Phillip	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466096.0	Sr	2	2
 2017	12440	2	2697	Hawaii Hilo	24		Aynessazian, Aris		Fr	0	0
 2017	12440	2	2697	Hawaii Hilo	26		Baca, Brandon		Fr	0	0
 2017	12440	2	2697	Hawaii Hilo	12	1601526.0	Bacani, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1601526.0	Jr	0	0
@@ -2301,50 +2301,50 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	1126	Holy Family	15		Verdier, Alvin		Sr	0	0
 2017	12440	2	30175	Holy Names	18	1518821.0	Amjadi, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1518821.0	Sr	0	0
 2017	12440	2	30175	Holy Names	6	1724708.0	Ayala, Francisco Cruz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1724708.0	Sr	0	0
-2017	12440	2	30175	Holy Names	7	1516368.0	Bravo, Bryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1516368.0	Jr	0	0
-2017	12440	2	30175	Holy Names	4	1715777.0	Calderon, Domonic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715777.0	Sr	0	0
-2017	12440	2	30175	Holy Names	8	1597736.0	Chavarria, Antonio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1597736.0	Jr	0	0
-2017	12440	2	30175	Holy Names	16		Chavez, Oscar		Fr	0	0
+2017	12440	2	30175	Holy Names	7	1516368.0	Bravo, Bryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1516368.0	Jr	1	0
+2017	12440	2	30175	Holy Names	4	1715777.0	Calderon, Domonic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715777.0	Sr	1	1
+2017	12440	2	30175	Holy Names	8	1597736.0	Chavarria, Antonio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1597736.0	Jr	1	1
+2017	12440	2	30175	Holy Names	16	1828282.0	Chavez, Oscar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828282.0	Fr	1	0
 2017	12440	2	30175	Holy Names	12		Duenas, Pablo		Fr	0	0
 2017	12440	2	30175	Holy Names	9		Green, Elbert		Fr	0	0
-2017	12440	2	30175	Holy Names	10		Hadgu, Nobel		Jr	0	0
-2017	12440	2	30175	Holy Names	11	1509343.0	Harish, Yohannes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1509343.0	Jr	0	0
-2017	12440	2	30175	Holy Names	21		Hernandez, Javier		Fr	0	0
-2017	12440	2	30175	Holy Names	14	1715778.0	Horcasitas, Andres	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715778.0	Sr	0	0
-2017	12440	2	30175	Holy Names	19		Kvavilashvili, Ika		So	0	0
-2017	12440	2	30175	Holy Names	5		Larios, Juan		Fr	0	0
-2017	12440	2	30175	Holy Names	2	1729320.0	Linares, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1729320.0	Fr	0	0
-2017	12440	2	30175	Holy Names	15		Mercado, Hernan		Fr	0	0
-2017	12440	2	30175	Holy Names	3		Merdanov, Berdi		Sr	0	0
-2017	12440	2	30175	Holy Names	1		Nieves, Juan		Fr	0	0
-2017	12440	2	30175	Holy Names	24		Pinon, Brian		Sr	0	0
-2017	12440	2	30175	Holy Names	17		Romero, Josiah		Fr	0	0
+2017	12440	2	30175	Holy Names	10	1828279.0	Hadgu, Nobel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828279.0	Jr	1	0
+2017	12440	2	30175	Holy Names	11	1509343.0	Harish, Yohannes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1509343.0	Jr	1	1
+2017	12440	2	30175	Holy Names	21	1828285.0	Hernandez, Javier	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828285.0	Fr	1	0
+2017	12440	2	30175	Holy Names	14	1715778.0	Horcasitas, Andres	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715778.0	Sr	1	1
+2017	12440	2	30175	Holy Names	19	1828284.0	Kvavilashvili, Ika	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828284.0	So	1	1
+2017	12440	2	30175	Holy Names	5	1828277.0	Larios, Juan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828277.0	Fr	1	1
+2017	12440	2	30175	Holy Names	2	1729320.0	Linares, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1729320.0	Fr	1	1
+2017	12440	2	30175	Holy Names	15	1828281.0	Mercado, Hernan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828281.0	Fr	1	1
+2017	12440	2	30175	Holy Names	3	1828276.0	Merdanov, Berdi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828276.0	Sr	1	1
+2017	12440	2	30175	Holy Names	1	1828275.0	Nieves, Juan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828275.0	Fr	1	1
+2017	12440	2	30175	Holy Names	24	1828286.0	Pinon, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828286.0	Sr	1	0
+2017	12440	2	30175	Holy Names	17	1828283.0	Romero, Josiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1828283.0	Fr	1	1
 2017	12440	2	30175	Holy Names	88	1500697.0	Sho Silvan, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1500697.0	Sr	0	0
 2017	12440	2	30175	Holy Names	13	1396894.0	Tomassi, Toby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1396894.0	Sr	0	0
-2017	12440	2	291	Humboldt St.	13	1590140.0	Allred, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590140.0	So	1	0
-2017	12440	2	291	Humboldt St.	10	1481638.0	Alvarez, Humberto	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1481638.0	Jr	1	1
-2017	12440	2	291	Humboldt St.	11	1789995.0	Baxter, Gus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789995.0	Fr	1	1
+2017	12440	2	291	Humboldt St.	13	1590140.0	Allred, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590140.0	So	2	0
+2017	12440	2	291	Humboldt St.	10	1481638.0	Alvarez, Humberto	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1481638.0	Jr	2	2
+2017	12440	2	291	Humboldt St.	11	1789995.0	Baxter, Gus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789995.0	Fr	2	2
 2017	12440	2	291	Humboldt St.	26		Bernarbe, Christian		So	0	0
-2017	12440	2	291	Humboldt St.	1	1590134.0	Cherms, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590134.0	So	0	0
+2017	12440	2	291	Humboldt St.	1	1590134.0	Cherms, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590134.0	So	1	1
 2017	12440	2	291	Humboldt St.	3		Cooper, Jake		Fr	0	0
-2017	12440	2	291	Humboldt St.	4	1737996.0	Crandall, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1737996.0	Jr	1	0
-2017	12440	2	291	Humboldt St.	15	1789997.0	Dairo, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789997.0	Fr	1	1
+2017	12440	2	291	Humboldt St.	4	1737996.0	Crandall, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1737996.0	Jr	2	0
+2017	12440	2	291	Humboldt St.	15	1789997.0	Dairo, Isaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789997.0	Fr	2	2
 2017	12440	2	291	Humboldt St.	20		De La O, Victor		Fr	0	0
 2017	12440	2	291	Humboldt St.	17		Deeb, Ali		Fr	0	0
-2017	12440	2	291	Humboldt St.	2	1789991.0	Dickerson, George	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789991.0	Fr	1	0
-2017	12440	2	291	Humboldt St.	21	1790015.0	Gilmore, Kory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1790015.0	Fr	1	1
-2017	12440	2	291	Humboldt St.	5	1789993.0	Guptill, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789993.0	Fr	1	1
+2017	12440	2	291	Humboldt St.	2	1789991.0	Dickerson, George	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789991.0	Fr	2	0
+2017	12440	2	291	Humboldt St.	21	1790015.0	Gilmore, Kory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1790015.0	Fr	2	2
+2017	12440	2	291	Humboldt St.	5	1789993.0	Guptill, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789993.0	Fr	2	2
 2017	12440	2	291	Humboldt St.	00		Hernandez, Bryan		Jr	0	0
-2017	12440	2	291	Humboldt St.	23	1790016.0	Kwesele, Mumbi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1790016.0	Jr	1	1
+2017	12440	2	291	Humboldt St.	23	1790016.0	Kwesele, Mumbi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1790016.0	Jr	2	2
 2017	12440	2	291	Humboldt St.	25		McClellan, Rudi		Fr	0	0
-2017	12440	2	291	Humboldt St.	16	1590135.0	McDonald, Xahil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590135.0	Jr	1	1
-2017	12440	2	291	Humboldt St.	7	1590137.0	Muliadi, Johan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590137.0	Jr	1	1
+2017	12440	2	291	Humboldt St.	16	1590135.0	McDonald, Xahil	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590135.0	Jr	2	2
+2017	12440	2	291	Humboldt St.	7	1590137.0	Muliadi, Johan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590137.0	Jr	2	2
 2017	12440	2	291	Humboldt St.	8		Phillips, Samuel		So	0	0
-2017	12440	2	291	Humboldt St.	0	1732956.0	Quintero, Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732956.0	So	1	1
-2017	12440	2	291	Humboldt St.	12	1789996.0	Schmidt, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789996.0	Fr	1	1
-2017	12440	2	291	Humboldt St.	9	1728789.0	Smith, Trice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1728789.0	Sr	1	0
-2017	12440	2	291	Humboldt St.	22	1590142.0	Spencer, Cam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590142.0	Jr	1	1
-2017	12440	2	291	Humboldt St.	6	1789994.0	Steinmetz, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789994.0	So	1	0
+2017	12440	2	291	Humboldt St.	0	1732956.0	Quintero, Robert	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732956.0	So	2	1
+2017	12440	2	291	Humboldt St.	12	1789996.0	Schmidt, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789996.0	Fr	2	2
+2017	12440	2	291	Humboldt St.	9	1728789.0	Smith, Trice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1728789.0	Sr	2	0
+2017	12440	2	291	Humboldt St.	22	1590142.0	Spencer, Cam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1590142.0	Jr	2	2
+2017	12440	2	291	Humboldt St.	6	1789994.0	Steinmetz, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1789994.0	So	2	0
 2017	12440	2	291	Humboldt St.	24		Sy, Moussa		Fr	0	0
 2017	12440	2	30050	Ill.-Springfield	12	1675377.0	Allevi, Zachary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1675377.0	Sr	1	0
 2017	12440	2	30050	Ill.-Springfield	9	1821025.0	Alzhyri, Naba	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1821025.0	Jr	1	1
@@ -2561,32 +2561,32 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	349	Le Moyne	21	1585329.0	Uliano IV, Dominic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1585329.0	Jr	0	0
 2017	12440	2	349	Le Moyne	15	1722043.0	Wynn, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1722043.0	Sr	0	0
 2017	12440	2	30013	Lee	24	1801981.0	Beasley, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801981.0	Fr	1	0
-2017	12440	2	30013	Lee	18	1801982.0	Bonyaa, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801982.0	Jr	1	1
+2017	12440	2	30013	Lee	18	1801982.0	Bonyaa, Jeremy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801982.0	Jr	2	2
 2017	12440	2	30013	Lee	22	1566874.0	Brady, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1566874.0	Jr	0	0
-2017	12440	2	30013	Lee	17	1684197.0	Brown, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684197.0	So	1	1
-2017	12440	2	30013	Lee	15	1801983.0	Carter, Tanner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801983.0	Fr	1	0
-2017	12440	2	30013	Lee	23	1684198.0	Coldron, Alfie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684198.0	So	1	0
+2017	12440	2	30013	Lee	17	1684197.0	Brown, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684197.0	So	2	2
+2017	12440	2	30013	Lee	15	1801983.0	Carter, Tanner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801983.0	Fr	2	0
+2017	12440	2	30013	Lee	23	1684198.0	Coldron, Alfie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684198.0	So	2	0
 2017	12440	2	30013	Lee	27		Collins, Jonathan		Fr	0	0
-2017	12440	2	30013	Lee	11	1506878.0	Cutchin, Rob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506878.0	Sr	1	1
+2017	12440	2	30013	Lee	11	1506878.0	Cutchin, Rob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506878.0	Sr	2	2
 2017	12440	2	30013	Lee	28		Dawsey, Creighton		So	0	0
 2017	12440	2	30013	Lee	25		Hrenko, Daniel		Fr	0	0
-2017	12440	2	30013	Lee	9	1684195.0	Jackson, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684195.0	So	1	1
-2017	12440	2	30013	Lee	4	1684194.0	Johnston, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684194.0	So	1	1
+2017	12440	2	30013	Lee	9	1684195.0	Jackson, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684195.0	So	2	2
+2017	12440	2	30013	Lee	4	1684194.0	Johnston, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684194.0	So	2	2
 2017	12440	2	30013	Lee	29		Joyner, Adam		Fr	0	0
-2017	12440	2	30013	Lee	2	1566868.0	Luzardo, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1566868.0	Jr	1	1
-2017	12440	2	30013	Lee	6	1506875.0	Marinell, Quade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506875.0	Sr	1	1
+2017	12440	2	30013	Lee	2	1566868.0	Luzardo, Jay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1566868.0	Jr	2	2
+2017	12440	2	30013	Lee	6	1506875.0	Marinell, Quade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506875.0	Sr	2	2
 2017	12440	2	30013	Lee	00		McGrath, Ryan		So	0	0
-2017	12440	2	30013	Lee	10	1566870.0	Molony, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1566870.0	Jr	1	0
+2017	12440	2	30013	Lee	10	1566870.0	Molony, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1566870.0	Jr	2	0
 2017	12440	2	30013	Lee	16	1801988.0	Moss, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801988.0	Fr	1	0
-2017	12440	2	30013	Lee	12	1684196.0	Orellana, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684196.0	So	1	1
-2017	12440	2	30013	Lee	13	1506880.0	Perez, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506880.0	Sr	1	1
-2017	12440	2	30013	Lee	1	1801989.0	Putnam, Tristen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801989.0	Jr	1	1
+2017	12440	2	30013	Lee	12	1684196.0	Orellana, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684196.0	So	2	2
+2017	12440	2	30013	Lee	13	1506880.0	Perez, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506880.0	Sr	2	2
+2017	12440	2	30013	Lee	1	1801989.0	Putnam, Tristen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801989.0	Jr	2	2
 2017	12440	2	30013	Lee	30		Robinson, Noah		So	0	0
-2017	12440	2	30013	Lee	8	1506876.0	Rocha, Arturo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506876.0	Sr	1	0
+2017	12440	2	30013	Lee	8	1506876.0	Rocha, Arturo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506876.0	Sr	2	0
 2017	12440	2	30013	Lee	26		Romero, Brandon		So	0	0
 2017	12440	2	30013	Lee	14	1506881.0	Waddell, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1506881.0	Sr	0	0
-2017	12440	2	30013	Lee	20	1801992.0	Williams, Samaan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801992.0	Fr	1	0
-2017	12440	2	30013	Lee	21	1801993.0	Williams, Samir	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801993.0	Fr	1	1
+2017	12440	2	30013	Lee	20	1801992.0	Williams, Samaan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801992.0	Fr	2	0
+2017	12440	2	30013	Lee	21	1801993.0	Williams, Samir	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1801993.0	Fr	2	2
 2017	12440	2	13302	Lees-McRae	5		Ashburn, Nathan		Fr	0	0
 2017	12440	2	13302	Lees-McRae	22		Bosarge, Tyler		Fr	0	0
 2017	12440	2	13302	Lees-McRae	0		Brown, Justin		Fr	0	0
@@ -2763,30 +2763,30 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	30136	Lindenwood (MO)	24	1689771.0	Weinrich, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1689771.0	So	0	0
 2017	12440	2	30136	Lindenwood (MO)	14		de Gregorio, Jose		Fr	0	0
 2017	12440	2	30136	Lindenwood (MO)	7	1605538.0	del Campo, Carlos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605538.0	Sr	1	1
-2017	12440	2	360	Lock Haven	3	1496063.0	Amspacher, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496063.0	Sr	1	1
-2017	12440	2	360	Lock Haven	18	1822015.0	Botros, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822015.0	Fr	1	0
-2017	12440	2	360	Lock Haven	17	1822014.0	Brackbill, Brand	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822014.0	Fr	1	0
+2017	12440	2	360	Lock Haven	3	1496063.0	Amspacher, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496063.0	Sr	2	2
+2017	12440	2	360	Lock Haven	18	1822015.0	Botros, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822015.0	Fr	2	0
+2017	12440	2	360	Lock Haven	17	1822014.0	Brackbill, Brand	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822014.0	Fr	2	0
 2017	12440	2	360	Lock Haven	12		Brinker, Phil		Fr	0	0
-2017	12440	2	360	Lock Haven	15		Davis, Evan		Jr	0	0
-2017	12440	2	360	Lock Haven	16	1822013.0	Flatter, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822013.0	Fr	1	1
-2017	12440	2	360	Lock Haven	8	1822010.0	Hartman, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822010.0	Fr	1	0
+2017	12440	2	360	Lock Haven	15	1822012.0	Davis, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822012.0	Jr	1	0
+2017	12440	2	360	Lock Haven	16	1822013.0	Flatter, Brian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822013.0	Fr	2	2
+2017	12440	2	360	Lock Haven	8	1822010.0	Hartman, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822010.0	Fr	2	0
 2017	12440	2	360	Lock Haven	23	1707038.0	Hasson, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707038.0	So	1	0
-2017	12440	2	360	Lock Haven	9	1599045.0	Hommey, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599045.0	Jr	1	1
+2017	12440	2	360	Lock Haven	9	1599045.0	Hommey, Zach	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599045.0	Jr	2	2
 2017	12440	2	360	Lock Haven	2	1707011.0	Hunter, TD	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707011.0	So	0	0
 2017	12440	2	360	Lock Haven	13	1707014.0	Johnson, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707014.0	Fr	1	0
-2017	12440	2	360	Lock Haven	4	1707012.0	Kuster, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707012.0	So	1	1
-2017	12440	2	360	Lock Haven	5	1822009.0	Mapoy, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822009.0	Fr	1	1
+2017	12440	2	360	Lock Haven	4	1707012.0	Kuster, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707012.0	So	2	2
+2017	12440	2	360	Lock Haven	5	1822009.0	Mapoy, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822009.0	Fr	2	2
 2017	12440	2	360	Lock Haven	31	1599076.0	McLain, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599076.0	Jr	0	0
-2017	12440	2	360	Lock Haven	21	1822017.0	Moore, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822017.0	Fr	1	1
-2017	12440	2	360	Lock Haven	11	1599068.0	Rims, Gage	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599068.0	Jr	1	1
-2017	12440	2	360	Lock Haven	20	1496068.0	Sablyak, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496068.0	Sr	1	1
-2017	12440	2	360	Lock Haven	10	1599073.0	Shumaker, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599073.0	Jr	1	1
+2017	12440	2	360	Lock Haven	21	1822017.0	Moore, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1822017.0	Fr	2	2
+2017	12440	2	360	Lock Haven	11	1599068.0	Rims, Gage	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599068.0	Jr	2	2
+2017	12440	2	360	Lock Haven	20	1496068.0	Sablyak, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496068.0	Sr	2	2
+2017	12440	2	360	Lock Haven	10	1599073.0	Shumaker, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599073.0	Jr	2	2
 2017	12440	2	360	Lock Haven	19		Spearman, Kyri		Fr	0	0
 2017	12440	2	360	Lock Haven	1		Speidel, Shawn		Fr	0	0
-2017	12440	2	360	Lock Haven	30	1599075.0	Teresak, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599075.0	Jr	1	1
+2017	12440	2	360	Lock Haven	30	1599075.0	Teresak, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599075.0	Jr	2	2
 2017	12440	2	360	Lock Haven	14	1599071.0	Travis, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1599071.0	Sr	1	0
-2017	12440	2	360	Lock Haven	7	1260582.0	Weikert, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1260582.0	Sr	1	1
-2017	12440	2	360	Lock Haven	6	1707036.0	Wilson, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707036.0	So	1	0
+2017	12440	2	360	Lock Haven	7	1260582.0	Weikert, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1260582.0	Sr	2	2
+2017	12440	2	360	Lock Haven	6	1707036.0	Wilson, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1707036.0	So	2	0
 2017	12440	2	30177	Lubbock Christian	10	1706585.0	Brunton, Mickey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1706585.0	Sr	0	0
 2017	12440	2	30177	Lubbock Christian	00		Buchanon, Brayton		Fr	0	0
 2017	12440	2	30177	Lubbock Christian	0		Childress, Colby		Jr	0	0
@@ -3047,34 +3047,34 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	408	Mercyhurst	31		Vucen, Dejan		Jr	0	0
 2017	12440	2	408	Mercyhurst	21		Whitehead, Kieran		Jr	0	0
 2017	12440	2	408	Mercyhurst	8		Wilkinson, Connor		Fr	0	0
-2017	12440	2	410	Merrimack	23	1499055.0	Alleyne, Alexander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499055.0	Sr	1	1
-2017	12440	2	410	Merrimack	6	1499056.0	Briers, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499056.0	Sr	1	1
-2017	12440	2	410	Merrimack	21	1600144.0	Cortes Torres, Jaime	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600144.0	Sr	1	1
-2017	12440	2	410	Merrimack	24	1600138.0	Dushman, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600138.0	Jr	1	0
+2017	12440	2	410	Merrimack	23	1499055.0	Alleyne, Alexander	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499055.0	Sr	2	2
+2017	12440	2	410	Merrimack	6	1499056.0	Briers, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499056.0	Sr	2	2
+2017	12440	2	410	Merrimack	21	1600144.0	Cortes Torres, Jaime	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600144.0	Sr	2	2
+2017	12440	2	410	Merrimack	24	1600138.0	Dushman, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600138.0	Jr	2	0
 2017	12440	2	410	Merrimack	5	1815620.0	Esper, Kevin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815620.0	Fr	1	0
 2017	12440	2	410	Merrimack	28	1815637.0	Feehan, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815637.0	So	1	0
-2017	12440	2	410	Merrimack	16	1815621.0	Fortiz, Carlos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815621.0	Fr	1	0
+2017	12440	2	410	Merrimack	16	1815621.0	Fortiz, Carlos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815621.0	Fr	2	0
 2017	12440	2	410	Merrimack	15	1815636.0	Haley, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815636.0	Fr	1	0
 2017	12440	2	410	Merrimack	14	1709961.0	Jean-Baptiste, Philippe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709961.0	Sr	1	0
-2017	12440	2	410	Merrimack	11	1815622.0	Joedahl, Aasmund	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815622.0	Fr	1	0
-2017	12440	2	410	Merrimack	9	1600139.0	Lanzi, Mattia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600139.0	Jr	1	1
+2017	12440	2	410	Merrimack	11	1815622.0	Joedahl, Aasmund	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815622.0	Fr	2	0
+2017	12440	2	410	Merrimack	9	1600139.0	Lanzi, Mattia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600139.0	Jr	2	2
 2017	12440	2	410	Merrimack	7	1709931.0	Magazzu, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709931.0	So	1	0
 2017	12440	2	410	Merrimack	20	1709955.0	Marcal, William	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709955.0	Sr	0	0
-2017	12440	2	410	Merrimack	13	1709932.0	Martinez, Sergio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709932.0	So	1	1
+2017	12440	2	410	Merrimack	13	1709932.0	Martinez, Sergio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709932.0	So	2	2
 2017	12440	2	410	Merrimack	18	1499062.0	McCaig, Gunnar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499062.0	Sr	0	0
-2017	12440	2	410	Merrimack	8	1600140.0	Meza, Juan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600140.0	Jr	1	1
+2017	12440	2	410	Merrimack	8	1600140.0	Meza, Juan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600140.0	Jr	2	2
 2017	12440	2	410	Merrimack	1		Norman, Tate		Fr	0	0
-2017	12440	2	410	Merrimack	27	1499063.0	O'Brien, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499063.0	Sr	1	1
-2017	12440	2	410	Merrimack	12	1709933.0	Packett, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709933.0	So	1	0
-2017	12440	2	410	Merrimack	25	1709935.0	Righini, Todd	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709935.0	So	1	0
+2017	12440	2	410	Merrimack	27	1499063.0	O'Brien, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499063.0	Sr	2	2
+2017	12440	2	410	Merrimack	12	1709933.0	Packett, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709933.0	So	2	1
+2017	12440	2	410	Merrimack	25	1709935.0	Righini, Todd	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709935.0	So	2	0
 2017	12440	2	410	Merrimack	26	1709936.0	Romeo, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709936.0	So	1	0
-2017	12440	2	410	Merrimack	4	1499061.0	Ruiz Maya, Josue	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499061.0	Jr	1	1
+2017	12440	2	410	Merrimack	4	1499061.0	Ruiz Maya, Josue	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499061.0	Jr	2	2
 2017	12440	2	410	Merrimack	00	1709930.0	Russell, Cody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709930.0	Jr	1	1
-2017	12440	2	410	Merrimack	19	1709937.0	Sund, Lars	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709937.0	So	1	1
+2017	12440	2	410	Merrimack	19	1709937.0	Sund, Lars	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1709937.0	So	2	2
 2017	12440	2	410	Merrimack	3	1815624.0	Toro, Sebastian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815624.0	Fr	1	0
 2017	12440	2	410	Merrimack	17	1815625.0	Whyte, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1815625.0	Fr	1	0
-2017	12440	2	410	Merrimack	22	1499066.0	Wine, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499066.0	Sr	1	0
-2017	12440	2	410	Merrimack	10	1499057.0	Zepeda Cagide, Oscar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499057.0	Sr	1	1
+2017	12440	2	410	Merrimack	22	1499066.0	Wine, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499066.0	Sr	2	0
+2017	12440	2	410	Merrimack	10	1499057.0	Zepeda Cagide, Oscar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499057.0	Sr	2	2
 2017	12440	2	1222	Midwestern St.	17	1453793.0	Baccus, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1453793.0	Sr	0	0
 2017	12440	2	1222	Midwestern St.	20		Biggs, Logan		Fr	0	0
 2017	12440	2	1222	Midwestern St.	14		Blagojevic, Aleksa		Jr	0	0
@@ -3779,7 +3779,7 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	15207	Ohio Valley	2	1689180.0	Thielen, Diego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1689180.0	So	0	0
 2017	12440	2	15207	Ohio Valley	19		Tsopourachvilli, Zourab		So	0	0
 2017	12440	2	15207	Ohio Valley	11		Viveros, Romario		So	0	0
-2017	12440	2	15207	Ohio Valley	28	1505499.0	Wadi, Ibrahim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1505499.0	Sr	0	0
+2017	12440	2	15207	Ohio Valley	14	1505499.0	Wadi, Ibrahim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1505499.0	Sr	0	0
 2017	12440	2	15207	Ohio Valley	5	1689182.0	Yondah, Jeremiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1689182.0	Sr	0	0
 2017	12440	2	30202	Okla. Baptist	18	1741988.0	Ackerknecht, Thomas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1741988.0	Fr	0	0
 2017	12440	2	30202	Okla. Baptist	18	1724088.0	Andrade, Junior	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1724088.0	Fr	0	0
@@ -4043,40 +4043,40 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	30149	Point Loma	34	1466725.0	Velazquez, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1466725.0	Sr	0	0
 2017	12440	2	30149	Point Loma	9	1573554.0	Wheelon, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1573554.0	Jr	0	0
 2017	12440	2	30149	Point Loma	0		Williams, Sean		Jr	0	0
-2017	12440	2	1318	Post	20		Aguilar, Gabriel		Fr	0	0
+2017	12440	2	1318	Post	20	1834118.0	Aguilar, Gabriel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1834118.0	Fr	1	1
 2017	12440	2	1318	Post	30		Alves, Patrick		Sr	0	0
 2017	12440	2	1318	Post	33		Awadallah, Mohammad		Jr	0	0
-2017	12440	2	1318	Post	11	1721615.0	Bah, Abdallah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721615.0	Sr	0	0
-2017	12440	2	1318	Post	24	1721619.0	Bermudez, Renzo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721619.0	So	0	0
+2017	12440	2	1318	Post	11	1721615.0	Bah, Abdallah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721615.0	Sr	1	1
+2017	12440	2	1318	Post	24	1721619.0	Bermudez, Renzo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721619.0	So	1	0
 2017	12440	2	1318	Post	21		Branco Jr., Fernando		Jr	0	0
 2017	12440	2	1318	Post	12		Brissett, Dale		Jr	0	0
 2017	12440	2	1318	Post	14	1721613.0	Costa, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721613.0	So	0	0
-2017	12440	2	1318	Post	23	1496425.0	DeAngelo, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496425.0	Sr	0	0
+2017	12440	2	1318	Post	23	1496425.0	DeAngelo, Patrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496425.0	Sr	1	1
 2017	12440	2	1318	Post	26		Dos Santos, Kauil		Fr	0	0
-2017	12440	2	1318	Post	4		Ellis, Mikail		Sr	0	0
-2017	12440	2	1318	Post	10	1496424.0	Filho, Armando	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496424.0	Sr	0	0
-2017	12440	2	1318	Post	5		Forbes, Najja		Sr	0	0
+2017	12440	2	1318	Post	4	1834077.0	Ellis, Mikail	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1834077.0	Sr	1	1
+2017	12440	2	1318	Post	10	1496424.0	Filho, Armando	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496424.0	Sr	1	1
+2017	12440	2	1318	Post	5	1834078.0	Forbes, Najja	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1834078.0	Sr	1	1
 2017	12440	2	1318	Post	18	1736828.0	Galvez, Manuel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1736828.0	Fr	0	0
 2017	12440	2	1318	Post	35		Gendler, Eden		Fr	0	0
 2017	12440	2	1318	Post	31		Gjuraj, Antonio		Fr	0	0
-2017	12440	2	1318	Post	34		Gomes, Dany		So	0	0
-2017	12440	2	1318	Post	00	1496418.0	Hanlon, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496418.0	Sr	0	0
-2017	12440	2	1318	Post	8		Kamara, Mamadee		Sr	0	0
+2017	12440	2	1318	Post	34	1834131.0	Gomes, Dany	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1834131.0	So	1	0
+2017	12440	2	1318	Post	00	1496418.0	Hanlon, Jon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496418.0	Sr	1	1
+2017	12440	2	1318	Post	8	1834113.0	Kamara, Mamadee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1834113.0	Sr	1	1
 2017	12440	2	1318	Post	32		Mancini, Mario		Fr	0	0
 2017	12440	2	1318	Post	13		Masser, Andrey		Fr	0	0
-2017	12440	2	1318	Post	3	1721618.0	Moro, Matteo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721618.0	So	0	0
+2017	12440	2	1318	Post	3	1721618.0	Moro, Matteo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721618.0	So	1	1
 2017	12440	2	1318	Post	15		Nobre, Joelson		Sr	0	0
-2017	12440	2	1318	Post	27	1615890.0	Ortiz Correa, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1615890.0	Jr	0	0
+2017	12440	2	1318	Post	27	1615890.0	Ortiz Correa, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1615890.0	Jr	1	0
 2017	12440	2	1318	Post	2		Osebio, Nicholas		Fr	0	0
 2017	12440	2	1318	Post	16		Pereira, Zach		So	0	0
 2017	12440	2	1318	Post	28		Pritchard, Herbert		So	0	0
-2017	12440	2	1318	Post	9	1721611.0	Riello, Andre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721611.0	So	0	0
+2017	12440	2	1318	Post	9	1721611.0	Riello, Andre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721611.0	So	1	0
 2017	12440	2	1318	Post	6		Sillah, Osman		Jr	0	0
-2017	12440	2	1318	Post	22		Silva, Ygor		So	0	0
-2017	12440	2	1318	Post	17	1617372.0	St. Rock, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1617372.0	Jr	0	0
-2017	12440	2	1318	Post	25	1615889.0	Strecker, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1615889.0	Jr	0	0
+2017	12440	2	1318	Post	22	1834120.0	Silva, Ygor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1834120.0	So	1	0
+2017	12440	2	1318	Post	17	1617372.0	St. Rock, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1617372.0	Jr	1	0
+2017	12440	2	1318	Post	25	1615889.0	Strecker, Nicholas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1615889.0	Jr	1	1
 2017	12440	2	1318	Post	29		Urban, Samuel		Fr	0	0
-2017	12440	2	1318	Post	7		Walker, Kenu		Jr	0	0
+2017	12440	2	1318	Post	7	1834112.0	Walker, Kenu	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1834112.0	Jr	1	1
 2017	12440	2	11504	Queens (NC)	29	1809777.0	Aparicio, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1809777.0	Fr	1	0
 2017	12440	2	11504	Queens (NC)	26		Aravena, Patrick		Fr	0	0
 2017	12440	2	11504	Queens (NC)	12	1455982.0	Brown, Corey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1455982.0	Sr	1	1
@@ -4270,36 +4270,36 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	30180	Rogers St.	29		Watson, Jordan		Fr	0	0
 2017	12440	2	30180	Rogers St.	12	1719546.0	Young, Abe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719546.0	So	0	0
 2017	12440	2	30180	Rogers St.	19		Zanoli, Felipe		Jr	0	0
-2017	12440	2	584	Rollins	11		Avram, Stefan		So	0	0
+2017	12440	2	584	Rollins	11	1719714.0	Avram, Stefan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719714.0	So	1	0
 2017	12440	2	584	Rollins	21	1576853.0	Beguiristain, Joseph	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576853.0	So	0	0
 2017	12440	2	584	Rollins	26		Bence, Paul		Fr	0	0
 2017	12440	2	584	Rollins	3	1719715.0	Biddinger, Mark	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719715.0	Sr	0	0
 2017	12440	2	584	Rollins	00		Brubaker, TJ		Fr	0	0
 2017	12440	2	584	Rollins	18	1576854.0	Busacca, Jarett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576854.0	So	0	0
-2017	12440	2	584	Rollins	13	1576855.0	Chopra, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576855.0	Jr	0	0
-2017	12440	2	584	Rollins	22		Clarke, Damien		Fr	0	0
-2017	12440	2	584	Rollins	17		Cole, Jordan		Sr	0	0
-2017	12440	2	584	Rollins	72	1576856.0	Crowley, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576856.0	Jr	0	0
-2017	12440	2	584	Rollins	7	1576857.0	Diego, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576857.0	So	0	0
-2017	12440	2	584	Rollins	5	1576858.0	Engel, Fritz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576858.0	Jr	0	0
-2017	12440	2	584	Rollins	9		Gerke, Ray		So	0	0
-2017	12440	2	584	Rollins	8	1719718.0	Grant, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719718.0	So	0	0
+2017	12440	2	584	Rollins	13	1576855.0	Chopra, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576855.0	Jr	1	0
+2017	12440	2	584	Rollins	22	1786058.0	Clarke, Damien	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786058.0	Fr	1	0
+2017	12440	2	584	Rollins	17	1786064.0	Cole, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786064.0	Sr	1	0
+2017	12440	2	584	Rollins	72	1576856.0	Crowley, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576856.0	Jr	1	1
+2017	12440	2	584	Rollins	7	1576857.0	Diego, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576857.0	So	1	0
+2017	12440	2	584	Rollins	5	1576858.0	Engel, Fritz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576858.0	Jr	1	1
+2017	12440	2	584	Rollins	9	1719717.0	Gerke, Ray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719717.0	So	1	1
+2017	12440	2	584	Rollins	8	1719718.0	Grant, Ben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719718.0	So	1	1
 2017	12440	2	584	Rollins	1	1576860.0	Grundler, Julian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576860.0	Jr	0	0
 2017	12440	2	584	Rollins	27		Hayden, Dominik		Fr	0	0
-2017	12440	2	584	Rollins	15		Johnson, Tristin		Fr	0	0
+2017	12440	2	584	Rollins	15	1786056.0	Johnson, Tristin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786056.0	Fr	1	1
 2017	12440	2	584	Rollins	28		Kanesaka, Ryo		Fr	0	0
 2017	12440	2	584	Rollins	2	1457094.0	Kuckkahn, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1457094.0	Jr	0	0
 2017	12440	2	584	Rollins	24		Laskey, Logan		Fr	0	0
-2017	12440	2	584	Rollins	37	1457095.0	Martinez, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1457095.0	Sr	0	0
-2017	12440	2	584	Rollins	4	1719720.0	Nansen, Andre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719720.0	So	0	0
-2017	12440	2	584	Rollins	6	1719721.0	Nartowicz, Johnny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719721.0	So	0	0
+2017	12440	2	584	Rollins	37	1457095.0	Martinez, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1457095.0	Sr	1	1
+2017	12440	2	584	Rollins	4	1719720.0	Nansen, Andre	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719720.0	So	1	1
+2017	12440	2	584	Rollins	6	1719721.0	Nartowicz, Johnny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719721.0	So	1	1
 2017	12440	2	584	Rollins	23		New, George		So	0	0
 2017	12440	2	584	Rollins	20		Pachon, Felipe		So	0	0
-2017	12440	2	584	Rollins	14	1457097.0	Popo, Tosan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1457097.0	Sr	0	0
-2017	12440	2	584	Rollins	19		Siminou, Cyrus		So	0	0
-2017	12440	2	584	Rollins	01	1719713.0	Trautmann, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719713.0	Jr	0	0
-2017	12440	2	584	Rollins	12	1576862.0	Volk, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576862.0	Jr	0	0
-2017	12440	2	584	Rollins	16		Winchester, James		Sr	0	0
+2017	12440	2	584	Rollins	14	1457097.0	Popo, Tosan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1457097.0	Sr	1	1
+2017	12440	2	584	Rollins	19	1719732.0	Siminou, Cyrus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719732.0	So	1	0
+2017	12440	2	584	Rollins	01	1719713.0	Trautmann, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719713.0	Jr	1	1
+2017	12440	2	584	Rollins	12	1576862.0	Volk, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1576862.0	Jr	1	1
+2017	12440	2	584	Rollins	16	1786057.0	Winchester, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786057.0	Sr	1	0
 2017	12440	2	584	Rollins	25		Ydrach, Arturo		Fr	0	0
 2017	12440	2	11276	S.C. Aiken	26		Anibeze, Michael		So	0	0
 2017	12440	2	11276	S.C. Aiken	8		Barnaji, Faisal		So	0	0
@@ -4355,58 +4355,58 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	591	Saginaw Valley	23		Whittaker, Jahmall		Jr	0	0
 2017	12440	2	591	Saginaw Valley	24	1721304.0	Wilson, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1721304.0	Jr	0	0
 2017	12440	2	591	Saginaw Valley	15		Winterton, Max		Fr	0	0
-2017	12440	2	608	Saint Leo	24	1685077.0	Auyoma, Teddy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685077.0	Sr	0	0
-2017	12440	2	608	Saint Leo	13	1619034.0	Braham, Jorge	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1619034.0	Jr	0	0
-2017	12440	2	608	Saint Leo	21		Campos, Guillaume		Fr	0	0
-2017	12440	2	608	Saint Leo	9		Casas, Marcelo		Sr	0	0
-2017	12440	2	608	Saint Leo	4		Dickinson, Haydn		Jr	0	0
-2017	12440	2	608	Saint Leo	18		Dingwall, Michael		Jr	0	0
-2017	12440	2	608	Saint Leo	20		Garcia, Diego		Fr	0	0
-2017	12440	2	608	Saint Leo	6	1616382.0	Katerna, Matthias	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616382.0	Sr	0	0
+2017	12440	2	608	Saint Leo	24	1685077.0	Auyoma, Teddy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685077.0	Sr	1	1
+2017	12440	2	608	Saint Leo	13	1619034.0	Braham, Jorge	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1619034.0	Jr	1	0
+2017	12440	2	608	Saint Leo	21	1833267.0	Campos, Guillaume	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833267.0	Fr	1	1
+2017	12440	2	608	Saint Leo	9	1824965.0	Casas, Marcelo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1824965.0	Sr	1	0
+2017	12440	2	608	Saint Leo	4	1793744.0	Dickinson, Haydn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793744.0	Jr	1	1
+2017	12440	2	608	Saint Leo	18	1824967.0	Dingwall, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1824967.0	Jr	1	0
+2017	12440	2	608	Saint Leo	20	1793745.0	Garcia, Diego	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793745.0	Fr	1	0
+2017	12440	2	608	Saint Leo	6	1616382.0	Katerna, Matthias	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616382.0	Sr	1	1
 2017	12440	2	608	Saint Leo	16		Lammertz, Till		Fr	0	0
 2017	12440	2	608	Saint Leo	17		Lewis, Maurice		Fr	0	0
 2017	12440	2	608	Saint Leo	51	1685071.0	McElhinney, Conor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685071.0	Jr	0	0
-2017	12440	2	608	Saint Leo	22		Moncayo, Carlos		Fr	0	0
-2017	12440	2	608	Saint Leo	15		Navia, Ricardo		Fr	0	0
+2017	12440	2	608	Saint Leo	22	1833268.0	Moncayo, Carlos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1833268.0	Fr	1	1
+2017	12440	2	608	Saint Leo	15	1793747.0	Navia, Ricardo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793747.0	Fr	1	1
 2017	12440	2	608	Saint Leo	11		Ohata, Keisuke		Fr	0	0
 2017	12440	2	608	Saint Leo	27		Palmer, Tyler		Jr	0	0
-2017	12440	2	608	Saint Leo	2		Peluffo, Joaquin		Jr	0	0
-2017	12440	2	608	Saint Leo	29		Puente, Christopher		Sr	0	0
+2017	12440	2	608	Saint Leo	2	1793748.0	Peluffo, Joaquin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793748.0	Jr	1	1
+2017	12440	2	608	Saint Leo	29	1823479.0	Puente, Christopher	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823479.0	Sr	1	0
 2017	12440	2	608	Saint Leo	12		Ricci, Riccardo		Fr	0	0
-2017	12440	2	608	Saint Leo	3	1504275.0	Rivera, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1504275.0	Sr	0	0
-2017	12440	2	608	Saint Leo	8	1685070.0	Sanogo, Bafou	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685070.0	Sr	0	0
+2017	12440	2	608	Saint Leo	3	1504275.0	Rivera, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1504275.0	Sr	1	0
+2017	12440	2	608	Saint Leo	8	1685070.0	Sanogo, Bafou	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685070.0	Sr	1	1
 2017	12440	2	608	Saint Leo	28		Santos, Ken		Fr	0	0
 2017	12440	2	608	Saint Leo	19	1685058.0	Tinari, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685058.0	So	0	0
-2017	12440	2	608	Saint Leo	14		Vagnone, Pietro		Fr	0	0
+2017	12440	2	608	Saint Leo	14	1793779.0	Vagnone, Pietro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1793779.0	Fr	1	1
 2017	12440	2	608	Saint Leo	30		Van de Velde, Kyle		Fr	0	0
 2017	12440	2	608	Saint Leo	25		Vraspir, Morgan		Fr	0	0
 2017	12440	2	608	Saint Leo	10		Werchek, Brian		Jr	0	0
-2017	12440	2	608	Saint Leo	1	1685056.0	White, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685056.0	So	0	0
-2017	12440	2	608	Saint Leo	23	1619117.0	Wilson, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1619117.0	Jr	0	0
-2017	12440	2	608	Saint Leo	7	1685055.0	Yanagisawa, Yuga	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685055.0	So	0	0
-2017	12440	2	1343	Saint Martin's	4	1616064.0	Caro, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616064.0	Jr	0	0
-2017	12440	2	1343	Saint Martin's	8	1718512.0	Chu, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718512.0	So	0	0
-2017	12440	2	1343	Saint Martin's	13		Eldred, Will		Fr	0	0
-2017	12440	2	1343	Saint Martin's	30		Elliott, Paul		Fr	0	0
+2017	12440	2	608	Saint Leo	1	1685056.0	White, James	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685056.0	So	1	1
+2017	12440	2	608	Saint Leo	23	1619117.0	Wilson, Bryce	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1619117.0	Jr	1	0
+2017	12440	2	608	Saint Leo	7	1685055.0	Yanagisawa, Yuga	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1685055.0	So	1	1
+2017	12440	2	1343	Saint Martin's	4	1616064.0	Caro, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616064.0	Jr	2	2
+2017	12440	2	1343	Saint Martin's	8	1718512.0	Chu, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718512.0	So	1	1
+2017	12440	2	1343	Saint Martin's	13	1814491.0	Eldred, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1814491.0	Fr	2	1
 2017	12440	2	1343	Saint Martin's	36		Elliott, Parker		Fr	0	0
-2017	12440	2	1343	Saint Martin's	1	1718521.0	Fry, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718521.0	Sr	0	0
-2017	12440	2	1343	Saint Martin's	22	1718518.0	Gijon-Hernandez, Ricky	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718518.0	Sr	0	0
-2017	12440	2	1343	Saint Martin's	17	1381968.0	Gonzales, Derrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1381968.0	Sr	0	0
-2017	12440	2	1343	Saint Martin's	6	1471824.0	Harvey, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1471824.0	Sr	0	0
-2017	12440	2	1343	Saint Martin's	3	1616065.0	Kohn, Mckray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616065.0	Jr	0	0
-2017	12440	2	1343	Saint Martin's	12		LaBranche, Collin		So	0	0
-2017	12440	2	1343	Saint Martin's	10	1718513.0	Leigh, Mamadou	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718513.0	So	0	0
-2017	12440	2	1343	Saint Martin's	7	1718517.0	Lopez, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718517.0	So	0	0
-2017	12440	2	1343	Saint Martin's	15	1619287.0	Mack, Joey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1619287.0	Jr	0	0
-2017	12440	2	1343	Saint Martin's	14		Navarro, Sebastian		Fr	0	0
+2017	12440	2	1343	Saint Martin's	30		Elliott, Paul		Fr	0	0
+2017	12440	2	1343	Saint Martin's	1	1718521.0	Fry, Ian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718521.0	Sr	1	1
+2017	12440	2	1343	Saint Martin's	22	1718518.0	Gijon-Hernandez, Ricky	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718518.0	Sr	1	0
+2017	12440	2	1343	Saint Martin's	17	1381968.0	Gonzales, Derrick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1381968.0	Sr	2	2
+2017	12440	2	1343	Saint Martin's	6	1471824.0	Harvey, Max	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1471824.0	Sr	2	2
+2017	12440	2	1343	Saint Martin's	3	1616065.0	Kohn, Mckray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616065.0	Jr	1	1
+2017	12440	2	1343	Saint Martin's	12	1814496.0	LaBranche, Collin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1814496.0	So	2	1
+2017	12440	2	1343	Saint Martin's	10	1718513.0	Leigh, Mamadou	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718513.0	So	2	1
+2017	12440	2	1343	Saint Martin's	7	1718517.0	Lopez, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718517.0	So	1	0
+2017	12440	2	1343	Saint Martin's	15	1619287.0	Mack, Joey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1619287.0	Jr	1	1
+2017	12440	2	1343	Saint Martin's	14	1814492.0	Navarro, Sebastian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1814492.0	Fr	2	2
 2017	12440	2	1343	Saint Martin's	23		Ramos, Treyson		Fr	0	0
 2017	12440	2	1343	Saint Martin's	28		Shaw, Dylan		Fr	0	0
-2017	12440	2	1343	Saint Martin's	18	1718514.0	Small, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718514.0	So	0	0
-2017	12440	2	1343	Saint Martin's	11	1471822.0	Strawn, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1471822.0	Sr	0	0
+2017	12440	2	1343	Saint Martin's	18	1718514.0	Small, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1718514.0	So	2	1
+2017	12440	2	1343	Saint Martin's	11	1471822.0	Strawn, Kaleb	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1471822.0	Sr	2	2
 2017	12440	2	1343	Saint Martin's	31	1616066.0	Teipel, Tim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616066.0	Jr	0	0
-2017	12440	2	1343	Saint Martin's	9	1616063.0	Witzel, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616063.0	Jr	0	0
-2017	12440	2	1343	Saint Martin's	5	1618088.0	Yon, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1618088.0	Jr	0	0
-2017	12440	2	1343	Saint Martin's	2	1471821.0	Zimmer, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1471821.0	Sr	0	0
+2017	12440	2	1343	Saint Martin's	9	1616063.0	Witzel, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616063.0	Jr	2	2
+2017	12440	2	1343	Saint Martin's	5	1618088.0	Yon, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1618088.0	Jr	1	0
+2017	12440	2	1343	Saint Martin's	2	1471821.0	Zimmer, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1471821.0	Sr	2	2
 2017	12440	2	613	Saint Michael's	22	1717628.0	Anair, Bradley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1717628.0	So	0	0
 2017	12440	2	613	Saint Michael's	25		Bannon, Jake		Fr	0	0
 2017	12440	2	613	Saint Michael's	24		Bared, Nico		Fr	0	0
@@ -4695,28 +4695,28 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	643	Slippery Rock	16	1675650.0	Theil, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1675650.0	Sr	1	0
 2017	12440	2	643	Slippery Rock	4	1675651.0	Trevino, Enrique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1675651.0	So	0	0
 2017	12440	2	643	Slippery Rock	13	1820485.0	Werth, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820485.0	So	1	0
-2017	12440	2	645	Sonoma St.	6	1605736.0	Aljabi, Raad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605736.0	Jr	1	0
-2017	12440	2	645	Sonoma St.	3	1605729.0	Alvarado, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605729.0	Jr	1	1
-2017	12440	2	645	Sonoma St.	15	1829900.0	Anderson, Devin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829900.0	Fr	1	1
-2017	12440	2	645	Sonoma St.	9	1468552.0	Avalos, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468552.0	Sr	1	1
-2017	12440	2	645	Sonoma St.	10	1468549.0	Coronel, Armando	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468549.0	Sr	1	1
-2017	12440	2	645	Sonoma St.	14	1690034.0	Cucuk, Alek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690034.0	So	1	1
-2017	12440	2	645	Sonoma St.	11	1468550.0	D'Ambrosio, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468550.0	Sr	1	1
+2017	12440	2	645	Sonoma St.	6	1605736.0	Aljabi, Raad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605736.0	Jr	2	0
+2017	12440	2	645	Sonoma St.	3	1605729.0	Alvarado, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605729.0	Jr	2	2
+2017	12440	2	645	Sonoma St.	15	1829900.0	Anderson, Devin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829900.0	Fr	2	2
+2017	12440	2	645	Sonoma St.	9	1468552.0	Avalos, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468552.0	Sr	2	2
+2017	12440	2	645	Sonoma St.	10	1468549.0	Coronel, Armando	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468549.0	Sr	2	2
+2017	12440	2	645	Sonoma St.	14	1690034.0	Cucuk, Alek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690034.0	So	2	2
+2017	12440	2	645	Sonoma St.	11	1468550.0	D'Ambrosio, Gabe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468550.0	Sr	2	2
 2017	12440	2	645	Sonoma St.	29		Gonzalez-Cruz, Anthony		Fr	0	0
 2017	12440	2	645	Sonoma St.	20	1829904.0	La Vanway, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829904.0	Jr	1	1
 2017	12440	2	645	Sonoma St.	23	1690038.0	Lefcourt, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690038.0	So	1	0
-2017	12440	2	645	Sonoma St.	18	1829902.0	Lopez, Maury	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829902.0	Fr	1	0
-2017	12440	2	645	Sonoma St.	13	1829899.0	Mendoza, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829899.0	Fr	1	0
-2017	12440	2	645	Sonoma St.	1	1605735.0	North, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605735.0	Jr	1	1
-2017	12440	2	645	Sonoma St.	7	1690035.0	Ogilvy, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690035.0	Jr	1	1
+2017	12440	2	645	Sonoma St.	18	1829902.0	Lopez, Maury	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829902.0	Fr	2	0
+2017	12440	2	645	Sonoma St.	13	1829899.0	Mendoza, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829899.0	Fr	2	0
+2017	12440	2	645	Sonoma St.	1	1605735.0	North, Mitch	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605735.0	Jr	2	2
+2017	12440	2	645	Sonoma St.	7	1690035.0	Ogilvy, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690035.0	Jr	2	2
 2017	12440	2	645	Sonoma St.	99	1690036.0	Perez, TJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690036.0	Sr	0	0
 2017	12440	2	645	Sonoma St.	19		Prins, Ethan		Fr	0	0
-2017	12440	2	645	Sonoma St.	25	1829906.0	Roehrig, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829906.0	Fr	1	0
-2017	12440	2	645	Sonoma St.	4	1468553.0	Rohane, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468553.0	Sr	0	0
-2017	12440	2	645	Sonoma St.	16	1829901.0	Salvador, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829901.0	Jr	1	0
-2017	12440	2	645	Sonoma St.	8	1605731.0	Sanchez, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605731.0	Jr	1	1
+2017	12440	2	645	Sonoma St.	25	1829906.0	Roehrig, Evan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829906.0	Fr	2	0
+2017	12440	2	645	Sonoma St.	4	1468553.0	Rohane, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468553.0	Sr	1	0
+2017	12440	2	645	Sonoma St.	16	1829901.0	Salvador, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1829901.0	Jr	2	1
+2017	12440	2	645	Sonoma St.	8	1605731.0	Sanchez, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1605731.0	Jr	2	2
 2017	12440	2	645	Sonoma St.	32	1690037.0	Schoenhoefer, Sandro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690037.0	So	0	0
-2017	12440	2	645	Sonoma St.	5	1468548.0	Shaffar, Dane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468548.0	Sr	1	1
+2017	12440	2	645	Sonoma St.	5	1468548.0	Shaffar, Dane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1468548.0	Sr	2	2
 2017	12440	2	645	Sonoma St.	2		Theobald, Daniel		Sr	0	0
 2017	12440	2	645	Sonoma St.	12		Vanderbeke, Guy		Fr	0	0
 2017	12440	2	645	Sonoma St.	24		Villalobos, Jairo		Fr	0	0
@@ -4900,30 +4900,30 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	2755	Southwest Baptist	17	1719090.0	Tippin, Brad	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719090.0	Sr	0	0
 2017	12440	2	2755	Southwest Baptist	14	1719087.0	VanWormer, Alec	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719087.0	Jr	0	0
 2017	12440	2	2755	Southwest Baptist	1	1719064.0	Zadravecz, Lajos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1719064.0	Sr	0	0
-2017	12440	2	30191	Spring Hill	3	1690223.0	Aakerlund, Joakim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690223.0	So	0	0
+2017	12440	2	30191	Spring Hill	3	1690223.0	Aakerlund, Joakim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690223.0	So	1	1
 2017	12440	2	30191	Spring Hill	4		Alfonso, Andres		Jr	0	0
-2017	12440	2	30191	Spring Hill	28	1690233.0	Bjornsson, Haukur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690233.0	So	0	0
+2017	12440	2	30191	Spring Hill	28	1690233.0	Bjornsson, Haukur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690233.0	So	1	0
 2017	12440	2	30191	Spring Hill	9		Brito, Alaye		So	0	0
 2017	12440	2	30191	Spring Hill	13		Candies, Otto		So	0	0
-2017	12440	2	30191	Spring Hill	1	1690221.0	Carpenter, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690221.0	Sr	0	0
+2017	12440	2	30191	Spring Hill	1	1690221.0	Carpenter, Will	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690221.0	Sr	1	1
 2017	12440	2	30191	Spring Hill	8	1690225.0	Demirkan, Ahmet	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690225.0	So	0	0
-2017	12440	2	30191	Spring Hill	2		Dimairo, Tapfuma		Sr	0	0
-2017	12440	2	30191	Spring Hill	6		Elder, Ryan		Sr	0	0
+2017	12440	2	30191	Spring Hill	2	1786523.0	Dimairo, Tapfuma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786523.0	Sr	1	1
+2017	12440	2	30191	Spring Hill	6	1786566.0	Elder, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786566.0	Sr	1	1
 2017	12440	2	30191	Spring Hill	17		Fouts, Michael		So	0	0
 2017	12440	2	30191	Spring Hill	25		Freeman, Grant		Fr	0	0
 2017	12440	2	30191	Spring Hill	20		Hanson, Nicholas		Fr	0	0
 2017	12440	2	30191	Spring Hill	31		Hoesley, Jackson		So	0	0
 2017	12440	2	30191	Spring Hill	21		Johnson, Rodney		Fr	0	0
 2017	12440	2	30191	Spring Hill	14		King, Jonathan		Fr	0	0
-2017	12440	2	30191	Spring Hill	11	1578691.0	Kvarnlof, Viktor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1578691.0	So	0	0
-2017	12440	2	30191	Spring Hill	5	1690230.0	LaForge, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690230.0	So	0	0
-2017	12440	2	30191	Spring Hill	15		Morgan, Griffin		Fr	0	0
-2017	12440	2	30191	Spring Hill	19	1565324.0	Ndaw, Ibrahima	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1565324.0	Jr	0	0
-2017	12440	2	30191	Spring Hill	16		Oliver, Donte		Fr	0	0
-2017	12440	2	30191	Spring Hill	12	1565304.0	Ortiz, Luiz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1565304.0	Sr	0	0
+2017	12440	2	30191	Spring Hill	11	1578691.0	Kvarnlof, Viktor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1578691.0	So	1	1
+2017	12440	2	30191	Spring Hill	5	1690230.0	LaForge, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690230.0	So	1	1
+2017	12440	2	30191	Spring Hill	15	1786611.0	Morgan, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786611.0	Fr	1	1
+2017	12440	2	30191	Spring Hill	19	1565324.0	Ndaw, Ibrahima	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1565324.0	Jr	1	0
+2017	12440	2	30191	Spring Hill	16	1786612.0	Oliver, Donte	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1786612.0	Fr	1	1
+2017	12440	2	30191	Spring Hill	12	1565304.0	Ortiz, Luiz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1565304.0	Sr	1	1
 2017	12440	2	30191	Spring Hill	7		Peralta Diaz, Alejandro		So	0	0
-2017	12440	2	30191	Spring Hill	10	1690229.0	Schober, Tilman	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690229.0	So	0	0
-2017	12440	2	30191	Spring Hill	18	1690222.0	Simon, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690222.0	So	0	0
+2017	12440	2	30191	Spring Hill	10	1690229.0	Schober, Tilman	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690229.0	So	1	1
+2017	12440	2	30191	Spring Hill	18	1690222.0	Simon, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1690222.0	So	1	1
 2017	12440	2	593	St. Anselm	3		Bispo, Felipe		So	0	0
 2017	12440	2	593	St. Anselm	19		Conroy, Eddie		Sr	0	0
 2017	12440	2	593	St. Anselm	12	1496017.0	Desmarais, Ken	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496017.0	Sr	0	0
@@ -5116,34 +5116,34 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	689	Tampa	8	1578002.0	Berrow, Monty	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1578002.0	Jr	0	0
 2017	12440	2	689	Tampa	18		Brown, Trevor		Fr	0	0
 2017	12440	2	689	Tampa	28	1465920.0	Cicchini, Jack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1465920.0	Sr	0	0
-2017	12440	2	689	Tampa	16	1684786.0	Ciluffo, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684786.0	Sr	0	0
+2017	12440	2	689	Tampa	16	1684786.0	Ciluffo, Mike	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684786.0	Sr	1	1
 2017	12440	2	689	Tampa	17	1684793.0	Cobuzio, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684793.0	So	0	0
-2017	12440	2	689	Tampa	19	1465915.0	Collister, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1465915.0	Sr	0	0
-2017	12440	2	689	Tampa	6		Constantine, Adrian		Fr	0	0
+2017	12440	2	689	Tampa	19	1465915.0	Collister, Jason	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1465915.0	Sr	1	0
+2017	12440	2	689	Tampa	6	1823587.0	Constantine, Adrian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823587.0	Fr	1	1
 2017	12440	2	689	Tampa	21		Delsing, James		Fr	0	0
 2017	12440	2	689	Tampa	20	1578008.0	Dooley, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1578008.0	Jr	0	0
-2017	12440	2	689	Tampa	7	1578010.0	Downing, Bay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1578010.0	Jr	0	0
-2017	12440	2	689	Tampa	9		Dusabe, Chris		Fr	0	0
+2017	12440	2	689	Tampa	7	1578010.0	Downing, Bay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1578010.0	Jr	1	1
+2017	12440	2	689	Tampa	9	1823589.0	Dusabe, Chris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823589.0	Fr	1	1
 2017	12440	2	689	Tampa	29	1684787.0	Grant, Romario	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684787.0	Sr	0	0
 2017	12440	2	689	Tampa	27		Guerreri, Vinny		So	0	0
 2017	12440	2	689	Tampa	12		Hetherington, Kier		So	0	0
-2017	12440	2	689	Tampa	3		Hovet, Knut Soeren		Fr	0	0
-2017	12440	2	689	Tampa	13		Kirby, Curtis		So	0	0
-2017	12440	2	689	Tampa	10	1684782.0	Mompremier, Fredinho	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684782.0	So	0	0
+2017	12440	2	689	Tampa	3	1823591.0	Hovet, Knut Soeren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823591.0	Fr	1	1
+2017	12440	2	689	Tampa	13	1823592.0	Kirby, Curtis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823592.0	So	1	1
+2017	12440	2	689	Tampa	10	1684782.0	Mompremier, Fredinho	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684782.0	So	1	0
 2017	12440	2	689	Tampa	26		Morrow, Austin		Fr	0	0
 2017	12440	2	689	Tampa	32		Nascimento, Joshua		So	0	0
-2017	12440	2	689	Tampa	24		Norville, Jadon		So	0	0
+2017	12440	2	689	Tampa	24	1823594.0	Norville, Jadon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823594.0	So	1	0
 2017	12440	2	689	Tampa	31		Ornelas, Diego		Jr	0	0
-2017	12440	2	689	Tampa	00		Richards, Jake		Fr	0	0
-2017	12440	2	689	Tampa	15	1684796.0	Soufl, Zack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684796.0	Jr	0	0
-2017	12440	2	689	Tampa	11		Sugden, Lewis		Fr	0	0
+2017	12440	2	689	Tampa	00	1823627.0	Richards, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823627.0	Fr	1	1
+2017	12440	2	689	Tampa	15	1684796.0	Soufl, Zack	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684796.0	Jr	1	0
+2017	12440	2	689	Tampa	11	1823628.0	Sugden, Lewis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1823628.0	Fr	1	1
 2017	12440	2	689	Tampa	22	1684789.0	Tiggs, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684789.0	Sr	0	0
-2017	12440	2	689	Tampa	2	1684779.0	Toure, Ramzi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684779.0	So	0	0
+2017	12440	2	689	Tampa	2	1684779.0	Toure, Ramzi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684779.0	So	1	1
 2017	12440	2	689	Tampa	1		Trench, Richard		Jr	0	0
-2017	12440	2	689	Tampa	14	1684784.0	Tucker, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684784.0	Jr	0	0
+2017	12440	2	689	Tampa	14	1684784.0	Tucker, Troy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684784.0	Jr	1	1
 2017	12440	2	689	Tampa	25		Van Grouw, Shawn		So	0	0
 2017	12440	2	689	Tampa	4		Waithe, Jean-Louis		Fr	0	0
-2017	12440	2	689	Tampa	5	1684781.0	Winship, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684781.0	Sr	0	0
+2017	12440	2	689	Tampa	5	1684781.0	Winship, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1684781.0	Sr	1	1
 2017	12440	2	30090	Tex. A&M Int'l	3	1619640.0	Ariza, Pedro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1619640.0	Jr	0	0
 2017	12440	2	30090	Tex. A&M Int'l	16	1679940.0	Baron, Maxine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1679940.0	Sr	0	0
 2017	12440	2	30090	Tex. A&M Int'l	2	1679901.0	Benjamin, Josiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1679901.0	So	0	0
@@ -5165,36 +5165,36 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	30090	Tex. A&M Int'l	31	1679962.0	Venegas, Edson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1679962.0	So	0	0
 2017	12440	2	30090	Tex. A&M Int'l	32	1679963.0	Zuniga, Rodrigo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1679963.0	So	0	0
 2017	12440	2	30090	Tex. A&M Int'l	8	1616112.0	Zuniga, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616112.0	Jr	0	0
-2017	12440	2	30088	Tex. Permian Basin	10	1496054.0	Bagetti, Tainan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496054.0	Sr	0	0
-2017	12440	2	30088	Tex. Permian Basin	25	1712407.0	Balderrama, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712407.0	So	0	0
+2017	12440	2	30088	Tex. Permian Basin	10	1496054.0	Bagetti, Tainan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496054.0	Sr	1	1
+2017	12440	2	30088	Tex. Permian Basin	25	1712407.0	Balderrama, Paul	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712407.0	So	1	0
 2017	12440	2	30088	Tex. Permian Basin	18	1595900.0	Barron, Luis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1595900.0	Jr	0	0
 2017	12440	2	30088	Tex. Permian Basin	0		Beltran, Eric		Sr	0	0
-2017	12440	2	30088	Tex. Permian Basin	21	1712402.0	Bradley, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712402.0	So	0	0
-2017	12440	2	30088	Tex. Permian Basin	8	1712404.0	Cid, Cesar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712404.0	Jr	0	0
-2017	12440	2	30088	Tex. Permian Basin	2		Clark, Alex		Fr	0	0
+2017	12440	2	30088	Tex. Permian Basin	21	1712402.0	Bradley, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712402.0	So	1	1
+2017	12440	2	30088	Tex. Permian Basin	8	1712404.0	Cid, Cesar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712404.0	Jr	1	1
+2017	12440	2	30088	Tex. Permian Basin	2	1811895.0	Clark, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811895.0	Fr	1	0
 2017	12440	2	30088	Tex. Permian Basin	23	1365171.0	Connery, Ciaran	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1365171.0	Sr	0	0
-2017	12440	2	30088	Tex. Permian Basin	3		Davis, Drew		So	0	0
-2017	12440	2	30088	Tex. Permian Basin	29		Ellington, Joe		Fr	0	0
+2017	12440	2	30088	Tex. Permian Basin	3	1811896.0	Davis, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811896.0	So	1	1
+2017	12440	2	30088	Tex. Permian Basin	29	1811908.0	Ellington, Joe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811908.0	Fr	1	0
 2017	12440	2	30088	Tex. Permian Basin	27	1595867.0	Enriquez, Sergio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1595867.0	Jr	0	0
 2017	12440	2	30088	Tex. Permian Basin	99		Gomes, Lucas		So	0	0
 2017	12440	2	30088	Tex. Permian Basin	26		Gregston, Raleigh		So	0	0
-2017	12440	2	30088	Tex. Permian Basin	13		Grundy, Ollie		Fr	0	0
+2017	12440	2	30088	Tex. Permian Basin	13	1811900.0	Grundy, Ollie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811900.0	Fr	1	0
 2017	12440	2	30088	Tex. Permian Basin	24		Hurtado, Eduardo		Fr	0	0
-2017	12440	2	30088	Tex. Permian Basin	7		Lee, Brandon		Jr	0	0
+2017	12440	2	30088	Tex. Permian Basin	7	1811898.0	Lee, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811898.0	Jr	1	1
 2017	12440	2	30088	Tex. Permian Basin	9	1712403.0	Lima, Lipe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712403.0	So	0	0
-2017	12440	2	30088	Tex. Permian Basin	19		Linarez, Uli		Jr	0	0
+2017	12440	2	30088	Tex. Permian Basin	19	1811904.0	Linarez, Uli	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811904.0	Jr	1	0
 2017	12440	2	30088	Tex. Permian Basin	17		Lugo, Danny		Fr	0	0
-2017	12440	2	30088	Tex. Permian Basin	4		Mendoza, Alejandro		Fr	0	0
 2017	12440	2	30088	Tex. Permian Basin	1		Mendoza, Carlos		Fr	0	0
-2017	12440	2	30088	Tex. Permian Basin	5	1595906.0	Moreira, Rafael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1595906.0	Jr	0	0
-2017	12440	2	30088	Tex. Permian Basin	16		Murillo, Jorge		So	0	0
+2017	12440	2	30088	Tex. Permian Basin	4	1811897.0	Mendoza, Alejandro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811897.0	Fr	1	1
+2017	12440	2	30088	Tex. Permian Basin	5	1595906.0	Moreira, Rafael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1595906.0	Jr	1	1
+2017	12440	2	30088	Tex. Permian Basin	16	1811902.0	Murillo, Jorge	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811902.0	So	1	0
 2017	12440	2	30088	Tex. Permian Basin	6	1733369.0	Ojobaro, Peter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1733369.0	Fr	0	0
 2017	12440	2	30088	Tex. Permian Basin	20		Ramirez, Antonio		Fr	0	0
-2017	12440	2	30088	Tex. Permian Basin	11	1496058.0	Rodrick, BJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496058.0	Sr	0	0
-2017	12440	2	30088	Tex. Permian Basin	15	1712409.0	Rodriguez, Frankie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712409.0	So	0	0
-2017	12440	2	30088	Tex. Permian Basin	14		Rojas, Juan		So	0	0
-2017	12440	2	30088	Tex. Permian Basin	00		Sproule, Alex		Jr	0	0
-2017	12440	2	30088	Tex. Permian Basin	12	1496059.0	Toth, Caio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496059.0	Sr	0	0
+2017	12440	2	30088	Tex. Permian Basin	11	1496058.0	Rodrick, BJ	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496058.0	Sr	1	1
+2017	12440	2	30088	Tex. Permian Basin	15	1712409.0	Rodriguez, Frankie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1712409.0	So	1	1
+2017	12440	2	30088	Tex. Permian Basin	14	1811901.0	Rojas, Juan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811901.0	So	1	0
+2017	12440	2	30088	Tex. Permian Basin	00	1811893.0	Sproule, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1811893.0	Jr	1	1
+2017	12440	2	30088	Tex. Permian Basin	12	1496059.0	Toth, Caio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1496059.0	Sr	1	1
 2017	12440	2	1403	Tiffin	11	1697679.0	Bilal, Munbhir	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1697679.0	So	0	0
 2017	12440	2	1403	Tiffin	6	1600551.0	Blake, Jevaun	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600551.0	Jr	0	0
 2017	12440	2	1403	Tiffin	7	1600543.0	Bottomley, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600543.0	Jr	0	0
@@ -5225,7 +5225,7 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	1403	Tiffin	18	1600547.0	Stoker, Klaas	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1600547.0	Jr	0	0
 2017	12440	2	1403	Tiffin	25	1697677.0	Tait, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1697677.0	Sr	0	0
 2017	12440	2	1403	Tiffin	21		Treat, Tyler		Fr	0	0
-2017	12440	2	1403	Tiffin	39		Wagener, Alex		So	0	0
+2017	12440	2	1403	Tiffin	35		Wagener, Alex		So	0	0
 2017	12440	2	1403	Tiffin	01		Wilson, Cary		Fr	0	0
 2017	12440	2	1403	Tiffin	26	1697673.0	Wood, Spencer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1697673.0	So	0	0
 2017	12440	2	30002	Trevecca Nazarene	14		Anderson, Sean		So	0	0
@@ -5318,33 +5318,33 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	12830	Tusculum	20		Wiginton, Chance		Fr	0	0
 2017	12440	2	112	UC San Diego	14	1696825.0	Allan, Quinn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696825.0	So	0	0
 2017	12440	2	112	UC San Diego	30		Andrews, Jared		Fr	0	0
-2017	12440	2	112	UC San Diego	11	1492984.0	Bashti, Malek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492984.0	Jr	1	1
-2017	12440	2	112	UC San Diego	15	1696826.0	Bloom, Nathaniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696826.0	So	1	0
+2017	12440	2	112	UC San Diego	11	1492984.0	Bashti, Malek	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492984.0	Jr	2	1
+2017	12440	2	112	UC San Diego	15	1696826.0	Bloom, Nathaniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696826.0	So	2	0
 2017	12440	2	112	UC San Diego	23		Boemer, Daniel		Fr	0	0
-2017	12440	2	112	UC San Diego	13	1696828.0	Cordell, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696828.0	So	1	0
-2017	12440	2	112	UC San Diego	24	1696832.0	Duerksen, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696832.0	Sr	1	1
+2017	12440	2	112	UC San Diego	13	1696828.0	Cordell, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696828.0	So	2	0
+2017	12440	2	112	UC San Diego	24	1696832.0	Duerksen, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696832.0	Sr	2	2
 2017	12440	2	112	UC San Diego	2		Fields, Hunter		Fr	0	0
 2017	12440	2	112	UC San Diego	8	1492990.0	Glascock, Danny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492990.0	Jr	0	0
-2017	12440	2	112	UC San Diego	6	1492989.0	Harbour, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492989.0	Sr	1	1
-2017	12440	2	112	UC San Diego	7	1593672.0	Lagotta, Zachary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593672.0	Jr	0	0
+2017	12440	2	112	UC San Diego	6	1492989.0	Harbour, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492989.0	Sr	2	2
+2017	12440	2	112	UC San Diego	7	1593672.0	Lagotta, Zachary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593672.0	Jr	1	1
 2017	12440	2	112	UC San Diego	18	1593668.0	Mac, Nolan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593668.0	Jr	1	1
-2017	12440	2	112	UC San Diego	1	1373326.0	McElfresh, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1373326.0	Sr	1	1
+2017	12440	2	112	UC San Diego	1	1373326.0	McElfresh, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1373326.0	Sr	2	2
 2017	12440	2	112	UC San Diego	21	1696829.0	Merrill, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696829.0	So	1	1
 2017	12440	2	112	UC San Diego	25	1696823.0	Monteiro Magpayo, Brandon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696823.0	So	0	0
 2017	12440	2	112	UC San Diego	19		Ordaz, Abraham		Fr	0	0
-2017	12440	2	112	UC San Diego	12	1821410.0	Ortiz, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1821410.0	Jr	1	0
-2017	12440	2	112	UC San Diego	10	1492991.0	Palano, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492991.0	Sr	1	1
-2017	12440	2	112	UC San Diego	20	1492987.0	Palano, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492987.0	Sr	1	0
-2017	12440	2	112	UC San Diego	3	1593669.0	Panganiban, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593669.0	Jr	1	1
-2017	12440	2	112	UC San Diego	22	1593670.0	Powers, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593670.0	So	0	0
+2017	12440	2	112	UC San Diego	12	1821410.0	Ortiz, Steven	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1821410.0	Jr	2	1
+2017	12440	2	112	UC San Diego	10	1492991.0	Palano, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492991.0	Sr	2	2
+2017	12440	2	112	UC San Diego	20	1492987.0	Palano, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1492987.0	Sr	2	0
+2017	12440	2	112	UC San Diego	3	1593669.0	Panganiban, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593669.0	Jr	2	2
+2017	12440	2	112	UC San Diego	22	1593670.0	Powers, Jeff	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593670.0	So	1	1
 2017	12440	2	112	UC San Diego	5	1373329.0	Sampiere, Brett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1373329.0	Sr	1	1
-2017	12440	2	112	UC San Diego	16	1696827.0	Sartor, Andy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696827.0	So	1	1
+2017	12440	2	112	UC San Diego	16	1696827.0	Sartor, Andy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696827.0	So	2	1
 2017	12440	2	112	UC San Diego	0	1696822.0	Shaver, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1696822.0	Sr	0	0
-2017	12440	2	112	UC San Diego	26	1821412.0	Stoop, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1821412.0	Fr	1	0
-2017	12440	2	112	UC San Diego	28		Uribe, Kelvin		Fr	0	0
+2017	12440	2	112	UC San Diego	26	1821412.0	Stoop, Jonathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1821412.0	Fr	2	1
+2017	12440	2	112	UC San Diego	28	1821413.0	Uribe, Kelvin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1821413.0	Fr	1	1
 2017	12440	2	112	UC San Diego	4	1593661.0	Waligorski, Kuba	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593661.0	Sr	1	1
 2017	12440	2	112	UC San Diego	17	1593667.0	Young, Eric	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593667.0	Jr	1	0
-2017	12440	2	112	UC San Diego	9	1593666.0	de la Cal, Uly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593666.0	Jr	1	0
+2017	12440	2	112	UC San Diego	9	1593666.0	de la Cal, Uly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1593666.0	Jr	2	1
 2017	12440	2	9754	UC-Colo. Springs	3	1499729.0	Barnes, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499729.0	Jr	0	0
 2017	12440	2	9754	UC-Colo. Springs	19	1616096.0	Berntsson, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1616096.0	Jr	0	0
 2017	12440	2	9754	UC-Colo. Springs	4	1499730.0	Calhoun, J.R.	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1499730.0	Sr	0	0
@@ -5458,26 +5458,26 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	728	Upper Iowa	0	1608402.0	Rortvedt, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608402.0	Jr	0	0
 2017	12440	2	728	Upper Iowa	19	1608407.0	Vera, Victor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1608407.0	Jr	0	0
 2017	12440	2	30104	Urbana	24		Adams, Trevor		Fr	0	0
-2017	12440	2	30104	Urbana	21	1820853.0	Agyeman, Ebenezer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820853.0	Sr	1	1
-2017	12440	2	30104	Urbana	27	1820861.0	Blenckers, Lars	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820861.0	Sr	1	1
-2017	12440	2	30104	Urbana	9	1820849.0	Bourrier, Thibaut	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820849.0	Jr	1	1
+2017	12440	2	30104	Urbana	21	1820853.0	Agyeman, Ebenezer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820853.0	Sr	2	2
+2017	12440	2	30104	Urbana	27	1820861.0	Blenckers, Lars	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820861.0	Sr	2	2
+2017	12440	2	30104	Urbana	9	1820849.0	Bourrier, Thibaut	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820849.0	Jr	2	2
 2017	12440	2	30104	Urbana	18	1715545.0	Cain, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715545.0	So	0	0
-2017	12440	2	30104	Urbana	2	1715501.0	Coxall, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715501.0	So	1	1
-2017	12440	2	30104	Urbana	17	1820852.0	Dizdarevic, Jasminko	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820852.0	Fr	1	0
-2017	12440	2	30104	Urbana	7	1715506.0	Dunne, Lewis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715506.0	Sr	1	1
+2017	12440	2	30104	Urbana	2	1715501.0	Coxall, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715501.0	So	2	1
+2017	12440	2	30104	Urbana	17	1820852.0	Dizdarevic, Jasminko	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820852.0	Fr	2	0
+2017	12440	2	30104	Urbana	7	1715506.0	Dunne, Lewis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715506.0	Sr	2	2
 2017	12440	2	30104	Urbana	26		Elifritz, Shelby		Fr	0	0
 2017	12440	2	30104	Urbana	29	1715549.0	Fallenbeck, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715549.0	Sr	0	0
-2017	12440	2	30104	Urbana	1	1715500.0	Jones, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715500.0	Sr	1	1
+2017	12440	2	30104	Urbana	1	1715500.0	Jones, Nathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715500.0	Sr	2	2
 2017	12440	2	30104	Urbana	16		Kerr, Conner		So	0	0
 2017	12440	2	30104	Urbana	6	1715505.0	Millan, Pablo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1715505.0	Sr	0	0
-2017	12440	2	30104	Urbana	11	1820848.0	Northoff, Raphael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820848.0	Fr	1	1
+2017	12440	2	30104	Urbana	11	1820848.0	Northoff, Raphael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820848.0	Fr	2	2
 2017	12440	2	30104	Urbana	25		Paxton, Brady		Fr	0	0
-2017	12440	2	30104	Urbana	4	1820845.0	Roberti, Jim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820845.0	Jr	1	1
-2017	12440	2	30104	Urbana	15	1820851.0	Roberts, Ray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820851.0	Sr	1	1
-2017	12440	2	30104	Urbana	5	1820846.0	Tamplin, Harry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820846.0	Fr	1	0
-2017	12440	2	30104	Urbana	10	1820847.0	Veauthier, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820847.0	Fr	1	1
-2017	12440	2	30104	Urbana	3	1820844.0	Walbeoff, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820844.0	Sr	1	1
-2017	12440	2	30104	Urbana	14	1820850.0	Wischmeier, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820850.0	Fr	1	0
+2017	12440	2	30104	Urbana	4	1820845.0	Roberti, Jim	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820845.0	Jr	2	2
+2017	12440	2	30104	Urbana	15	1820851.0	Roberts, Ray	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820851.0	Sr	2	2
+2017	12440	2	30104	Urbana	5	1820846.0	Tamplin, Harry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820846.0	Fr	2	1
+2017	12440	2	30104	Urbana	10	1820847.0	Veauthier, David	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820847.0	Fr	2	2
+2017	12440	2	30104	Urbana	3	1820844.0	Walbeoff, Tom	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820844.0	Sr	2	2
+2017	12440	2	30104	Urbana	14	1820850.0	Wischmeier, Jake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1820850.0	Fr	2	0
 2017	12440	2	30141	Walsh	26	1702488.0	Andrews, Matt	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1702488.0	So	0	0
 2017	12440	2	30141	Walsh	7	1702395.0	Baker, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1702395.0	Sr	0	0
 2017	12440	2	30141	Walsh	17	1702396.0	Bukenya, George	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1702396.0	So	0	0
@@ -5675,62 +5675,32 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	1448	Western Wash.	02		Allen, Taylor		Fr	0	0
 2017	12440	2	1448	Western Wash.	25		Ball, Austin		Fr	0	0
 2017	12440	2	1448	Western Wash.	17	1572551.0	Barber, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572551.0	Jr	0	0
-2017	12440	2	1448	Western Wash.	04	1572552.0	Barker, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572552.0	Jr	1	1
+2017	12440	2	1448	Western Wash.	04	1572552.0	Barker, Drew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572552.0	Jr	2	2
 2017	12440	2	1448	Western Wash.	30		Beauchene, Alex		Fr	0	0
 2017	12440	2	1448	Western Wash.	12	1674916.0	Castillo, Jose	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674916.0	So	0	0
 2017	12440	2	1448	Western Wash.	26		Coovert, Keegan		Fr	0	0
-2017	12440	2	1448	Western Wash.	24	1784895.0	Danielson, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784895.0	Jr	1	0
-2017	12440	2	1448	Western Wash.	23	1784893.0	Dean, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784893.0	Jr	1	1
-2017	12440	2	1448	Western Wash.	27	1784899.0	Drame, Ibra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784899.0	Jr	1	0
-2017	12440	2	1448	Western Wash.	10	1674917.0	Galvan, Eleazar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674917.0	Sr	1	1
-2017	12440	2	1448	Western Wash.	18	1674918.0	Jinneman, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674918.0	Jr	1	1
-2017	12440	2	1448	Western Wash.	06	1674920.0	Lee, Jeremiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674920.0	Fr	1	1
-2017	12440	2	1448	Western Wash.	15	1674921.0	Morgan, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674921.0	Fr	1	1
-2017	12440	2	1448	Western Wash.	11	1572557.0	Olney, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572557.0	Jr	1	1
+2017	12440	2	1448	Western Wash.	24	1784895.0	Danielson, Kyle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784895.0	Jr	2	0
+2017	12440	2	1448	Western Wash.	23	1784893.0	Dean, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784893.0	Jr	2	2
+2017	12440	2	1448	Western Wash.	27	1784899.0	Drame, Ibra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784899.0	Jr	2	0
+2017	12440	2	1448	Western Wash.	10	1674917.0	Galvan, Eleazar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674917.0	Sr	2	2
+2017	12440	2	1448	Western Wash.	18	1674918.0	Jinneman, Stephen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674918.0	Jr	2	2
+2017	12440	2	1448	Western Wash.	06	1674920.0	Lee, Jeremiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674920.0	Fr	2	2
+2017	12440	2	1448	Western Wash.	15	1674921.0	Morgan, Nick	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674921.0	Fr	2	2
+2017	12440	2	1448	Western Wash.	11	1572557.0	Olney, Luke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572557.0	Jr	2	2
 2017	12440	2	1448	Western Wash.	13		Phillips, Nick		Fr	0	0
 2017	12440	2	1448	Western Wash.	03	1611697.0	Pichette, Conner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1611697.0	Sr	0	0
-2017	12440	2	1448	Western Wash.	22	1784892.0	Ronk, Colton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784892.0	Jr	1	0
-2017	12440	2	1448	Western Wash.	07	1784889.0	Rotter, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784889.0	Fr	1	1
-2017	12440	2	1448	Western Wash.	08	1674922.0	Saunders, Greyden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674922.0	So	1	0
+2017	12440	2	1448	Western Wash.	22	1784892.0	Ronk, Colton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784892.0	Jr	2	1
+2017	12440	2	1448	Western Wash.	07	1784889.0	Rotter, Christian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1784889.0	Fr	2	2
+2017	12440	2	1448	Western Wash.	08	1674922.0	Saunders, Greyden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674922.0	So	2	0
 2017	12440	2	1448	Western Wash.	28		Seed, Connor		Fr	0	0
 2017	12440	2	1448	Western Wash.	19		Sikkema, Thomas		Fr	0	0
-2017	12440	2	1448	Western Wash.	21	1572559.0	Stark, Wesley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572559.0	Jr	1	0
+2017	12440	2	1448	Western Wash.	21	1572559.0	Stark, Wesley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572559.0	Jr	2	0
 2017	12440	2	1448	Western Wash.	05	1674923.0	Strawn, Garrett	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674923.0	So	1	0
-2017	12440	2	1448	Western Wash.	20	1572560.0	Tinsley, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572560.0	So	1	1
-2017	12440	2	1448	Western Wash.	16	1674925.0	Ulen, Brady	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674925.0	Sr	1	1
+2017	12440	2	1448	Western Wash.	20	1572560.0	Tinsley, Marcus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572560.0	So	2	1
+2017	12440	2	1448	Western Wash.	16	1674925.0	Ulen, Brady	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674925.0	Sr	2	2
 2017	12440	2	1448	Western Wash.	14		Unks, Cameron		Fr	0	0
-2017	12440	2	1448	Western Wash.	01	1572561.0	Visten, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572561.0	Jr	1	1
+2017	12440	2	1448	Western Wash.	01	1572561.0	Visten, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1572561.0	Jr	2	2
 2017	12440	2	1448	Western Wash.	29	1674926.0	Wildfong, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1674926.0	Sr	0	0
-2017	12440	2	30209	Westminster (UT)	5	1736129.0	Bochner, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1736129.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	32	1732971.0	Brooks, Austin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732971.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	18	1732969.0	Carson, Cassidy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732969.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	43	1736165.0	Cayias, Yanni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1736165.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	24	1732165.0	Charlesworth, Brock	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732165.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	6	1732156.0	Cook, Warren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732156.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	20	1736164.0	Egland, Shawn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1736164.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	11	1732254.0	Giokas, Emilio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732254.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	16	1736130.0	Gonzalez, Andrew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1736130.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	14	1732160.0	Jackson, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732160.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	35	1732167.0	Jones, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732167.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	25	1732166.0	Kone, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732166.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	10	1732158.0	Lezama, Ivan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732158.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	1	1732153.0	Lyne, Sean	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732153.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	19	1732970.0	Mullin, Griffin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732970.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	12	1732255.0	Nelson, Brody	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732255.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	0	1732965.0	Nilssen, Kristian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732965.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	23	1732164.0	Olsen, Jaden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732164.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	15	1732161.0	Porter, Michael	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732161.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	3	1732154.0	Ramirez, Braxten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732154.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	17	1732162.0	Rees, Aaron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732162.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	7	1732157.0	Rodriguez, Jonnathan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732157.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	01	1732252.0	Ruff, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732252.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	8	1732968.0	Sanderson, Callen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732968.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	4	1732155.0	Smith, Jacob	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732155.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	51	1734120.0	Soriano, Ruben	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1734120.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	13	1732159.0	Stutz, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732159.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	9	1732253.0	Thompson, Connor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732253.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	2	1732966.0	Townsley, John	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732966.0	Fr	0	0
-2017	12440	2	30209	Westminster (UT)	21	1732163.0	Warne, Matthew	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1732163.0	Fr	0	0
 2017	12440	2	12799	Wheeling Jesuit	35		Antin, Pablo		Sr	0	0
 2017	12440	2	12799	Wheeling Jesuit	21	1456844.0	Bellissemo, Dominic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1456844.0	Sr	0	0
 2017	12440	2	12799	Wheeling Jesuit	10	1456862.0	DeHeredia, Aitor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1456862.0	Sr	0	0
@@ -5863,31 +5833,31 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2017	12440	2	799	Wis.-Parkside	2		Villa, Leo		Fr	0	0
 2017	12440	2	30154	Young Harris	23		Arafa, Ali		So	0	0
 2017	12440	2	30154	Young Harris	26		Balegamire, Manace		So	0	0
-2017	12440	2	30154	Young Harris	2	1710258.0	Brannstrom, Carl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710258.0	So	0	0
-2017	12440	2	30154	Young Harris	18	1710251.0	Choi, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710251.0	So	0	0
+2017	12440	2	30154	Young Harris	2	1710258.0	Brannstrom, Carl	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710258.0	So	1	1
+2017	12440	2	30154	Young Harris	18	1710251.0	Choi, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710251.0	So	1	0
 2017	12440	2	30154	Young Harris	25		Connor, Luke		So	0	0
-2017	12440	2	30154	Young Harris	4	1582196.0	Denton, Jonny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1582196.0	Jr	0	0
-2017	12440	2	30154	Young Harris	21		Fabrizio, Daniel		Fr	0	0
+2017	12440	2	30154	Young Harris	4	1582196.0	Denton, Jonny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1582196.0	Jr	1	1
+2017	12440	2	30154	Young Harris	21	1804177.0	Fabrizio, Daniel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804177.0	Fr	1	0
 2017	12440	2	30154	Young Harris	27		Gillman, Andrew		So	0	0
 2017	12440	2	30154	Young Harris	12	1582203.0	Gojic, Marijo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1582203.0	Sr	0	0
-2017	12440	2	30154	Young Harris	6		Gomez, Carlos		So	0	0
+2017	12440	2	30154	Young Harris	6	1804158.0	Gomez, Carlos	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804158.0	So	1	0
 2017	12440	2	30154	Young Harris	24		Guy, Jonathan		Jr	0	0
 2017	12440	2	30154	Young Harris	13		Hernandez, Arturo		Jr	0	0
-2017	12440	2	30154	Young Harris	7		Hidane, Mehdy		So	0	0
-2017	12440	2	30154	Young Harris	15		Jacq, Alex		So	0	0
-2017	12440	2	30154	Young Harris	19		Jones, Sam		Fr	0	0
-2017	12440	2	30154	Young Harris	20		Kanan, Anuar		So	0	0
-2017	12440	2	30154	Young Harris	3	1710246.0	King, Macauley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710246.0	So	0	0
-2017	12440	2	30154	Young Harris	10	1710249.0	Micaletto, Marco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710249.0	So	0	0
-2017	12440	2	30154	Young Harris	5		Montanella, Marlon		Jr	0	0
-2017	12440	2	30154	Young Harris	17	1710250.0	Poole, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710250.0	Jr	0	0
-2017	12440	2	30154	Young Harris	9	1710248.0	Rowe, Mikie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710248.0	So	0	0
+2017	12440	2	30154	Young Harris	7	1804159.0	Hidane, Mehdy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804159.0	So	1	0
+2017	12440	2	30154	Young Harris	15	1804162.0	Jacq, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804162.0	So	1	1
+2017	12440	2	30154	Young Harris	19	1804164.0	Jones, Sam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804164.0	Fr	1	1
+2017	12440	2	30154	Young Harris	20	1804165.0	Kanan, Anuar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804165.0	So	1	0
+2017	12440	2	30154	Young Harris	3	1710246.0	King, Macauley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710246.0	So	1	1
+2017	12440	2	30154	Young Harris	10	1710249.0	Micaletto, Marco	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710249.0	So	1	1
+2017	12440	2	30154	Young Harris	5	1804157.0	Montanella, Marlon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804157.0	Jr	1	1
+2017	12440	2	30154	Young Harris	17	1710250.0	Poole, Josh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710250.0	Jr	1	1
+2017	12440	2	30154	Young Harris	9	1710248.0	Rowe, Mikie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1710248.0	So	1	1
 2017	12440	2	30154	Young Harris	33		Stanley, Connor		So	0	0
-2017	12440	2	30154	Young Harris	22		Stutely, Nico		Jr	0	0
+2017	12440	2	30154	Young Harris	22	1804178.0	Stutely, Nico	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804178.0	Jr	1	0
 2017	12440	2	30154	Young Harris	16		Thomas, James		Fr	0	0
 2017	12440	2	30154	Young Harris	1		Thomsson, Sebastian		Fr	0	0
-2017	12440	2	30154	Young Harris	8		Tshimpi, Anthony		Jr	0	0
+2017	12440	2	30154	Young Harris	8	1804160.0	Tshimpi, Anthony	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1804160.0	Jr	1	1
 2017	12440	2	30154	Young Harris	30		Valdes, Juan		Fr	0	0
-2017	12440	2	30154	Young Harris	14	1582194.0	Varnhorn, Ramin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1582194.0	Jr	0	0
-2017	12440	2	30154	Young Harris	28	1582201.0	Viden, Anton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1582201.0	Jr	0	0
+2017	12440	2	30154	Young Harris	14	1582194.0	Varnhorn, Ramin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1582194.0	Jr	1	0
+2017	12440	2	30154	Young Harris	28	1582201.0	Viden, Anton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1582201.0	Jr	1	1
 2017	12440	2	30154	Young Harris	11	1469335.0	Wyper, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12440&stats_player_seq=1469335.0	Sr	0	0
