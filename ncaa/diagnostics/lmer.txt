@@ -1,6 +1,6 @@
-[1] 72702    10
+[1] 73814    10
 [1] TRUE
-[1] 72702     7
+[1] 73814     7
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -9,20 +9,20 @@ Formula: gs ~ year + field + d_div + o_div + (1 | offense) + (1 | defense) +
    Data: g
 Weights: w
       AIC       BIC    logLik  deviance  df.resid 
- 226918.3  227047.0 -113445.1  226890.3     72688 
+ 230486.5  230624.7 -115228.3  230456.5     73799 
 Random effects:
  Groups  Name        Std.Dev.
- game_id (Intercept) 0.08685 
- defense (Intercept) 0.48788 
- offense (Intercept) 0.38807 
-Number of obs: 72702, groups:  game_id, 36351; defense, 4040; offense, 4040
+ game_id (Intercept) 0.08113 
+ defense (Intercept) 0.48438 
+ offense (Intercept) 0.38571 
+Number of obs: 73814, groups:  game_id, 36907; defense, 4577; offense, 4577
 Fixed Effects:
       (Intercept)           year2013           year2014           year2015  
-          0.16024            0.01009           -0.01248           -0.01702  
-         year2016  fielddefense_home  fieldoffense_home             d_div2  
-          0.00461           -0.11187            0.10699            0.71031  
-           d_div3             o_div2             o_div3  
-          1.18251           -0.54784           -1.03197  
+         0.158654           0.010079          -0.012484          -0.017051  
+         year2016           year2017  fielddefense_home  fieldoffense_home  
+         0.004082           0.066562          -0.110665           0.109353  
+           d_div2             d_div3             o_div2             o_div3  
+         0.729285           1.201177          -0.565903          -1.050209  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -33,56 +33,59 @@ Weights: w
 Control: glmerControl(optimizer = "nloptwrap")
 
       AIC       BIC    logLik  deviance  df.resid 
- 226918.3  227047.0 -113445.1  226890.3     72688 
+ 230486.5  230624.7 -115228.3  230456.5     73799 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--2.2079 -0.8202 -0.1273  0.5334  5.1844 
+-2.2117 -0.8219 -0.1268  0.5323  5.1914 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- game_id (Intercept) 0.007543 0.08685 
- defense (Intercept) 0.238030 0.48788 
- offense (Intercept) 0.150597 0.38807 
-Number of obs: 72702, groups:  game_id, 36351; defense, 4040; offense, 4040
+ game_id (Intercept) 0.006581 0.08113 
+ defense (Intercept) 0.234624 0.48438 
+ offense (Intercept) 0.148770 0.38571 
+Number of obs: 73814, groups:  game_id, 36907; defense, 4577; offense, 4577
 
 Fixed effects:
-                  Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        0.16024    0.03218   4.979 6.38e-07 ***
-year2013           0.01009    0.03298   0.306    0.760    
-year2014          -0.01248    0.03297  -0.379    0.705    
-year2015          -0.01702    0.03291  -0.517    0.605    
-year2016           0.00461    0.03284   0.140    0.888    
-fielddefense_home -0.11187    0.01465  -7.638 2.21e-14 ***
-fieldoffense_home  0.10699    0.01446   7.399 1.37e-13 ***
-d_div2             0.71031    0.08910   7.972 1.56e-15 ***
-d_div3             1.18251    0.09799  12.068  < 2e-16 ***
-o_div2            -0.54784    0.08795  -6.229 4.69e-10 ***
-o_div3            -1.03197    0.09718 -10.619  < 2e-16 ***
+                   Estimate Std. Error z value Pr(>|z|)    
+(Intercept)        0.158654   0.031538   5.031 4.89e-07 ***
+year2013           0.010079   0.032775   0.308    0.758    
+year2014          -0.012484   0.032769  -0.381    0.703    
+year2015          -0.017051   0.032707  -0.521    0.602    
+year2016           0.004082   0.032634   0.125    0.900    
+year2017           0.066562   0.045193   1.473    0.141    
+fielddefense_home -0.110665   0.014488  -7.638 2.20e-14 ***
+fieldoffense_home  0.109353   0.014300   7.647 2.05e-14 ***
+d_div2             0.729285   0.086506   8.430  < 2e-16 ***
+d_div3             1.201177   0.095846  12.532  < 2e-16 ***
+o_div2            -0.565903   0.085489  -6.620 3.60e-11 ***
+o_div3            -1.050209   0.095105 -11.043  < 2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Correlation of Fixed Effects:
-            (Intr) yr2013 yr2014 yr2015 yr2016 flddf_ fldff_ d_div2 d_div3
-year2013    -0.515                                                        
-year2014    -0.512  0.505                                                 
-year2015    -0.514  0.506  0.506                                          
-year2016    -0.514  0.507  0.507  0.508                                   
-filddfns_hm -0.394 -0.001 -0.006 -0.005 -0.007                            
-fildffns_hm -0.398 -0.001 -0.006 -0.005 -0.007  0.902                     
-d_div2      -0.092  0.000 -0.001 -0.002  0.000  0.001 -0.015              
-d_div3      -0.084  0.000  0.001  0.001  0.002 -0.001 -0.015  0.824       
-o_div2      -0.054 -0.001 -0.002 -0.001 -0.003 -0.005  0.012 -0.945 -0.805
-o_div3      -0.051  0.000 -0.001 -0.001 -0.002 -0.001  0.013 -0.800 -0.966
-            o_div2
-year2013          
-year2014          
-year2015          
-year2016          
-filddfns_hm       
-fildffns_hm       
-d_div2            
-d_div3            
-o_div2            
-o_div3       0.830
+            (Intr) yr2013 yr2014 yr2015 yr2016 yr2017 flddf_ fldff_ d_div2
+year2013    -0.523                                                        
+year2014    -0.519  0.505                                                 
+year2015    -0.521  0.506  0.506                                          
+year2016    -0.522  0.507  0.507  0.508                                   
+year2017    -0.434  0.365  0.365  0.366  0.367                            
+filddfns_hm -0.398 -0.001 -0.006 -0.005 -0.006  0.005                     
+fildffns_hm -0.402 -0.001 -0.006 -0.005 -0.006  0.006  0.901              
+d_div2      -0.087  0.000 -0.001 -0.002  0.000  0.015  0.001 -0.015       
+d_div3      -0.078  0.000  0.001  0.001  0.002  0.009 -0.001 -0.015  0.819
+o_div2      -0.053 -0.001 -0.002 -0.001 -0.003  0.018 -0.004  0.012 -0.946
+o_div3      -0.048  0.000 -0.001 -0.001 -0.002  0.011 -0.001  0.013 -0.795
+            d_div3 o_div2
+year2013                 
+year2014                 
+year2015                 
+year2016                 
+year2017                 
+filddfns_hm              
+fildffns_hm              
+d_div2                   
+d_div3                   
+o_div2      -0.801       
+o_div3      -0.968  0.824
 [1] TRUE
