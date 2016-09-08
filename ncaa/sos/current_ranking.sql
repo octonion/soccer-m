@@ -44,7 +44,7 @@ order by str desc);
 select
 rk,
 team,
-div_id as div,
+'D'||div_id::text as div,
 str,
 ofs,
 dfs,
@@ -54,21 +54,21 @@ order by rk asc;
 
 select
 row_number() over (order by str desc nulls last) as rk,
-team,div_id as div,str,ofs,dfs,sos
+team,'D'||div_id::text as div,str,ofs,dfs,sos
 from r
 where div_id=1
 order by rk asc;
 
 select
 row_number() over (order by str desc nulls last) as rk,
-team,div_id as div,str,ofs,dfs,sos
+team,'D'||div_id::text as div,str,ofs,dfs,sos
 from r
 where div_id=2
 order by rk asc;
 
 select
 row_number() over (order by str desc nulls last) as rk,
-team,div_id as div,str,ofs,dfs,sos
+team,'D'||div_id::text as div,str,ofs,dfs,sos
 from r
 where div_id=3
 order by rk asc;
