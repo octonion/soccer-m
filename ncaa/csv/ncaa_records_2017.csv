@@ -1,270 +1,270 @@
 year,team_id,team_name,wins,losses,ties,total_games
-2017,30123,Academy of Art,0,0,18,18
-2017,929,Adams St.,1,0,17,18
+2017,30123,Academy of Art,0,1,17,18
+2017,929,Adams St.,3,0,15,18
 2017,3,Adelphi,1,1,14,16
 2017,4,Adrian,1,1,16,18
 2017,721,Air Force,1,2,16,19
-2017,5,Akron,2,2,14,18
-2017,10,Ala.-Huntsville,0,0,16,16
+2017,5,Akron,3,2,13,18
+2017,10,Ala.-Huntsville,0,3,13,16
 2017,14,Albany (NY),1,2,14,17
 2017,2798,Albertus Magnus,2,1,14,17
 2017,15,Albion,1,1,16,18
 2017,16,Albright,1,3,13,17
-2017,934,Alderson Broaddus,0,1,15,16
-2017,18,Alfred,1,1,15,17
+2017,934,Alderson Broaddus,1,1,14,16
+2017,18,Alfred,2,1,14,17
 2017,30170,Alfred St.,1,1,11,13
-2017,19,Allegheny,0,1,17,18
-2017,21,Alma,3,0,16,19
+2017,19,Allegheny,1,1,16,18
+2017,21,Alma,4,0,15,19
 2017,938,Alvernia,0,3,14,17
 2017,23,American,2,0,17,19
-2017,22,American Int'l,0,1,16,17
+2017,22,American Int'l,2,1,14,17
 2017,24,Amherst,1,0,14,15
 2017,939,Anderson (IN),1,1,16,18
-2017,13028,Anderson (SC),1,0,15,16
-2017,26,Anna Maria,0,1,15,16
+2017,13028,Anderson (SC),3,0,13,16
+2017,26,Anna Maria,0,2,14,16
 2017,27,Appalachian St.,0,3,14,17
 2017,966,Arcadia,2,1,15,18
 2017,725,Army West Point,1,2,15,18
-2017,35,Ashland,1,0,17,18
+2017,35,Ashland,2,0,16,18
 2017,36,Assumption,0,1,15,16
 2017,38,Augsburg,0,3,15,18
-2017,40,Augustana (IL),0,2,16,18
-2017,42,Aurora,1,1,16,18
-2017,953,Austin,1,1,17,19
+2017,40,Augustana (IL),0,3,15,18
+2017,42,Aurora,2,1,15,18
+2017,953,Austin,2,1,16,19
 2017,44,Averett,1,2,15,18
-2017,30146,Azusa Pacific,0,1,16,17
+2017,30146,Azusa Pacific,0,2,15,17
 2017,45,Babson,1,2,15,18
 2017,46,Baldwin Wallace,0,3,16,19
 2017,962,Bard,2,0,15,17
-2017,49,Barry,1,0,15,16
-2017,15646,Barton,0,0,17,17
-2017,58,Baruch,0,1,15,16
-2017,50,Bates,0,0,15,15
-2017,26107,Becker,0,2,16,18
-2017,52,Bellarmine,0,0,18,18
+2017,49,Barry,3,0,13,16
+2017,15646,Barton,2,1,14,17
+2017,58,Baruch,0,1,14,15
+2017,50,Bates,1,0,14,15
+2017,26107,Becker,0,3,15,18
+2017,52,Bellarmine,2,1,15,18
 2017,14927,Belmont,1,2,15,18
 2017,2683,Belmont Abbey,0,1,15,16
-2017,53,Beloit,1,1,14,16
-2017,296,Benedictine (IL),2,1,15,18
-2017,56,Bentley,0,3,14,17
+2017,53,Beloit,2,1,13,16
+2017,296,Benedictine (IL),2,2,14,18
+2017,56,Bentley,0,2,14,16
 2017,973,Berry,2,1,14,17
 2017,59,Bethany (WV),0,2,17,19
-2017,30038,Bethany Lutheran,0,2,18,20
-2017,60,Bethel (MN),2,1,15,18
-2017,62,Binghamton,2,0,16,18
+2017,30038,Bethany Lutheran,0,3,17,20
+2017,60,Bethel (MN),3,1,14,18
+2017,62,Binghamton,3,0,15,18
 2017,28593,Birmingham-So.,3,0,12,15
 2017,64,Blackburn,0,1,17,18
-2017,984,Bloomfield,0,1,16,17
-2017,65,Bloomsburg,1,1,16,18
+2017,984,Bloomfield,1,2,14,17
+2017,65,Bloomsburg,1,2,15,18
 2017,987,Bluffton,2,1,15,18
 2017,67,Boston College,3,1,12,16
 2017,68,Boston U.,0,1,15,16
-2017,69,Bowdoin,0,0,15,15
+2017,69,Bowdoin,1,0,14,15
 2017,71,Bowling Green,4,0,14,18
-2017,72,Bradley,1,2,16,19
+2017,72,Bradley,1,4,15,20
 2017,73,Brandeis,3,0,15,18
-2017,30094,Brevard,1,0,16,17
-2017,74,Bridgeport,0,1,15,16
+2017,30094,Brevard,1,1,15,17
+2017,74,Bridgeport,0,3,13,16
 2017,75,Bridgewater (VA),1,0,17,18
-2017,76,Bridgewater St.,1,0,16,17
+2017,76,Bridgewater St.,2,0,15,17
 2017,78,Brockport,0,2,14,16
-2017,79,Brooklyn,0,2,16,18
-2017,80,Brown,1,0,16,17
+2017,79,Brooklyn,1,2,15,18
+2017,80,Brown,2,0,15,17
 2017,81,Bryant,0,3,13,16
-2017,30188,Bryn Athyn,0,1,17,18
-2017,83,Bucknell,1,2,16,19
-2017,84,Buena Vista,0,2,16,18
-2017,86,Buffalo,4,0,13,17
+2017,30188,Bryn Athyn,0,2,16,18
+2017,83,Bucknell,1,3,15,19
+2017,84,Buena Vista,1,2,15,18
+2017,86,Buffalo,5,0,12,17
 2017,85,Buffalo St.,2,1,15,18
-2017,87,Butler,2,0,15,17
+2017,87,Butler,3,0,14,17
 2017,2685,BYU-Hawaii,0,0,17,17
 2017,88,Cabrini,2,1,14,17
 2017,1305,Cairn,0,2,16,18
 2017,105,Cal Lutheran,2,1,15,18
 2017,90,Cal Poly,0,4,13,17
-2017,91,Cal Poly Pomona,1,0,17,18
-2017,92,Cal St. Dom. Hills,0,0,18,18
-2017,98,Cal St. East Bay,1,0,17,18
+2017,91,Cal Poly Pomona,2,1,15,18
+2017,92,Cal St. Dom. Hills,1,1,16,18
+2017,98,Cal St. East Bay,2,1,15,18
 2017,97,Cal St. Fullerton,1,3,16,20
 2017,100,Cal St. L.A.,1,0,16,17
 2017,30055,Cal St. Monterey Bay,1,1,14,16
 2017,93,Cal St. San B'dino,1,1,13,15
 2017,103,Stanislaus St.,0,1,17,18
-2017,995,Caldwell,2,2,14,18
+2017,995,Caldwell,1,2,14,17
 2017,107,California,1,2,14,17
-2017,106,California (PA),1,0,16,17
-2017,30135,California Baptist,1,0,17,18
-2017,89,Caltech,0,1,16,17
-2017,114,Calvin,1,1,16,18
+2017,106,California (PA),2,0,15,17
+2017,30135,California Baptist,2,0,16,18
+2017,89,Caltech,0,2,15,17
+2017,114,Calvin,2,1,15,18
 2017,115,Campbell,1,1,15,17
-2017,116,Canisius,1,3,14,18
+2017,116,Canisius,2,3,13,18
 2017,117,Capital,1,1,16,18
 2017,118,Carleton,2,1,15,18
 2017,119,Carnegie Mellon,2,0,15,17
-2017,120,Carroll (WI),1,2,16,19
-2017,1000,Carson-Newman,0,0,17,17
+2017,120,Carroll (WI),1,3,14,18
+2017,1000,Carson-Newman,1,1,15,17
 2017,121,Carthage,3,1,15,19
 2017,122,CWRU,2,1,15,18
 2017,123,Castleton,0,2,16,18
-2017,1001,Catawba,0,0,16,16
+2017,1001,Catawba,1,1,14,16
 2017,124,Catholic,2,1,15,18
 2017,23624,Cazenovia,1,1,17,19
-2017,480,CCNY,1,2,14,17
-2017,30124,Cedarville,0,0,18,18
-2017,125,Centenary (LA),3,0,17,20
+2017,480,CCNY,2,3,12,17
+2017,30124,Cedarville,1,1,16,18
+2017,125,Centenary (LA),3,1,16,20
 2017,12884,Centenary (NJ),1,1,15,17
-2017,126,Central (IA),1,1,15,17
-2017,1004,Central Ark.,2,1,13,16
+2017,126,Central (IA),2,1,14,17
+2017,1004,Central Ark.,2,2,12,16
 2017,127,Central Conn. St.,0,2,15,17
-2017,132,Centre,2,0,14,16
+2017,132,Centre,3,0,13,16
 2017,133,Chaminade,0,0,15,15
 2017,134,Chapman,2,0,17,19
-2017,1013,Charleston (WV),1,0,16,17
+2017,1013,Charleston (WV),3,0,14,17
 2017,458,Charlotte,2,0,14,16
-2017,21323,Chestnut Hill,0,1,14,15
+2017,21323,Chestnut Hill,0,2,13,15
 2017,137,Chicago,3,0,15,18
-2017,95,Chico St.,0,1,15,16
-2017,8875,Chowan,0,1,16,17
+2017,95,Chico St.,1,1,14,16
+2017,8875,Chowan,1,2,14,17
 2017,139,Chris. Newport,3,0,15,18
-2017,1015,Christian Bros.,0,1,16,17
-2017,140,Cincinnati,1,2,13,16
-2017,142,Claremont-M-S,3,0,15,18
+2017,1015,Christian Bros.,2,1,14,17
+2017,140,Cincinnati,1,3,12,16
+2017,142,Claremont-M-S,4,0,14,18
 2017,145,Clark (MA),2,0,16,18
-2017,146,Clarkson,2,0,15,17
-2017,20576,Clayton St.,0,0,17,17
-2017,147,Clemson,3,0,14,17
+2017,146,Clarkson,3,1,13,17
+2017,20576,Clayton St.,0,2,15,17
+2017,147,Clemson,3,1,13,17
 2017,148,Cleveland St.,2,2,13,17
 2017,722,Coast Guard,3,0,14,17
-2017,149,Coastal Caro.,0,2,14,16
-2017,30083,Cobleskill St.,1,1,17,19
+2017,149,Coastal Caro.,1,2,13,16
+2017,30083,Cobleskill St.,1,1,16,18
 2017,150,Coe,0,2,16,18
-2017,1023,Coker,0,0,16,16
+2017,1023,Coker,1,0,15,16
 2017,1014,Col. of Charleston,2,1,13,16
 2017,151,Colby,0,0,15,15
 2017,152,Colby-Sawyer,2,1,14,17
 2017,153,Colgate,3,1,14,18
-2017,11403,Colo. Christian,0,0,18,18
-2017,154,Colorado Col.,1,0,17,18
-2017,11416,Colorado Mesa,0,0,18,18
-2017,155,Colorado Mines,1,0,17,18
-2017,2720,Colorado St.-Pueblo,0,0,18,18
+2017,11403,Colo. Christian,0,3,15,18
+2017,154,Colorado Col.,2,0,16,18
+2017,11416,Colorado Mesa,1,0,17,18
+2017,155,Colorado Mines,1,2,15,18
+2017,2720,Colorado St.-Pueblo,2,1,15,18
 2017,158,Columbia,1,1,15,17
-2017,1028,Concord,0,0,17,17
-2017,162,Concordia (NY),0,0,16,16
-2017,24400,Concordia (TX),2,1,13,16
-2017,160,Concordia Chicago,0,2,14,16
-2017,1036,Concordia Wisconsin,2,0,16,18
-2017,161,Concordia-M'head,1,1,16,18
-2017,163,Connecticut Col.,0,0,15,15
+2017,1028,Concord,1,2,14,17
+2017,162,Concordia (NY),0,2,14,16
+2017,24400,Concordia (TX),3,1,12,16
+2017,160,Concordia Chicago,1,2,13,16
+2017,1036,Concordia Wisconsin,2,0,15,17
+2017,161,Concordia-M'head,2,1,15,18
+2017,163,Connecticut Col.,1,0,14,15
 2017,167,Cornell,0,1,16,17
-2017,166,Cornell College,0,1,17,18
+2017,166,Cornell College,1,1,16,18
 2017,30111,Covenant,0,2,15,17
-2017,169,Creighton,1,1,15,17
-2017,30035,Crown (MN),0,2,17,19
-2017,94,CSU Bakersfield,1,2,15,18
+2017,169,Creighton,2,1,14,17
+2017,30035,Crown (MN),0,3,16,19
+2017,94,CSU Bakersfield,1,3,14,18
 2017,101,CSUN,2,1,15,18
 2017,170,Curry,2,2,15,19
 2017,1059,D'Youville,0,2,15,17
-2017,30174,Daemen,0,3,15,18
-2017,1044,Dallas,3,0,15,18
-2017,1045,Dallas Baptist,1,0,17,18
-2017,2691,Daniel Webster,2,0,17,19
-2017,172,Dartmouth,0,0,17,17
-2017,173,Davidson,0,3,14,17
-2017,174,Davis & Elkins,0,0,16,16
-2017,175,Dayton,2,2,14,18
+2017,30174,Daemen,0,4,14,18
+2017,1044,Dallas,3,1,14,18
+2017,1045,Dallas Baptist,1,1,16,18
+2017,2691,Daniel Webster,2,1,16,19
+2017,172,Dartmouth,0,1,16,17
+2017,173,Davidson,1,3,13,17
+2017,174,Davis & Elkins,0,1,15,16
+2017,175,Dayton,2,3,13,18
 2017,1050,Defiance,0,2,16,18
 2017,180,Delaware,4,0,14,18
-2017,179,Delaware Valley,2,0,18,20
-2017,181,Delta St.,0,0,18,18
+2017,179,Delaware Valley,2,1,17,20
+2017,181,Delta St.,1,1,16,18
 2017,182,Denison,1,1,15,17
-2017,183,Denver,3,0,15,18
+2017,183,Denver,4,0,14,18
 2017,176,DePaul,2,1,15,18
 2017,177,DePauw,1,0,16,17
 2017,20,DeSales,1,3,15,19
 2017,184,Detroit,0,2,15,17
 2017,185,Dickinson,0,1,16,17
-2017,186,Dist. Columbia,0,0,17,17
-2017,30095,Dixie St.,0,2,16,18
-2017,30118,Dominican (CA),0,1,17,18
+2017,186,Dist. Columbia,0,3,15,18
+2017,30095,Dixie St.,0,3,15,18
+2017,30118,Dominican (CA),0,2,16,18
 2017,1332,Dominican (IL),0,1,16,17
-2017,8956,Dominican (NY),0,2,16,18
+2017,8956,Dominican (NY),1,2,14,17
 2017,189,Drake,2,2,13,17
 2017,190,Drew,2,1,14,17
 2017,191,Drexel,0,2,15,17
-2017,1057,Drury,0,0,17,17
+2017,1057,Drury,3,0,14,17
 2017,192,Dubuque,3,0,14,17
 2017,193,Duke,2,0,14,16
 2017,194,Duquesne,1,2,14,17
 2017,195,Earlham,2,1,14,17
-2017,197,East Stroudsburg,0,1,16,17
+2017,197,East Stroudsburg,0,2,15,17
 2017,198,ETSU,2,1,14,17
-2017,1062,East Tex. Baptist,1,0,17,18
+2017,1062,East Tex. Baptist,2,1,15,18
 2017,203,East. Mennonite,1,1,18,20
 2017,8968,Eastern,2,0,16,18
 2017,200,Eastern Conn. St.,0,2,14,16
 2017,201,Eastern Ill.,1,2,14,17
-2017,206,Eastern N.M.,0,1,17,18
+2017,206,Eastern N.M.,1,1,16,18
 2017,1064,Eastern Nazarene,2,2,15,19
-2017,208,Eckerd,0,0,15,15
+2017,208,Eckerd,2,0,13,15
 2017,1066,Edgewood,2,1,16,19
 2017,211,Elizabethtown,3,0,14,17
 2017,212,Elmhurst,2,0,16,18
 2017,213,Elmira,0,1,16,17
-2017,532,Elms,0,1,17,18
+2017,532,Elms,0,2,16,18
 2017,1068,Elon,3,1,13,17
 2017,214,Emerson,0,2,14,16
-2017,30193,Emmanuel (GA),0,0,16,16
-2017,215,Emmanuel (MA),1,1,16,18
+2017,30193,Emmanuel (GA),0,2,14,16
+2017,215,Emmanuel (MA),2,1,15,18
 2017,217,Emory,1,1,15,17
 2017,216,Emory & Henry,2,0,17,19
 2017,8981,Endicott,2,1,15,18
-2017,1072,Erskine,1,0,16,17
+2017,1072,Erskine,1,1,15,17
 2017,218,Eureka,1,0,19,20
 2017,219,Evansville,2,2,15,19
 2017,220,Fairfield,1,1,15,17
 2017,222,Fairleigh Dickinson,1,3,13,17
-2017,27892,Farmingdale St.,1,1,16,18
+2017,27892,Farmingdale St.,1,2,15,18
 2017,221,FDU-Florham,0,2,15,17
-2017,23157,Felician,0,1,16,17
+2017,23157,Felician,0,2,15,17
 2017,225,Ferrum,1,2,15,18
-2017,28755,FGCU,1,2,14,17
-2017,1079,Findlay,0,0,18,18
+2017,28755,FGCU,2,2,13,17
+2017,1079,Findlay,1,1,16,18
 2017,30032,Finlandia,1,1,16,18
-2017,227,Fitchburg St.,0,1,16,17
+2017,227,Fitchburg St.,0,2,15,17
 2017,231,FIU,2,1,13,16
 2017,229,Fla. Atlantic,1,2,13,16
-2017,233,Fla. Southern,1,0,15,16
-2017,30092,Flagler,0,1,15,16
+2017,233,Fla. Southern,1,0,13,14
+2017,30092,Flagler,0,2,14,16
 2017,230,Florida Tech,1,0,14,15
 2017,11538,Fontbonne,0,3,16,19
 2017,236,Fordham,1,2,14,17
-2017,9011,Fort Hays St.,0,0,18,18
-2017,1083,Fort Lewis,0,0,18,18
+2017,9011,Fort Hays St.,1,1,16,18
+2017,1083,Fort Lewis,0,3,16,19
 2017,238,Framingham St.,1,2,15,18
-2017,1085,Francis Marion,0,0,16,16
-2017,30069,Franciscan,0,1,16,17
-2017,239,Frank. & Marsh.,2,0,15,17
-2017,2694,Franklin,0,2,15,17
+2017,1085,Francis Marion,1,1,14,16
+2017,30069,Franciscan,1,1,15,17
+2017,239,Frank. & Marsh.,3,0,14,17
+2017,2694,Franklin,0,3,14,17
 2017,241,Franklin Pierce,1,0,14,15
-2017,242,Fredonia,1,0,17,18
+2017,242,Fredonia,1,1,16,18
 2017,30147,Fresno Pacific,1,0,17,18
 2017,243,Frostburg St.,1,2,15,18
 2017,244,Furman,2,1,14,17
 2017,253,Ga. Southern,2,2,14,18
-2017,1097,Ga. Southwestern,0,0,15,15
+2017,1097,Ga. Southwestern,1,1,13,15
 2017,245,Gallaudet,1,1,17,19
-2017,246,Gannon,0,1,15,16
+2017,246,Gannon,1,1,14,16
 2017,1092,Gardner-Webb,1,2,13,16
-2017,30084,Geneva,2,0,16,18
-2017,1094,George Fox,0,3,16,19
+2017,30084,Geneva,2,1,15,18
+2017,1094,George Fox,0,4,15,19
 2017,248,George Mason,0,2,14,16
 2017,249,George Washington,1,1,16,18
 2017,251,Georgetown,0,4,13,17
-2017,254,Georgia St.,3,1,15,19
-2017,9004,Georgian Court,0,1,16,17
+2017,254,Georgia St.,3,2,14,19
+2017,9004,Georgian Court,0,2,15,17
 2017,258,Gettysburg,1,1,14,16
-2017,8366,Goldey-Beacom,1,0,17,18
+2017,8366,Goldey-Beacom,1,1,16,18
 2017,260,Gonzaga,3,0,15,18
 2017,1099,Gordon,2,1,13,16
 2017,1467,Goucher,2,0,16,18
@@ -274,57 +274,57 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,263,Greensboro,1,1,14,16
 2017,1111,Greenville,0,3,16,19
 2017,264,Grinnell,1,2,14,17
-2017,265,Grove City,3,0,15,18
+2017,265,Grove City,4,0,14,18
 2017,1112,Guilford,3,0,15,18
-2017,266,Gust. Adolphus,0,3,13,16
+2017,266,Gust. Adolphus,1,3,12,16
 2017,12399,Gwynedd Mercy,2,1,16,19
 2017,267,Hamilton,0,1,14,15
 2017,268,Hamline,3,1,14,18
 2017,269,Hampden-Sydney,2,0,15,17
 2017,1115,Hanover,1,1,16,18
-2017,271,Hardin-Simmons,0,1,13,14
+2017,271,Hardin-Simmons,0,2,12,14
 2017,1116,Harding,2,1,15,18
 2017,272,Hartford,1,2,16,19
 2017,273,Hartwick,2,1,14,17
-2017,275,Harvard,1,0,16,17
+2017,275,Harvard,1,1,15,17
 2017,276,Haverford,1,1,15,17
-2017,2697,Hawaii Hilo,0,0,18,18
-2017,2696,Hawaii Pacific,0,0,17,17
-2017,278,Heidelberg,0,2,15,17
+2017,2697,Hawaii Hilo,0,1,17,18
+2017,2696,Hawaii Pacific,0,1,16,17
+2017,278,Heidelberg,0,3,14,17
 2017,1124,Hendrix,0,2,14,16
 2017,19651,High Point,2,0,16,18
 2017,8398,Hilbert,0,2,14,16
-2017,281,Hiram,1,1,15,17
+2017,281,Hiram,1,2,14,17
 2017,282,Hobart and William Smith Colleges,0,2,15,17
 2017,283,Hofstra,1,2,14,17
-2017,285,Holy Cross,2,1,15,18
-2017,1126,Holy Family,0,0,18,18
-2017,30175,Holy Names,0,1,17,18
-2017,8404,Hood,2,0,16,18
-2017,286,Hope,0,2,17,19
-2017,30160,Houghton,1,0,16,17
-2017,287,Houston Baptist,1,2,14,17
-2017,290,Howard,1,3,15,19
+2017,285,Holy Cross,3,1,14,18
+2017,1126,Holy Family,1,2,16,19
+2017,30175,Holy Names,0,2,16,18
+2017,8404,Hood,3,0,15,18
+2017,286,Hope,1,3,15,19
+2017,30160,Houghton,2,1,14,17
+2017,287,Houston Baptist,2,2,13,17
+2017,290,Howard,1,4,14,19
 2017,2741,Howard Payne,0,2,13,15
-2017,291,Humboldt St.,1,0,15,16
-2017,292,Hunter,0,1,15,16
+2017,291,Humboldt St.,1,1,14,16
+2017,292,Hunter,0,2,14,16
 2017,1130,Huntingdon,0,1,16,17
 2017,1133,Husson,0,2,14,16
 2017,300,Ill. Wesleyan,2,0,15,17
 2017,302,Ill.-Chicago,0,3,14,17
-2017,30050,Ill.-Springfield,0,1,17,18
+2017,30050,Ill.-Springfield,1,2,15,18
 2017,297,Illinois Col.,0,1,17,18
 2017,303,Immaculata,2,1,15,18
 2017,2743,Incarnate Word,0,4,13,17
 2017,306,Indiana,3,0,14,17
 2017,310,Iona,1,3,14,18
-2017,30173,Iowa Wesleyan,1,1,18,20
-2017,308,Fort Wayne,2,2,14,18
+2017,30173,Iowa Wesleyan,1,2,17,20
+2017,308,Fort Wayne,4,2,13,19
 2017,313,Ithaca,0,3,13,16
 2017,2699,IUPUI,0,3,15,18
-2017,316,Jacksonville,2,2,12,16
+2017,316,Jacksonville,3,2,11,16
 2017,317,James Madison,0,4,13,17
-2017,320,John Carroll,1,1,16,18
+2017,320,John Carroll,2,1,15,18
 2017,321,John Jay,1,2,14,17
 2017,322,Johns Hopkins,2,0,15,17
 2017,22626,Johnson & Wales (RI),2,1,15,18
@@ -332,438 +332,438 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,325,Juniata,1,2,15,18
 2017,326,Kalamazoo,0,0,17,17
 2017,329,Kean,3,1,16,20
-2017,330,Keene St.,1,0,18,19
+2017,330,Keene St.,2,0,17,19
 2017,334,Kentucky,3,0,14,17
 2017,335,Kenyon,2,0,15,17
 2017,1159,Keuka,2,1,13,16
 2017,30047,Keystone,1,0,15,16
-2017,30051,King (TN),0,1,16,17
+2017,30051,King (TN),1,2,14,17
 2017,336,King's (PA),0,2,16,18
 2017,337,Knox,2,1,15,18
-2017,333,Ky. Wesleyan,0,0,16,16
-2017,1163,La Roche,1,1,16,18
-2017,340,La Salle,2,1,15,18
+2017,333,Ky. Wesleyan,0,3,13,16
+2017,1163,La Roche,2,1,15,18
+2017,340,La Salle,3,1,14,18
 2017,341,La Verne,2,0,17,19
 2017,342,Lafayette,0,4,14,18
-2017,1162,LaGrange,0,2,16,18
-2017,2746,Lake Erie,2,0,16,18
+2017,1162,LaGrange,1,2,15,18
+2017,2746,Lake Erie,2,1,15,18
 2017,344,Lake Forest,1,2,15,18
-2017,1164,Lakeland,0,3,15,18
+2017,1164,Lakeland,0,4,14,18
 2017,30085,Lancaster Bible,1,2,16,19
-2017,1167,Lander,0,0,15,15
+2017,1167,Lander,1,2,12,15
 2017,8486,Lasell,0,2,16,18
 2017,348,Lawrence,0,2,15,17
-2017,349,Le Moyne,0,0,17,17
+2017,349,Le Moyne,1,0,16,17
 2017,351,Lebanon Valley,3,0,14,17
 2017,30013,Lee,1,2,14,17
-2017,13302,Lees-McRae,0,1,16,17
+2017,13302,Lees-McRae,0,2,15,17
 2017,352,Lehigh,1,2,15,18
-2017,279,Lehman,1,0,15,16
-2017,1170,Lenoir-Rhyne,0,0,17,17
-2017,24317,Lesley,0,2,16,18
+2017,279,Lehman,1,1,14,16
+2017,1170,Lenoir-Rhyne,2,0,15,17
+2017,24317,Lesley,0,3,15,18
 2017,8490,LeTourneau,1,1,16,18
-2017,354,Lewis,0,1,16,17
+2017,354,Lewis,1,2,14,17
 2017,355,Liberty,3,1,13,17
-2017,1174,Limestone,0,0,16,16
-2017,1176,Lincoln Memorial,0,0,16,16
-2017,30136,Lindenwood (MO),1,0,18,19
+2017,1174,Limestone,2,0,14,16
+2017,1176,Lincoln Memorial,2,1,13,16
+2017,30136,Lindenwood (MO),1,2,15,18
 2017,1179,Linfield,0,1,18,19
-2017,28600,Lipscomb,2,1,13,16
+2017,28600,Lipscomb,2,2,12,16
 2017,361,LIU Brooklyn,2,2,13,17
-2017,362,LIU Post,1,0,15,16
+2017,362,LIU Post,3,0,13,16
 2017,360,Lock Haven,2,1,14,17
 2017,363,Longwood,1,1,16,18
 2017,364,Loras,2,0,14,16
 2017,1182,Louisiana Col.,0,3,15,18
-2017,367,Louisville,2,1,14,17
-2017,371,Loyola Chicago,3,0,14,17
+2017,367,Louisville,3,1,13,17
+2017,371,Loyola Chicago,4,0,13,17
 2017,369,Loyola Maryland,1,3,13,17
 2017,370,Loyola Marymount,2,2,14,18
-2017,30177,Lubbock Christian,0,1,17,18
+2017,30177,Lubbock Christian,0,3,15,18
 2017,372,Luther,2,0,16,18
-2017,373,Lycoming,0,2,17,19
+2017,373,Lycoming,1,2,16,19
 2017,374,Lynchburg,1,0,17,18
 2017,30065,Lyndon St.,2,0,13,15
-2017,20794,Lynn,2,0,13,15
+2017,20794,Lynn,4,0,11,15
 2017,376,Macalester,2,0,16,18
 2017,377,MacMurray,0,2,12,14
 2017,378,Maine Maritime,0,2,15,17
-2017,30137,Malone,1,0,15,16
+2017,30137,Malone,1,2,13,16
 2017,1192,Manchester,2,0,16,18
 2017,381,Manhattan,0,3,14,17
-2017,382,Manhattanville,2,1,16,19
-2017,1194,Maranatha Baptist,1,1,15,17
-2017,1196,Marian (WI),1,0,16,17
+2017,382,Manhattanville,3,1,15,19
+2017,1194,Maranatha Baptist,1,2,14,17
+2017,1196,Marian (WI),1,1,15,17
 2017,385,Marietta,2,1,16,19
-2017,386,Marist,2,0,16,18
+2017,386,Marist,3,0,15,18
 2017,387,Marquette,3,1,12,16
-2017,1199,Mars Hill,0,0,16,16
+2017,1199,Mars Hill,0,2,14,16
 2017,388,Marshall,2,2,14,18
-2017,8597,Martin Luther,1,2,15,18
-2017,30075,Mary,0,0,16,16
-2017,1203,Mary Hardin-Baylor,2,1,14,17
+2017,8597,Martin Luther,1,3,14,18
+2017,30075,Mary,4,0,12,16
+2017,1203,Mary Hardin-Baylor,3,1,13,17
 2017,390,Mary Washington,3,0,14,17
 2017,392,Maryland,3,0,14,17
 2017,394,Marymount (VA),0,2,16,18
-2017,395,Maryville (MO),1,0,17,18
-2017,396,Maryville (TN),1,1,16,18
+2017,395,Maryville (MO),2,1,15,18
+2017,396,Maryville (TN),2,1,15,18
 2017,397,Marywood,1,1,14,16
 2017,399,Mass. Maritime,2,0,15,17
 2017,400,Massachusetts,0,3,15,18
 2017,773,McDaniel,2,1,14,17
-2017,30138,McKendree,0,0,16,16
+2017,30138,McKendree,1,0,15,16
 2017,486,MCLA,1,2,13,16
 2017,8530,McMurry,1,2,14,17
-2017,379,Me.-Farmington,1,0,15,16
-2017,30040,Me.-Presque Isle,0,2,13,15
-2017,23725,Medaille,0,2,16,18
+2017,379,Me.-Farmington,1,1,14,16
+2017,30040,Me.-Presque Isle,0,3,12,15
+2017,23725,Medaille,1,3,14,18
 2017,403,Medgar Evers,1,2,13,16
 2017,404,Memphis,3,1,13,17
-2017,406,Mercer,3,1,15,19
-2017,724,Merchant Marine,0,1,16,17
+2017,406,Mercer,4,1,14,19
+2017,724,Merchant Marine,0,2,15,17
 2017,407,Mercy,2,0,14,16
-2017,408,Mercyhurst,0,0,18,18
-2017,410,Merrimack,2,0,15,17
-2017,411,Messiah,1,0,17,18
-2017,412,Methodist,0,0,17,17
-2017,413,MSU Denver,1,0,17,18
-2017,418,Michigan,0,1,16,17
-2017,416,Michigan St.,2,1,14,17
-2017,420,Middlebury,0,0,15,15
-2017,1222,Midwestern St.,0,0,18,18
-2017,423,Millersville,2,0,15,17
+2017,408,Mercyhurst,1,2,15,18
+2017,410,Merrimack,2,1,14,17
+2017,411,Messiah,2,0,16,18
+2017,412,Methodist,0,1,16,17
+2017,413,MSU Denver,2,1,15,18
+2017,418,Michigan,0,2,15,17
+2017,416,Michigan St.,3,1,13,17
+2017,420,Middlebury,1,0,14,15
+2017,1222,Midwestern St.,1,0,17,18
+2017,423,Millersville,3,0,14,17
 2017,424,Millikin,2,0,15,17
-2017,426,Millsaps,1,2,14,17
+2017,426,Millsaps,1,3,13,17
 2017,797,Milwaukee,1,2,14,17
-2017,1226,Minn.-Morris,0,2,16,18
+2017,1226,Minn.-Morris,0,2,15,17
 2017,16142,Misericordia,2,1,15,18
-2017,429,Mississippi Col.,0,0,16,16
+2017,429,Mississippi Col.,1,0,15,16
 2017,435,Missouri S&T,0,0,18,18
 2017,669,Missouri St.,1,1,15,17
-2017,398,MIT,1,0,16,17
-2017,30042,Mitchell,0,1,15,16
-2017,436,Mo.-St. Louis,0,1,16,17
+2017,398,MIT,1,1,15,17
+2017,30042,Mitchell,0,2,14,16
+2017,436,Mo.-St. Louis,2,1,14,17
 2017,437,Molloy,1,1,14,16
 2017,439,Monmouth,0,2,15,17
 2017,438,Monmouth (IL),0,2,16,18
-2017,205,Mont. St. Billings,0,2,16,18
-2017,442,Montclair St.,3,1,15,19
-2017,1238,Montevallo,0,0,15,15
+2017,205,Mont. St. Billings,1,2,15,18
+2017,442,Montclair St.,4,1,14,19
+2017,1238,Montevallo,3,0,12,15
 2017,443,Moravian,2,0,15,17
 2017,30067,Morrisville St.,1,1,15,17
 2017,30036,Mount Aloysius,2,1,15,18
 2017,27901,Mount Ida,2,1,14,17
-2017,1245,Mount Olive,0,0,16,16
+2017,1245,Mount Olive,0,2,14,16
 2017,452,Mount Union,1,2,14,17
-2017,20220,MSOE,1,2,16,19
+2017,20220,MSOE,2,2,15,19
 2017,8567,Mt. St. Joseph,0,0,18,18
 2017,1468,Mt. St. Mary (NY),1,2,15,18
-2017,451,Mt. St. Vincent,0,1,18,19
+2017,451,Mt. St. Vincent,0,2,17,19
 2017,453,Muhlenberg,1,2,14,17
 2017,455,Muskingum,2,1,16,19
 2017,491,N.C. Wesleyan,1,2,15,18
-2017,726,Navy,1,1,16,18
+2017,726,Navy,1,2,15,18
 2017,461,Nazareth,1,1,14,16
 2017,462,Neb. Wesleyan,1,0,16,17
 2017,1254,Neumann,0,3,15,18
 2017,467,New England Col.,3,1,14,18
-2017,469,New Hampshire,4,0,14,18
-2017,470,New Haven,1,0,16,17
-2017,319,New Jersey City,3,0,16,19
-2017,473,New Mexico,2,2,13,17
+2017,469,New Hampshire,4,1,13,18
+2017,470,New Haven,3,0,14,17
+2017,319,New Jersey City,4,0,15,19
+2017,473,New Mexico,3,2,12,17
 2017,476,New Rochelle,2,0,14,16
-2017,1257,Newberry,0,0,18,18
-2017,21772,Newbury,3,0,16,19
-2017,30054,Newman,0,0,18,18
-2017,482,Niagara,1,1,15,17
+2017,1257,Newberry,2,0,16,18
+2017,21772,Newbury,4,0,15,19
+2017,30054,Newman,1,2,16,19
+2017,482,Niagara,1,2,14,17
 2017,484,Nichols,0,3,14,17
-2017,471,NJIT,2,1,14,17
-2017,457,North Carolina,3,0,13,16
-2017,490,North Carolina St.,1,2,13,16
+2017,471,NJIT,3,1,13,17
+2017,457,North Carolina,4,0,12,16
+2017,490,North Carolina St.,1,3,12,16
 2017,492,North Central (IL),1,1,15,17
 2017,30039,North Central (MN),3,0,14,17
 2017,2711,North Florida,2,0,12,14
-2017,30052,North Georgia,1,1,16,18
-2017,9223,North Greenville,0,0,12,12
+2017,30052,North Georgia,1,2,15,18
+2017,9223,North Greenville,0,1,11,12
 2017,496,North Park,1,0,16,17
 2017,500,Northeastern,1,2,14,17
-2017,12810,Northeastern St.,0,1,16,17
-2017,503,Northern Ill.,0,2,14,16
+2017,12810,Northeastern St.,1,3,13,17
+2017,503,Northern Ill.,0,3,13,16
 2017,505,Northern Ky.,0,3,15,18
-2017,506,Northern Mich.,0,0,17,17
+2017,506,Northern Mich.,0,2,15,17
 2017,1267,Northland,0,2,14,16
-2017,1274,Northwest Nazarene,1,0,17,18
-2017,509,Northwestern,1,3,13,17
+2017,1274,Northwest Nazarene,1,1,16,18
+2017,509,Northwestern,1,4,12,17
 2017,30031,Northwestern-St. Paul,0,2,17,19
-2017,510,Northwood,0,0,17,17
-2017,511,Norwich,1,1,15,17
-2017,513,Notre Dame,4,0,13,17
-2017,30126,Notre Dame (OH),1,0,15,16
-2017,30056,Notre Dame de Namur,1,1,16,18
-2017,24639,Nova Southeastern,0,0,16,16
-2017,1277,Nyack,0,1,16,17
-2017,477,NYIT,1,0,16,17
-2017,479,NYU,1,1,16,18
+2017,510,Northwood,1,0,16,17
+2017,511,Norwich,1,2,14,17
+2017,513,Notre Dame,5,0,12,17
+2017,30126,Notre Dame (OH),1,2,13,16
+2017,30056,Notre Dame de Namur,1,2,15,18
+2017,24639,Nova Southeastern,0,1,15,16
+2017,1277,Nyack,1,2,14,17
+2017,477,NYIT,2,1,14,17
+2017,479,NYU,2,1,15,18
 2017,514,Oakland,0,3,13,16
-2017,1278,Oakland City,0,0,6,6
+2017,1278,Oakland City,0,1,5,6
 2017,515,Oberlin,1,1,16,18
 2017,516,Occidental,1,2,16,19
-2017,2713,Oglethorpe,0,2,13,15
+2017,2713,Oglethorpe,0,3,12,15
 2017,30119,Ohio Dominican,0,1,17,18
 2017,517,Ohio Northern,4,0,16,20
-2017,518,Ohio St.,0,4,14,18
-2017,15207,Ohio Valley,0,0,18,18
+2017,518,Ohio St.,1,4,13,18
+2017,15207,Ohio Valley,1,2,15,18
 2017,520,Ohio Wesleyan,3,0,14,17
-2017,30179,Okla. Christian,0,1,17,18
-2017,523,Old Dominion,2,0,14,16
+2017,30179,Okla. Christian,1,1,16,18
+2017,523,Old Dominion,2,1,13,16
 2017,524,Old Westbury,1,0,18,19
 2017,525,Olivet,0,3,17,20
 2017,464,Omaha,2,1,14,17
 2017,527,Oral Roberts,2,2,14,18
-2017,528,Oregon St.,3,0,15,18
-2017,530,Oswego St.,2,1,14,17
+2017,528,Oregon St.,3,1,14,18
+2017,530,Oswego St.,2,2,14,18
 2017,531,Otterbein,1,2,15,18
-2017,1289,Ouachita Baptist,0,0,17,17
+2017,1289,Ouachita Baptist,3,1,13,17
 2017,23008,Ozarks (AR),3,0,15,18
-2017,534,Pacific,2,2,13,17
-2017,2751,Pacific (OR),1,1,17,19
+2017,534,Pacific,3,2,12,17
+2017,2751,Pacific (OR),1,3,15,19
 2017,1297,Pacific Lutheran,1,1,18,20
-2017,30045,Palm Beach Atl.,0,1,17,18
-2017,540,Penn,0,0,17,17
+2017,30045,Palm Beach Atl.,1,2,15,18
+2017,540,Penn,0,1,16,17
 2017,30190,Penn College,0,3,17,20
-2017,539,Penn St.,2,1,14,17
+2017,539,Penn St.,2,2,13,17
 2017,30081,Penn St. Harrisburg,1,2,16,19
 2017,30114,Penn St.-Abington,2,1,12,15
-2017,25719,Penn St.-Altoona,1,1,15,17
+2017,25719,Penn St.-Altoona,2,1,14,17
 2017,538,Penn St.-Behrend,1,1,17,19
-2017,30044,Penn St.-Berks,0,2,16,18
-2017,542,Pfeiffer,0,0,17,17
+2017,30044,Penn St.-Berks,1,2,15,18
+2017,542,Pfeiffer,3,0,14,17
 2017,543,Philadelphia U.,0,1,17,18
 2017,21830,Piedmont,2,1,15,18
-2017,544,Pine Manor,0,1,17,18
+2017,544,Pine Manor,1,1,16,18
 2017,1315,Pitt.-Bradford,0,2,14,16
-2017,11839,Pitt.-Greensburg,0,2,15,17
-2017,546,Pitt.-Johnstown,0,1,16,17
-2017,545,Pittsburgh,1,1,15,17
-2017,547,Plattsburgh St.,2,0,16,18
-2017,548,Plymouth St.,1,0,15,16
-2017,30149,Point Loma,0,0,19,19
+2017,11839,Pitt.-Greensburg,0,3,14,17
+2017,546,Pitt.-Johnstown,0,2,15,17
+2017,545,Pittsburgh,1,2,14,17
+2017,547,Plattsburgh St.,3,0,15,18
+2017,548,Plymouth St.,1,1,14,16
+2017,30149,Point Loma,1,0,18,19
 2017,549,Pomona-Pitzer,1,2,15,18
 2017,551,Portland,3,1,14,18
-2017,1318,Post,1,1,15,17
+2017,1318,Post,1,2,14,17
 2017,1320,Presbyterian,1,4,13,18
-2017,554,Princeton,0,1,16,17
+2017,554,Princeton,0,2,15,17
 2017,555,Principia,2,1,14,17
-2017,556,Providence,2,2,13,17
+2017,556,Providence,3,2,12,17
 2017,557,Puget Sound,3,0,14,17
-2017,30029,Purchase,0,3,13,16
-2017,11504,Queens (NC),1,0,15,16
-2017,560,Queens (NY),0,0,17,17
-2017,561,Quincy,0,0,17,17
+2017,30029,Purchase,0,4,12,16
+2017,11504,Queens (NC),2,1,13,16
+2017,560,Queens (NY),1,0,16,17
+2017,561,Quincy,2,1,14,17
 2017,562,Quinnipiac,2,2,14,18
 2017,563,Radford,3,0,14,17
 2017,564,Ramapo,2,0,16,18
 2017,566,Randolph,1,1,15,17
 2017,565,Randolph-Macon,1,0,16,17
-2017,567,Redlands,1,0,18,19
-2017,568,Regis (CO),0,0,17,17
+2017,567,Redlands,3,0,16,19
+2017,568,Regis (CO),2,0,15,17
 2017,569,Regis (MA),2,2,14,18
-2017,570,Rensselaer,1,0,17,18
-2017,572,Rhode Island,2,1,15,18
+2017,570,Rensselaer,1,1,16,18
+2017,572,Rhode Island,3,1,14,18
 2017,571,Rhode Island Col.,1,2,15,18
 2017,573,Rhodes,0,2,14,16
 2017,576,Rider,3,0,14,17
-2017,577,Ripon,1,2,15,18
+2017,577,Ripon,2,2,14,18
 2017,18422,Rivier,0,1,16,17
 2017,578,Roanoke,0,2,15,17
 2017,579,Robert Morris,0,3,14,17
 2017,30150,Roberts Wesleyan,1,2,13,16
 2017,581,Rochester (NY),2,0,14,16
 2017,580,RIT,1,1,15,17
-2017,582,Rockford,3,0,15,18
-2017,1328,Rockhurst,1,0,16,17
+2017,582,Rockford,3,1,14,18
+2017,1328,Rockhurst,3,0,14,17
 2017,583,Roger Williams,1,3,15,19
-2017,30180,Rogers St.,0,0,18,18
-2017,584,Rollins,1,0,15,16
-2017,585,Rose-Hulman,3,0,15,18
+2017,30180,Rogers St.,3,0,15,18
+2017,584,Rollins,2,1,13,16
+2017,585,Rose-Hulman,4,0,14,18
 2017,15882,Rosemont,1,2,15,18
 2017,259,Rowan,3,0,14,17
-2017,587,Rutgers,0,3,13,16
-2017,588,Rutgers-Camden,1,0,18,19
-2017,589,Rutgers-Newark,2,1,17,20
-2017,11276,S.C. Aiken,0,0,17,17
+2017,587,Rutgers,0,4,12,16
+2017,588,Rutgers-Camden,1,0,17,18
+2017,589,Rutgers-Newark,3,1,16,20
+2017,11276,S.C. Aiken,0,1,16,17
 2017,102,Sacramento St.,0,2,16,18
 2017,590,Sacred Heart,1,2,14,17
 2017,11036,Sage Colleges,1,1,15,17
-2017,591,Saginaw Valley,1,0,17,18
-2017,600,Saint Francis (PA),2,2,14,18
-2017,602,Saint John's (MN),1,1,16,18
-2017,606,Saint Joseph's,0,3,15,18
-2017,608,Saint Leo,1,0,15,16
+2017,591,Saginaw Valley,2,0,16,18
+2017,600,Saint Francis (PA),3,2,13,18
+2017,602,Saint John's (MN),1,1,15,17
+2017,606,Saint Joseph's,1,3,14,18
+2017,608,Saint Leo,1,0,14,15
 2017,609,Saint Louis,1,1,15,17
-2017,1343,Saint Martin's,0,2,15,17
-2017,612,Saint Mary's (MN),1,0,17,18
-2017,613,Saint Michael's,1,0,15,16
-2017,617,Saint Peter's,0,2,16,18
-2017,1347,Saint Rose,0,1,15,16
+2017,1343,Saint Martin's,1,2,14,17
+2017,612,Saint Mary's (MN),2,0,16,18
+2017,613,Saint Michael's,2,0,14,16
+2017,617,Saint Peter's,0,3,15,18
+2017,1347,Saint Rose,1,1,14,16
 2017,30064,Saint Vincent,0,3,14,17
-2017,19117,Salem Int'l,0,0,16,16
+2017,19117,Salem Int'l,0,2,14,16
 2017,621,Salem St.,1,0,15,16
-2017,622,Salisbury,1,0,16,17
+2017,622,Salisbury,1,0,15,16
 2017,623,Salve Regina,0,3,14,17
 2017,627,San Diego,1,1,16,18
-2017,626,San Diego St.,2,0,16,18
-2017,628,San Fran. St.,0,1,16,17
-2017,629,San Francisco,2,1,13,16
+2017,626,San Diego St.,3,0,15,18
+2017,628,San Fran. St.,2,1,14,17
+2017,629,San Francisco,2,2,12,16
 2017,630,San Jose St.,1,2,16,19
 2017,631,Santa Clara,2,2,12,16
 2017,30163,Sarah Lawrence,0,2,15,17
-2017,1355,Schreiner,0,1,19,20
+2017,1355,Schreiner,1,2,17,20
 2017,633,Scranton,3,0,13,16
-2017,1356,Seattle,1,2,15,18
-2017,634,Seattle Pacific,0,0,17,17
+2017,1356,Seattle,2,2,14,18
+2017,634,Seattle Pacific,1,1,15,17
 2017,635,Seton Hall,1,2,14,17
-2017,30063,Seton Hill,1,0,17,18
+2017,30063,Seton Hill,2,1,15,18
 2017,652,Sewanee,3,0,15,18
-2017,637,Shenandoah,0,1,16,17
+2017,637,Shenandoah,0,2,15,17
 2017,10870,Shepherd,0,2,16,18
-2017,638,Shippensburg,2,0,16,18
-2017,30151,Shorter,0,0,15,15
+2017,638,Shippensburg,3,0,15,18
+2017,30151,Shorter,0,1,13,14
 2017,639,Siena,1,2,16,19
-2017,30127,Simon Fraser,1,0,16,17
+2017,30127,Simon Fraser,2,0,15,17
 2017,641,Simpson,2,1,16,19
 2017,660,SIUE,0,1,16,17
 2017,642,Skidmore,0,1,15,16
 2017,643,Slippery Rock,0,2,14,16
-2017,663,SMU,2,2,12,16
-2017,645,Sonoma St.,0,0,17,17
-2017,648,South Carolina,1,2,14,17
-2017,30139,South Dakota Mines,0,0,17,17
-2017,651,South Fla.,0,2,15,17
-2017,658,Southern Conn. St.,1,0,16,17
-2017,661,Southern Ind.,1,0,16,17
+2017,663,SMU,2,3,11,16
+2017,645,Sonoma St.,0,1,16,17
+2017,648,South Carolina,1,3,13,17
+2017,30139,South Dakota Mines,0,2,15,17
+2017,651,South Fla.,0,3,14,17
+2017,658,Southern Conn. St.,1,1,14,16
+2017,661,Southern Ind.,2,1,14,17
 2017,662,Southern Me.,0,2,15,17
-2017,468,Southern N.H.,0,0,16,16
-2017,30152,Southern Nazarene,0,0,18,18
-2017,30164,Southern Va.,1,1,15,17
+2017,468,Southern N.H.,2,0,14,16
+2017,30152,Southern Nazarene,0,3,16,19
+2017,30164,Southern Va.,1,2,14,17
 2017,1379,Southern Vt.,1,2,15,18
-2017,30192,Southern Wesleyan,1,0,16,17
-2017,2755,Southwest Baptist,0,0,18,18
+2017,30192,Southern Wesleyan,2,1,14,17
+2017,2755,Southwest Baptist,0,2,16,18
 2017,8746,Southwestern (TX),1,1,17,19
-2017,23260,Spalding,0,2,15,17
-2017,30191,Spring Hill,0,1,17,18
-2017,673,Springfield,2,0,16,18
-2017,593,St. Anselm,0,0,15,15
+2017,23260,Spalding,1,3,13,17
+2017,30191,Spring Hill,0,2,16,18
+2017,673,Springfield,3,0,15,18
+2017,593,St. Anselm,0,1,14,15
 2017,596,St. Bonaventure,0,3,15,18
-2017,1334,St. Edward's,0,0,18,18
+2017,1334,St. Edward's,3,0,16,19
 2017,9684,St. Elizabeth,1,0,16,17
 2017,599,St. Francis Brooklyn,1,3,13,17
 2017,601,St. John Fisher,1,2,13,16
-2017,603,St. John's (NY),1,1,15,17
+2017,603,St. John's (NY),2,1,14,17
 2017,30072,St. Joseph's (Brkln),2,0,17,19
-2017,604,St. Joseph's (IN),0,0,17,17
+2017,604,St. Joseph's (IN),0,2,15,17
 2017,1340,St. Joseph's (L.I.),0,2,15,17
 2017,605,St. Joseph's (ME),0,1,17,18
 2017,607,St. Lawrence,2,0,13,15
-2017,610,St. Mary's (CA),0,2,17,19
+2017,610,St. Mary's (CA),0,3,16,19
 2017,611,St. Mary's (MD),2,0,15,17
-2017,1346,St. Mary's (TX),0,0,17,17
+2017,1346,St. Mary's (TX),1,0,16,17
 2017,614,St. Norbert,2,0,16,18
 2017,615,St. Olaf,0,1,16,17
 2017,618,St. Scholastica,1,1,16,18
-2017,620,St. Thomas (MN),2,0,16,18
-2017,1348,St. Thomas Aquinas,2,0,15,17
+2017,620,St. Thomas (MN),3,0,15,18
+2017,1348,St. Thomas Aquinas,3,0,14,17
 2017,674,Stanford,0,1,17,18
 2017,675,Staten Island,3,0,14,17
-2017,678,Stetson,2,1,12,15
-2017,679,Stevens,0,1,16,17
+2017,678,Stetson,2,2,11,15
+2017,679,Stevens,1,1,15,17
 2017,21852,Stevenson,0,2,17,19
 2017,681,Stockton,1,2,15,18
-2017,682,Stonehill,0,0,17,17
+2017,682,Stonehill,2,1,14,17
 2017,683,Stony Brook,3,2,12,17
 2017,684,Suffolk,0,2,15,17
-2017,958,Clarks Summit,1,2,15,18
+2017,958,Clarks Summit,2,2,14,18
 2017,30165,SUNY Canton,0,2,16,18
 2017,168,SUNY Cortland,3,0,14,17
-2017,247,SUNY Geneseo,2,0,16,18
-2017,478,SUNY Maritime,2,1,17,20
+2017,247,SUNY Geneseo,2,1,15,18
+2017,478,SUNY Maritime,2,1,16,19
 2017,475,SUNY New Paltz,2,0,16,18
 2017,526,SUNY Oneonta,0,2,17,19
 2017,9500,SUNY Poly,0,3,16,19
 2017,552,SUNY Potsdam,2,0,15,17
-2017,685,Susquehanna,0,1,17,18
+2017,685,Susquehanna,0,2,16,18
 2017,686,Swarthmore,2,1,15,18
-2017,688,Syracuse,4,0,12,16
-2017,689,Tampa,1,0,15,16
-2017,712,TCNJ,1,1,16,18
+2017,688,Syracuse,5,0,11,16
+2017,689,Tampa,2,0,14,16
+2017,712,TCNJ,1,2,15,18
 2017,690,Temple,4,0,14,18
-2017,30090,Tex. A&M Int'l,0,0,17,17
-2017,30088,Tex. Permian Basin,0,2,17,19
-2017,536,UTRGV,2,0,15,17
-2017,1400,Texas Lutheran,0,1,17,18
+2017,30090,Tex. A&M Int'l,1,2,14,17
+2017,30088,Tex. Permian Basin,0,3,15,18
+2017,536,UTRGV,2,1,14,17
+2017,1400,Texas Lutheran,0,3,15,18
 2017,23121,Texas-Dallas,1,2,14,17
-2017,30028,Texas-Tyler,3,0,13,16
-2017,707,Thiel,1,0,18,19
+2017,30028,Texas-Tyler,3,1,12,16
+2017,707,Thiel,1,1,17,19
 2017,2758,Thomas (ME),0,1,15,16
-2017,1402,Thomas More,2,0,16,18
-2017,1403,Tiffin,0,0,18,18
+2017,1402,Thomas More,3,0,15,18
+2017,1403,Tiffin,3,0,15,18
 2017,28749,Transylvania,1,0,16,17
-2017,30002,Trevecca Nazarene,0,1,16,17
+2017,30002,Trevecca Nazarene,1,1,15,17
 2017,30037,Trine,0,2,17,19
 2017,713,Trinity (CT),1,0,14,15
-2017,715,Trinity (TX),2,0,17,19
-2017,499,Truman,1,0,18,19
+2017,715,Trinity (TX),3,0,16,19
+2017,499,Truman,1,0,17,18
 2017,717,Tufts,0,1,14,15
-2017,719,Tulsa,1,1,15,17
-2017,12830,Tusculum,0,0,17,17
-2017,1255,U New England,1,0,17,18
-2017,9,UAB,1,1,15,17
+2017,719,Tulsa,2,1,14,17
+2017,12830,Tusculum,1,0,16,17
+2017,1255,U New England,1,1,16,18
+2017,9,UAB,1,2,14,17
 2017,108,UC Davis,1,1,17,19
 2017,109,UC Irvine,1,3,15,19
-2017,111,UC Riverside,2,1,16,19
-2017,112,UC San Diego,2,0,16,18
-2017,104,UC Santa Barbara,4,0,15,19
+2017,111,UC Riverside,2,2,15,19
+2017,112,UC San Diego,3,0,15,18
+2017,104,UC Santa Barbara,4,1,14,19
 2017,113,UC Santa Cruz,1,2,14,17
-2017,9754,UC-Colo. Springs,0,0,18,18
+2017,9754,UC-Colo. Springs,1,0,17,18
 2017,128,UCF,0,2,15,17
 2017,110,UCLA,2,1,15,18
 2017,164,UConn,3,1,14,18
-2017,309,UIndy,0,0,17,17
+2017,309,UIndy,2,1,14,17
 2017,401,UMass Boston,3,0,15,18
-2017,656,UMass Dartmouth,2,0,16,18
+2017,656,UMass Dartmouth,3,0,15,18
 2017,368,UMass Lowell,4,0,12,16
 2017,391,UMBC,0,1,16,17
 2017,2707,UMKC,1,1,14,16
-2017,456,UNC Asheville,0,4,14,18
-2017,537,UNC Pembroke,0,0,15,15
+2017,456,UNC Asheville,0,5,13,18
+2017,537,UNC Pembroke,1,1,13,15
 2017,459,UNCG,1,0,17,18
-2017,460,UNCW,2,0,15,17
+2017,460,UNCW,3,0,14,17
 2017,727,Union (NY),3,0,14,17
-2017,30153,Union (TN),0,2,15,17
-2017,465,UNLV,2,2,15,19
-2017,728,Upper Iowa,0,0,17,17
-2017,30104,Urbana,2,0,14,16
+2017,30153,Union (TN),0,3,14,17
+2017,465,UNLV,2,3,14,19
+2017,728,Upper Iowa,1,2,14,17
+2017,30104,Urbana,2,1,13,16
 2017,730,Ursinus,1,1,14,16
 2017,10411,USC Upstate,1,1,11,13
-2017,30024,Utah Valley,3,0,16,19
+2017,30024,Utah Valley,3,1,15,19
 2017,733,Utica,0,2,14,16
-2017,745,Va. Wesleyan,0,1,16,17
+2017,745,Va. Wesleyan,1,1,15,17
 2017,30166,Valley Forge,2,1,17,20
 2017,735,Valparaiso,1,1,16,18
 2017,737,Vassar,3,0,14,17
 2017,740,VCU,0,3,15,18
-2017,738,Vermont,4,0,14,18
-2017,739,Villanova,1,2,15,18
+2017,738,Vermont,5,0,13,18
+2017,739,Villanova,2,2,14,18
 2017,746,Virginia,2,0,14,16
-2017,742,Virginia Tech,4,0,13,17
-2017,741,VMI,0,3,13,16
+2017,742,Virginia Tech,4,1,12,17
+2017,741,VMI,0,4,12,16
 2017,747,Wabash,0,2,16,18
 2017,749,Wake Forest,3,1,13,17
-2017,30141,Walsh,0,0,18,18
+2017,30141,Walsh,2,0,16,18
 2017,750,Wartburg,2,1,16,19
-2017,751,Wash. & Jeff.,0,1,15,16
-2017,752,Wash. & Lee,1,1,15,17
-2017,756,Washington,2,1,16,19
+2017,751,Wash. & Jeff.,1,1,14,16
+2017,752,Wash. & Lee,2,1,14,17
+2017,756,Washington,3,1,15,19
 2017,753,Washington Col.,1,1,15,17
 2017,755,Washington-St. Louis,1,0,15,16
 2017,1434,Waynesburg,1,2,14,17
@@ -772,55 +772,55 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,762,Wentworth,2,2,15,19
 2017,763,Wesley,1,0,15,16
 2017,764,Wesleyan (CT),0,0,15,15
-2017,358,West Ala.,0,0,16,16
-2017,765,West Chester,1,0,16,17
-2017,11740,West Florida,0,0,16,16
-2017,767,West Tex. A&M,1,0,17,18
-2017,9630,West Va. Wesleyan,0,1,16,17
+2017,358,West Ala.,0,1,15,16
+2017,765,West Chester,3,0,14,17
+2017,11740,West Florida,0,2,14,16
+2017,767,West Tex. A&M,1,1,16,18
+2017,9630,West Va. Wesleyan,0,2,15,17
 2017,768,West Virginia,2,1,13,16
 2017,770,Western Conn. St.,1,2,14,17
 2017,771,Western Ill.,0,3,15,18
-2017,774,Western Mich.,4,0,14,18
+2017,774,Western Mich.,5,0,13,18
 2017,775,Western New Eng.,0,3,15,18
-2017,1448,Western Wash.,1,0,16,17
+2017,1448,Western Wash.,1,1,15,17
 2017,777,Westfield St.,2,1,14,17
 2017,1450,Westminster (MO),1,1,14,16
-2017,1451,Westminster (PA),2,0,15,17
-2017,778,Wheaton (IL),1,1,16,18
+2017,1451,Westminster (PA),2,2,13,17
+2017,778,Wheaton (IL),1,2,15,18
 2017,779,Wheaton (MA),3,1,14,18
-2017,12799,Wheeling Jesuit,0,1,17,18
-2017,8896,Wheelock,0,3,17,20
-2017,780,Whitman,2,1,17,20
+2017,12799,Wheeling Jesuit,2,1,15,18
+2017,8896,Wheelock,0,4,16,20
+2017,780,Whitman,2,2,16,20
 2017,781,Whittier,1,1,16,18
 2017,1454,Whitworth,1,0,17,18
 2017,783,Widener,1,2,14,17
 2017,784,Wilkes,1,2,14,17
 2017,785,Willamette,1,0,16,17
 2017,786,William & Mary,3,1,14,18
-2017,30120,William Jewell,0,0,17,17
+2017,30120,William Jewell,1,1,15,17
 2017,17094,William Peace,1,1,17,19
 2017,789,Williams,0,0,15,15
-2017,1460,Wilmington (DE),0,0,17,17
+2017,1460,Wilmington (DE),2,0,15,17
 2017,1461,Wilmington (OH),1,1,16,18
 2017,12973,Wilson,1,1,15,17
-2017,1462,Wingate,0,0,16,16
-2017,792,Winthrop,3,1,13,17
+2017,1462,Wingate,1,0,15,16
+2017,792,Winthrop,3,2,12,17
 2017,8911,Wis. Lutheran,2,1,16,19
-2017,799,Wis.-Parkside,1,0,16,17
+2017,799,Wis.-Parkside,2,1,14,17
 2017,800,Wis.-Platteville,3,0,15,18
-2017,804,Wis.-Superior,0,2,17,19
+2017,804,Wis.-Superior,0,3,16,19
 2017,805,Wis.-Whitewater,1,1,18,20
-2017,796,Wisconsin,1,1,14,16
+2017,796,Wisconsin,2,1,13,16
 2017,806,Wittenberg,1,1,15,17
-2017,787,Wm. Paterson,2,1,15,18
+2017,787,Wm. Paterson,3,1,14,18
 2017,2915,Wofford,3,1,13,17
 2017,807,Wooster,1,1,16,18
 2017,809,Worcester St.,0,1,16,17
 2017,808,WPI,3,0,14,17
 2017,810,Wright St.,3,1,14,18
-2017,812,Xavier,1,1,16,18
+2017,812,Xavier,2,1,15,18
 2017,813,Yale,0,0,16,16
 2017,814,Yeshiva,1,3,13,17
 2017,2730,York (NY),0,3,15,18
 2017,815,York (PA),2,0,16,18
-2017,30154,Young Harris,1,2,13,16
+2017,30154,Young Harris,1,2,12,15
