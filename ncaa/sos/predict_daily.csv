@@ -1,33 +1,104 @@
 date,site,team,div,t_score,opp,div,o_score
-2016-09-15,home,Alderson Broaddus,D2,1.5,Cedarville,D2,1.0
-2016-09-15,home,Bridgewater (VA),D3,1.6,Southern Va.,D3,1.0
-2016-09-15,home,Bryn Athyn,D3,2.9,Gwynedd Mercy,D3,2.1
-2016-09-15,home,BYU-Hawaii,D2,1.0,Simon Fraser,D2,1.9
-2016-09-15,home,CSU Bakersfield,D1,0.8,UC Davis,D1,0.6
-2016-09-15,home,Davis & Elkins,D2,1.7,Ohio Valley,D2,2.0
-2016-09-15,home,Denver,D1,1.4,Saint Louis,D1,0.7
-2016-09-15,home,Frostburg St.,D3,1.3,Penn St.-Altoona,D3,1.0
-2016-09-15,home,Grand Canyon,D1,2.4,IUPUI,D1,0.9
-2016-09-15,home,Harding,D2,2.1,Delta St.,D2,0.9
-2016-09-15,home,Howard Payne,D3,1.0,East Tex. Baptist,D3,1.9
-2016-09-15,home,Lubbock Christian,D2,0.8,Rogers St.,D2,0.9
-2016-09-15,home,Midwestern St.,D2,1.0,West Tex. A&M,D2,1.1
-2016-09-15,home,Monmouth (IL),D3,1.2,Cornell College,D3,1.8
-2016-09-15,home,Mont. St. Billings,D2,1.4,California Baptist,D2,1.3
-2016-09-15,home,Niagara,D1,0.7,Buffalo,D1,1.1
-2016-09-15,home,Okla. Christian,D2,1.6,Eastern N.M.,D2,1.3
-2016-09-15,neutral,Ouachita Baptist,D2,1.6,Upper Iowa,D2,0.8
-2016-09-15,home,Pitt.-Greensburg,D3,0.8,Waynesburg,D3,1.0
-2016-09-15,home,Sacramento St.,D1,1.1,Portland,D1,1.8
-2016-09-15,home,Shorter,D2,1.4,S.C. Aiken,D2,1.5
-2016-09-15,home,St. Mary's (TX),D2,1.2,Dallas Baptist,D2,1.3
-2016-09-15,home,Tex. A&M Int'l,D2,0.7,St. Edward's,D2,1.3
-2016-09-15,home,Tex. Permian Basin,D2,1.8,Newman,D2,1.6
-2016-09-15,home,Trevecca Nazarene,D2,1.4,Malone,D2,1.3
-2016-09-15,home,UC Riverside,D1,1.2,San Diego,D1,1.5
-2016-09-15,neutral,Upper Iowa,D2,0.8,Ouachita Baptist,D2,1.6
-2016-09-15,home,Urbana,D2,1.9,Concord,D2,1.2
-2016-09-15,home,Utah Valley,D1,1.6,Gonzaga,D1,1.3
-2016-09-15,home,Western Wash.,D2,1.5,Fort Hays St.,D2,1.3
-2016-09-15,home,West Va. Wesleyan,D2,1.4,Wheeling Jesuit,D2,2.9
-2016-09-15,home,Yeshiva,D3,1.3,Merchant Marine,D3,1.9
+2016-09-18,home,Adams St.,D2,2.2,South Dakota Mines,D2,1.5
+2016-09-18,home,Beloit,D3,1.6,Lake Forest,D3,1.7
+2016-09-18,home,Bethel (MN),D3,2.6,Finlandia,D3,0.9
+2016-09-18,home,Binghamton,D1,1.3,Columbia,D1,1.4
+2016-09-18,home,Bridgewater St.,D3,1.1,Wheaton (MA),D3,1.7
+2016-09-18,home,Bryn Athyn,D3,3.1,Wilson,D3,2.4
+2016-09-18,home,California,D1,2.2,Harvard,D1,1.3
+2016-09-18,home,Cal St. Dom. Hills,D2,2.5,Cal St. East Bay,D2,1.2
+2016-09-18,home,Cal St. L.A.,D2,1.9,Stanislaus St.,D2,1.0
+2016-09-18,home,Cal St. Monterey Bay,D2,1.2,Chico St.,D2,0.9
+2016-09-18,home,Cazenovia,D3,1.3,Lancaster Bible,D3,1.4
+2016-09-18,home,Central Conn. St.,D1,0.8,Canisius,D1,0.8
+2016-09-18,home,Chapman,D3,1.5,Chris. Newport,D3,2.9
+2016-09-18,home,Chicago,D3,2.9,Wartburg,D3,0.9
+2016-09-18,home,Colgate,D1,1.2,Saint Francis (PA),D1,0.8
+2016-09-18,home,Colorado St.-Pueblo,D2,0.8,Colorado Mines,D2,1.6
+2016-09-18,home,Columbia,D1,1.7,Binghamton,D1,1.0
+2016-09-18,home,Concord,D2,2.2,West Va. Wesleyan,D2,2.0
+2016-09-18,home,Concordia Chicago,D3,1.3,Marian (WI),D3,2.2
+2016-09-18,home,Cornell,D1,1.0,New Hampshire,D1,2.1
+2016-09-18,home,Cornell College,D3,1.5,Buena Vista,D3,1.5
+2016-09-18,home,Curry,D3,1.4,Maine Maritime,D3,1.4
+2016-09-18,home,Daemen,D2,1.2,St. Thomas Aquinas,D2,3.8
+2016-09-18,home,D'Youville,D3,1.7,Alfred St.,D3,2.3
+2016-09-18,home,East Tenn. St.,D1,1.9,UNC Asheville,D1,0.8
+2016-09-18,home,Felician,D2,1.2,Georgian Court,D2,1.2
+2016-09-18,home,Findlay,D2,0.8,Tiffin,D2,1.9
+2016-09-18,home,Fort Lewis,D2,1.0,Regis (CO),D2,1.8
+2016-09-18,home,Franklin,D3,2.1,Spalding,D3,1.4
+2016-09-18,home,George Fox,D3,0.8,Puget Sound,D3,2.7
+2016-09-18,home,Grand Canyon,D1,1.4,Pacific,D1,1.2
+2016-09-18,home,Hamilton,D3,1.0,SUNY Oneonta,D3,1.2
+2016-09-18,home,Hampden-Sydney,D3,1.4,Birmingham-So.,D3,1.1
+2016-09-18,home,Hendrix,D3,0.4,Harding,D2,2.3
+2016-09-18,home,Humboldt St.,D2,0.7,Cal Poly Pomona,D2,0.8
+2016-09-18,home,Illinois Col.,D3,1.1,Carroll (WI),D3,1.3
+2016-09-18,home,Ill. Wesleyan,D3,2.0,Coe,D3,0.6
+2016-09-18,home,Indiana,D1,1.4,Northwestern,D1,0.5
+2016-09-18,home,Ithaca,D3,1.1,Stevens,D3,0.7
+2016-09-18,home,Keuka,D3,2.3,Cobleskill St.,D3,1.3
+2016-09-18,home,La Roche,D3,0.9,Marietta,D3,1.6
+2016-09-18,home,Lewis,D2,0.8,Missouri S&T,D2,0.8
+2016-09-18,home,LIU Brooklyn,D1,2.5,Manhattan,D1,0.9
+2016-09-18,home,Loyola Marymount,D1,1.1,CSU Bakersfield,D1,0.8
+2016-09-18,home,Maryland,D1,2.1,Penn St.,D1,1.0
+2016-09-18,home,Marymount (VA),D3,1.5,Methodist,D3,1.3
+2016-09-18,home,Maryville (MO),D2,1.3,Ill.-Springfield,D2,1.5
+2016-09-18,home,Maryville (TN),D3,2.4,Greensboro,D3,1.4
+2016-09-18,home,Memphis,D1,2.2,Houston Baptist,D1,1.0
+2016-09-18,home,Michigan St.,D1,1.5,Michigan,D1,0.7
+2016-09-18,home,Mississippi Col.,D2,2.7,Delta St.,D2,1.1
+2016-09-18,home,Morrisville St.,D3,4.6,Penn St.-Berks,D3,1.0
+2016-09-18,home,Mo.-St. Louis,D2,1.9,McKendree,D2,1.4
+2016-09-18,home,Northern Mich.,D2,2.6,Walsh,D2,1.4
+2016-09-18,home,Northland,D3,2.4,Ripon,D3,2.6
+2016-09-18,home,Northwood (MI),D2,2.4,Ohio Dominican,D2,0.9
+2016-09-18,home,Notre Dame (OH),D2,1.7,Urbana,D2,1.6
+2016-09-18,home,Ohio St.,D1,1.8,Rutgers,D1,0.7
+2016-09-18,home,Olivet,D3,1.4,Wittenberg,D3,1.6
+2016-09-18,home,Pacific (OR),D3,1.6,Pacific Lutheran,D3,1.4
+2016-09-18,home,Penn St.-Abington,D3,3.0,Gallaudet,D3,0.8
+2016-09-18,home,Penn St. Harrisburg,D3,1.2,New Rochelle,D3,1.2
+2016-09-18,home,Pine Manor,D3,0.8,Amherst,D3,2.3
+2016-09-18,home,Quincy,D2,1.7,Bellarmine,D2,1.1
+2016-09-18,home,Randolph,D3,1.7,Sewanee,D3,1.3
+2016-09-18,home,Roberts Wesleyan,D2,1.0,Mercy,D2,2.3
+2016-09-18,home,Sacramento St.,D1,1.8,San Jose St.,D1,1.5
+2016-09-18,home,Saginaw Valley,D2,3.4,Ashland,D2,0.8
+2016-09-18,home,San Francisco,D1,1.8,Air Force,D1,2.2
+2016-09-18,home,Schreiner,D3,0.6,Colorado Col.,D3,1.4
+2016-09-18,home,Seattle,D1,1.8,Davidson,D1,0.9
+2016-09-18,home,Simpson,D3,3.2,Augustana (IL),D3,1.0
+2016-09-18,home,Sonoma St.,D2,0.9,Cal St. San B'dino,D2,1.0
+2016-09-18,home,South Fla.,D1,0.8,Buffalo,D1,1.2
+2016-09-18,home,Southwestern (TX),D3,1.0,Austin,D3,0.9
+2016-09-18,home,Spring Hill,D2,1.8,Union (TN),D2,1.6
+2016-09-18,home,Stanford,D1,1.5,Omaha,D1,0.9
+2016-09-18,home,St. Bonaventure,D1,1.0,Niagara,D1,1.3
+2016-09-18,home,St. Francis Brooklyn,D1,1.2,Army West Point,D1,1.1
+2016-09-18,home,St. Joseph's (IN),D2,1.1,William Jewell,D2,1.7
+2016-09-18,home,St. Mary's (CA),D1,1.2,Cal St. Fullerton,D1,1.6
+2016-09-18,home,St. Norbert,D3,2.1,Wis.-Platteville,D3,1.3
+2016-09-18,home,St. Thomas (MN),D3,1.7,Wis.-Superior,D3,0.7
+2016-09-18,home,SUNY Poly,D3,1.5,Wells,D3,1.5
+2016-09-18,home,Texas-Dallas,D3,1.4,UC Santa Cruz,D3,1.1
+2016-09-18,home,Thiel,D3,1.5,Mount Aloysius,D3,2.5
+2016-09-18,home,Trinity (TX),D3,2.0,Dallas,D3,1.0
+2016-09-18,home,Truman,D2,1.2,Southern Ind.,D2,1.8
+2016-09-18,home,Tufts,D3,1.9,Plymouth St.,D3,1.0
+2016-09-18,home,UC-Colo. Springs,D2,1.0,Colorado Mesa,D2,1.7
+2016-09-18,home,UC Davis,D1,1.2,Portland,D1,0.9
+2016-09-18,home,UC Riverside,D1,1.3,Gonzaga,D1,1.3
+2016-09-18,home,UIndy,D2,1.2,Rockhurst,D2,1.4
+2016-09-18,home,Washington,D1,1.5,Col. of Charleston,D1,1.1
+2016-09-18,home,Washington-St. Louis,D3,2.2,Luther,D3,1.0
+2016-09-18,home,Webster,D3,1.0,Wis.-Whitewater,D3,1.9
+2016-09-18,home,Western Conn. St.,D3,1.3,Keene St.,D3,2.5
+2016-09-18,home,Western Mich.,D1,2.0,Eastern Ill.,D1,0.7
+2016-09-18,home,West Florida,D2,2.1,Christian Bros.,D2,1.9
+2016-09-18,home,Whitman,D3,0.9,Willamette,D3,1.4
+2016-09-18,home,Whitworth,D3,2.2,Linfield,D3,0.8
+2016-09-18,home,Williams,D3,1.4,Babson,D3,0.6
+2016-09-18,home,Wis.-Parkside,D2,0.9,Drury,D2,2.3
