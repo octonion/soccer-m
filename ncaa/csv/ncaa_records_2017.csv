@@ -1,24 +1,24 @@
 year,team_id,team_name,wins,losses,ties,total_games
 2017,30123,Academy of Art,2,15,1,18
 2017,929,Adams St.,6,12,0,18
-2017,3,Adelphi,18,1,1,20
+2017,3,Adelphi,19,1,2,22
 2017,4,Adrian,11,8,0,19
-2017,721,Air Force,14,6,2,22
-2017,5,Akron,11,5,4,20
+2017,721,Air Force,14,7,1,22
+2017,5,Akron,13,5,4,22
 2017,10,Ala.-Huntsville,6,10,1,17
-2017,14,Albany (NY),11,5,3,19
+2017,14,Albany (NY),12,5,3,20
 2017,2798,Albertus Magnus,9,8,1,18
 2017,15,Albion,9,10,0,19
 2017,16,Albright,2,13,2,17
 2017,934,Alderson Broaddus,12,7,2,21
-2017,18,Alfred,9,7,2,18
+2017,18,Alfred,9,8,2,19
 2017,30170,Alfred St.,6,11,0,17
 2017,19,Allegheny,5,11,2,18
 2017,21,Alma,14,6,1,21
 2017,938,Alvernia,6,11,1,18
 2017,23,American,11,5,5,21
 2017,22,American Int'l,8,9,1,18
-2017,24,Amherst,16,1,1,18
+2017,24,Amherst,17,1,2,20
 2017,939,Anderson (IN),9,8,1,18
 2017,13028,Anderson (SC),7,6,3,16
 2017,26,Anna Maria,2,13,1,16
@@ -30,7 +30,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,38,Augsburg,8,10,2,20
 2017,40,Augustana (IL),4,13,1,18
 2017,42,Aurora,8,10,2,20
-2017,953,Austin,10,9,2,21
+2017,953,Austin,10,10,2,22
 2017,44,Averett,9,10,0,19
 2017,30146,Azusa Pacific,6,7,4,17
 2017,45,Babson,11,5,4,20
@@ -45,7 +45,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,14927,Belmont,3,12,3,18
 2017,2683,Belmont Abbey,5,9,2,16
 2017,53,Beloit,7,8,1,16
-2017,296,Benedictine (IL),15,4,2,21
+2017,296,Benedictine (IL),16,5,2,23
 2017,56,Bentley,2,12,2,16
 2017,973,Berry,10,9,0,19
 2017,59,Bethany (WV),8,10,2,20
@@ -57,12 +57,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,984,Bloomfield,5,10,2,17
 2017,65,Bloomsburg,3,12,3,18
 2017,987,Bluffton,3,15,0,18
-2017,67,Boston College,8,8,3,19
+2017,67,Boston College,9,8,4,21
 2017,68,Boston U.,8,6,3,17
 2017,69,Bowdoin,9,4,4,17
 2017,71,Bowling Green,9,6,4,19
 2017,72,Bradley,2,15,3,20
-2017,73,Brandeis,11,5,3,19
+2017,73,Brandeis,12,5,4,21
 2017,30094,Brevard,8,8,2,18
 2017,74,Bridgeport,3,11,2,16
 2017,75,Bridgewater (VA),9,8,2,19
@@ -74,18 +74,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,30188,Bryn Athyn,4,13,1,18
 2017,83,Bucknell,7,11,3,21
 2017,84,Buena Vista,5,12,1,18
-2017,86,Buffalo,12,3,4,19
+2017,86,Buffalo,12,4,3,19
 2017,85,Buffalo St.,11,7,1,19
-2017,87,Butler,12,5,2,19
+2017,87,Butler,13,5,2,20
 2017,2685,BYU-Hawaii,6,6,4,16
-2017,88,Cabrini,12,7,2,21
+2017,88,Cabrini,12,8,1,21
 2017,1305,Cairn,6,11,1,18
 2017,105,Cal Lutheran,9,8,1,18
 2017,90,Cal Poly,5,9,3,17
 2017,91,Cal Poly Pomona,13,5,3,21
 2017,92,Cal St. Dom. Hills,10,7,1,18
 2017,98,Cal St. East Bay,6,10,2,18
-2017,97,Cal St. Fullerton,10,8,5,23
+2017,97,Cal St. Fullerton,10,9,4,23
 2017,100,Cal St. L.A.,10,6,3,19
 2017,30055,Cal St. Monterey Bay,5,9,2,16
 2017,93,Cal St. San B'dino,10,6,1,17
@@ -95,7 +95,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,106,California (PA),10,6,1,17
 2017,30135,California Baptist,12,6,0,18
 2017,89,Caltech,0,17,0,17
-2017,114,Calvin,20,2,0,22
+2017,114,Calvin,20,2,1,23
 2017,115,Campbell,5,11,0,16
 2017,116,Canisius,9,8,3,20
 2017,117,Capital,14,4,2,20
@@ -110,45 +110,45 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,124,Catholic,6,11,1,18
 2017,23624,Cazenovia,5,13,0,18
 2017,480,CCNY,7,10,1,18
-2017,30124,Cedarville,12,7,3,22
+2017,30124,Cedarville,12,8,3,23
 2017,125,Centenary (LA),7,12,0,19
-2017,12884,Centenary (NJ),14,6,1,21
+2017,12884,Centenary (NJ),13,6,1,20
 2017,126,Central (IA),11,7,0,18
 2017,1004,Central Ark.,7,7,3,17
 2017,127,Central Conn. St.,2,12,3,17
-2017,132,Centre,14,5,1,20
+2017,132,Centre,14,6,0,20
 2017,133,Chaminade,5,9,1,15
-2017,134,Chapman,15,5,2,22
-2017,1013,Charleston (WV),17,2,1,20
-2017,458,Charlotte,12,3,2,17
+2017,134,Chapman,15,6,2,23
+2017,1013,Charleston (WV),18,2,2,22
+2017,458,Charlotte,12,3,3,18
 2017,21323,Chestnut Hill,5,10,0,15
-2017,137,Chicago,16,0,2,18
+2017,137,Chicago,17,1,2,20
 2017,95,Chico St.,8,6,3,17
-2017,8875,Chowan,9,6,3,18
-2017,139,Chris. Newport,18,2,1,21
+2017,8875,Chowan,9,6,2,17
+2017,139,Chris. Newport,18,3,1,22
 2017,1015,Christian Bros.,8,8,0,16
 2017,140,Cincinnati,9,7,1,17
 2017,142,Claremont-M-S,11,7,1,19
 2017,145,Clark (MA),14,5,0,19
 2017,146,Clarkson,7,7,2,16
 2017,20576,Clayton St.,4,13,0,17
-2017,147,Clemson,12,2,6,20
+2017,147,Clemson,12,3,6,21
 2017,148,Cleveland St.,7,8,2,17
 2017,722,Coast Guard,9,6,3,18
-2017,149,Coastal Caro.,8,6,4,18
+2017,149,Coastal Caro.,10,6,4,20
 2017,30083,Cobleskill St.,8,9,2,19
 2017,150,Coe,1,17,0,18
 2017,1023,Coker,7,8,2,17
 2017,1014,Col. of Charleston,6,9,3,18
 2017,151,Colby,5,8,2,15
 2017,152,Colby-Sawyer,10,7,1,18
-2017,153,Colgate,13,6,2,21
-2017,11403,Colo. Christian,1,17,0,18
+2017,153,Colgate,13,7,2,22
+2017,11403,Colo. Christian,2,18,0,20
 2017,154,Colorado Col.,16,3,1,20
-2017,11416,Colorado Mesa,14,1,5,20
+2017,11416,Colorado Mesa,14,2,5,21
 2017,155,Colorado Mines,10,6,3,19
 2017,2720,Colorado St.-Pueblo,8,10,0,18
-2017,158,Columbia,12,3,2,17
+2017,158,Columbia,13,3,1,17
 2017,1028,Concord,6,10,1,17
 2017,162,Concordia (NY),11,6,0,17
 2017,24400,Concordia (TX),13,4,1,18
@@ -156,59 +156,59 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,1036,Concordia Wisconsin,13,5,0,18
 2017,161,Concordia-M'head,6,11,1,18
 2017,163,Connecticut Col.,10,5,1,16
-2017,167,Cornell,1,13,3,17
+2017,167,Cornell,1,14,2,17
 2017,166,Cornell College,8,6,4,18
 2017,30111,Covenant,5,11,2,18
-2017,169,Creighton,11,5,4,20
+2017,169,Creighton,12,6,4,22
 2017,30035,Crown (MN),7,12,1,20
 2017,94,CSU Bakersfield,6,13,0,19
-2017,101,CSUN,8,6,6,20
+2017,101,CSUN,9,7,5,21
 2017,170,Curry,6,13,1,20
 2017,1059,D'Youville,2,15,0,17
 2017,30174,Daemen,2,15,0,17
 2017,1044,Dallas,7,9,3,19
 2017,1045,Dallas Baptist,6,11,1,18
-2017,2691,Daniel Webster,13,5,4,22
-2017,172,Dartmouth,8,4,5,17
+2017,2691,Daniel Webster,14,6,3,23
+2017,172,Dartmouth,9,4,6,19
 2017,173,Davidson,4,12,1,17
 2017,174,Davis & Elkins,10,4,3,17
 2017,175,Dayton,8,9,3,20
 2017,1050,Defiance,5,9,4,18
-2017,180,Delaware,11,7,2,20
+2017,180,Delaware,12,8,1,21
 2017,179,Delaware Valley,7,11,1,19
 2017,181,Delta St.,5,11,1,17
 2017,182,Denison,6,9,2,17
-2017,183,Denver,17,0,3,20
+2017,183,Denver,17,0,4,21
 2017,176,DePaul,9,7,3,19
-2017,177,DePauw,11,5,3,19
+2017,177,DePauw,12,6,2,20
 2017,20,DeSales,9,9,2,20
 2017,184,Detroit Mercy,3,10,4,17
 2017,185,Dickinson,8,8,2,18
 2017,186,Dist. Columbia,5,11,1,17
-2017,30095,Dixie St.,15,3,0,18
+2017,30095,Dixie St.,15,4,0,19
 2017,30118,Dominican (CA),4,13,1,18
 2017,1332,Dominican (IL),12,2,4,18
 2017,8956,Dominican (NY),6,11,0,17
 2017,189,Drake,7,11,1,19
-2017,190,Drew,11,5,3,19
+2017,190,Drew,12,5,3,20
 2017,191,Drexel,1,14,2,17
-2017,1057,Drury,12,4,3,19
+2017,1057,Drury,13,4,3,20
 2017,192,Dubuque,13,6,0,19
 2017,193,Duke,7,8,2,17
 2017,194,Duquesne,8,5,5,18
 2017,195,Earlham,6,11,0,17
 2017,197,East Stroudsburg,7,8,1,16
-2017,198,ETSU,12,4,3,19
+2017,198,ETSU,12,5,3,20
 2017,1062,East Tex. Baptist,9,9,0,18
 2017,203,East. Mennonite,9,8,4,21
-2017,8968,Eastern,15,3,3,21
+2017,8968,Eastern,15,4,3,22
 2017,200,Eastern Conn. St.,6,10,1,17
 2017,201,Eastern Ill.,5,12,1,18
 2017,206,Eastern N.M.,7,8,4,19
 2017,1064,Eastern Nazarene,6,11,2,19
 2017,208,Eckerd,8,6,3,17
 2017,1066,Edgewood,7,12,0,19
-2017,211,Elizabethtown,13,4,2,19
+2017,211,Elizabethtown,14,4,2,20
 2017,212,Elmhurst,8,7,3,18
 2017,213,Elmira,4,10,3,17
 2017,532,Elms,5,14,1,20
@@ -228,23 +228,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,221,FDU-Florham,6,8,3,17
 2017,23157,Felician,4,11,2,17
 2017,225,Ferrum,5,14,0,19
-2017,28755,FGCU,14,3,2,19
+2017,28755,FGCU,14,3,4,21
 2017,1079,Findlay,7,10,1,18
 2017,30032,Finlandia,6,10,0,16
 2017,227,Fitchburg St.,7,12,1,20
-2017,231,FIU,10,6,3,19
+2017,231,FIU,10,7,2,19
 2017,229,Fla. Atlantic,4,10,1,15
 2017,233,Fla. Southern,6,7,1,14
 2017,30092,Flagler,7,9,1,17
-2017,230,Florida Tech,10,4,1,15
+2017,230,Florida Tech,10,5,1,16
 2017,11538,Fontbonne,8,11,1,20
-2017,236,Fordham,10,6,4,20
-2017,9011,Fort Hays St.,13,4,1,18
+2017,236,Fordham,10,7,4,21
+2017,9011,Fort Hays St.,14,4,1,19
 2017,1083,Fort Lewis,9,9,1,19
 2017,238,Framingham St.,8,11,0,19
 2017,1085,Francis Marion,8,8,1,17
 2017,30069,Franciscan,10,7,1,18
-2017,239,Frank. & Marsh.,14,3,4,21
+2017,239,Frank. & Marsh.,15,3,4,22
 2017,2694,Franklin,3,10,4,17
 2017,241,Franklin Pierce,12,6,0,18
 2017,242,Fredonia,11,7,2,20
@@ -261,7 +261,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,248,George Mason,2,12,2,16
 2017,249,George Washington,8,5,5,18
 2017,251,Georgetown,6,9,2,17
-2017,254,Georgia St.,14,7,1,22
+2017,254,Georgia St.,14,8,0,22
 2017,9004,Georgian Court,13,5,2,20
 2017,258,Gettysburg,9,4,3,16
 2017,8366,Goldey-Beacom,9,7,2,18
@@ -274,20 +274,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,263,Greensboro,12,6,0,18
 2017,1111,Greenville,6,8,5,19
 2017,264,Grinnell,11,7,1,19
-2017,265,Grove City,15,4,1,20
+2017,265,Grove City,15,5,1,21
 2017,1112,Guilford,7,9,3,19
 2017,266,Gust. Adolphus,7,9,1,17
 2017,12399,Gwynedd Mercy,9,11,0,20
 2017,267,Hamilton,10,7,1,18
 2017,268,Hamline,9,6,2,17
 2017,269,Hampden-Sydney,6,9,1,16
-2017,1115,Hanover,16,4,1,21
+2017,1115,Hanover,16,5,0,21
 2017,271,Hardin-Simmons,9,4,3,16
 2017,1116,Harding,14,6,0,20
-2017,272,Hartford,9,9,4,22
+2017,272,Hartford,9,10,3,22
 2017,273,Hartwick,9,6,4,19
 2017,275,Harvard,10,3,2,15
-2017,276,Haverford,14,3,3,20
+2017,276,Haverford,14,3,4,21
 2017,2697,Hawaii Hilo,1,14,2,17
 2017,2696,Hawaii Pacific,6,7,4,17
 2017,278,Heidelberg,7,10,1,18
@@ -311,12 +311,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,1130,Huntingdon,2,13,1,16
 2017,1133,Husson,9,7,2,18
 2017,300,Ill. Wesleyan,9,8,1,18
-2017,302,Ill.-Chicago,9,7,3,19
+2017,302,Ill.-Chicago,9,8,3,20
 2017,30050,Ill.-Springfield,7,9,2,18
 2017,297,Illinois Col.,4,11,3,18
-2017,303,Immaculata,12,7,1,20
+2017,303,Immaculata,12,6,1,19
 2017,2743,Incarnate Word,4,9,4,17
-2017,306,Indiana,11,1,7,19
+2017,306,Indiana,11,1,8,20
 2017,310,Iona,5,13,0,18
 2017,30173,Iowa Wesleyan,5,14,1,20
 2017,308,Fort Wayne,9,9,0,18
@@ -333,8 +333,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,326,Kalamazoo,6,6,5,17
 2017,329,Kean,14,6,1,21
 2017,330,Keene St.,8,8,2,18
-2017,334,Kentucky,11,4,3,18
-2017,335,Kenyon,18,2,0,20
+2017,334,Kentucky,11,4,4,19
+2017,335,Kenyon,19,2,1,22
 2017,1159,Keuka,12,4,3,19
 2017,30047,Keystone,9,7,1,17
 2017,30051,King (TN),6,12,0,18
@@ -349,42 +349,42 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,2746,Lake Erie,8,7,4,19
 2017,344,Lake Forest,11,8,0,19
 2017,1164,Lakeland,5,13,0,18
-2017,30085,Lancaster Bible,10,10,0,20
+2017,30085,Lancaster Bible,10,11,0,21
 2017,1167,Lander,14,4,1,19
 2017,8486,Lasell,1,17,0,18
 2017,348,Lawrence,6,10,1,17
 2017,349,Le Moyne,14,5,2,21
-2017,351,Lebanon Valley,14,4,1,19
+2017,351,Lebanon Valley,17,4,0,21
 2017,30013,Lee,9,7,2,18
-2017,13302,Lees-McRae,5,14,1,20
+2017,13302,Lees-McRae,5,14,0,19
 2017,352,Lehigh,7,10,1,18
-2017,279,Lehman,10,4,4,18
-2017,1170,Lenoir-Rhyne,13,5,3,21
+2017,279,Lehman,10,4,3,17
+2017,1170,Lenoir-Rhyne,12,5,2,19
 2017,24317,Lesley,6,11,2,19
 2017,8490,LeTourneau,5,10,3,18
 2017,354,Lewis,6,11,0,17
 2017,355,Liberty,7,9,2,18
-2017,1174,Limestone,16,3,0,19
+2017,1174,Limestone,16,4,0,20
 2017,1176,Lincoln Memorial,11,7,1,19
-2017,30136,Lindenwood (MO),13,3,2,18
+2017,30136,Lindenwood (MO),13,4,2,19
 2017,1179,Linfield,3,14,2,19
 2017,28600,Lipscomb,10,6,2,18
 2017,361,LIU Brooklyn,10,6,2,18
-2017,362,LIU Post,18,0,1,19
+2017,362,LIU Post,18,1,1,20
 2017,360,Lock Haven,5,11,1,17
-2017,363,Longwood,8,11,2,21
+2017,363,Longwood,8,12,1,21
 2017,364,Loras,13,5,0,18
 2017,1182,Louisiana Col.,0,18,0,18
-2017,367,Louisville,12,5,2,19
-2017,371,Loyola Chicago,13,3,1,17
+2017,367,Louisville,12,5,3,20
+2017,371,Loyola Chicago,14,3,2,19
 2017,369,Loyola Maryland,8,7,3,18
-2017,370,Loyola Marymount,9,8,1,18
+2017,370,Loyola Marymount,10,8,0,18
 2017,30177,Lubbock Christian,5,11,2,18
-2017,372,Luther,15,5,2,22
+2017,372,Luther,15,6,2,23
 2017,373,Lycoming,9,6,4,19
-2017,374,Lynchburg,17,1,4,22
+2017,374,Lynchburg,17,2,4,23
 2017,30065,Lyndon St.,6,8,1,15
-2017,20794,Lynn,14,1,2,17
+2017,20794,Lynn,14,2,2,18
 2017,376,Macalester,13,4,3,20
 2017,377,MacMurray,0,11,2,13
 2017,378,Maine Maritime,6,11,1,18
@@ -403,7 +403,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,30075,Mary,6,10,0,16
 2017,1203,Mary Hardin-Baylor,11,6,1,18
 2017,390,Mary Washington,14,4,0,18
-2017,392,Maryland,17,0,3,20
+2017,392,Maryland,18,0,3,21
 2017,394,Marymount (VA),4,11,2,17
 2017,395,Maryville (MO),10,8,1,19
 2017,396,Maryville (TN),18,3,0,21
@@ -419,18 +419,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,23725,Medaille,12,5,2,19
 2017,403,Medgar Evers,3,12,1,16
 2017,404,Memphis,8,8,1,17
-2017,406,Mercer,13,6,1,20
+2017,406,Mercer,13,7,1,21
 2017,724,Merchant Marine,13,5,2,20
 2017,407,Mercy,9,4,3,16
-2017,408,Mercyhurst,15,4,1,20
+2017,408,Mercyhurst,15,6,1,22
 2017,410,Merrimack,15,6,0,21
-2017,411,Messiah,18,0,3,21
+2017,411,Messiah,19,0,4,23
 2017,412,Methodist,8,8,1,17
 2017,413,MSU Denver,12,6,2,20
 2017,418,Michigan,4,11,4,19
-2017,416,Michigan St.,13,5,1,19
+2017,416,Michigan St.,13,5,2,20
 2017,420,Middlebury,10,4,3,17
-2017,1222,Midwestern St.,16,3,1,20
+2017,1222,Midwestern St.,18,3,1,22
 2017,423,Millersville,12,6,2,20
 2017,424,Millikin,8,7,2,17
 2017,426,Millsaps,12,8,0,20
@@ -439,7 +439,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,16142,Misericordia,12,5,3,20
 2017,429,Mississippi Col.,10,4,2,16
 2017,435,Missouri S&T,10,3,6,19
-2017,669,Missouri St.,9,7,4,20
+2017,669,Missouri St.,9,8,3,20
 2017,398,MIT,6,10,1,17
 2017,30042,Mitchell,4,10,3,17
 2017,436,Mo.-St. Louis,10,7,1,18
@@ -466,11 +466,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,461,Nazareth,6,8,2,16
 2017,462,Neb. Wesleyan,7,7,3,17
 2017,1254,Neumann,8,12,0,20
-2017,467,New England Col.,11,9,2,22
+2017,467,New England Col.,11,10,1,22
 2017,469,New Hampshire,12,7,0,19
 2017,470,New Haven,6,10,1,17
 2017,319,New Jersey City,8,10,1,19
-2017,473,New Mexico,11,6,3,20
+2017,473,New Mexico,12,6,4,22
 2017,476,New Rochelle,16,3,0,19
 2017,1257,Newberry,5,10,2,17
 2017,21772,Newbury,11,8,2,21
@@ -478,7 +478,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,482,Niagara,4,11,2,17
 2017,484,Nichols,8,8,2,18
 2017,471,NJIT,8,6,4,18
-2017,457,North Carolina,11,3,3,17
+2017,457,North Carolina,11,3,4,18
 2017,490,North Carolina St.,5,12,0,17
 2017,492,North Central (IL),6,10,1,17
 2017,30039,North Central (MN),12,6,1,19
@@ -497,7 +497,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,30031,Northwestern-St. Paul,8,9,1,18
 2017,510,Northwood,11,4,3,18
 2017,511,Norwich,12,4,4,20
-2017,513,Notre Dame,11,6,2,19
+2017,513,Notre Dame,11,6,3,20
 2017,30126,Notre Dame (OH),10,5,2,17
 2017,30056,Notre Dame de Namur,9,9,0,18
 2017,24639,Nova Southeastern,4,11,0,15
@@ -505,7 +505,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,477,NYIT,10,4,4,18
 2017,479,NYU,9,8,2,19
 2017,514,Oakland,7,10,1,18
-2017,1278,Oakland City,0,6,0,6
+2017,1278,Oakland City,4,9,0,13
 2017,515,Oberlin,15,4,1,20
 2017,516,Occidental,8,10,1,19
 2017,2713,Oglethorpe,7,6,3,16
@@ -525,19 +525,19 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,531,Otterbein,8,7,3,18
 2017,1289,Ouachita Baptist,10,8,0,18
 2017,23008,Ozarks (AR),10,6,3,19
-2017,534,Pacific,12,3,2,17
+2017,534,Pacific,13,3,3,19
 2017,2751,Pacific (OR),10,6,3,19
 2017,1297,Pacific Lutheran,10,8,2,20
-2017,30045,Palm Beach Atl.,12,4,1,17
+2017,30045,Palm Beach Atl.,13,4,1,18
 2017,540,Penn,5,6,6,17
 2017,30190,Penn College,4,16,0,20
 2017,539,Penn St.,8,8,2,18
-2017,30081,Penn St. Harrisburg,12,8,1,21
+2017,30081,Penn St. Harrisburg,13,8,0,21
 2017,30114,Penn St.-Abington,12,4,1,17
-2017,25719,Penn St.-Altoona,11,8,2,21
-2017,538,Penn St.-Behrend,17,1,4,22
+2017,25719,Penn St.-Altoona,11,8,1,20
+2017,538,Penn St.-Behrend,17,2,3,22
 2017,30044,Penn St.-Berks,9,10,0,19
-2017,542,Pfeiffer,19,2,0,21
+2017,542,Pfeiffer,19,3,0,22
 2017,543,Philadelphia U.,6,10,2,18
 2017,21830,Piedmont,8,9,1,18
 2017,544,Pine Manor,7,9,2,18
@@ -549,30 +549,30 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,548,Plymouth St.,5,9,2,16
 2017,30149,Point Loma,9,5,4,18
 2017,549,Pomona-Pitzer,9,7,2,18
-2017,551,Portland,11,5,2,18
+2017,551,Portland,12,5,2,19
 2017,1318,Post,7,8,5,20
 2017,1320,Presbyterian,7,10,3,20
 2017,554,Princeton,7,7,3,17
 2017,555,Principia,4,12,0,16
-2017,556,Providence,12,6,0,18
+2017,556,Providence,13,6,1,20
 2017,557,Puget Sound,11,5,2,18
 2017,30029,Purchase,1,14,1,16
 2017,11504,Queens (NC),6,8,1,15
 2017,560,Queens (NY),6,7,4,17
 2017,561,Quincy,12,5,3,20
-2017,562,Quinnipiac,13,6,1,20
-2017,563,Radford,13,3,3,19
+2017,562,Quinnipiac,13,7,0,20
+2017,563,Radford,14,4,2,20
 2017,564,Ramapo,10,5,3,18
 2017,566,Randolph,8,6,5,19
 2017,565,Randolph-Macon,10,5,3,18
-2017,567,Redlands,16,5,1,22
+2017,567,Redlands,18,5,1,24
 2017,568,Regis (CO),14,5,1,20
 2017,569,Regis (MA),10,8,2,20
 2017,570,Rensselaer,8,7,4,19
 2017,572,Rhode Island,8,11,1,20
 2017,571,Rhode Island Col.,15,4,1,20
 2017,573,Rhodes,7,8,1,16
-2017,576,Rider,12,3,4,19
+2017,576,Rider,13,4,3,20
 2017,577,Ripon,4,13,0,17
 2017,18422,Rivier,8,9,1,18
 2017,578,Roanoke,9,5,5,19
@@ -581,22 +581,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,581,Rochester (NY),9,5,3,17
 2017,580,RIT,5,9,3,17
 2017,582,Rockford,6,10,2,18
-2017,1328,Rockhurst,16,2,2,20
+2017,1328,Rockhurst,17,2,2,21
 2017,583,Roger Williams,6,12,2,20
 2017,30180,Rogers St.,10,6,3,19
 2017,584,Rollins,8,6,2,16
 2017,585,Rose-Hulman,14,6,0,20
 2017,15882,Rosemont,3,13,2,18
-2017,259,Rowan,17,2,1,20
+2017,259,Rowan,17,3,1,21
 2017,587,Rutgers,1,14,2,17
-2017,588,Rutgers-Camden,9,8,4,21
-2017,589,Rutgers-Newark,18,3,1,22
+2017,588,Rutgers-Camden,9,9,4,22
+2017,589,Rutgers-Newark,21,3,0,24
 2017,11276,S.C. Aiken,4,13,0,17
 2017,102,Sacramento St.,9,8,3,20
 2017,590,Sacred Heart,5,11,2,18
 2017,11036,Sage Colleges,6,9,5,20
 2017,591,Saginaw Valley,15,5,1,21
-2017,600,Saint Francis (PA),12,5,3,20
+2017,600,Saint Francis (PA),12,6,2,20
 2017,602,Saint John's (MN),7,9,3,19
 2017,606,Saint Joseph's,6,11,1,18
 2017,608,Saint Leo,5,8,0,13
@@ -612,14 +612,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,622,Salisbury,7,8,1,16
 2017,623,Salve Regina,4,12,1,17
 2017,627,San Diego,6,9,3,18
-2017,626,San Diego St.,9,4,5,18
+2017,626,San Diego St.,9,4,6,19
 2017,628,San Fran. St.,9,6,2,17
-2017,629,San Francisco,7,8,1,16
+2017,629,San Francisco,7,9,0,16
 2017,630,San Jose St.,4,12,3,19
 2017,631,Santa Clara,5,10,1,16
 2017,30163,Sarah Lawrence,4,13,0,17
 2017,1355,Schreiner,3,15,2,20
-2017,633,Scranton,14,3,2,19
+2017,633,Scranton,15,4,1,20
 2017,1356,Seattle U,11,6,2,19
 2017,634,Seattle Pacific,6,6,5,17
 2017,635,Seton Hall,4,11,2,17
@@ -632,16 +632,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,639,Siena,8,8,5,21
 2017,30127,Simon Fraser,14,1,3,18
 2017,641,Simpson,12,8,1,21
-2017,660,SIUE,9,4,6,19
+2017,660,SIUE,10,4,7,21
 2017,642,Skidmore,7,7,4,18
 2017,643,Slippery Rock,5,9,2,16
 2017,663,SMU,6,9,1,16
 2017,645,Sonoma St.,10,5,5,20
-2017,648,South Carolina,10,7,1,18
+2017,648,South Carolina,11,7,2,20
 2017,30139,South Dakota Mines,2,14,1,17
-2017,651,South Fla.,10,6,3,19
+2017,651,South Fla.,10,6,4,20
 2017,658,Southern Conn. St.,7,8,2,17
-2017,661,Southern Ind.,13,3,4,20
+2017,661,Southern Ind.,13,4,4,21
 2017,662,Southern Me.,1,13,3,17
 2017,468,Southern N.H.,12,5,2,19
 2017,30152,Southern Nazarene,2,15,2,19
@@ -655,26 +655,26 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,673,Springfield,18,2,1,21
 2017,593,St. Anselm,4,11,1,16
 2017,596,St. Bonaventure,4,12,2,18
-2017,1334,St. Edward's,18,2,1,21
+2017,1334,St. Edward's,18,3,1,22
 2017,9684,St. Elizabeth,1,16,0,17
-2017,599,St. Francis Brooklyn,11,4,4,19
-2017,601,St. John Fisher,6,9,4,19
+2017,599,St. Francis Brooklyn,12,5,3,20
+2017,601,St. John Fisher,6,10,3,19
 2017,603,St. John's (NY),6,7,4,17
 2017,30072,St. Joseph's (Brkln),7,11,0,18
 2017,604,St. Joseph's (IN),2,15,0,17
 2017,1340,St. Joseph's (L.I.),7,11,0,18
-2017,605,St. Joseph's (ME),15,1,6,22
-2017,607,St. Lawrence,11,4,2,17
-2017,610,St. Mary's (CA),8,7,4,19
+2017,605,St. Joseph's (ME),15,2,6,23
+2017,607,St. Lawrence,11,4,1,16
+2017,610,St. Mary's (CA),8,8,3,19
 2017,611,St. Mary's (MD),12,4,2,18
 2017,1346,St. Mary's (TX),5,10,2,17
 2017,614,St. Norbert,16,4,1,21
 2017,615,St. Olaf,6,5,6,17
 2017,618,St. Scholastica,12,8,1,21
-2017,620,St. Thomas (MN),17,1,3,21
+2017,620,St. Thomas (MN),19,1,3,23
 2017,1348,St. Thomas Aquinas,8,5,5,18
-2017,674,Stanford,11,3,4,18
-2017,675,Staten Island,12,7,2,21
+2017,674,Stanford,11,3,5,19
+2017,675,Staten Island,12,8,2,22
 2017,678,Stetson,4,10,2,16
 2017,679,Stevens,11,5,2,18
 2017,21852,Stevenson,3,13,3,19
@@ -684,17 +684,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,684,Suffolk,9,10,0,19
 2017,958,Clarks Summit,4,14,0,18
 2017,30165,SUNY Canton,7,12,1,20
-2017,168,SUNY Cortland,18,2,0,20
+2017,168,SUNY Cortland,19,3,0,22
 2017,247,SUNY Geneseo,9,7,2,18
 2017,478,SUNY Maritime,9,10,0,19
 2017,475,SUNY New Paltz,8,4,7,19
-2017,526,SUNY Oneonta,14,6,2,22
+2017,526,SUNY Oneonta,16,7,1,24
 2017,9500,SUNY Poly,8,12,0,20
 2017,552,SUNY Potsdam,9,6,2,17
 2017,685,Susquehanna,6,8,5,19
 2017,686,Swarthmore,7,10,1,18
-2017,688,Syracuse,11,3,4,18
-2017,689,Tampa,11,4,3,18
+2017,688,Syracuse,11,3,5,19
+2017,689,Tampa,12,4,3,19
 2017,712,TCNJ,9,9,2,20
 2017,690,Temple,10,6,2,18
 2017,30090,Tex. A&M Int'l,6,11,0,17
@@ -706,30 +706,30 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,707,Thiel,6,12,1,19
 2017,2758,Thomas (ME),12,4,2,18
 2017,1402,Thomas More,10,9,2,21
-2017,1403,Tiffin,14,4,2,20
+2017,1403,Tiffin,14,5,2,21
 2017,28749,Transylvania,12,3,3,18
 2017,30002,Trevecca Nazarene,7,10,1,18
 2017,30037,Trine,0,16,3,19
 2017,713,Trinity (CT),7,7,2,16
-2017,715,Trinity (TX),21,1,0,22
+2017,715,Trinity (TX),23,1,1,25
 2017,499,Truman,6,7,4,17
-2017,717,Tufts,10,5,2,17
-2017,719,Tulsa,10,4,5,19
-2017,12830,Tusculum,16,5,0,21
+2017,717,Tufts,11,5,3,19
+2017,719,Tulsa,10,5,5,20
+2017,12830,Tusculum,15,4,0,19
 2017,1255,U New England,3,11,4,18
 2017,9,UAB,6,9,3,18
 2017,108,UC Davis,8,9,3,20
 2017,109,UC Irvine,5,13,1,19
 2017,111,UC Riverside,8,10,2,20
-2017,112,UC San Diego,16,2,2,20
+2017,112,UC San Diego,17,2,2,21
 2017,104,UC Santa Barbara,10,7,3,20
 2017,113,UC Santa Cruz,4,11,2,17
 2017,9754,UC-Colo. Springs,12,7,1,20
 2017,128,UCF,5,11,0,16
-2017,110,UCLA,9,7,2,18
+2017,110,UCLA,10,7,3,20
 2017,164,UConn,11,7,1,19
 2017,309,UIndy,10,5,5,20
-2017,401,UMass Boston,18,1,2,21
+2017,401,UMass Boston,18,1,4,23
 2017,656,UMass Dartmouth,11,6,1,18
 2017,368,UMass Lowell,13,1,2,16
 2017,391,UMBC,5,9,3,17
@@ -740,9 +740,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,460,UNCW,8,6,3,17
 2017,727,Union (NY),10,6,1,17
 2017,30153,Union (TN),5,12,0,17
-2017,465,UNLV,9,11,2,22
+2017,465,UNLV,10,11,3,24
 2017,728,Upper Iowa,9,9,0,18
-2017,30104,Urbana,13,4,1,18
+2017,30104,Urbana,15,5,1,21
 2017,730,Ursinus,4,11,1,16
 2017,10411,USC Upstate,3,10,0,13
 2017,30024,Utah Valley,15,4,1,20
@@ -750,20 +750,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,745,Va. Wesleyan,8,6,4,18
 2017,30166,Valley Forge,7,13,0,20
 2017,735,Valparaiso,10,5,4,19
-2017,737,Vassar,15,3,2,20
+2017,737,Vassar,14,4,2,20
 2017,740,VCU,8,9,4,21
-2017,738,Vermont,13,6,1,20
-2017,739,Villanova,10,7,3,20
-2017,746,Virginia,10,3,5,18
-2017,742,Virginia Tech,10,4,4,18
+2017,738,Vermont,14,6,2,22
+2017,739,Villanova,10,8,3,21
+2017,746,Virginia,10,3,6,19
+2017,742,Virginia Tech,11,4,5,20
 2017,741,VMI,0,17,0,17
 2017,747,Wabash,11,6,2,19
-2017,749,Wake Forest,14,2,4,20
+2017,749,Wake Forest,15,2,4,21
 2017,30141,Walsh,6,10,2,18
 2017,750,Wartburg,12,7,1,20
 2017,751,Wash. & Jeff.,6,7,3,16
-2017,752,Wash. & Lee,15,5,3,23
-2017,756,Washington,13,6,0,19
+2017,752,Wash. & Lee,15,5,2,22
+2017,756,Washington,13,6,1,20
 2017,753,Washington Col.,10,7,2,19
 2017,755,Washington-St. Louis,10,4,3,17
 2017,1434,Waynesburg,4,12,1,17
@@ -782,9 +782,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,771,Western Ill.,8,10,1,19
 2017,774,Western Mich.,9,6,4,19
 2017,775,Western New Eng.,11,10,1,22
-2017,1448,Western Wash.,9,4,4,17
+2017,1448,Western Wash.,10,5,4,19
 2017,777,Westfield St.,8,7,2,17
-2017,1450,Westminster (MO),15,3,1,19
+2017,1450,Westminster (MO),15,4,1,20
 2017,1451,Westminster (PA),6,7,4,17
 2017,778,Wheaton (IL),8,8,3,19
 2017,779,Wheaton (MA),12,7,2,21
@@ -796,31 +796,31 @@ year,team_id,team_name,wins,losses,ties,total_games
 2017,783,Widener,3,11,3,17
 2017,784,Wilkes,3,14,0,17
 2017,785,Willamette,8,8,1,17
-2017,786,William & Mary,12,6,3,21
+2017,786,William & Mary,12,7,2,21
 2017,30120,William Jewell,2,14,1,17
 2017,17094,William Peace,6,9,2,17
 2017,789,Williams,9,4,3,16
 2017,1460,Wilmington (DE),12,6,1,19
 2017,1461,Wilmington (OH),5,11,2,18
 2017,12973,Wilson,6,9,2,17
-2017,1462,Wingate,14,1,0,15
+2017,1462,Wingate,16,1,0,17
 2017,792,Winthrop,5,10,1,16
 2017,8911,Wis. Lutheran,9,8,5,22
 2017,799,Wis.-Parkside,6,8,3,17
 2017,800,Wis.-Platteville,12,6,0,18
 2017,804,Wis.-Superior,13,7,1,21
-2017,805,Wis.-Whitewater,13,4,4,21
-2017,796,Wisconsin,11,3,5,19
+2017,805,Wis.-Whitewater,14,5,3,22
+2017,796,Wisconsin,11,4,4,19
 2017,806,Wittenberg,3,13,1,17
-2017,787,Wm. Paterson,8,8,3,19
+2017,787,Wm. Paterson,9,9,3,21
 2017,2915,Wofford,12,7,0,19
 2017,807,Wooster,4,12,2,18
-2017,809,Worcester St.,12,6,1,19
+2017,809,Worcester St.,12,7,0,19
 2017,808,WPI,9,4,4,17
 2017,810,Wright St.,11,6,3,20
 2017,812,Xavier,8,8,3,19
 2017,813,Yale,3,10,3,16
-2017,814,Yeshiva,5,11,3,19
+2017,814,Yeshiva,5,11,2,18
 2017,2730,York (NY),0,15,2,17
 2017,815,York (PA),8,9,2,19
 2017,30154,Young Harris,11,6,1,18
