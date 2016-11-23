@@ -1,0 +1,19 @@
+Team Name
+Team ID
+Year
+Player Name
+Player ID
+Class
+Year
+GP
+Goals
+GPG (goals per game)
+Assists
+APG (assists per game)
+TP (total points)
+PPG (points per game)
+Goalie Min
+Goalie GA (goals against)
+Goalie GAA (goals against average)
+Goalie Saves
+Goalies Shutouts
