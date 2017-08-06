@@ -20,7 +20,9 @@ retries = 4
 
 base_url = 'http://stats.ncaa.org'
 
-game_xpath = '//*[@id="contentarea"]/table/tr[2]/td[1]/table/tr[position()>2]'
+#game_xpath = '//*[@id="contentarea"]/table/tr[2]/td[1]/table/tr[position()>2]'
+game_xpath = '//*[@id="contentarea"]/table/tr/td[1]/table/tr[position()>2]'
+#//*[@id="contentarea"]/table/tbody/tr/td[1]/table/tbody/tr[3]
 
 ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
 ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","w",{:col_sep => "\t"})
@@ -64,10 +66,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
       team_id = team["team_id"]
       team_name = team["team_name"]
       
-      #team_schedule_url = "http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
-
       team_schedule_url = "http://stats.ncaa.org/team/#{team_id}/#{year_id}"
-
+      
       #print "Sleep #{sleep_time} ... "
       sleep sleep_time
 
@@ -130,11 +130,11 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               opponent_url = nil
             else
               link_url = link.attributes["href"].text
-              parameters = link_url.split("/")[-1]
+              parameters = link_url.split("/") rescue nil
 
               # opponent_id
 
-              opponent_id = parameters.split("=")[1]
+              opponent_id = parameters[-2] rescue nil
 
               # opponent URL
 

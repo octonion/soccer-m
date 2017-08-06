@@ -45,6 +45,10 @@ print "\nfound #{found_years} years\n"
 
 years.each do |year|
 
+  if (year < 2011)
+    next
+  end
+
   sport_year_url = base_url+"?sport_code=#{sport_code}&academic_year=#{year}&division=&conf_id=-1&schedule_date="
   page2 = agent.get(sport_year_url)
 
