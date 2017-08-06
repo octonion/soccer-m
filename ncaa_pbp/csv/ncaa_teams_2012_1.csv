@@ -2,6 +2,7 @@ sport_code	year	year_id	division_id	team_id	team_name	team_url
 MSO	2012	10620	1	3	Adelphi	http://stats.ncaa.org/team/3/10620
 MSO	2012	10620	1	721	Air Force	http://stats.ncaa.org/team/721/10620
 MSO	2012	10620	1	5	Akron	http://stats.ncaa.org/team/5/10620
+MSO	2012	10620	1	6	Alabama A&M	http://stats.ncaa.org/team/6/10620
 MSO	2012	10620	1	14	Albany (NY)	http://stats.ncaa.org/team/14/10620
 MSO	2012	10620	1	23	American	http://stats.ncaa.org/team/23/10620
 MSO	2012	10620	1	27	Appalachian St.	http://stats.ncaa.org/team/27/10620
@@ -42,7 +43,7 @@ MSO	2012	10620	1	175	Dayton	http://stats.ncaa.org/team/175/10620
 MSO	2012	10620	1	176	DePaul	http://stats.ncaa.org/team/176/10620
 MSO	2012	10620	1	180	Delaware	http://stats.ncaa.org/team/180/10620
 MSO	2012	10620	1	183	Denver	http://stats.ncaa.org/team/183/10620
-MSO	2012	10620	1	184	Detroit	http://stats.ncaa.org/team/184/10620
+MSO	2012	10620	1	184	Detroit Mercy	http://stats.ncaa.org/team/184/10620
 MSO	2012	10620	1	189	Drake	http://stats.ncaa.org/team/189/10620
 MSO	2012	10620	1	191	Drexel	http://stats.ncaa.org/team/191/10620
 MSO	2012	10620	1	193	Duke	http://stats.ncaa.org/team/193/10620
@@ -146,13 +147,14 @@ MSO	2012	10620	1	590	Sacred Heart	http://stats.ncaa.org/team/590/10620
 MSO	2012	10620	1	600	Saint Francis (PA)	http://stats.ncaa.org/team/600/10620
 MSO	2012	10620	1	606	Saint Joseph's	http://stats.ncaa.org/team/606/10620
 MSO	2012	10620	1	609	Saint Louis	http://stats.ncaa.org/team/609/10620
+MSO	2012	10620	1	610	Saint Mary's (CA)	http://stats.ncaa.org/team/610/10620
 MSO	2012	10620	1	617	Saint Peter's	http://stats.ncaa.org/team/617/10620
 MSO	2012	10620	1	627	San Diego	http://stats.ncaa.org/team/627/10620
 MSO	2012	10620	1	626	San Diego St.	http://stats.ncaa.org/team/626/10620
 MSO	2012	10620	1	629	San Francisco	http://stats.ncaa.org/team/629/10620
 MSO	2012	10620	1	630	San Jose St.	http://stats.ncaa.org/team/630/10620
 MSO	2012	10620	1	631	Santa Clara	http://stats.ncaa.org/team/631/10620
-MSO	2012	10620	1	1356	Seattle	http://stats.ncaa.org/team/1356/10620
+MSO	2012	10620	1	1356	Seattle U	http://stats.ncaa.org/team/1356/10620
 MSO	2012	10620	1	635	Seton Hall	http://stats.ncaa.org/team/635/10620
 MSO	2012	10620	1	639	Siena	http://stats.ncaa.org/team/639/10620
 MSO	2012	10620	1	648	South Carolina	http://stats.ncaa.org/team/648/10620
@@ -160,7 +162,6 @@ MSO	2012	10620	1	651	South Fla.	http://stats.ncaa.org/team/651/10620
 MSO	2012	10620	1	596	St. Bonaventure	http://stats.ncaa.org/team/596/10620
 MSO	2012	10620	1	599	St. Francis Brooklyn	http://stats.ncaa.org/team/599/10620
 MSO	2012	10620	1	603	St. John's (NY)	http://stats.ncaa.org/team/603/10620
-MSO	2012	10620	1	610	St. Mary's (CA)	http://stats.ncaa.org/team/610/10620
 MSO	2012	10620	1	674	Stanford	http://stats.ncaa.org/team/674/10620
 MSO	2012	10620	1	678	Stetson	http://stats.ncaa.org/team/678/10620
 MSO	2012	10620	1	683	Stony Brook	http://stats.ncaa.org/team/683/10620
