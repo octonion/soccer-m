@@ -1,0 +1,420 @@
+sport_code	year	year_id	division_id	team_id	team_name	team_url
+MSO	2018	12621	3	4	Adrian	http://stats.ncaa.org/team/4/12621
+MSO	2018	12621	3	2798	Albertus Magnus	http://stats.ncaa.org/team/2798/12621
+MSO	2018	12621	3	15	Albion	http://stats.ncaa.org/team/15/12621
+MSO	2018	12621	3	16	Albright	http://stats.ncaa.org/team/16/12621
+MSO	2018	12621	3	18	Alfred	http://stats.ncaa.org/team/18/12621
+MSO	2018	12621	3	30170	Alfred St.	http://stats.ncaa.org/team/30170/12621
+MSO	2018	12621	3	19	Allegheny	http://stats.ncaa.org/team/19/12621
+MSO	2018	12621	3	21	Alma	http://stats.ncaa.org/team/21/12621
+MSO	2018	12621	3	938	Alvernia	http://stats.ncaa.org/team/938/12621
+MSO	2018	12621	3	24	Amherst	http://stats.ncaa.org/team/24/12621
+MSO	2018	12621	3	939	Anderson (IN)	http://stats.ncaa.org/team/939/12621
+MSO	2018	12621	3	26	Anna Maria	http://stats.ncaa.org/team/26/12621
+MSO	2018	12621	3	966	Arcadia	http://stats.ncaa.org/team/966/12621
+MSO	2018	12621	3	38	Augsburg	http://stats.ncaa.org/team/38/12621
+MSO	2018	12621	3	40	Augustana (IL)	http://stats.ncaa.org/team/40/12621
+MSO	2018	12621	3	42	Aurora	http://stats.ncaa.org/team/42/12621
+MSO	2018	12621	3	953	Austin	http://stats.ncaa.org/team/953/12621
+MSO	2018	12621	3	44	Averett	http://stats.ncaa.org/team/44/12621
+MSO	2018	12621	3	45	Babson	http://stats.ncaa.org/team/45/12621
+MSO	2018	12621	3	46	Baldwin Wallace	http://stats.ncaa.org/team/46/12621
+MSO	2018	12621	3	962	Bard	http://stats.ncaa.org/team/962/12621
+MSO	2018	12621	3	58	Baruch	http://stats.ncaa.org/team/58/12621
+MSO	2018	12621	3	50	Bates	http://stats.ncaa.org/team/50/12621
+MSO	2018	12621	3	26107	Becker	http://stats.ncaa.org/team/26107/12621
+MSO	2018	12621	3	30197	Belhaven	http://stats.ncaa.org/team/30197/12621
+MSO	2018	12621	3	53	Beloit	http://stats.ncaa.org/team/53/12621
+MSO	2018	12621	3	296	Benedictine (IL)	http://stats.ncaa.org/team/296/12621
+MSO	2018	12621	3	30171	Berea	http://stats.ncaa.org/team/30171/12621
+MSO	2018	12621	3	973	Berry	http://stats.ncaa.org/team/973/12621
+MSO	2018	12621	3	59	Bethany (WV)	http://stats.ncaa.org/team/59/12621
+MSO	2018	12621	3	30038	Bethany Lutheran	http://stats.ncaa.org/team/30038/12621
+MSO	2018	12621	3	60	Bethel (MN)	http://stats.ncaa.org/team/60/12621
+MSO	2018	12621	3	28593	Birmingham-So.	http://stats.ncaa.org/team/28593/12621
+MSO	2018	12621	3	64	Blackburn	http://stats.ncaa.org/team/64/12621
+MSO	2018	12621	3	987	Bluffton	http://stats.ncaa.org/team/987/12621
+MSO	2018	12621	3	69	Bowdoin	http://stats.ncaa.org/team/69/12621
+MSO	2018	12621	3	73	Brandeis	http://stats.ncaa.org/team/73/12621
+MSO	2018	12621	3	30094	Brevard	http://stats.ncaa.org/team/30094/12621
+MSO	2018	12621	3	75	Bridgewater (VA)	http://stats.ncaa.org/team/75/12621
+MSO	2018	12621	3	76	Bridgewater St.	http://stats.ncaa.org/team/76/12621
+MSO	2018	12621	3	78	Brockport	http://stats.ncaa.org/team/78/12621
+MSO	2018	12621	3	79	Brooklyn	http://stats.ncaa.org/team/79/12621
+MSO	2018	12621	3	30188	Bryn Athyn	http://stats.ncaa.org/team/30188/12621
+MSO	2018	12621	3	84	Buena Vista	http://stats.ncaa.org/team/84/12621
+MSO	2018	12621	3	85	Buffalo St.	http://stats.ncaa.org/team/85/12621
+MSO	2018	12621	3	480	CCNY	http://stats.ncaa.org/team/480/12621
+MSO	2018	12621	3	122	CWRU	http://stats.ncaa.org/team/122/12621
+MSO	2018	12621	3	88	Cabrini	http://stats.ncaa.org/team/88/12621
+MSO	2018	12621	3	1305	Cairn	http://stats.ncaa.org/team/1305/12621
+MSO	2018	12621	3	105	Cal Lutheran	http://stats.ncaa.org/team/105/12621
+MSO	2018	12621	3	89	Caltech	http://stats.ncaa.org/team/89/12621
+MSO	2018	12621	3	114	Calvin	http://stats.ncaa.org/team/114/12621
+MSO	2018	12621	3	117	Capital	http://stats.ncaa.org/team/117/12621
+MSO	2018	12621	3	118	Carleton	http://stats.ncaa.org/team/118/12621
+MSO	2018	12621	3	119	Carnegie Mellon	http://stats.ncaa.org/team/119/12621
+MSO	2018	12621	3	120	Carroll (WI)	http://stats.ncaa.org/team/120/12621
+MSO	2018	12621	3	121	Carthage	http://stats.ncaa.org/team/121/12621
+MSO	2018	12621	3	123	Castleton	http://stats.ncaa.org/team/123/12621
+MSO	2018	12621	3	124	Catholic	http://stats.ncaa.org/team/124/12621
+MSO	2018	12621	3	23624	Cazenovia	http://stats.ncaa.org/team/23624/12621
+MSO	2018	12621	3	125	Centenary (LA)	http://stats.ncaa.org/team/125/12621
+MSO	2018	12621	3	12884	Centenary (NJ)	http://stats.ncaa.org/team/12884/12621
+MSO	2018	12621	3	126	Central (IA)	http://stats.ncaa.org/team/126/12621
+MSO	2018	12621	3	132	Centre	http://stats.ncaa.org/team/132/12621
+MSO	2018	12621	3	134	Chapman	http://stats.ncaa.org/team/134/12621
+MSO	2018	12621	3	137	Chicago	http://stats.ncaa.org/team/137/12621
+MSO	2018	12621	3	139	Chris. Newport	http://stats.ncaa.org/team/139/12621
+MSO	2018	12621	3	142	Claremont-M-S	http://stats.ncaa.org/team/142/12621
+MSO	2018	12621	3	145	Clark (MA)	http://stats.ncaa.org/team/145/12621
+MSO	2018	12621	3	958	Clarks Summit	http://stats.ncaa.org/team/958/12621
+MSO	2018	12621	3	146	Clarkson	http://stats.ncaa.org/team/146/12621
+MSO	2018	12621	3	722	Coast Guard	http://stats.ncaa.org/team/722/12621
+MSO	2018	12621	3	30083	Cobleskill St.	http://stats.ncaa.org/team/30083/12621
+MSO	2018	12621	3	150	Coe	http://stats.ncaa.org/team/150/12621
+MSO	2018	12621	3	151	Colby	http://stats.ncaa.org/team/151/12621
+MSO	2018	12621	3	152	Colby-Sawyer	http://stats.ncaa.org/team/152/12621
+MSO	2018	12621	3	154	Colorado Col.	http://stats.ncaa.org/team/154/12621
+MSO	2018	12621	3	24400	Concordia (TX)	http://stats.ncaa.org/team/24400/12621
+MSO	2018	12621	3	160	Concordia Chicago	http://stats.ncaa.org/team/160/12621
+MSO	2018	12621	3	1036	Concordia Wisconsin	http://stats.ncaa.org/team/1036/12621
+MSO	2018	12621	3	161	Concordia-M'head	http://stats.ncaa.org/team/161/12621
+MSO	2018	12621	3	163	Connecticut Col.	http://stats.ncaa.org/team/163/12621
+MSO	2018	12621	3	166	Cornell College	http://stats.ncaa.org/team/166/12621
+MSO	2018	12621	3	30111	Covenant	http://stats.ncaa.org/team/30111/12621
+MSO	2018	12621	3	30035	Crown (MN)	http://stats.ncaa.org/team/30035/12621
+MSO	2018	12621	3	170	Curry	http://stats.ncaa.org/team/170/12621
+MSO	2018	12621	3	1059	D'Youville	http://stats.ncaa.org/team/1059/12621
+MSO	2018	12621	3	1044	Dallas	http://stats.ncaa.org/team/1044/12621
+MSO	2018	12621	3	2691	Daniel Webster	http://stats.ncaa.org/team/2691/12621
+MSO	2018	12621	3	177	DePauw	http://stats.ncaa.org/team/177/12621
+MSO	2018	12621	3	20	DeSales	http://stats.ncaa.org/team/20/12621
+MSO	2018	12621	3	30219	Dean	http://stats.ncaa.org/team/30219/12621
+MSO	2018	12621	3	1050	Defiance	http://stats.ncaa.org/team/1050/12621
+MSO	2018	12621	3	179	Delaware Valley	http://stats.ncaa.org/team/179/12621
+MSO	2018	12621	3	182	Denison	http://stats.ncaa.org/team/182/12621
+MSO	2018	12621	3	185	Dickinson	http://stats.ncaa.org/team/185/12621
+MSO	2018	12621	3	1332	Dominican (IL)	http://stats.ncaa.org/team/1332/12621
+MSO	2018	12621	3	190	Drew	http://stats.ncaa.org/team/190/12621
+MSO	2018	12621	3	192	Dubuque	http://stats.ncaa.org/team/192/12621
+MSO	2018	12621	3	195	Earlham	http://stats.ncaa.org/team/195/12621
+MSO	2018	12621	3	1062	East Tex. Baptist	http://stats.ncaa.org/team/1062/12621
+MSO	2018	12621	3	203	East. Mennonite	http://stats.ncaa.org/team/203/12621
+MSO	2018	12621	3	8968	Eastern	http://stats.ncaa.org/team/8968/12621
+MSO	2018	12621	3	200	Eastern Conn. St.	http://stats.ncaa.org/team/200/12621
+MSO	2018	12621	3	1064	Eastern Nazarene	http://stats.ncaa.org/team/1064/12621
+MSO	2018	12621	3	1066	Edgewood	http://stats.ncaa.org/team/1066/12621
+MSO	2018	12621	3	211	Elizabethtown	http://stats.ncaa.org/team/211/12621
+MSO	2018	12621	3	212	Elmhurst	http://stats.ncaa.org/team/212/12621
+MSO	2018	12621	3	213	Elmira	http://stats.ncaa.org/team/213/12621
+MSO	2018	12621	3	532	Elms	http://stats.ncaa.org/team/532/12621
+MSO	2018	12621	3	214	Emerson	http://stats.ncaa.org/team/214/12621
+MSO	2018	12621	3	215	Emmanuel (MA)	http://stats.ncaa.org/team/215/12621
+MSO	2018	12621	3	217	Emory	http://stats.ncaa.org/team/217/12621
+MSO	2018	12621	3	216	Emory & Henry	http://stats.ncaa.org/team/216/12621
+MSO	2018	12621	3	8981	Endicott	http://stats.ncaa.org/team/8981/12621
+MSO	2018	12621	3	218	Eureka	http://stats.ncaa.org/team/218/12621
+MSO	2018	12621	3	221	FDU-Florham	http://stats.ncaa.org/team/221/12621
+MSO	2018	12621	3	27892	Farmingdale St.	http://stats.ncaa.org/team/27892/12621
+MSO	2018	12621	3	225	Ferrum	http://stats.ncaa.org/team/225/12621
+MSO	2018	12621	3	30032	Finlandia	http://stats.ncaa.org/team/30032/12621
+MSO	2018	12621	3	227	Fitchburg St.	http://stats.ncaa.org/team/227/12621
+MSO	2018	12621	3	11538	Fontbonne	http://stats.ncaa.org/team/11538/12621
+MSO	2018	12621	3	238	Framingham St.	http://stats.ncaa.org/team/238/12621
+MSO	2018	12621	3	30069	Franciscan	http://stats.ncaa.org/team/30069/12621
+MSO	2018	12621	3	2694	Franklin	http://stats.ncaa.org/team/2694/12621
+MSO	2018	12621	3	239	Franklin & Marshall	http://stats.ncaa.org/team/239/12621
+MSO	2018	12621	3	242	Fredonia	http://stats.ncaa.org/team/242/12621
+MSO	2018	12621	3	243	Frostburg St.	http://stats.ncaa.org/team/243/12621
+MSO	2018	12621	3	245	Gallaudet	http://stats.ncaa.org/team/245/12621
+MSO	2018	12621	3	30084	Geneva	http://stats.ncaa.org/team/30084/12621
+MSO	2018	12621	3	1094	George Fox	http://stats.ncaa.org/team/1094/12621
+MSO	2018	12621	3	258	Gettysburg	http://stats.ncaa.org/team/258/12621
+MSO	2018	12621	3	1099	Gordon	http://stats.ncaa.org/team/1099/12621
+MSO	2018	12621	3	1467	Goucher	http://stats.ncaa.org/team/1467/12621
+MSO	2018	12621	3	11062	Green Mountain	http://stats.ncaa.org/team/11062/12621
+MSO	2018	12621	3	263	Greensboro	http://stats.ncaa.org/team/263/12621
+MSO	2018	12621	3	1111	Greenville	http://stats.ncaa.org/team/1111/12621
+MSO	2018	12621	3	264	Grinnell	http://stats.ncaa.org/team/264/12621
+MSO	2018	12621	3	265	Grove City	http://stats.ncaa.org/team/265/12621
+MSO	2018	12621	3	1112	Guilford	http://stats.ncaa.org/team/1112/12621
+MSO	2018	12621	3	266	Gust. Adolphus	http://stats.ncaa.org/team/266/12621
+MSO	2018	12621	3	12399	Gwynedd Mercy	http://stats.ncaa.org/team/12399/12621
+MSO	2018	12621	3	267	Hamilton	http://stats.ncaa.org/team/267/12621
+MSO	2018	12621	3	268	Hamline	http://stats.ncaa.org/team/268/12621
+MSO	2018	12621	3	269	Hampden-Sydney	http://stats.ncaa.org/team/269/12621
+MSO	2018	12621	3	1115	Hanover	http://stats.ncaa.org/team/1115/12621
+MSO	2018	12621	3	271	Hardin-Simmons	http://stats.ncaa.org/team/271/12621
+MSO	2018	12621	3	276	Haverford	http://stats.ncaa.org/team/276/12621
+MSO	2018	12621	3	278	Heidelberg	http://stats.ncaa.org/team/278/12621
+MSO	2018	12621	3	1124	Hendrix	http://stats.ncaa.org/team/1124/12621
+MSO	2018	12621	3	8398	Hilbert	http://stats.ncaa.org/team/8398/12621
+MSO	2018	12621	3	281	Hiram	http://stats.ncaa.org/team/281/12621
+MSO	2018	12621	3	282	Hobart and William Smith Colleges	http://stats.ncaa.org/team/282/12621
+MSO	2018	12621	3	8404	Hood	http://stats.ncaa.org/team/8404/12621
+MSO	2018	12621	3	286	Hope	http://stats.ncaa.org/team/286/12621
+MSO	2018	12621	3	30160	Houghton	http://stats.ncaa.org/team/30160/12621
+MSO	2018	12621	3	2741	Howard Payne	http://stats.ncaa.org/team/2741/12621
+MSO	2018	12621	3	292	Hunter	http://stats.ncaa.org/team/292/12621
+MSO	2018	12621	3	1130	Huntingdon	http://stats.ncaa.org/team/1130/12621
+MSO	2018	12621	3	1133	Husson	http://stats.ncaa.org/team/1133/12621
+MSO	2018	12621	3	30172	IIT	http://stats.ncaa.org/team/30172/12621
+MSO	2018	12621	3	300	Ill. Wesleyan	http://stats.ncaa.org/team/300/12621
+MSO	2018	12621	3	297	Illinois Col.	http://stats.ncaa.org/team/297/12621
+MSO	2018	12621	3	303	Immaculata	http://stats.ncaa.org/team/303/12621
+MSO	2018	12621	3	30173	Iowa Wesleyan	http://stats.ncaa.org/team/30173/12621
+MSO	2018	12621	3	313	Ithaca	http://stats.ncaa.org/team/313/12621
+MSO	2018	12621	3	320	John Carroll	http://stats.ncaa.org/team/320/12621
+MSO	2018	12621	3	321	John Jay	http://stats.ncaa.org/team/321/12621
+MSO	2018	12621	3	322	Johns Hopkins	http://stats.ncaa.org/team/322/12621
+MSO	2018	12621	3	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12621
+MSO	2018	12621	3	324	Johnson St.	http://stats.ncaa.org/team/324/12621
+MSO	2018	12621	3	325	Juniata	http://stats.ncaa.org/team/325/12621
+MSO	2018	12621	3	326	Kalamazoo	http://stats.ncaa.org/team/326/12621
+MSO	2018	12621	3	329	Kean	http://stats.ncaa.org/team/329/12621
+MSO	2018	12621	3	330	Keene St.	http://stats.ncaa.org/team/330/12621
+MSO	2018	12621	3	335	Kenyon	http://stats.ncaa.org/team/335/12621
+MSO	2018	12621	3	1159	Keuka	http://stats.ncaa.org/team/1159/12621
+MSO	2018	12621	3	30047	Keystone	http://stats.ncaa.org/team/30047/12621
+MSO	2018	12621	3	336	King's (PA)	http://stats.ncaa.org/team/336/12621
+MSO	2018	12621	3	337	Knox	http://stats.ncaa.org/team/337/12621
+MSO	2018	12621	3	1163	La Roche	http://stats.ncaa.org/team/1163/12621
+MSO	2018	12621	3	341	La Verne	http://stats.ncaa.org/team/341/12621
+MSO	2018	12621	3	1162	LaGrange	http://stats.ncaa.org/team/1162/12621
+MSO	2018	12621	3	344	Lake Forest	http://stats.ncaa.org/team/344/12621
+MSO	2018	12621	3	1164	Lakeland	http://stats.ncaa.org/team/1164/12621
+MSO	2018	12621	3	30085	Lancaster Bible	http://stats.ncaa.org/team/30085/12621
+MSO	2018	12621	3	8486	Lasell	http://stats.ncaa.org/team/8486/12621
+MSO	2018	12621	3	348	Lawrence	http://stats.ncaa.org/team/348/12621
+MSO	2018	12621	3	8490	LeTourneau	http://stats.ncaa.org/team/8490/12621
+MSO	2018	12621	3	351	Lebanon Valley	http://stats.ncaa.org/team/351/12621
+MSO	2018	12621	3	279	Lehman	http://stats.ncaa.org/team/279/12621
+MSO	2018	12621	3	24317	Lesley	http://stats.ncaa.org/team/24317/12621
+MSO	2018	12621	3	1179	Linfield	http://stats.ncaa.org/team/1179/12621
+MSO	2018	12621	3	364	Loras	http://stats.ncaa.org/team/364/12621
+MSO	2018	12621	3	1182	Louisiana Col.	http://stats.ncaa.org/team/1182/12621
+MSO	2018	12621	3	372	Luther	http://stats.ncaa.org/team/372/12621
+MSO	2018	12621	3	373	Lycoming	http://stats.ncaa.org/team/373/12621
+MSO	2018	12621	3	374	Lynchburg	http://stats.ncaa.org/team/374/12621
+MSO	2018	12621	3	30065	Lyndon St.	http://stats.ncaa.org/team/30065/12621
+MSO	2018	12621	3	486	MCLA	http://stats.ncaa.org/team/486/12621
+MSO	2018	12621	3	398	MIT	http://stats.ncaa.org/team/398/12621
+MSO	2018	12621	3	20220	MSOE	http://stats.ncaa.org/team/20220/12621
+MSO	2018	12621	3	377	MacMurray	http://stats.ncaa.org/team/377/12621
+MSO	2018	12621	3	376	Macalester	http://stats.ncaa.org/team/376/12621
+MSO	2018	12621	3	378	Maine Maritime	http://stats.ncaa.org/team/378/12621
+MSO	2018	12621	3	1192	Manchester	http://stats.ncaa.org/team/1192/12621
+MSO	2018	12621	3	382	Manhattanville	http://stats.ncaa.org/team/382/12621
+MSO	2018	12621	3	1194	Maranatha Baptist	http://stats.ncaa.org/team/1194/12621
+MSO	2018	12621	3	1196	Marian (WI)	http://stats.ncaa.org/team/1196/12621
+MSO	2018	12621	3	385	Marietta	http://stats.ncaa.org/team/385/12621
+MSO	2018	12621	3	8597	Martin Luther	http://stats.ncaa.org/team/8597/12621
+MSO	2018	12621	3	1203	Mary Hardin-Baylor	http://stats.ncaa.org/team/1203/12621
+MSO	2018	12621	3	390	Mary Washington	http://stats.ncaa.org/team/390/12621
+MSO	2018	12621	3	394	Marymount (VA)	http://stats.ncaa.org/team/394/12621
+MSO	2018	12621	3	396	Maryville (TN)	http://stats.ncaa.org/team/396/12621
+MSO	2018	12621	3	397	Marywood	http://stats.ncaa.org/team/397/12621
+MSO	2018	12621	3	399	Mass. Maritime	http://stats.ncaa.org/team/399/12621
+MSO	2018	12621	3	773	McDaniel	http://stats.ncaa.org/team/773/12621
+MSO	2018	12621	3	8530	McMurry	http://stats.ncaa.org/team/8530/12621
+MSO	2018	12621	3	379	Me.-Farmington	http://stats.ncaa.org/team/379/12621
+MSO	2018	12621	3	30040	Me.-Presque Isle	http://stats.ncaa.org/team/30040/12621
+MSO	2018	12621	3	23725	Medaille	http://stats.ncaa.org/team/23725/12621
+MSO	2018	12621	3	403	Medgar Evers	http://stats.ncaa.org/team/403/12621
+MSO	2018	12621	3	724	Merchant Marine	http://stats.ncaa.org/team/724/12621
+MSO	2018	12621	3	411	Messiah	http://stats.ncaa.org/team/411/12621
+MSO	2018	12621	3	412	Methodist	http://stats.ncaa.org/team/412/12621
+MSO	2018	12621	3	420	Middlebury	http://stats.ncaa.org/team/420/12621
+MSO	2018	12621	3	424	Millikin	http://stats.ncaa.org/team/424/12621
+MSO	2018	12621	3	426	Millsaps	http://stats.ncaa.org/team/426/12621
+MSO	2018	12621	3	1226	Minn.-Morris	http://stats.ncaa.org/team/1226/12621
+MSO	2018	12621	3	16142	Misericordia	http://stats.ncaa.org/team/16142/12621
+MSO	2018	12621	3	30042	Mitchell	http://stats.ncaa.org/team/30042/12621
+MSO	2018	12621	3	438	Monmouth (IL)	http://stats.ncaa.org/team/438/12621
+MSO	2018	12621	3	442	Montclair St.	http://stats.ncaa.org/team/442/12621
+MSO	2018	12621	3	443	Moravian	http://stats.ncaa.org/team/443/12621
+MSO	2018	12621	3	30067	Morrisville St.	http://stats.ncaa.org/team/30067/12621
+MSO	2018	12621	3	30036	Mount Aloysius	http://stats.ncaa.org/team/30036/12621
+MSO	2018	12621	3	27901	Mount Ida	http://stats.ncaa.org/team/27901/12621
+MSO	2018	12621	3	452	Mount Union	http://stats.ncaa.org/team/452/12621
+MSO	2018	12621	3	8567	Mt. St. Joseph	http://stats.ncaa.org/team/8567/12621
+MSO	2018	12621	3	1468	Mt. St. Mary (NY)	http://stats.ncaa.org/team/1468/12621
+MSO	2018	12621	3	451	Mt. St. Vincent	http://stats.ncaa.org/team/451/12621
+MSO	2018	12621	3	453	Muhlenberg	http://stats.ncaa.org/team/453/12621
+MSO	2018	12621	3	455	Muskingum	http://stats.ncaa.org/team/455/12621
+MSO	2018	12621	3	491	N.C. Wesleyan	http://stats.ncaa.org/team/491/12621
+MSO	2018	12621	3	479	NYU	http://stats.ncaa.org/team/479/12621
+MSO	2018	12621	3	461	Nazareth	http://stats.ncaa.org/team/461/12621
+MSO	2018	12621	3	462	Neb. Wesleyan	http://stats.ncaa.org/team/462/12621
+MSO	2018	12621	3	1254	Neumann	http://stats.ncaa.org/team/1254/12621
+MSO	2018	12621	3	467	New England Col.	http://stats.ncaa.org/team/467/12621
+MSO	2018	12621	3	319	New Jersey City	http://stats.ncaa.org/team/319/12621
+MSO	2018	12621	3	476	New Rochelle	http://stats.ncaa.org/team/476/12621
+MSO	2018	12621	3	21772	Newbury	http://stats.ncaa.org/team/21772/12621
+MSO	2018	12621	3	484	Nichols	http://stats.ncaa.org/team/484/12621
+MSO	2018	12621	3	492	North Central (IL)	http://stats.ncaa.org/team/492/12621
+MSO	2018	12621	3	30039	North Central (MN)	http://stats.ncaa.org/team/30039/12621
+MSO	2018	12621	3	496	North Park	http://stats.ncaa.org/team/496/12621
+MSO	2018	12621	3	1267	Northland	http://stats.ncaa.org/team/1267/12621
+MSO	2018	12621	3	30031	Northwestern-St. Paul	http://stats.ncaa.org/team/30031/12621
+MSO	2018	12621	3	511	Norwich	http://stats.ncaa.org/team/511/12621
+MSO	2018	12621	3	515	Oberlin	http://stats.ncaa.org/team/515/12621
+MSO	2018	12621	3	516	Occidental	http://stats.ncaa.org/team/516/12621
+MSO	2018	12621	3	2713	Oglethorpe	http://stats.ncaa.org/team/2713/12621
+MSO	2018	12621	3	517	Ohio Northern	http://stats.ncaa.org/team/517/12621
+MSO	2018	12621	3	520	Ohio Wesleyan	http://stats.ncaa.org/team/520/12621
+MSO	2018	12621	3	524	Old Westbury	http://stats.ncaa.org/team/524/12621
+MSO	2018	12621	3	525	Olivet	http://stats.ncaa.org/team/525/12621
+MSO	2018	12621	3	530	Oswego St.	http://stats.ncaa.org/team/530/12621
+MSO	2018	12621	3	531	Otterbein	http://stats.ncaa.org/team/531/12621
+MSO	2018	12621	3	23008	Ozarks (AR)	http://stats.ncaa.org/team/23008/12621
+MSO	2018	12621	3	2751	Pacific (OR)	http://stats.ncaa.org/team/2751/12621
+MSO	2018	12621	3	1297	Pacific Lutheran	http://stats.ncaa.org/team/1297/12621
+MSO	2018	12621	3	30190	Penn College	http://stats.ncaa.org/team/30190/12621
+MSO	2018	12621	3	30081	Penn St. Harrisburg	http://stats.ncaa.org/team/30081/12621
+MSO	2018	12621	3	30114	Penn St.-Abington	http://stats.ncaa.org/team/30114/12621
+MSO	2018	12621	3	25719	Penn St.-Altoona	http://stats.ncaa.org/team/25719/12621
+MSO	2018	12621	3	538	Penn St.-Behrend	http://stats.ncaa.org/team/538/12621
+MSO	2018	12621	3	30044	Penn St.-Berks	http://stats.ncaa.org/team/30044/12621
+MSO	2018	12621	3	542	Pfeiffer	http://stats.ncaa.org/team/542/12621
+MSO	2018	12621	3	21830	Piedmont	http://stats.ncaa.org/team/21830/12621
+MSO	2018	12621	3	544	Pine Manor	http://stats.ncaa.org/team/544/12621
+MSO	2018	12621	3	1315	Pitt.-Bradford	http://stats.ncaa.org/team/1315/12621
+MSO	2018	12621	3	11839	Pitt.-Greensburg	http://stats.ncaa.org/team/11839/12621
+MSO	2018	12621	3	547	Plattsburgh St.	http://stats.ncaa.org/team/547/12621
+MSO	2018	12621	3	548	Plymouth St.	http://stats.ncaa.org/team/548/12621
+MSO	2018	12621	3	549	Pomona-Pitzer	http://stats.ncaa.org/team/549/12621
+MSO	2018	12621	3	555	Principia	http://stats.ncaa.org/team/555/12621
+MSO	2018	12621	3	557	Puget Sound	http://stats.ncaa.org/team/557/12621
+MSO	2018	12621	3	30029	Purchase	http://stats.ncaa.org/team/30029/12621
+MSO	2018	12621	3	580	RIT	http://stats.ncaa.org/team/580/12621
+MSO	2018	12621	3	564	Ramapo	http://stats.ncaa.org/team/564/12621
+MSO	2018	12621	3	566	Randolph	http://stats.ncaa.org/team/566/12621
+MSO	2018	12621	3	565	Randolph-Macon	http://stats.ncaa.org/team/565/12621
+MSO	2018	12621	3	567	Redlands	http://stats.ncaa.org/team/567/12621
+MSO	2018	12621	3	569	Regis (MA)	http://stats.ncaa.org/team/569/12621
+MSO	2018	12621	3	570	Rensselaer	http://stats.ncaa.org/team/570/12621
+MSO	2018	12621	3	571	Rhode Island Col.	http://stats.ncaa.org/team/571/12621
+MSO	2018	12621	3	573	Rhodes	http://stats.ncaa.org/team/573/12621
+MSO	2018	12621	3	577	Ripon	http://stats.ncaa.org/team/577/12621
+MSO	2018	12621	3	18422	Rivier	http://stats.ncaa.org/team/18422/12621
+MSO	2018	12621	3	578	Roanoke	http://stats.ncaa.org/team/578/12621
+MSO	2018	12621	3	581	Rochester (NY)	http://stats.ncaa.org/team/581/12621
+MSO	2018	12621	3	582	Rockford	http://stats.ncaa.org/team/582/12621
+MSO	2018	12621	3	583	Roger Williams	http://stats.ncaa.org/team/583/12621
+MSO	2018	12621	3	585	Rose-Hulman	http://stats.ncaa.org/team/585/12621
+MSO	2018	12621	3	15882	Rosemont	http://stats.ncaa.org/team/15882/12621
+MSO	2018	12621	3	259	Rowan	http://stats.ncaa.org/team/259/12621
+MSO	2018	12621	3	588	Rutgers-Camden	http://stats.ncaa.org/team/588/12621
+MSO	2018	12621	3	589	Rutgers-Newark	http://stats.ncaa.org/team/589/12621
+MSO	2018	12621	3	30165	SUNY Canton	http://stats.ncaa.org/team/30165/12621
+MSO	2018	12621	3	168	SUNY Cortland	http://stats.ncaa.org/team/168/12621
+MSO	2018	12621	3	247	SUNY Geneseo	http://stats.ncaa.org/team/247/12621
+MSO	2018	12621	3	478	SUNY Maritime	http://stats.ncaa.org/team/478/12621
+MSO	2018	12621	3	475	SUNY New Paltz	http://stats.ncaa.org/team/475/12621
+MSO	2018	12621	3	526	SUNY Oneonta	http://stats.ncaa.org/team/526/12621
+MSO	2018	12621	3	9500	SUNY Poly	http://stats.ncaa.org/team/9500/12621
+MSO	2018	12621	3	552	SUNY Potsdam	http://stats.ncaa.org/team/552/12621
+MSO	2018	12621	3	11036	Sage Colleges	http://stats.ncaa.org/team/11036/12621
+MSO	2018	12621	3	602	Saint John's (MN)	http://stats.ncaa.org/team/602/12621
+MSO	2018	12621	3	612	Saint Mary's (MN)	http://stats.ncaa.org/team/612/12621
+MSO	2018	12621	3	30064	Saint Vincent	http://stats.ncaa.org/team/30064/12621
+MSO	2018	12621	3	621	Salem St.	http://stats.ncaa.org/team/621/12621
+MSO	2018	12621	3	622	Salisbury	http://stats.ncaa.org/team/622/12621
+MSO	2018	12621	3	623	Salve Regina	http://stats.ncaa.org/team/623/12621
+MSO	2018	12621	3	30163	Sarah Lawrence	http://stats.ncaa.org/team/30163/12621
+MSO	2018	12621	3	1355	Schreiner	http://stats.ncaa.org/team/1355/12621
+MSO	2018	12621	3	633	Scranton	http://stats.ncaa.org/team/633/12621
+MSO	2018	12621	3	652	Sewanee	http://stats.ncaa.org/team/652/12621
+MSO	2018	12621	3	637	Shenandoah	http://stats.ncaa.org/team/637/12621
+MSO	2018	12621	3	641	Simpson	http://stats.ncaa.org/team/641/12621
+MSO	2018	12621	3	642	Skidmore	http://stats.ncaa.org/team/642/12621
+MSO	2018	12621	3	662	Southern Me.	http://stats.ncaa.org/team/662/12621
+MSO	2018	12621	3	30164	Southern Va.	http://stats.ncaa.org/team/30164/12621
+MSO	2018	12621	3	1379	Southern Vt.	http://stats.ncaa.org/team/1379/12621
+MSO	2018	12621	3	8746	Southwestern (TX)	http://stats.ncaa.org/team/8746/12621
+MSO	2018	12621	3	23260	Spalding	http://stats.ncaa.org/team/23260/12621
+MSO	2018	12621	3	673	Springfield	http://stats.ncaa.org/team/673/12621
+MSO	2018	12621	3	9684	St. Elizabeth	http://stats.ncaa.org/team/9684/12621
+MSO	2018	12621	3	601	St. John Fisher	http://stats.ncaa.org/team/601/12621
+MSO	2018	12621	3	30072	St. Joseph's (Brkln)	http://stats.ncaa.org/team/30072/12621
+MSO	2018	12621	3	1340	St. Joseph's (L.I.)	http://stats.ncaa.org/team/1340/12621
+MSO	2018	12621	3	605	St. Joseph's (ME)	http://stats.ncaa.org/team/605/12621
+MSO	2018	12621	3	607	St. Lawrence	http://stats.ncaa.org/team/607/12621
+MSO	2018	12621	3	611	St. Mary's (MD)	http://stats.ncaa.org/team/611/12621
+MSO	2018	12621	3	614	St. Norbert	http://stats.ncaa.org/team/614/12621
+MSO	2018	12621	3	615	St. Olaf	http://stats.ncaa.org/team/615/12621
+MSO	2018	12621	3	618	St. Scholastica	http://stats.ncaa.org/team/618/12621
+MSO	2018	12621	3	620	St. Thomas (MN)	http://stats.ncaa.org/team/620/12621
+MSO	2018	12621	3	675	Staten Island	http://stats.ncaa.org/team/675/12621
+MSO	2018	12621	3	679	Stevens	http://stats.ncaa.org/team/679/12621
+MSO	2018	12621	3	21852	Stevenson	http://stats.ncaa.org/team/21852/12621
+MSO	2018	12621	3	681	Stockton	http://stats.ncaa.org/team/681/12621
+MSO	2018	12621	3	684	Suffolk	http://stats.ncaa.org/team/684/12621
+MSO	2018	12621	3	685	Susquehanna	http://stats.ncaa.org/team/685/12621
+MSO	2018	12621	3	686	Swarthmore	http://stats.ncaa.org/team/686/12621
+MSO	2018	12621	3	712	TCNJ	http://stats.ncaa.org/team/712/12621
+MSO	2018	12621	3	1400	Texas Lutheran	http://stats.ncaa.org/team/1400/12621
+MSO	2018	12621	3	23121	Texas-Dallas	http://stats.ncaa.org/team/23121/12621
+MSO	2018	12621	3	30028	Texas-Tyler	http://stats.ncaa.org/team/30028/12621
+MSO	2018	12621	3	707	Thiel	http://stats.ncaa.org/team/707/12621
+MSO	2018	12621	3	2758	Thomas (ME)	http://stats.ncaa.org/team/2758/12621
+MSO	2018	12621	3	1402	Thomas More	http://stats.ncaa.org/team/1402/12621
+MSO	2018	12621	3	28749	Transylvania	http://stats.ncaa.org/team/28749/12621
+MSO	2018	12621	3	30037	Trine	http://stats.ncaa.org/team/30037/12621
+MSO	2018	12621	3	713	Trinity (CT)	http://stats.ncaa.org/team/713/12621
+MSO	2018	12621	3	715	Trinity (TX)	http://stats.ncaa.org/team/715/12621
+MSO	2018	12621	3	717	Tufts	http://stats.ncaa.org/team/717/12621
+MSO	2018	12621	3	1255	U New England	http://stats.ncaa.org/team/1255/12621
+MSO	2018	12621	3	113	UC Santa Cruz	http://stats.ncaa.org/team/113/12621
+MSO	2018	12621	3	401	UMass Boston	http://stats.ncaa.org/team/401/12621
+MSO	2018	12621	3	656	UMass Dartmouth	http://stats.ncaa.org/team/656/12621
+MSO	2018	12621	3	727	Union (NY)	http://stats.ncaa.org/team/727/12621
+MSO	2018	12621	3	730	Ursinus	http://stats.ncaa.org/team/730/12621
+MSO	2018	12621	3	733	Utica	http://stats.ncaa.org/team/733/12621
+MSO	2018	12621	3	745	Va. Wesleyan	http://stats.ncaa.org/team/745/12621
+MSO	2018	12621	3	30166	Valley Forge	http://stats.ncaa.org/team/30166/12621
+MSO	2018	12621	3	737	Vassar	http://stats.ncaa.org/team/737/12621
+MSO	2018	12621	3	808	WPI	http://stats.ncaa.org/team/808/12621
+MSO	2018	12621	3	747	Wabash	http://stats.ncaa.org/team/747/12621
+MSO	2018	12621	3	750	Wartburg	http://stats.ncaa.org/team/750/12621
+MSO	2018	12621	3	751	Wash. & Jeff.	http://stats.ncaa.org/team/751/12621
+MSO	2018	12621	3	752	Wash. & Lee	http://stats.ncaa.org/team/752/12621
+MSO	2018	12621	3	753	Washington Col.	http://stats.ncaa.org/team/753/12621
+MSO	2018	12621	3	755	Washington-St. Louis	http://stats.ncaa.org/team/755/12621
+MSO	2018	12621	3	1434	Waynesburg	http://stats.ncaa.org/team/1434/12621
+MSO	2018	12621	3	759	Webster	http://stats.ncaa.org/team/759/12621
+MSO	2018	12621	3	761	Wells	http://stats.ncaa.org/team/761/12621
+MSO	2018	12621	3	762	Wentworth	http://stats.ncaa.org/team/762/12621
+MSO	2018	12621	3	763	Wesley	http://stats.ncaa.org/team/763/12621
+MSO	2018	12621	3	764	Wesleyan (CT)	http://stats.ncaa.org/team/764/12621
+MSO	2018	12621	3	770	Western Conn. St.	http://stats.ncaa.org/team/770/12621
+MSO	2018	12621	3	775	Western New Eng.	http://stats.ncaa.org/team/775/12621
+MSO	2018	12621	3	777	Westfield St.	http://stats.ncaa.org/team/777/12621
+MSO	2018	12621	3	1450	Westminster (MO)	http://stats.ncaa.org/team/1450/12621
+MSO	2018	12621	3	1451	Westminster (PA)	http://stats.ncaa.org/team/1451/12621
+MSO	2018	12621	3	778	Wheaton (IL)	http://stats.ncaa.org/team/778/12621
+MSO	2018	12621	3	779	Wheaton (MA)	http://stats.ncaa.org/team/779/12621
+MSO	2018	12621	3	8896	Wheelock	http://stats.ncaa.org/team/8896/12621
+MSO	2018	12621	3	780	Whitman	http://stats.ncaa.org/team/780/12621
+MSO	2018	12621	3	781	Whittier	http://stats.ncaa.org/team/781/12621
+MSO	2018	12621	3	1454	Whitworth	http://stats.ncaa.org/team/1454/12621
+MSO	2018	12621	3	783	Widener	http://stats.ncaa.org/team/783/12621
+MSO	2018	12621	3	784	Wilkes	http://stats.ncaa.org/team/784/12621
+MSO	2018	12621	3	785	Willamette	http://stats.ncaa.org/team/785/12621
+MSO	2018	12621	3	17094	William Peace	http://stats.ncaa.org/team/17094/12621
+MSO	2018	12621	3	789	Williams	http://stats.ncaa.org/team/789/12621
+MSO	2018	12621	3	1461	Wilmington (OH)	http://stats.ncaa.org/team/1461/12621
+MSO	2018	12621	3	12973	Wilson	http://stats.ncaa.org/team/12973/12621
+MSO	2018	12621	3	8911	Wis. Lutheran	http://stats.ncaa.org/team/8911/12621
+MSO	2018	12621	3	800	Wis.-Platteville	http://stats.ncaa.org/team/800/12621
+MSO	2018	12621	3	804	Wis.-Superior	http://stats.ncaa.org/team/804/12621
+MSO	2018	12621	3	805	Wis.-Whitewater	http://stats.ncaa.org/team/805/12621
+MSO	2018	12621	3	806	Wittenberg	http://stats.ncaa.org/team/806/12621
+MSO	2018	12621	3	787	Wm. Paterson	http://stats.ncaa.org/team/787/12621
+MSO	2018	12621	3	807	Wooster	http://stats.ncaa.org/team/807/12621
+MSO	2018	12621	3	809	Worcester St.	http://stats.ncaa.org/team/809/12621
+MSO	2018	12621	3	814	Yeshiva	http://stats.ncaa.org/team/814/12621
+MSO	2018	12621	3	2730	York (NY)	http://stats.ncaa.org/team/2730/12621
+MSO	2018	12621	3	815	York (PA)	http://stats.ncaa.org/team/815/12621
