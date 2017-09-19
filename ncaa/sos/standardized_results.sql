@@ -93,7 +93,7 @@ and (not((g.team_score,g.opponent_score)=(0,0)) or
 and g.school_id is not NULL
 and g.opponent_id is not NULL
 and not(g.game_date is null)
-and g.year between 2012 and 2017
+and g.year between 2012 and 2018
 
 and g.school_id < g.opponent_id
 
@@ -147,7 +147,7 @@ and (not((g.team_score,g.opponent_score)=(0,0)) or
 and g.school_id is not NULL
 and g.opponent_id is not NULL
 and not(g.game_date is null)
-and g.year between 2012 and 2017
+and g.year between 2012 and 2018
 
 and g.school_id < g.opponent_id
 );

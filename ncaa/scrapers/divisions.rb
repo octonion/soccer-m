@@ -20,14 +20,26 @@ teams.each do |team|
   team_name = team[1]
 
   url = "http://web1.ncaa.org/stats/StatsSrv/careersearch"
-  page = agent.get(url)
+  begin
+    page = agent.get(url)
+  rescue
+    print "sleeping ... "
+    sleep 15
+    retry
+  end
 
   form = page.forms[1]
   form.searchOrg = team_id
   form.academicYear = "X"
   form.searchSport = sport_code
   form.searchDiv = "X"
-  page = form.submit
+  begin
+    page = form.submit
+  rescue
+    print "sleeping ... "
+    sleep 15
+    retry
+  end
 
   sp = "/html/body/form/table/tr/td[1]/table/tr/td/table/tr/td/a"
   show = page.search(sp)
