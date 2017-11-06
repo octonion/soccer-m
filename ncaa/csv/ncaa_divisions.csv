@@ -3283,6 +3283,7 @@ MSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2015, 'MSO', 2, 1045);",2015,2,2
 MSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2016, 'MSO', 2, 1045);",2016,2,2015-16,Men's Soccer,II
 MSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2017, 'MSO', 2, 1045);",2017,2,2016-17,Men's Soccer,II
 MSO,DBU,1045,DBU,"javascript:showTeamPage(-100, 2018, 'MSO', 2, 1045);",2018,2,2017-18,Men's Soccer,II
+MSO,Dean,30219,Dean,"javascript:showTeamPage(-100, 2018, 'MSO', 3, 30219);",2018,3,2017-18,Men's Soccer,III
 MSO,Defiance,1050,Defiance,"javascript:showTeamPage(-100, 1999, 'MSO', 3, 1050);",1999,3,1998-99,Men's Soccer,III
 MSO,Defiance,1050,Defiance,"javascript:showTeamPage(-100, 2001, 'MSO', 3, 1050);",2001,3,2000-01,Men's Soccer,III
 MSO,Defiance,1050,Defiance,"javascript:showTeamPage(-100, 2002, 'MSO', 3, 1050);",2002,3,2001-02,Men's Soccer,III
@@ -10265,6 +10266,7 @@ MSO,Purchase,30029,Purchase,"javascript:showTeamPage(-100, 2015, 'MSO', 3, 30029
 MSO,Purchase,30029,Purchase,"javascript:showTeamPage(-100, 2016, 'MSO', 3, 30029);",2016,3,2015-16,Men's Soccer,III
 MSO,Purchase,30029,Purchase,"javascript:showTeamPage(-100, 2017, 'MSO', 3, 30029);",2017,3,2016-17,Men's Soccer,III
 MSO,Purchase,30029,Purchase,"javascript:showTeamPage(-100, 2018, 'MSO', 3, 30029);",2018,3,2017-18,Men's Soccer,III
+MSO,Purdue Northwest,30222,Purdue Northwest,"javascript:showTeamPage(-100, 2018, 'MSO', 2, 30222);",2018,2,2017-18,Men's Soccer,II
 MSO,Queens (NC),11504,Queens (NC),"javascript:showTeamPage(-100, 1999, 'MSO', 2, 11504);",1999,2,1998-99,Men's Soccer,II
 MSO,Queens (NC),11504,Queens (NC),"javascript:showTeamPage(-100, 2000, 'MSO', 2, 11504);",2000,2,1999-00,Men's Soccer,II
 MSO,Queens (NC),11504,Queens (NC),"javascript:showTeamPage(-100, 2002, 'MSO', 2, 11504);",2002,2,2001-02,Men's Soccer,II
@@ -11203,26 +11205,26 @@ MSO,Saint Vincent,30064,Saint Vincent,"javascript:showTeamPage(-100, 2015, 'MSO'
 MSO,Saint Vincent,30064,Saint Vincent,"javascript:showTeamPage(-100, 2016, 'MSO', 3, 30064);",2016,3,2015-16,Men's Soccer,III
 MSO,Saint Vincent,30064,Saint Vincent,"javascript:showTeamPage(-100, 2017, 'MSO', 3, 30064);",2017,3,2016-17,Men's Soccer,III
 MSO,Saint Vincent,30064,Saint Vincent,"javascript:showTeamPage(-100, 2018, 'MSO', 3, 30064);",2018,3,2017-18,Men's Soccer,III
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 1999, 'MSO', 2, 19117);",1999,2,1998-99,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2000, 'MSO', 2, 19117);",2000,2,1999-00,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2001, 'MSO', 2, 19117);",2001,2,2000-01,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2002, 'MSO', 2, 19117);",2002,2,2001-02,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2003, 'MSO', 2, 19117);",2003,2,2002-03,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2004, 'MSO', 2, 19117);",2004,2,2003-04,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2005, 'MSO', 2, 19117);",2005,2,2004-05,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2006, 'MSO', 2, 19117);",2006,2,2005-06,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2007, 'MSO', 2, 19117);",2007,2,2006-07,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2008, 'MSO', 2, 19117);",2008,2,2007-08,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2009, 'MSO', 2, 19117);",2009,2,2008-09,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2010, 'MSO', 2, 19117);",2010,2,2009-10,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2011, 'MSO', 2, 19117);",2011,2,2010-11,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2012, 'MSO', 2, 19117);",2012,2,2011-12,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2013, 'MSO', 2, 19117);",2013,2,2012-13,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2014, 'MSO', 2, 19117);",2014,2,2013-14,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2015, 'MSO', 2, 19117);",2015,2,2014-15,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2016, 'MSO', 2, 19117);",2016,2,2015-16,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2017, 'MSO', 2, 19117);",2017,2,2016-17,Men's Soccer,II
-MSO,Salem Int'l,19117,Salem Int'l,"javascript:showTeamPage(-100, 2018, 'MSO', 2, 19117);",2018,2,2017-18,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 1999, 'MSO', 2, 19117);",1999,2,1998-99,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2000, 'MSO', 2, 19117);",2000,2,1999-00,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2001, 'MSO', 2, 19117);",2001,2,2000-01,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2002, 'MSO', 2, 19117);",2002,2,2001-02,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2003, 'MSO', 2, 19117);",2003,2,2002-03,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2004, 'MSO', 2, 19117);",2004,2,2003-04,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2005, 'MSO', 2, 19117);",2005,2,2004-05,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2006, 'MSO', 2, 19117);",2006,2,2005-06,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2007, 'MSO', 2, 19117);",2007,2,2006-07,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2008, 'MSO', 2, 19117);",2008,2,2007-08,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2009, 'MSO', 2, 19117);",2009,2,2008-09,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2010, 'MSO', 2, 19117);",2010,2,2009-10,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2011, 'MSO', 2, 19117);",2011,2,2010-11,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2012, 'MSO', 2, 19117);",2012,2,2011-12,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2013, 'MSO', 2, 19117);",2013,2,2012-13,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2014, 'MSO', 2, 19117);",2014,2,2013-14,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2015, 'MSO', 2, 19117);",2015,2,2014-15,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2016, 'MSO', 2, 19117);",2016,2,2015-16,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2017, 'MSO', 2, 19117);",2017,2,2016-17,Men's Soccer,II
+MSO,Salem (WV),19117,Salem (WV),"javascript:showTeamPage(-100, 2018, 'MSO', 2, 19117);",2018,2,2017-18,Men's Soccer,II
 MSO,Salem St.,621,Salem St.,"javascript:showTeamPage(-100, 1999, 'MSO', 3, 621);",1999,3,1998-99,Men's Soccer,III
 MSO,Salem St.,621,Salem St.,"javascript:showTeamPage(-100, 2000, 'MSO', 3, 621);",2000,3,1999-00,Men's Soccer,III
 MSO,Salem St.,621,Salem St.,"javascript:showTeamPage(-100, 2002, 'MSO', 3, 621);",2002,3,2001-02,Men's Soccer,III
