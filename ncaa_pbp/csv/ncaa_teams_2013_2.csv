@@ -1,13 +1,12 @@
 sport_code	year	year_id	division_id	team_id	team_name	team_url
 MSO	2013	11160	2	30123	Academy of Art	http://stats.ncaa.org/team/30123/11160
 MSO	2013	11160	2	929	Adams St.	http://stats.ncaa.org/team/929/11160
-MSO	2013	11160	2	10	Ala.-Huntsville	http://stats.ncaa.org/team/10/11160
+MSO	2013	11160	2	10	Alabama Huntsville	http://stats.ncaa.org/team/10/11160
 MSO	2013	11160	2	934	Alderson Broaddus	http://stats.ncaa.org/team/934/11160
 MSO	2013	11160	2	22	American Int'l	http://stats.ncaa.org/team/22/11160
 MSO	2013	11160	2	13028	Anderson (SC)	http://stats.ncaa.org/team/13028/11160
 MSO	2013	11160	2	35	Ashland	http://stats.ncaa.org/team/35/11160
 MSO	2013	11160	2	36	Assumption	http://stats.ncaa.org/team/36/11160
-MSO	2013	11160	2	30146	Azusa Pacific	http://stats.ncaa.org/team/30146/11160
 MSO	2013	11160	2	2685	BYU-Hawaii	http://stats.ncaa.org/team/2685/11160
 MSO	2013	11160	2	49	Barry	http://stats.ncaa.org/team/49/11160
 MSO	2013	11160	2	15646	Barton	http://stats.ncaa.org/team/15646/11160
@@ -21,7 +20,7 @@ MSO	2013	11160	2	74	Bridgeport	http://stats.ncaa.org/team/74/11160
 MSO	2013	11160	2	91	Cal Poly Pomona	http://stats.ncaa.org/team/91/11160
 MSO	2013	11160	2	92	Cal St. Dom. Hills	http://stats.ncaa.org/team/92/11160
 MSO	2013	11160	2	98	Cal St. East Bay	http://stats.ncaa.org/team/98/11160
-MSO	2013	11160	2	100	Cal St. L.A.	http://stats.ncaa.org/team/100/11160
+MSO	2013	11160	2	100	Cal St. LA	http://stats.ncaa.org/team/100/11160
 MSO	2013	11160	2	30055	Cal St. Monterey Bay	http://stats.ncaa.org/team/30055/11160
 MSO	2013	11160	2	93	Cal St. San B'dino	http://stats.ncaa.org/team/93/11160
 MSO	2013	11160	2	995	Caldwell	http://stats.ncaa.org/team/995/11160
@@ -35,7 +34,7 @@ MSO	2013	11160	2	1013	Charleston (WV)	http://stats.ncaa.org/team/1013/11160
 MSO	2013	11160	2	21323	Chestnut Hill	http://stats.ncaa.org/team/21323/11160
 MSO	2013	11160	2	95	Chico St.	http://stats.ncaa.org/team/95/11160
 MSO	2013	11160	2	8875	Chowan	http://stats.ncaa.org/team/8875/11160
-MSO	2013	11160	2	1015	Christian Bros.	http://stats.ncaa.org/team/1015/11160
+MSO	2013	11160	2	1015	Christian Brothers	http://stats.ncaa.org/team/1015/11160
 MSO	2013	11160	2	20576	Clayton St.	http://stats.ncaa.org/team/20576/11160
 MSO	2013	11160	2	1023	Coker	http://stats.ncaa.org/team/1023/11160
 MSO	2013	11160	2	11403	Colo. Christian	http://stats.ncaa.org/team/11403/11160
@@ -66,7 +65,6 @@ MSO	2013	11160	2	9011	Fort Hays St.	http://stats.ncaa.org/team/9011/11160
 MSO	2013	11160	2	1083	Fort Lewis	http://stats.ncaa.org/team/1083/11160
 MSO	2013	11160	2	1085	Francis Marion	http://stats.ncaa.org/team/1085/11160
 MSO	2013	11160	2	241	Franklin Pierce	http://stats.ncaa.org/team/241/11160
-MSO	2013	11160	2	30147	Fresno Pacific	http://stats.ncaa.org/team/30147/11160
 MSO	2013	11160	2	1097	Ga. Southwestern	http://stats.ncaa.org/team/1097/11160
 MSO	2013	11160	2	246	Gannon	http://stats.ncaa.org/team/246/11160
 MSO	2013	11160	2	8366	Goldey-Beacom	http://stats.ncaa.org/team/8366/11160
@@ -76,7 +74,7 @@ MSO	2013	11160	2	2697	Hawaii Hilo	http://stats.ncaa.org/team/2697/11160
 MSO	2013	11160	2	2696	Hawaii Pacific	http://stats.ncaa.org/team/2696/11160
 MSO	2013	11160	2	1126	Holy Family	http://stats.ncaa.org/team/1126/11160
 MSO	2013	11160	2	291	Humboldt St.	http://stats.ncaa.org/team/291/11160
-MSO	2013	11160	2	30050	Ill.-Springfield	http://stats.ncaa.org/team/30050/11160
+MSO	2013	11160	2	30050	Ill. Springfield	http://stats.ncaa.org/team/30050/11160
 MSO	2013	11160	2	2743	Incarnate Word	http://stats.ncaa.org/team/2743/11160
 MSO	2013	11160	2	543	Jefferson	http://stats.ncaa.org/team/543/11160
 MSO	2013	11160	2	30051	King (TN)	http://stats.ncaa.org/team/30051/11160
@@ -94,6 +92,7 @@ MSO	2013	11160	2	30136	Lindenwood (MO)	http://stats.ncaa.org/team/30136/11160
 MSO	2013	11160	2	360	Lock Haven	http://stats.ncaa.org/team/360/11160
 MSO	2013	11160	2	20794	Lynn	http://stats.ncaa.org/team/20794/11160
 MSO	2013	11160	2	413	MSU Denver	http://stats.ncaa.org/team/413/11160
+MSO	2013	11160	2	1222	MSU Texas	http://stats.ncaa.org/team/1222/11160
 MSO	2013	11160	2	30137	Malone	http://stats.ncaa.org/team/30137/11160
 MSO	2013	11160	2	1199	Mars Hill	http://stats.ncaa.org/team/1199/11160
 MSO	2013	11160	2	30075	Mary	http://stats.ncaa.org/team/30075/11160
@@ -103,7 +102,6 @@ MSO	2013	11160	2	8530	McMurry	http://stats.ncaa.org/team/8530/11160
 MSO	2013	11160	2	407	Mercy	http://stats.ncaa.org/team/407/11160
 MSO	2013	11160	2	408	Mercyhurst	http://stats.ncaa.org/team/408/11160
 MSO	2013	11160	2	410	Merrimack	http://stats.ncaa.org/team/410/11160
-MSO	2013	11160	2	1222	Midwestern St.	http://stats.ncaa.org/team/1222/11160
 MSO	2013	11160	2	423	Millersville	http://stats.ncaa.org/team/423/11160
 MSO	2013	11160	2	435	Missouri S&T	http://stats.ncaa.org/team/435/11160
 MSO	2013	11160	2	436	Mo.-St. Louis	http://stats.ncaa.org/team/436/11160
@@ -133,13 +131,11 @@ MSO	2013	11160	2	2716	P.R.-Rio Piedras	http://stats.ncaa.org/team/2716/11160
 MSO	2013	11160	2	30045	Palm Beach Atl.	http://stats.ncaa.org/team/30045/11160
 MSO	2013	11160	2	542	Pfeiffer	http://stats.ncaa.org/team/542/11160
 MSO	2013	11160	2	546	Pitt.-Johnstown	http://stats.ncaa.org/team/546/11160
-MSO	2013	11160	2	30149	Point Loma	http://stats.ncaa.org/team/30149/11160
 MSO	2013	11160	2	1318	Post	http://stats.ncaa.org/team/1318/11160
 MSO	2013	11160	2	11504	Queens (NC)	http://stats.ncaa.org/team/11504/11160
 MSO	2013	11160	2	560	Queens (NY)	http://stats.ncaa.org/team/560/11160
 MSO	2013	11160	2	561	Quincy	http://stats.ncaa.org/team/561/11160
 MSO	2013	11160	2	568	Regis (CO)	http://stats.ncaa.org/team/568/11160
-MSO	2013	11160	2	30150	Roberts Wesleyan	http://stats.ncaa.org/team/30150/11160
 MSO	2013	11160	2	1328	Rockhurst	http://stats.ncaa.org/team/1328/11160
 MSO	2013	11160	2	584	Rollins	http://stats.ncaa.org/team/584/11160
 MSO	2013	11160	2	11276	S.C. Aiken	http://stats.ncaa.org/team/11276/11160
@@ -148,13 +144,12 @@ MSO	2013	11160	2	608	Saint Leo	http://stats.ncaa.org/team/608/11160
 MSO	2013	11160	2	1343	Saint Martin's	http://stats.ncaa.org/team/1343/11160
 MSO	2013	11160	2	613	Saint Michael's	http://stats.ncaa.org/team/613/11160
 MSO	2013	11160	2	1347	Saint Rose	http://stats.ncaa.org/team/1347/11160
-MSO	2013	11160	2	19117	Salem Int'l	http://stats.ncaa.org/team/19117/11160
+MSO	2013	11160	2	19117	Salem (WV)	http://stats.ncaa.org/team/19117/11160
 MSO	2013	11160	2	628	San Fran. St.	http://stats.ncaa.org/team/628/11160
 MSO	2013	11160	2	634	Seattle Pacific	http://stats.ncaa.org/team/634/11160
 MSO	2013	11160	2	30063	Seton Hill	http://stats.ncaa.org/team/30063/11160
 MSO	2013	11160	2	10870	Shepherd	http://stats.ncaa.org/team/10870/11160
 MSO	2013	11160	2	638	Shippensburg	http://stats.ncaa.org/team/638/11160
-MSO	2013	11160	2	30151	Shorter	http://stats.ncaa.org/team/30151/11160
 MSO	2013	11160	2	30127	Simon Fraser	http://stats.ncaa.org/team/30127/11160
 MSO	2013	11160	2	30128	Sioux Falls	http://stats.ncaa.org/team/30128/11160
 MSO	2013	11160	2	643	Slippery Rock	http://stats.ncaa.org/team/643/11160
@@ -163,7 +158,6 @@ MSO	2013	11160	2	30139	South Dakota Mines	http://stats.ncaa.org/team/30139/11160
 MSO	2013	11160	2	658	Southern Conn. St.	http://stats.ncaa.org/team/658/11160
 MSO	2013	11160	2	661	Southern Ind.	http://stats.ncaa.org/team/661/11160
 MSO	2013	11160	2	468	Southern N.H.	http://stats.ncaa.org/team/468/11160
-MSO	2013	11160	2	30152	Southern Nazarene	http://stats.ncaa.org/team/30152/11160
 MSO	2013	11160	2	2755	Southwest Baptist	http://stats.ncaa.org/team/2755/11160
 MSO	2013	11160	2	592	St. Andrews	http://stats.ncaa.org/team/592/11160
 MSO	2013	11160	2	593	St. Anselm	http://stats.ncaa.org/team/593/11160
@@ -177,7 +171,6 @@ MSO	2013	11160	2	689	Tampa	http://stats.ncaa.org/team/689/11160
 MSO	2013	11160	2	30090	Tex. A&M Int'l	http://stats.ncaa.org/team/30090/11160
 MSO	2013	11160	2	30088	Tex. Permian Basin	http://stats.ncaa.org/team/30088/11160
 MSO	2013	11160	2	1403	Tiffin	http://stats.ncaa.org/team/1403/11160
-MSO	2013	11160	2	30002	Trevecca Nazarene	http://stats.ncaa.org/team/30002/11160
 MSO	2013	11160	2	499	Truman	http://stats.ncaa.org/team/499/11160
 MSO	2013	11160	2	12830	Tusculum	http://stats.ncaa.org/team/12830/11160
 MSO	2013	11160	2	112	UC San Diego	http://stats.ncaa.org/team/112/11160
@@ -185,7 +178,6 @@ MSO	2013	11160	2	9754	UC-Colo. Springs	http://stats.ncaa.org/team/9754/11160
 MSO	2013	11160	2	309	UIndy	http://stats.ncaa.org/team/309/11160
 MSO	2013	11160	2	368	UMass Lowell	http://stats.ncaa.org/team/368/11160
 MSO	2013	11160	2	537	UNC Pembroke	http://stats.ncaa.org/team/537/11160
-MSO	2013	11160	2	30153	Union (TN)	http://stats.ncaa.org/team/30153/11160
 MSO	2013	11160	2	728	Upper Iowa	http://stats.ncaa.org/team/728/11160
 MSO	2013	11160	2	30104	Urbana	http://stats.ncaa.org/team/30104/11160
 MSO	2013	11160	2	30141	Walsh	http://stats.ncaa.org/team/30141/11160
@@ -201,4 +193,3 @@ MSO	2013	11160	2	30120	William Jewell	http://stats.ncaa.org/team/30120/11160
 MSO	2013	11160	2	1460	Wilmington (DE)	http://stats.ncaa.org/team/1460/11160
 MSO	2013	11160	2	1462	Wingate	http://stats.ncaa.org/team/1462/11160
 MSO	2013	11160	2	799	Wis.-Parkside	http://stats.ncaa.org/team/799/11160
-MSO	2013	11160	2	30154	Young Harris	http://stats.ncaa.org/team/30154/11160

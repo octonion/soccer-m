@@ -4,7 +4,6 @@ MSO	2017	12440	3	2798	Albertus Magnus	http://stats.ncaa.org/team/2798/12440
 MSO	2017	12440	3	15	Albion	http://stats.ncaa.org/team/15/12440
 MSO	2017	12440	3	16	Albright	http://stats.ncaa.org/team/16/12440
 MSO	2017	12440	3	18	Alfred	http://stats.ncaa.org/team/18/12440
-MSO	2017	12440	3	30170	Alfred St.	http://stats.ncaa.org/team/30170/12440
 MSO	2017	12440	3	19	Allegheny	http://stats.ncaa.org/team/19/12440
 MSO	2017	12440	3	21	Alma	http://stats.ncaa.org/team/21/12440
 MSO	2017	12440	3	938	Alvernia	http://stats.ncaa.org/team/938/12440
@@ -44,6 +43,7 @@ MSO	2017	12440	3	30188	Bryn Athyn	http://stats.ncaa.org/team/30188/12440
 MSO	2017	12440	3	84	Buena Vista	http://stats.ncaa.org/team/84/12440
 MSO	2017	12440	3	85	Buffalo St.	http://stats.ncaa.org/team/85/12440
 MSO	2017	12440	3	480	CCNY	http://stats.ncaa.org/team/480/12440
+MSO	2017	12440	3	451	CMSV	http://stats.ncaa.org/team/451/12440
 MSO	2017	12440	3	122	CWRU	http://stats.ncaa.org/team/122/12440
 MSO	2017	12440	3	88	Cabrini	http://stats.ncaa.org/team/88/12440
 MSO	2017	12440	3	1305	Cairn	http://stats.ncaa.org/team/1305/12440
@@ -113,7 +113,7 @@ MSO	2017	12440	3	217	Emory	http://stats.ncaa.org/team/217/12440
 MSO	2017	12440	3	216	Emory & Henry	http://stats.ncaa.org/team/216/12440
 MSO	2017	12440	3	8981	Endicott	http://stats.ncaa.org/team/8981/12440
 MSO	2017	12440	3	218	Eureka	http://stats.ncaa.org/team/218/12440
-MSO	2017	12440	3	221	FDU-Florham	http://stats.ncaa.org/team/221/12440
+MSO	2017	12440	3	221	FDU- Florham	http://stats.ncaa.org/team/221/12440
 MSO	2017	12440	3	27892	Farmingdale St.	http://stats.ncaa.org/team/27892/12440
 MSO	2017	12440	3	225	Ferrum	http://stats.ncaa.org/team/225/12440
 MSO	2017	12440	3	30032	Finlandia	http://stats.ncaa.org/team/30032/12440
@@ -149,7 +149,7 @@ MSO	2017	12440	3	278	Heidelberg	http://stats.ncaa.org/team/278/12440
 MSO	2017	12440	3	1124	Hendrix	http://stats.ncaa.org/team/1124/12440
 MSO	2017	12440	3	8398	Hilbert	http://stats.ncaa.org/team/8398/12440
 MSO	2017	12440	3	281	Hiram	http://stats.ncaa.org/team/281/12440
-MSO	2017	12440	3	282	Hobart and William Smith Colleges	http://stats.ncaa.org/team/282/12440
+MSO	2017	12440	3	282	Hobart	http://stats.ncaa.org/team/282/12440
 MSO	2017	12440	3	8404	Hood	http://stats.ncaa.org/team/8404/12440
 MSO	2017	12440	3	286	Hope	http://stats.ncaa.org/team/286/12440
 MSO	2017	12440	3	30160	Houghton	http://stats.ncaa.org/team/30160/12440
@@ -157,17 +157,14 @@ MSO	2017	12440	3	2741	Howard Payne	http://stats.ncaa.org/team/2741/12440
 MSO	2017	12440	3	292	Hunter	http://stats.ncaa.org/team/292/12440
 MSO	2017	12440	3	1130	Huntingdon	http://stats.ncaa.org/team/1130/12440
 MSO	2017	12440	3	1133	Husson	http://stats.ncaa.org/team/1133/12440
-MSO	2017	12440	3	30172	IIT	http://stats.ncaa.org/team/30172/12440
 MSO	2017	12440	3	300	Ill. Wesleyan	http://stats.ncaa.org/team/300/12440
 MSO	2017	12440	3	297	Illinois Col.	http://stats.ncaa.org/team/297/12440
 MSO	2017	12440	3	303	Immaculata	http://stats.ncaa.org/team/303/12440
-MSO	2017	12440	3	30173	Iowa Wesleyan	http://stats.ncaa.org/team/30173/12440
 MSO	2017	12440	3	313	Ithaca	http://stats.ncaa.org/team/313/12440
+MSO	2017	12440	3	22626	JWU (Providence)	http://stats.ncaa.org/team/22626/12440
 MSO	2017	12440	3	320	John Carroll	http://stats.ncaa.org/team/320/12440
 MSO	2017	12440	3	321	John Jay	http://stats.ncaa.org/team/321/12440
 MSO	2017	12440	3	322	Johns Hopkins	http://stats.ncaa.org/team/322/12440
-MSO	2017	12440	3	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/12440
-MSO	2017	12440	3	324	Johnson St.	http://stats.ncaa.org/team/324/12440
 MSO	2017	12440	3	325	Juniata	http://stats.ncaa.org/team/325/12440
 MSO	2017	12440	3	326	Kalamazoo	http://stats.ncaa.org/team/326/12440
 MSO	2017	12440	3	329	Kean	http://stats.ncaa.org/team/329/12440
@@ -195,7 +192,6 @@ MSO	2017	12440	3	1182	Louisiana Col.	http://stats.ncaa.org/team/1182/12440
 MSO	2017	12440	3	372	Luther	http://stats.ncaa.org/team/372/12440
 MSO	2017	12440	3	373	Lycoming	http://stats.ncaa.org/team/373/12440
 MSO	2017	12440	3	374	Lynchburg	http://stats.ncaa.org/team/374/12440
-MSO	2017	12440	3	30065	Lyndon St.	http://stats.ncaa.org/team/30065/12440
 MSO	2017	12440	3	486	MCLA	http://stats.ncaa.org/team/486/12440
 MSO	2017	12440	3	398	MIT	http://stats.ncaa.org/team/398/12440
 MSO	2017	12440	3	20220	MSOE	http://stats.ncaa.org/team/20220/12440
@@ -238,10 +234,11 @@ MSO	2017	12440	3	27901	Mount Ida	http://stats.ncaa.org/team/27901/12440
 MSO	2017	12440	3	452	Mount Union	http://stats.ncaa.org/team/452/12440
 MSO	2017	12440	3	8567	Mt. St. Joseph	http://stats.ncaa.org/team/8567/12440
 MSO	2017	12440	3	1468	Mt. St. Mary (NY)	http://stats.ncaa.org/team/1468/12440
-MSO	2017	12440	3	451	Mt. St. Vincent	http://stats.ncaa.org/team/451/12440
 MSO	2017	12440	3	453	Muhlenberg	http://stats.ncaa.org/team/453/12440
 MSO	2017	12440	3	455	Muskingum	http://stats.ncaa.org/team/455/12440
 MSO	2017	12440	3	491	N.C. Wesleyan	http://stats.ncaa.org/team/491/12440
+MSO	2017	12440	3	324	NVU-Johnson	http://stats.ncaa.org/team/324/12440
+MSO	2017	12440	3	30065	NVU-Lyndon	http://stats.ncaa.org/team/30065/12440
 MSO	2017	12440	3	479	NYU	http://stats.ncaa.org/team/479/12440
 MSO	2017	12440	3	461	Nazareth	http://stats.ncaa.org/team/461/12440
 MSO	2017	12440	3	462	Neb. Wesleyan	http://stats.ncaa.org/team/462/12440
@@ -378,8 +375,8 @@ MSO	2017	12440	3	747	Wabash	http://stats.ncaa.org/team/747/12440
 MSO	2017	12440	3	750	Wartburg	http://stats.ncaa.org/team/750/12440
 MSO	2017	12440	3	751	Wash. & Jeff.	http://stats.ncaa.org/team/751/12440
 MSO	2017	12440	3	752	Wash. & Lee	http://stats.ncaa.org/team/752/12440
+MSO	2017	12440	3	755	WashU	http://stats.ncaa.org/team/755/12440
 MSO	2017	12440	3	753	Washington Col.	http://stats.ncaa.org/team/753/12440
-MSO	2017	12440	3	755	Washington-St. Louis	http://stats.ncaa.org/team/755/12440
 MSO	2017	12440	3	1434	Waynesburg	http://stats.ncaa.org/team/1434/12440
 MSO	2017	12440	3	759	Webster	http://stats.ncaa.org/team/759/12440
 MSO	2017	12440	3	761	Wells	http://stats.ncaa.org/team/761/12440

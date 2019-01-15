@@ -22,7 +22,7 @@ base_url = 'http://stats.ncaa.org'
 
 roster_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
-teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
+teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => true})
 ncaa_team_rosters = CSV.open("csv/ncaa_team_rosters_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Header for team file

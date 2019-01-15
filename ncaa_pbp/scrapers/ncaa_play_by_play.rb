@@ -27,7 +27,7 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => true})
 ncaa_play_by_play = CSV.open("csv/ncaa_games_play_by_play_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 ncaa_periods = CSV.open("csv/ncaa_games_periods_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 

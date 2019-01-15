@@ -24,7 +24,7 @@ base_url = 'http://stats.ncaa.org'
 game_xpath = '//*[@id="contentarea"]/table/tr/td[1]/table/tr[position()>2]'
 #//*[@id="contentarea"]/table/tbody/tr/td[1]/table/tbody/tr[3]
 
-ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => true})
 ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Header for team file
@@ -109,16 +109,16 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
             neutral = game_string.split(" @ ")[1]
 
             if (neutral==nil)
-              neutral_site = FALSE
+              neutral_site = false
               neutral_location = nil
             else
-              neutral_site = TRUE
+              neutral_site = true
               neutral_location = neutral.strip
             end
             if (opponent_string.include?("@"))
-              home_game = FALSE
+              home_game = false
             else
-              home_game = TRUE
+              home_game = true
             end
 
             opponent_name = opponent_string.gsub("@","").strip
@@ -153,25 +153,25 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
             
             if score_string.include?(" *")
               score_cleaned = score_string.gsub(" *","")
-              exempted = TRUE
+              exempted = true
             else
               score_cleaned = score_string
-              exempted = FALSE
+              exempted = false
             end
 
             if score_cleaned.include?(" ERROR")
               score_cleaned = score_cleaned.gsub(" ERROR","")
-              error = TRUE
+              error = true
             else
-              error = FALSE
+              error = false
             end
             
             score_parameters = score_cleaned.split(" ",2)
             if (score_parameters.size>1)
               if (score_parameters[0]=="W")
-                team_won = TRUE
+                team_won = true
               else
-                team_won = FALSE
+                team_won = false
               end
 
               scores = score_parameters[1].split("(")
@@ -181,10 +181,10 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               opponent_score = score.split("-")[1].strip
 
               if (scores[1]==nil)
-                overtime = FALSE
+                overtime = false
                 overtime_periods = nil
               else
-                overtime = TRUE
+                overtime = true
                 overtime_periods = scores[1].gsub(")","").strip
               end
 

@@ -1,7 +1,7 @@
 sport_code	year	year_id	division_id	team_id	team_name	team_url
 MSO	2012	10620	2	30123	Academy of Art	http://stats.ncaa.org/team/30123/10620
 MSO	2012	10620	2	929	Adams St.	http://stats.ncaa.org/team/929/10620
-MSO	2012	10620	2	10	Ala.-Huntsville	http://stats.ncaa.org/team/10/10620
+MSO	2012	10620	2	10	Alabama Huntsville	http://stats.ncaa.org/team/10/10620
 MSO	2012	10620	2	934	Alderson Broaddus	http://stats.ncaa.org/team/934/10620
 MSO	2012	10620	2	22	American Int'l	http://stats.ncaa.org/team/22/10620
 MSO	2012	10620	2	13028	Anderson (SC)	http://stats.ncaa.org/team/13028/10620
@@ -20,7 +20,7 @@ MSO	2012	10620	2	74	Bridgeport	http://stats.ncaa.org/team/74/10620
 MSO	2012	10620	2	91	Cal Poly Pomona	http://stats.ncaa.org/team/91/10620
 MSO	2012	10620	2	92	Cal St. Dom. Hills	http://stats.ncaa.org/team/92/10620
 MSO	2012	10620	2	98	Cal St. East Bay	http://stats.ncaa.org/team/98/10620
-MSO	2012	10620	2	100	Cal St. L.A.	http://stats.ncaa.org/team/100/10620
+MSO	2012	10620	2	100	Cal St. LA	http://stats.ncaa.org/team/100/10620
 MSO	2012	10620	2	30055	Cal St. Monterey Bay	http://stats.ncaa.org/team/30055/10620
 MSO	2012	10620	2	93	Cal St. San B'dino	http://stats.ncaa.org/team/93/10620
 MSO	2012	10620	2	995	Caldwell	http://stats.ncaa.org/team/995/10620
@@ -34,7 +34,7 @@ MSO	2012	10620	2	1013	Charleston (WV)	http://stats.ncaa.org/team/1013/10620
 MSO	2012	10620	2	21323	Chestnut Hill	http://stats.ncaa.org/team/21323/10620
 MSO	2012	10620	2	95	Chico St.	http://stats.ncaa.org/team/95/10620
 MSO	2012	10620	2	8875	Chowan	http://stats.ncaa.org/team/8875/10620
-MSO	2012	10620	2	1015	Christian Bros.	http://stats.ncaa.org/team/1015/10620
+MSO	2012	10620	2	1015	Christian Brothers	http://stats.ncaa.org/team/1015/10620
 MSO	2012	10620	2	20576	Clayton St.	http://stats.ncaa.org/team/20576/10620
 MSO	2012	10620	2	1023	Coker	http://stats.ncaa.org/team/1023/10620
 MSO	2012	10620	2	11403	Colo. Christian	http://stats.ncaa.org/team/11403/10620
@@ -73,7 +73,7 @@ MSO	2012	10620	2	2697	Hawaii Hilo	http://stats.ncaa.org/team/2697/10620
 MSO	2012	10620	2	2696	Hawaii Pacific	http://stats.ncaa.org/team/2696/10620
 MSO	2012	10620	2	1126	Holy Family	http://stats.ncaa.org/team/1126/10620
 MSO	2012	10620	2	291	Humboldt St.	http://stats.ncaa.org/team/291/10620
-MSO	2012	10620	2	30050	Ill.-Springfield	http://stats.ncaa.org/team/30050/10620
+MSO	2012	10620	2	30050	Ill. Springfield	http://stats.ncaa.org/team/30050/10620
 MSO	2012	10620	2	2743	Incarnate Word	http://stats.ncaa.org/team/2743/10620
 MSO	2012	10620	2	543	Jefferson	http://stats.ncaa.org/team/543/10620
 MSO	2012	10620	2	30051	King (TN)	http://stats.ncaa.org/team/30051/10620
@@ -91,6 +91,7 @@ MSO	2012	10620	2	1176	Lincoln Memorial	http://stats.ncaa.org/team/1176/10620
 MSO	2012	10620	2	360	Lock Haven	http://stats.ncaa.org/team/360/10620
 MSO	2012	10620	2	20794	Lynn	http://stats.ncaa.org/team/20794/10620
 MSO	2012	10620	2	413	MSU Denver	http://stats.ncaa.org/team/413/10620
+MSO	2012	10620	2	1222	MSU Texas	http://stats.ncaa.org/team/1222/10620
 MSO	2012	10620	2	30137	Malone	http://stats.ncaa.org/team/30137/10620
 MSO	2012	10620	2	1199	Mars Hill	http://stats.ncaa.org/team/1199/10620
 MSO	2012	10620	2	30075	Mary	http://stats.ncaa.org/team/30075/10620
@@ -99,7 +100,6 @@ MSO	2012	10620	2	30138	McKendree	http://stats.ncaa.org/team/30138/10620
 MSO	2012	10620	2	407	Mercy	http://stats.ncaa.org/team/407/10620
 MSO	2012	10620	2	408	Mercyhurst	http://stats.ncaa.org/team/408/10620
 MSO	2012	10620	2	410	Merrimack	http://stats.ncaa.org/team/410/10620
-MSO	2012	10620	2	1222	Midwestern St.	http://stats.ncaa.org/team/1222/10620
 MSO	2012	10620	2	423	Millersville	http://stats.ncaa.org/team/423/10620
 MSO	2012	10620	2	435	Missouri S&T	http://stats.ncaa.org/team/435/10620
 MSO	2012	10620	2	436	Mo.-St. Louis	http://stats.ncaa.org/team/436/10620
@@ -143,7 +143,7 @@ MSO	2012	10620	2	608	Saint Leo	http://stats.ncaa.org/team/608/10620
 MSO	2012	10620	2	1343	Saint Martin's	http://stats.ncaa.org/team/1343/10620
 MSO	2012	10620	2	613	Saint Michael's	http://stats.ncaa.org/team/613/10620
 MSO	2012	10620	2	1347	Saint Rose	http://stats.ncaa.org/team/1347/10620
-MSO	2012	10620	2	19117	Salem Int'l	http://stats.ncaa.org/team/19117/10620
+MSO	2012	10620	2	19117	Salem (WV)	http://stats.ncaa.org/team/19117/10620
 MSO	2012	10620	2	628	San Fran. St.	http://stats.ncaa.org/team/628/10620
 MSO	2012	10620	2	634	Seattle Pacific	http://stats.ncaa.org/team/634/10620
 MSO	2012	10620	2	30063	Seton Hill	http://stats.ncaa.org/team/30063/10620

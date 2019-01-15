@@ -2,7 +2,7 @@ sport_code	year	year_id	division_id	team_id	team_name	team_url
 MSO	2015	11701	2	30123	Academy of Art	http://stats.ncaa.org/team/30123/11701
 MSO	2015	11701	2	929	Adams St.	http://stats.ncaa.org/team/929/11701
 MSO	2015	11701	2	3	Adelphi	http://stats.ncaa.org/team/3/11701
-MSO	2015	11701	2	10	Ala.-Huntsville	http://stats.ncaa.org/team/10/11701
+MSO	2015	11701	2	10	Alabama Huntsville	http://stats.ncaa.org/team/10/11701
 MSO	2015	11701	2	934	Alderson Broaddus	http://stats.ncaa.org/team/934/11701
 MSO	2015	11701	2	22	American Int'l	http://stats.ncaa.org/team/22/11701
 MSO	2015	11701	2	13028	Anderson (SC)	http://stats.ncaa.org/team/13028/11701
@@ -21,7 +21,7 @@ MSO	2015	11701	2	74	Bridgeport	http://stats.ncaa.org/team/74/11701
 MSO	2015	11701	2	91	Cal Poly Pomona	http://stats.ncaa.org/team/91/11701
 MSO	2015	11701	2	92	Cal St. Dom. Hills	http://stats.ncaa.org/team/92/11701
 MSO	2015	11701	2	98	Cal St. East Bay	http://stats.ncaa.org/team/98/11701
-MSO	2015	11701	2	100	Cal St. L.A.	http://stats.ncaa.org/team/100/11701
+MSO	2015	11701	2	100	Cal St. LA	http://stats.ncaa.org/team/100/11701
 MSO	2015	11701	2	30055	Cal St. Monterey Bay	http://stats.ncaa.org/team/30055/11701
 MSO	2015	11701	2	93	Cal St. San B'dino	http://stats.ncaa.org/team/93/11701
 MSO	2015	11701	2	995	Caldwell	http://stats.ncaa.org/team/995/11701
@@ -35,7 +35,7 @@ MSO	2015	11701	2	1013	Charleston (WV)	http://stats.ncaa.org/team/1013/11701
 MSO	2015	11701	2	21323	Chestnut Hill	http://stats.ncaa.org/team/21323/11701
 MSO	2015	11701	2	95	Chico St.	http://stats.ncaa.org/team/95/11701
 MSO	2015	11701	2	8875	Chowan	http://stats.ncaa.org/team/8875/11701
-MSO	2015	11701	2	1015	Christian Bros.	http://stats.ncaa.org/team/1015/11701
+MSO	2015	11701	2	1015	Christian Brothers	http://stats.ncaa.org/team/1015/11701
 MSO	2015	11701	2	20576	Clayton St.	http://stats.ncaa.org/team/20576/11701
 MSO	2015	11701	2	1023	Coker	http://stats.ncaa.org/team/1023/11701
 MSO	2015	11701	2	11403	Colo. Christian	http://stats.ncaa.org/team/11403/11701
@@ -45,7 +45,6 @@ MSO	2015	11701	2	2720	Colorado St.-Pueblo	http://stats.ncaa.org/team/2720/11701
 MSO	2015	11701	2	1028	Concord	http://stats.ncaa.org/team/1028/11701
 MSO	2015	11701	2	162	Concordia (NY)	http://stats.ncaa.org/team/162/11701
 MSO	2015	11701	2	1045	DBU	http://stats.ncaa.org/team/1045/11701
-MSO	2015	11701	2	30174	Daemen	http://stats.ncaa.org/team/30174/11701
 MSO	2015	11701	2	174	Davis & Elkins	http://stats.ncaa.org/team/174/11701
 MSO	2015	11701	2	181	Delta St.	http://stats.ncaa.org/team/181/11701
 MSO	2015	11701	2	186	Dist. Columbia	http://stats.ncaa.org/team/186/11701
@@ -76,9 +75,8 @@ MSO	2015	11701	2	1116	Harding	http://stats.ncaa.org/team/1116/11701
 MSO	2015	11701	2	2697	Hawaii Hilo	http://stats.ncaa.org/team/2697/11701
 MSO	2015	11701	2	2696	Hawaii Pacific	http://stats.ncaa.org/team/2696/11701
 MSO	2015	11701	2	1126	Holy Family	http://stats.ncaa.org/team/1126/11701
-MSO	2015	11701	2	30175	Holy Names	http://stats.ncaa.org/team/30175/11701
 MSO	2015	11701	2	291	Humboldt St.	http://stats.ncaa.org/team/291/11701
-MSO	2015	11701	2	30050	Ill.-Springfield	http://stats.ncaa.org/team/30050/11701
+MSO	2015	11701	2	30050	Ill. Springfield	http://stats.ncaa.org/team/30050/11701
 MSO	2015	11701	2	543	Jefferson	http://stats.ncaa.org/team/543/11701
 MSO	2015	11701	2	30051	King (TN)	http://stats.ncaa.org/team/30051/11701
 MSO	2015	11701	2	333	Ky. Wesleyan	http://stats.ncaa.org/team/333/11701
@@ -86,7 +84,6 @@ MSO	2015	11701	2	362	LIU Post	http://stats.ncaa.org/team/362/11701
 MSO	2015	11701	2	2746	Lake Erie	http://stats.ncaa.org/team/2746/11701
 MSO	2015	11701	2	1167	Lander	http://stats.ncaa.org/team/1167/11701
 MSO	2015	11701	2	349	Le Moyne	http://stats.ncaa.org/team/349/11701
-MSO	2015	11701	2	30013	Lee	http://stats.ncaa.org/team/30013/11701
 MSO	2015	11701	2	13302	Lees-McRae	http://stats.ncaa.org/team/13302/11701
 MSO	2015	11701	2	1170	Lenoir-Rhyne	http://stats.ncaa.org/team/1170/11701
 MSO	2015	11701	2	354	Lewis	http://stats.ncaa.org/team/354/11701
@@ -94,9 +91,9 @@ MSO	2015	11701	2	1174	Limestone	http://stats.ncaa.org/team/1174/11701
 MSO	2015	11701	2	1176	Lincoln Memorial	http://stats.ncaa.org/team/1176/11701
 MSO	2015	11701	2	30136	Lindenwood (MO)	http://stats.ncaa.org/team/30136/11701
 MSO	2015	11701	2	360	Lock Haven	http://stats.ncaa.org/team/360/11701
-MSO	2015	11701	2	30177	Lubbock Christian	http://stats.ncaa.org/team/30177/11701
 MSO	2015	11701	2	20794	Lynn	http://stats.ncaa.org/team/20794/11701
 MSO	2015	11701	2	413	MSU Denver	http://stats.ncaa.org/team/413/11701
+MSO	2015	11701	2	1222	MSU Texas	http://stats.ncaa.org/team/1222/11701
 MSO	2015	11701	2	30137	Malone	http://stats.ncaa.org/team/30137/11701
 MSO	2015	11701	2	1199	Mars Hill	http://stats.ncaa.org/team/1199/11701
 MSO	2015	11701	2	30075	Mary	http://stats.ncaa.org/team/30075/11701
@@ -105,7 +102,6 @@ MSO	2015	11701	2	30138	McKendree	http://stats.ncaa.org/team/30138/11701
 MSO	2015	11701	2	407	Mercy	http://stats.ncaa.org/team/407/11701
 MSO	2015	11701	2	408	Mercyhurst	http://stats.ncaa.org/team/408/11701
 MSO	2015	11701	2	410	Merrimack	http://stats.ncaa.org/team/410/11701
-MSO	2015	11701	2	1222	Midwestern St.	http://stats.ncaa.org/team/1222/11701
 MSO	2015	11701	2	423	Millersville	http://stats.ncaa.org/team/423/11701
 MSO	2015	11701	2	429	Mississippi Col.	http://stats.ncaa.org/team/429/11701
 MSO	2015	11701	2	435	Missouri S&T	http://stats.ncaa.org/team/435/11701
@@ -145,7 +141,6 @@ MSO	2015	11701	2	561	Quincy	http://stats.ncaa.org/team/561/11701
 MSO	2015	11701	2	568	Regis (CO)	http://stats.ncaa.org/team/568/11701
 MSO	2015	11701	2	30150	Roberts Wesleyan	http://stats.ncaa.org/team/30150/11701
 MSO	2015	11701	2	1328	Rockhurst	http://stats.ncaa.org/team/1328/11701
-MSO	2015	11701	2	30180	Rogers St.	http://stats.ncaa.org/team/30180/11701
 MSO	2015	11701	2	584	Rollins	http://stats.ncaa.org/team/584/11701
 MSO	2015	11701	2	11276	S.C. Aiken	http://stats.ncaa.org/team/11276/11701
 MSO	2015	11701	2	591	Saginaw Valley	http://stats.ncaa.org/team/591/11701
@@ -153,7 +148,7 @@ MSO	2015	11701	2	608	Saint Leo	http://stats.ncaa.org/team/608/11701
 MSO	2015	11701	2	1343	Saint Martin's	http://stats.ncaa.org/team/1343/11701
 MSO	2015	11701	2	613	Saint Michael's	http://stats.ncaa.org/team/613/11701
 MSO	2015	11701	2	1347	Saint Rose	http://stats.ncaa.org/team/1347/11701
-MSO	2015	11701	2	19117	Salem Int'l	http://stats.ncaa.org/team/19117/11701
+MSO	2015	11701	2	19117	Salem (WV)	http://stats.ncaa.org/team/19117/11701
 MSO	2015	11701	2	628	San Fran. St.	http://stats.ncaa.org/team/628/11701
 MSO	2015	11701	2	634	Seattle Pacific	http://stats.ncaa.org/team/634/11701
 MSO	2015	11701	2	30063	Seton Hill	http://stats.ncaa.org/team/30063/11701
@@ -171,7 +166,6 @@ MSO	2015	11701	2	468	Southern N.H.	http://stats.ncaa.org/team/468/11701
 MSO	2015	11701	2	30152	Southern Nazarene	http://stats.ncaa.org/team/30152/11701
 MSO	2015	11701	2	30192	Southern Wesleyan	http://stats.ncaa.org/team/30192/11701
 MSO	2015	11701	2	2755	Southwest Baptist	http://stats.ncaa.org/team/2755/11701
-MSO	2015	11701	2	30191	Spring Hill	http://stats.ncaa.org/team/30191/11701
 MSO	2015	11701	2	593	St. Anselm	http://stats.ncaa.org/team/593/11701
 MSO	2015	11701	2	1334	St. Edward's	http://stats.ncaa.org/team/1334/11701
 MSO	2015	11701	2	604	St. Joseph's (IN)	http://stats.ncaa.org/team/604/11701

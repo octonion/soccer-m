@@ -40,6 +40,7 @@ MSO	2014	11480	3	79	Brooklyn	http://stats.ncaa.org/team/79/11480
 MSO	2014	11480	3	84	Buena Vista	http://stats.ncaa.org/team/84/11480
 MSO	2014	11480	3	85	Buffalo St.	http://stats.ncaa.org/team/85/11480
 MSO	2014	11480	3	480	CCNY	http://stats.ncaa.org/team/480/11480
+MSO	2014	11480	3	451	CMSV	http://stats.ncaa.org/team/451/11480
 MSO	2014	11480	3	122	CWRU	http://stats.ncaa.org/team/122/11480
 MSO	2014	11480	3	88	Cabrini	http://stats.ncaa.org/team/88/11480
 MSO	2014	11480	3	1305	Cairn	http://stats.ncaa.org/team/1305/11480
@@ -109,7 +110,7 @@ MSO	2014	11480	3	217	Emory	http://stats.ncaa.org/team/217/11480
 MSO	2014	11480	3	216	Emory & Henry	http://stats.ncaa.org/team/216/11480
 MSO	2014	11480	3	8981	Endicott	http://stats.ncaa.org/team/8981/11480
 MSO	2014	11480	3	218	Eureka	http://stats.ncaa.org/team/218/11480
-MSO	2014	11480	3	221	FDU-Florham	http://stats.ncaa.org/team/221/11480
+MSO	2014	11480	3	221	FDU- Florham	http://stats.ncaa.org/team/221/11480
 MSO	2014	11480	3	27892	Farmingdale St.	http://stats.ncaa.org/team/27892/11480
 MSO	2014	11480	3	225	Ferrum	http://stats.ncaa.org/team/225/11480
 MSO	2014	11480	3	30032	Finlandia	http://stats.ncaa.org/team/30032/11480
@@ -144,7 +145,7 @@ MSO	2014	11480	3	278	Heidelberg	http://stats.ncaa.org/team/278/11480
 MSO	2014	11480	3	1124	Hendrix	http://stats.ncaa.org/team/1124/11480
 MSO	2014	11480	3	8398	Hilbert	http://stats.ncaa.org/team/8398/11480
 MSO	2014	11480	3	281	Hiram	http://stats.ncaa.org/team/281/11480
-MSO	2014	11480	3	282	Hobart and William Smith Colleges	http://stats.ncaa.org/team/282/11480
+MSO	2014	11480	3	282	Hobart	http://stats.ncaa.org/team/282/11480
 MSO	2014	11480	3	8404	Hood	http://stats.ncaa.org/team/8404/11480
 MSO	2014	11480	3	286	Hope	http://stats.ncaa.org/team/286/11480
 MSO	2014	11480	3	2741	Howard Payne	http://stats.ncaa.org/team/2741/11480
@@ -155,11 +156,10 @@ MSO	2014	11480	3	300	Ill. Wesleyan	http://stats.ncaa.org/team/300/11480
 MSO	2014	11480	3	297	Illinois Col.	http://stats.ncaa.org/team/297/11480
 MSO	2014	11480	3	303	Immaculata	http://stats.ncaa.org/team/303/11480
 MSO	2014	11480	3	313	Ithaca	http://stats.ncaa.org/team/313/11480
+MSO	2014	11480	3	22626	JWU (Providence)	http://stats.ncaa.org/team/22626/11480
 MSO	2014	11480	3	320	John Carroll	http://stats.ncaa.org/team/320/11480
 MSO	2014	11480	3	321	John Jay	http://stats.ncaa.org/team/321/11480
 MSO	2014	11480	3	322	Johns Hopkins	http://stats.ncaa.org/team/322/11480
-MSO	2014	11480	3	22626	Johnson & Wales (RI)	http://stats.ncaa.org/team/22626/11480
-MSO	2014	11480	3	324	Johnson St.	http://stats.ncaa.org/team/324/11480
 MSO	2014	11480	3	325	Juniata	http://stats.ncaa.org/team/325/11480
 MSO	2014	11480	3	326	Kalamazoo	http://stats.ncaa.org/team/326/11480
 MSO	2014	11480	3	329	Kean	http://stats.ncaa.org/team/329/11480
@@ -187,7 +187,6 @@ MSO	2014	11480	3	1182	Louisiana Col.	http://stats.ncaa.org/team/1182/11480
 MSO	2014	11480	3	372	Luther	http://stats.ncaa.org/team/372/11480
 MSO	2014	11480	3	373	Lycoming	http://stats.ncaa.org/team/373/11480
 MSO	2014	11480	3	374	Lynchburg	http://stats.ncaa.org/team/374/11480
-MSO	2014	11480	3	30065	Lyndon St.	http://stats.ncaa.org/team/30065/11480
 MSO	2014	11480	3	486	MCLA	http://stats.ncaa.org/team/486/11480
 MSO	2014	11480	3	398	MIT	http://stats.ncaa.org/team/398/11480
 MSO	2014	11480	3	20220	MSOE	http://stats.ncaa.org/team/20220/11480
@@ -230,10 +229,11 @@ MSO	2014	11480	3	27901	Mount Ida	http://stats.ncaa.org/team/27901/11480
 MSO	2014	11480	3	452	Mount Union	http://stats.ncaa.org/team/452/11480
 MSO	2014	11480	3	8567	Mt. St. Joseph	http://stats.ncaa.org/team/8567/11480
 MSO	2014	11480	3	1468	Mt. St. Mary (NY)	http://stats.ncaa.org/team/1468/11480
-MSO	2014	11480	3	451	Mt. St. Vincent	http://stats.ncaa.org/team/451/11480
 MSO	2014	11480	3	453	Muhlenberg	http://stats.ncaa.org/team/453/11480
 MSO	2014	11480	3	455	Muskingum	http://stats.ncaa.org/team/455/11480
 MSO	2014	11480	3	491	N.C. Wesleyan	http://stats.ncaa.org/team/491/11480
+MSO	2014	11480	3	324	NVU-Johnson	http://stats.ncaa.org/team/324/11480
+MSO	2014	11480	3	30065	NVU-Lyndon	http://stats.ncaa.org/team/30065/11480
 MSO	2014	11480	3	479	NYU	http://stats.ncaa.org/team/479/11480
 MSO	2014	11480	3	461	Nazareth	http://stats.ncaa.org/team/461/11480
 MSO	2014	11480	3	462	Neb. Wesleyan	http://stats.ncaa.org/team/462/11480
@@ -364,8 +364,8 @@ MSO	2014	11480	3	747	Wabash	http://stats.ncaa.org/team/747/11480
 MSO	2014	11480	3	750	Wartburg	http://stats.ncaa.org/team/750/11480
 MSO	2014	11480	3	751	Wash. & Jeff.	http://stats.ncaa.org/team/751/11480
 MSO	2014	11480	3	752	Wash. & Lee	http://stats.ncaa.org/team/752/11480
+MSO	2014	11480	3	755	WashU	http://stats.ncaa.org/team/755/11480
 MSO	2014	11480	3	753	Washington Col.	http://stats.ncaa.org/team/753/11480
-MSO	2014	11480	3	755	Washington-St. Louis	http://stats.ncaa.org/team/755/11480
 MSO	2014	11480	3	1434	Waynesburg	http://stats.ncaa.org/team/1434/11480
 MSO	2014	11480	3	759	Webster	http://stats.ncaa.org/team/759/11480
 MSO	2014	11480	3	761	Wells	http://stats.ncaa.org/team/761/11480

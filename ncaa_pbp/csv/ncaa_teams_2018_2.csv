@@ -1,9 +1,8 @@
 sport_code	year	year_id	division_id	team_id	team_name	team_url
-MSO	2018	12621	2	30093	AUM	http://stats.ncaa.org/team/30093/12621
 MSO	2018	12621	2	30123	Academy of Art	http://stats.ncaa.org/team/30123/12621
 MSO	2018	12621	2	929	Adams St.	http://stats.ncaa.org/team/929/12621
 MSO	2018	12621	2	3	Adelphi	http://stats.ncaa.org/team/3/12621
-MSO	2018	12621	2	10	Ala.-Huntsville	http://stats.ncaa.org/team/10/12621
+MSO	2018	12621	2	10	Alabama Huntsville	http://stats.ncaa.org/team/10/12621
 MSO	2018	12621	2	934	Alderson Broaddus	http://stats.ncaa.org/team/934/12621
 MSO	2018	12621	2	22	American Int'l	http://stats.ncaa.org/team/22/12621
 MSO	2018	12621	2	13028	Anderson (SC)	http://stats.ncaa.org/team/13028/12621
@@ -16,14 +15,13 @@ MSO	2018	12621	2	15646	Barton	http://stats.ncaa.org/team/15646/12621
 MSO	2018	12621	2	52	Bellarmine	http://stats.ncaa.org/team/52/12621
 MSO	2018	12621	2	2683	Belmont Abbey	http://stats.ncaa.org/team/2683/12621
 MSO	2018	12621	2	56	Bentley	http://stats.ncaa.org/team/56/12621
-MSO	2018	12621	2	30220	Biola	http://stats.ncaa.org/team/30220/12621
 MSO	2018	12621	2	984	Bloomfield	http://stats.ncaa.org/team/984/12621
 MSO	2018	12621	2	65	Bloomsburg	http://stats.ncaa.org/team/65/12621
 MSO	2018	12621	2	74	Bridgeport	http://stats.ncaa.org/team/74/12621
 MSO	2018	12621	2	91	Cal Poly Pomona	http://stats.ncaa.org/team/91/12621
 MSO	2018	12621	2	92	Cal St. Dom. Hills	http://stats.ncaa.org/team/92/12621
 MSO	2018	12621	2	98	Cal St. East Bay	http://stats.ncaa.org/team/98/12621
-MSO	2018	12621	2	100	Cal St. L.A.	http://stats.ncaa.org/team/100/12621
+MSO	2018	12621	2	100	Cal St. LA	http://stats.ncaa.org/team/100/12621
 MSO	2018	12621	2	30055	Cal St. Monterey Bay	http://stats.ncaa.org/team/30055/12621
 MSO	2018	12621	2	93	Cal St. San B'dino	http://stats.ncaa.org/team/93/12621
 MSO	2018	12621	2	30198	Cal St. San Marcos	http://stats.ncaa.org/team/30198/12621
@@ -38,7 +36,7 @@ MSO	2018	12621	2	1013	Charleston (WV)	http://stats.ncaa.org/team/1013/12621
 MSO	2018	12621	2	21323	Chestnut Hill	http://stats.ncaa.org/team/21323/12621
 MSO	2018	12621	2	95	Chico St.	http://stats.ncaa.org/team/95/12621
 MSO	2018	12621	2	8875	Chowan	http://stats.ncaa.org/team/8875/12621
-MSO	2018	12621	2	1015	Christian Bros.	http://stats.ncaa.org/team/1015/12621
+MSO	2018	12621	2	1015	Christian Brothers	http://stats.ncaa.org/team/1015/12621
 MSO	2018	12621	2	20576	Clayton St.	http://stats.ncaa.org/team/20576/12621
 MSO	2018	12621	2	1023	Coker	http://stats.ncaa.org/team/1023/12621
 MSO	2018	12621	2	11403	Colo. Christian	http://stats.ncaa.org/team/11403/12621
@@ -85,7 +83,7 @@ MSO	2018	12621	2	2696	Hawaii Pacific	http://stats.ncaa.org/team/2696/12621
 MSO	2018	12621	2	1126	Holy Family	http://stats.ncaa.org/team/1126/12621
 MSO	2018	12621	2	30175	Holy Names	http://stats.ncaa.org/team/30175/12621
 MSO	2018	12621	2	291	Humboldt St.	http://stats.ncaa.org/team/291/12621
-MSO	2018	12621	2	30050	Ill.-Springfield	http://stats.ncaa.org/team/30050/12621
+MSO	2018	12621	2	30050	Ill. Springfield	http://stats.ncaa.org/team/30050/12621
 MSO	2018	12621	2	543	Jefferson	http://stats.ncaa.org/team/543/12621
 MSO	2018	12621	2	30051	King (TN)	http://stats.ncaa.org/team/30051/12621
 MSO	2018	12621	2	333	Ky. Wesleyan	http://stats.ncaa.org/team/333/12621
@@ -104,6 +102,7 @@ MSO	2018	12621	2	360	Lock Haven	http://stats.ncaa.org/team/360/12621
 MSO	2018	12621	2	30177	Lubbock Christian	http://stats.ncaa.org/team/30177/12621
 MSO	2018	12621	2	20794	Lynn	http://stats.ncaa.org/team/20794/12621
 MSO	2018	12621	2	413	MSU Denver	http://stats.ncaa.org/team/413/12621
+MSO	2018	12621	2	1222	MSU Texas	http://stats.ncaa.org/team/1222/12621
 MSO	2018	12621	2	30137	Malone	http://stats.ncaa.org/team/30137/12621
 MSO	2018	12621	2	1199	Mars Hill	http://stats.ncaa.org/team/1199/12621
 MSO	2018	12621	2	30075	Mary	http://stats.ncaa.org/team/30075/12621
@@ -112,7 +111,6 @@ MSO	2018	12621	2	30138	McKendree	http://stats.ncaa.org/team/30138/12621
 MSO	2018	12621	2	407	Mercy	http://stats.ncaa.org/team/407/12621
 MSO	2018	12621	2	408	Mercyhurst	http://stats.ncaa.org/team/408/12621
 MSO	2018	12621	2	410	Merrimack	http://stats.ncaa.org/team/410/12621
-MSO	2018	12621	2	1222	Midwestern St.	http://stats.ncaa.org/team/1222/12621
 MSO	2018	12621	2	423	Millersville	http://stats.ncaa.org/team/423/12621
 MSO	2018	12621	2	429	Mississippi Col.	http://stats.ncaa.org/team/429/12621
 MSO	2018	12621	2	435	Missouri S&T	http://stats.ncaa.org/team/435/12621
@@ -162,7 +160,7 @@ MSO	2018	12621	2	608	Saint Leo	http://stats.ncaa.org/team/608/12621
 MSO	2018	12621	2	1343	Saint Martin's	http://stats.ncaa.org/team/1343/12621
 MSO	2018	12621	2	613	Saint Michael's	http://stats.ncaa.org/team/613/12621
 MSO	2018	12621	2	1347	Saint Rose	http://stats.ncaa.org/team/1347/12621
-MSO	2018	12621	2	19117	Salem Int'l	http://stats.ncaa.org/team/19117/12621
+MSO	2018	12621	2	19117	Salem (WV)	http://stats.ncaa.org/team/19117/12621
 MSO	2018	12621	2	628	San Fran. St.	http://stats.ncaa.org/team/628/12621
 MSO	2018	12621	2	634	Seattle Pacific	http://stats.ncaa.org/team/634/12621
 MSO	2018	12621	2	30063	Seton Hill	http://stats.ncaa.org/team/30063/12621
