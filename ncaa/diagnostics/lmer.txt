@@ -1,6 +1,108 @@
-[1] 92596    10
+[1] 117564     10
 [1] TRUE
-[1] 92596     7
+[1] 117564      7
+iteration: 1
+	f(x) = 404941.117626
+iteration: 2
+	f(x) = 440607.684958
+iteration: 3
+	f(x) = 410234.731318
+iteration: 4
+	f(x) = 410597.771210
+iteration: 5
+	f(x) = 376574.618559
+iteration: 6
+	f(x) = 405064.697484
+iteration: 7
+	f(x) = 401427.873431
+iteration: 8
+	f(x) = 369568.475616
+iteration: 9
+	f(x) = 372661.121502
+iteration: 10
+	f(x) = 381328.963561
+iteration: 11
+	f(x) = 369578.436374
+iteration: 12
+	f(x) = 371390.991221
+iteration: 13
+	f(x) = 369076.771699
+iteration: 14
+	f(x) = 368904.351276
+iteration: 15
+	f(x) = 368376.896475
+iteration: 16
+	f(x) = 367675.546352
+iteration: 17
+	f(x) = 373883.600307
+iteration: 18
+	f(x) = 367951.161758
+iteration: 19
+	f(x) = 368356.381847
+iteration: 20
+	f(x) = 367928.653784
+iteration: 21
+	f(x) = 367707.048536
+iteration: 22
+	f(x) = 367664.704724
+iteration: 23
+	f(x) = 367687.312281
+iteration: 24
+	f(x) = 367666.583674
+iteration: 25
+	f(x) = 367663.330967
+iteration: 26
+	f(x) = 367666.238410
+iteration: 27
+	f(x) = 367665.618692
+iteration: 28
+	f(x) = 367663.331956
+iteration: 29
+	f(x) = 367663.485805
+iteration: 30
+	f(x) = 367663.386893
+iteration: 31
+	f(x) = 367663.227483
+iteration: 32
+	f(x) = 367663.148737
+iteration: 33
+	f(x) = 367663.081754
+iteration: 34
+	f(x) = 367663.105914
+iteration: 35
+	f(x) = 367663.056703
+iteration: 36
+	f(x) = 367663.010155
+iteration: 37
+	f(x) = 367662.943391
+iteration: 38
+	f(x) = 367662.918466
+iteration: 39
+	f(x) = 367662.939849
+iteration: 40
+	f(x) = 367662.883285
+iteration: 41
+	f(x) = 367662.864834
+iteration: 42
+	f(x) = 367662.863904
+iteration: 43
+	f(x) = 367662.859021
+iteration: 44
+	f(x) = 367662.857416
+iteration: 45
+	f(x) = 367662.857460
+iteration: 46
+	f(x) = 367662.857091
+iteration: 47
+	f(x) = 367662.856975
+iteration: 48
+	f(x) = 367662.856981
+iteration: 49
+	f(x) = 367662.857129
+iteration: 50
+	f(x) = 367662.857077
+iteration: 51
+	f(x) = 367662.856953
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -9,22 +111,22 @@ Formula: gs ~ year + field + d_div + o_div + (1 | offense) + (1 | defense) +
    Data: g
 Weights: w
       AIC       BIC    logLik  deviance  df.resid 
- 289946.1  290097.0 -144957.0  289914.1     92580 
+ 367696.9  367861.3 -183831.4  367662.9    117543 
 Random effects:
  Groups  Name        Std.Dev.
- game_id (Intercept) 0.07208 
- defense (Intercept) 0.48038 
- offense (Intercept) 0.38222 
-Number of obs: 92596, groups:  game_id, 46298; defense, 5712; offense, 5712
+ game_id (Intercept) 0.07988 
+ defense (Intercept) 0.48862 
+ offense (Intercept) 0.38844 
+Number of obs: 117560, groups:  game_id, 58780; defense, 6554; offense, 6554
 Fixed Effects:
       (Intercept)           year2013           year2014           year2015  
-         0.158195           0.010030          -0.012462          -0.017089  
-         year2016           year2017           year2018  fielddefense_home  
-         0.005963           0.018097           0.036116          -0.120127  
-fieldoffense_home             d_div2             d_div3             o_div2  
-         0.104556           0.729856           1.189511          -0.553922  
-           o_div3  
-        -1.029213  
+         0.157240           0.009999          -0.012649          -0.017143  
+         year2016           year2017           year2018           year2019  
+         0.005800           0.018593           0.003916           0.003874  
+fielddefense_home  fieldoffense_home             d_div2             d_div3  
+        -0.109819           0.107613           0.715204           1.196969  
+           o_div2             o_div3  
+        -0.543358          -1.047508  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -35,34 +137,35 @@ Weights: w
 Control: glmerControl(optimizer = "nloptwrap")
 
       AIC       BIC    logLik  deviance  df.resid 
- 289946.1  290097.0 -144957.0  289914.1     92580 
+ 367696.9  367861.3 -183831.4  367662.9    117543 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--2.2204 -0.8226 -0.1271  0.5319  5.2014 
+-2.2103 -0.8179 -0.1285  0.5335  5.8881 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- game_id (Intercept) 0.005195 0.07208 
- defense (Intercept) 0.230762 0.48038 
- offense (Intercept) 0.146094 0.38222 
-Number of obs: 92596, groups:  game_id, 46298; defense, 5712; offense, 5712
+ game_id (Intercept) 0.00638  0.07988 
+ defense (Intercept) 0.23875  0.48862 
+ offense (Intercept) 0.15089  0.38844 
+Number of obs: 117560, groups:  game_id, 58780; defense, 6554; offense, 6554
 
 Fixed effects:
                    Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        0.158195   0.029894   5.292 1.21e-07 ***
-year2013           0.010030   0.032515   0.308    0.758    
-year2014          -0.012462   0.032509  -0.383    0.701    
-year2015          -0.017089   0.032448  -0.527    0.598    
-year2016           0.005963   0.032310   0.185    0.854    
-year2017           0.018097   0.032215   0.562    0.574    
-year2018           0.036116   0.033984   1.063    0.288    
-fielddefense_home -0.120127   0.012980  -9.254  < 2e-16 ***
-fieldoffense_home  0.104556   0.012811   8.162 3.31e-16 ***
-d_div2             0.729856   0.078285   9.323  < 2e-16 ***
-d_div3             1.189511   0.085461  13.919  < 2e-16 ***
-o_div2            -0.553922   0.077347  -7.162 7.98e-13 ***
-o_div3            -1.029213   0.084796 -12.137  < 2e-16 ***
+(Intercept)        0.157240   0.029354   5.357 8.48e-08 ***
+year2013           0.009999   0.033014   0.303    0.762    
+year2014          -0.012649   0.033007  -0.383    0.702    
+year2015          -0.017143   0.032945  -0.520    0.603    
+year2016           0.005800   0.032806   0.177    0.860    
+year2017           0.018593   0.032702   0.569    0.570    
+year2018           0.003916   0.032740   0.120    0.905    
+year2019           0.003874   0.032724   0.118    0.906    
+fielddefense_home -0.109819   0.011912  -9.219  < 2e-16 ***
+fieldoffense_home  0.107613   0.011773   9.141  < 2e-16 ***
+d_div2             0.715204   0.073740   9.699  < 2e-16 ***
+d_div3             1.196969   0.079711  15.016  < 2e-16 ***
+o_div2            -0.543358   0.072873  -7.456 8.90e-14 ***
+o_div3            -1.047508   0.079091 -13.244  < 2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 [1] TRUE

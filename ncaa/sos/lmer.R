@@ -43,7 +43,7 @@ end) as w
 from ncaa.results r
 
 where
-    r.year between 2012 and 2018
+    r.year between 2012 and 2019
 
 and r.team_div_id is not null
 and r.opponent_div_id is not null
